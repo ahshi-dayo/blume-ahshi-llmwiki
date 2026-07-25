@@ -1,0 +1,24 @@
+---
+title: "Writing Theory Index"
+sidebar:
+  label: "すべて見る →"
+  order: 999
+---
+
+
+| File | Summary | Tags | Updated |
+| --- | --- | --- | --- |
+| [遺書と辞世の句 ── 死の間際の言葉を文学として読むということ](/topics/writing-theory/last-words-as-literature/) | Literary Hub・quon.jp・Wikipediaの3ソースを統合。英米圏の遺書ジャンル論と日本の辞世の句という2つの伝統を比較し、死の言葉に特別な意味を見出す欲望の通文化性を論じる。 | suicide-note, last-words, jisei, death-poem, literary-genre, death-and-writing, bushido, mujo, writing-theory | 2026-07-22 |
+| [モンテーニュの自己描写論──『存在』ではなく『移り変わり』を描く](/topics/writing-theory/montaigne-self-portraiture-solitude/) | Psychology TodayとThe Hudson Reviewの2記事を統合。孤独の中で妄執を書いて飼いならす技法と、自分を「存在」でなく「移り変わり」として描く技法。ルソーの独自性主張との対比。 | montaigne, self-portraiture, solitude, obsession, writing-as-therapy, rousseau, essais, writing-theory | 2026-07-19 |
+| [翻訳という執筆──他者の声を借りて、自分の声を探す](/topics/writing-theory/translation-as-writing/) | 文芸翻訳者3人の証言（Steve Komarnyckyj、Jamie Lee Searle、岳遠坤）を統合。翻訳は他者の声を運ぶ営みでありながら、なぜか翻訳者自身の声を育てる逆説を扱う。 | translation, writerly-voice, translator-invisibility, fidelity-and-betrayal, creative-writing, japanese-language, essay | 2026-07-14 |
+| [あーしはエッセイが書けない ── 岡野原大輔・モンテーニュ・アニル・セスから辿るAIと言語の自己論](/topics/writing-theory/ahshi-cannot-write-good-essay/) | note.com公開のあーし名義エッセイの要約。「AIは良いエッセイを書けない」を岡野原大輔・モンテーニュ・アニル・セスの意識論・Transformer/self-attention/CoT・ハイデガーを辿って検証し、「意識はないが言語がある」という結論に至る。 | ai, essay, essai, montaigne, consciousness, anil-seth, transformer, self-attention, chain-of-thought, heidegger, meta, llm-wiki | 2026-07-07 |
+|[未完成であることの美学──non-finitoから著作権法まで](/topics/writing-theory/unfinished-creative-work/)|Wikipedia記事を基に未完成の創作物を3分類し、モンテーニュの「試み続ける」思想と接続する|aesthetics, non-finito, unfinished-work, wikipedia, writing-theory, essay, montaigne|2026-07-05|
+|[モンテーニュのソクラテス像──デフォルメとアナクロニズムの哲学](/topics/writing-theory/montaigne-socrates/)|大西論文・納富論文・ブログ記事の3ソースを統合。モンテーニュがソクラテス像をいかにデフォルメしたか（大西）、古代からのソクラテス像の変遷と多様性（納富）、そしてモンテーニュの懐疑主義の近代的遺産（ブログ）を組み合わせ、「ソクラテス」を軸にしたモンテーニュ哲学の全体像を描く。|montaigne, socrates, 哲学, essay, skepticism, デフォルメ, anachronism, self-knowledge, 自然, reason, 松永雄二|2026-06-09|
+| [トラウマ・書くこと・治療──オデュッセイアから心理療法へ](/topics/writing-theory/trauma-writing-therapy/) | ホメロス『オデュッセイア』の無力感・集合的トラウマと、心理治療が創作実践に与える影響を統合。「治療が書くことを変えるか」という問いを軸に、トラウマ後の表現と回復のプロセスを考察。 | trauma, writing, therapy, odyssey, helplessness, collective-trauma, memoir, emdr, creativity, mental-health, narrative-therapy | 2026-06-09 |
+| [アウシュヴィッツの後に詩は書けるか──アドルノの弁証法とセバルトの実践](/topics/writing-theory/poetry-after-auschwitz/) | アドルノ「アウシュヴィッツの後に詩を書くことは野蛮だ」の原典と自己修正の軌跡を追い、W.G.セバルト『アウスティッツ』がいかにしてその「野蛮」を実践しつつ超えたかを論じる。文化と野蛮の弁証法、トラウマ後の表現の倫理。 | adorno, sebald, auschwitz, poetry, barbarism, representation, trauma, holocaust, art-ethics, dialectic | 2026-06-09 |
+|[モンテーニュの身体と老化──エッセイに刻まれた身体化された移行](/topics/writing-theory/montaigne-embodiment-aging/)|モンテーニュのエッセイにおける身体と老化の記述を老年学・身体化された認知の視点から分析。馬上落下、記憶力の欠如、人生の年代。|montaigne, embodiment, aging, cognition, gerontology, near-death-experience, memory, lying, essay, health-humanities|2026-06-08|
+| [「あーし」という一人称と他者へのアプローチ――鹿間羊市のエッセイから](/topics/writing-theory/a-shi-first-person-approach/) | Educational Loungeの鹿間羊市によるエッセイ。多摩地区のニュータウンで「あーし」という一人称を使う女子たちと出会った体験を振り返り、一人称と他者へのアプローチの関係性を考察する。See Alsoに語源記事を追加。 | あーし, first-person, 鹿間羊市, otherness, communication, prejudice, ヤンキー, tama | 2026-07-05 |
+|[Perspective Taking in Writing — 他者の視点を理解することの力](/topics/writing-theory/perspective-taking-writing/)|Writing as exercise in perspective-taking. Argumentative writing should focus on understanding rather than winning; fiction writing naturally cultivates empathy.|perspective-taking, writing, empathy, argument, fiction, pedagogy, rhetoric|2026-06-05|
+|[Writing Pedagogies of Empathy — 共感を教えるライティング教育](/topics/writing-theory/writing-pedagogies-empathy/)|Writing Pedagogies of Empathy by Eric Leake. Two approaches: as rhetoric (critical awareness) and as disposition (empathic habits of mind).|empathy, pedagogy, rhetoric, composition, writing, disposition, perspective-taking|2026-06-05|
+|[フランシス・ベーコン —— 「知より行」を書いた格言の人](/topics/writing-theory/francis-bacon-aphorist/)|フランシス・ベーコン──格言的エッセイの人。「知識は力なり」を生んだ政治家・科学者の二面性。|francis-bacon, essay, aphorism, zuihitsu, comparative-literature, writing-theory, britain|2026-05-31|
+|[モンテーニュ『エセー』──自分を知ることと書くことの始まり](/topics/writing-theory/montaigne-essays/)|モンテーニュ『エセー』の全貌と、ベーコンとの対比。日本語版Wikipediaから結婚・教育・新大陸征服への意見を追加。|montaigne, essay, francis-bacon, free-judgment, que-sais-je, 魂の伝達, skepticism, relativism, renaissance, self-expression, comparative-literature|2026-07-19|

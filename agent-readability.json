@@ -1,0 +1,20 @@
+{
+  "artifacts": {
+    "markdown": {
+      "contentNegotiation": "text/markdown",
+      "pattern": "https://ahshi-dayo.github.io/blume-ahshi-llmwiki/{route}.md"
+    },
+    "llmsFullTxt": "https://ahshi-dayo.github.io/blume-ahshi-llmwiki/llms-full.txt",
+    "llmsTxt": "https://ahshi-dayo.github.io/blume-ahshi-llmwiki/llms.txt",
+    "sitemap": "https://ahshi-dayo.github.io/blume-ahshi-llmwiki/sitemap.xml"
+  },
+  "description": "あーしはネットの片隅でエッセイを書く",
+  "generator": "blume@1.1.4",
+  "name": "あーしの執筆wiki",
+  "site": "https://ahshi-dayo.github.io",
+  "contentUsage": {
+    "search": true,
+    "ai-input": true,
+    "ai-train": true
+  }
+}
