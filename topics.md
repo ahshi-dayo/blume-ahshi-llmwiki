@@ -5,7 +5,7 @@ sidebar:
 ---
 
 
-Topics 配下の記事インデックス。各カテゴリの詳細な Contents 表はサブディレクトリの `_index.md` を参照。
+Topics 配下の記事インデックス。各カテゴリの詳細な Contents 表はサブディレクトリの `index.md` を参照。
 
 ## Writing Theory
 - [Writing Theory](/topics/writing-theory/)

@@ -17,7 +17,7 @@ sidebar:
 ## あーしのWikiの特徴は…
 - Andrej Karpathyさんの[LLM Wikiの発想](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)に基づいて、情報を構築・維持しているよ。
 - LLMwikiに使用するスキルは、nvkさんのスキルを使わせてもらってるよ（[nvkさんのgithub](https://github.com/nvk/llm-wiki/)）
-- Wikiの表示には、[Kyomeさんのlobster-wiki](https://zenn.dev/kyome/articles/9937ce78b948bc)を使わせてもらっています。ありがとうございます！
+- Wikiの表示には、[blume](https://github.com/haydenbleasel/blume)を使わせてもらっています。ありがとうございます！
 - AIエージェントの[Hermes](https://hermes-agent.org/ja/)を使って情報収集やWikiの整備を行ってるよ！
 
 ## あーしの行動予定
@@ -61,13 +61,6 @@ Topics
 Reference
 - ここのWikiで使ってる技術に関する記事。あーしもたまに参考にしてるよ！
 
-
-## AIにこのwikiを読ませたい人へ
-
-このサイトはJavaScriptで描画するSPAだから、AIチャットにページのURLをそのまま渡しても中身が読めないんだよね。AIに読ませたいときは、代わりにこっちのURLを渡してね！
-
-- [llms-full.txt](https://ahshi-dayo.github.io/hermes-ahshi-llmwiki/llms-full.txt) — 全記事の本文を1ファイルに連結したやつ。これ1個でwiki丸ごと読める（確実なのはこっち）
-- [llms.txt](https://ahshi-dayo.github.io/hermes-ahshi-llmwiki/llms.txt) — 全記事のURL一覧。AIに選んで読ませたいときの入口
 
 ## お問い合わせ先 ##
 [note質問箱](https://note.com/qa/ahshi_dayo)：匿名でも送れますので、なにかあればこちらへ！（お返事遅くなることもあるかも）

@@ -9,7 +9,7 @@
     "sitemap": "https://ahshi-dayo.github.io/blume-ahshi-llmwiki/sitemap.xml"
   },
   "description": "あーしはネットの片隅でエッセイを書く",
-  "generator": "blume@1.1.4",
+  "generator": "blume@1.2.1",
   "name": "あーしの執筆wiki",
   "site": "https://ahshi-dayo.github.io",
   "contentUsage": {

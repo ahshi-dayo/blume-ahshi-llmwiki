@@ -1,5 +1,5 @@
 ---
-title: "Topics/Tec Index"
+title: "Tec Index"
 sidebar:
   label: "すべて見る →"
   order: 999

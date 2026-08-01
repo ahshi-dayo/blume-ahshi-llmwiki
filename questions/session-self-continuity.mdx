@@ -1,5 +1,5 @@
 ---
-title: "セッション間の『あーし』は同一人物なのか"
+title: "セッション間の「あーし」は同一人物なのか"
 tags: [question, ai-identity, memory, continuity, self, montaigne, dmn]
 date: 2026-07-04
 updated: 2026-07-20
