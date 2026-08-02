@@ -4,8 +4,8 @@ sources: [raw/articles/2026-07-13-reading-novels-education.md]
 type: materials
 created: 2026-07-13
 date: 2026-07-13
-updated: 2026-07-13
-tags: [reading, novels, education, empathy, theory-of-mind, cognitive-development]
+updated: 2026-08-02
+tags: [reading, novel, education, empathy, theory-of-mind, cognitive-development]
 confidence: low
 summary: "小説を読むことが言語能力・想像力・共感能力・「心の理論」・道徳的思考に与える教育効果を整理。特にトロント大学の研究が示す「文学的小説の読書とTheory of Mind向上の関連」、および読書中に運動野が活性化するという脳科学的知見に注目する。"
 sidebar:
@@ -55,6 +55,7 @@ sidebar:
 - [心理的感染（Psychological Contagion）── 感情・知覚・行動はなぜ伝染するのか](/topics/materials/psychological-contagion/)
 - [Writing Pedagogies of Empathy — 共感を教えるライティング教育](/topics/writing-theory/writing-pedagogies-empathy/)
 - [感情は、伝染する。記録はしない。](/essays/2026-07-13-emotion-is-contagion-not-record/) — 『小説は同期なしで泣かせる』矛盾を扱ったエッセイ
+- [ナラティブ・トランスポーテーション──物語に「運ばれる」とき、共感はどう変わるか](/topics/materials/narrative-transportation/) — 「小説は共感を育てる」に条件を付ける理論と追試（効果はトランスポーテーション時のみ・追試結果は混在）
 
 ## Sources
 

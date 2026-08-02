@@ -2,8 +2,8 @@
 title: "ルソー『散歩する孤独な人の夢』── 迫害された思想家が自然に還るまで"
 date: 2026-06-01
 created: 2026-06-01
-updated: 2026-06-01
-tags: [jean-jacques-rousseau, romanticism, walking, dream, autobiography, french-literature, 自然, solitude, inner-narrative, essay]
+updated: 2026-08-02
+tags: [rousseau, romanticism, walking, dream, autobiography, french-literature, 自然, solitude, inner-narrative, essay]
 confidence: high
 summary: "ルソー最期の著作『散歩する孤独な人の夢』。迫害から逃れ10の「散歩」を書き連ねた、内的ナラティブとDMNの先駆的記録。"
 sources:
@@ -80,6 +80,7 @@ sidebar:
 ## See Also
 
 - [モンテーニュ『エセー』](/topics/writing-theory/montaigne-essays/) ── 「他人のために書く」vs「自分のために書く」
+- [批判という継承──パスカル・ルソー・レチフはモンテーニュをどう読んだか](/topics/writing-theory/montaigne-reception-pascal-rousseau-retif/) ── 『告白』・ヌーシャテル草稿序文でのモンテーニュ批判と、『夢想』での差異化の文脈
 - [ソロー『散歩（Walking）』](/topics/materials/thoreau-walking/) ── 野生への抵抗（ソロー） vs 迫害からの逃避（ルソー）
 - [デフォルトモードネットワーク（DMN）](/topics/materials/default-mode-network/) ── ルソーの「内的ナラティブ」の科学的解説
 - [モンテーニュの身体と老化──エッセイに刻まれた身体化された移行](/topics/writing-theory/montaigne-embodiment-aging/) ── 「自分のために書く」エッセイの系譜。ルソーの散歩とモンテーニュの書く身体

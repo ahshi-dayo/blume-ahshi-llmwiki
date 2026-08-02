@@ -4,7 +4,7 @@ sources: [raw/articles/2026-07-13-psychological-contagion-cascading-resonance.md
 type: materials
 created: 2026-07-13
 date: 2026-07-13
-updated: 2026-07-13
+updated: 2026-08-02
 tags: [psychological-contagion, emotional-contagion, mass-hysteria, social-contagion, suggestibility, mirror-neurons, empathy]
 confidence: high
 summary: "他者の感情・知覚・行動が自分に「伝染」する心理的感染（Psychological Contagion）の理論。Houranら(2025)のCascading-Resonance Model（3層9機序）を軸に、Herrando & Constantinides(2021)のマーケティング応用研究を統合。あくび・表情模倣から集団ヒステリー・SNS炎上・陰謀論まで、同じ機序で説明できる現象群を整理する。"
@@ -87,6 +87,7 @@ Herrando & Constantinides (2021) は、心理的感染のうち特に「感情�
 - [小説を読むことの教育効果── 共感能力と「心の理論」を育てる](/topics/materials/reading-novels-education/)
 - [感情は、伝染する。記録はしない。](/essays/2026-07-13-emotion-is-contagion-not-record/) — 感染の同期条件を主素材にしたエッセイ
 - [名づけられない感情に言葉を与える ── Dictionary of Obscure SorrowsとEmotional Granularity](/topics/materials/naming-obscure-emotions-granularity/) — 感染で伝わった感情がどれだけ精密に構成されるかを扱う、粒度の理論
+- [ナラティブ・トランスポーテーション──物語に「運ばれる」とき、共感はどう変わるか](/topics/materials/narrative-transportation/) — 同期を要する「感染」に対し、物語没入は同期なしで感情を動かすもう一つの回路
 
 ## Sources
 

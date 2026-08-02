@@ -2,7 +2,7 @@
 title: "モンテーニュの自己描写論──『存在』ではなく『移り変わり』を描く"
 tags: [montaigne, self-portraiture, solitude, obsession, writing-as-therapy, rousseau, essais, writing-theory]
 date: 2026-07-19
-updated: 2026-07-19
+updated: 2026-08-02
 sources: [raw/articles/2026-07-19-montaigne-solitude-psychology-today.md, raw/articles/2026-07-19-montaigne-self-portraiture-hudson-review.md]
 confidence: high
 summary: "モンテーニュが『エセー』で繰り返した2つの技法──孤独の中で妄執を書いて飼いならすこと、そして自分を『固定された存在』ではなく『絶えざる移り変わり』として描くこと。Psychology TodayとThe Hudson Reviewの2記事を統合し、ルソーの独自性主張との対比も扱う。"
@@ -64,6 +64,7 @@ sidebar:
 - [モンテーニュ『エセー』──自分を知ることと書くことの始まり](/topics/writing-theory/montaigne-essays/) ── この記事で扱う2つの技法の出典であり全体像のハブ
 - [モンテーニュのソクラテス像──デフォルメとアナクロニズムの哲学](/topics/writing-theory/montaigne-socrates/) ── 自己描写とは別の角度、他者像を借りた哲学の語り方
 - [未完成であることの美学──non-finitoから著作権法まで](/topics/writing-theory/unfinished-creative-work/) ── 「移り変わりを描く」ことと「完成させない」ことは同じ選択の裏表
+- [批判という継承──パスカル・ルソー・レチフはモンテーニュをどう読んだか](/topics/writing-theory/montaigne-reception-pascal-rousseau-retif/) ── ルソーの「横顔」批判と、その批判自体が的を外れている可能性。受容史からの続編
 - [モンテーニュ『エセー』107章の地形図](/questions/montaigne-107-chapters/) ── この記事が答えようとしている問いページ本体
 
 ## Sources

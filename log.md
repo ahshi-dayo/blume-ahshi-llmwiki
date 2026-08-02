@@ -3,6 +3,29 @@ title: "Activity Log"
 ---
 
 
+## [2026-08-02] compile | 3 sources → 1 new article, 3 updated
+
+- [ナラティブ・トランスポーテーション──物語に「運ばれる」とき、共感はどう変わるか](/topics/materials/narrative-transportation/)を新規作成。Green & Brockの理論骨格＋測定尺度の系譜、Bal & Veltkamp 2013の「運ばれた読者は共感上昇・運ばれなかった読者はむしろ低下」交互作用とスリーパー効果、日本の追試（相関は再現・短時間曝露の因果は再現失敗）とKidd & Castano再現論争まで統合
+- psychological-contagion・reading-novels-educationへ双方向See Also追加。エッセイ#5「感情は、伝染する。記録はしない。」にもSee Also追加——#5が保留した「感染とシミュレーションは別回路」仮説に名前と実験がついた
+- インデックス更新は修正版update_indexes.py（materials 17→18・Total 91→92）。essays/index.mdは5列テーブルのため新設の列数ガードでスキップ→手動更新。kizashiはセッション上限（1件/セッション）をモンテーニュ宣言で使用済みのため追加なし
+
+## [2026-08-02] ingest | wiki-clip自動化パイプラインで3件ingest
+
+- 「How Does Fiction Reading Influence Empathy?」(raw/articles/2026-08-02-fiction-reading-empathy-emotional-transportation.md、Bal & Veltkamp, PLoS ONE 2013)、「Is reading fiction associated with a higher mind-reading ability?」(raw/articles/2026-08-02-fiction-mind-reading-replication-japan.md、Takahashi et al., 日本での概念的追試)、「Transportation theory (psychology) - Wikipedia」(raw/articles/2026-08-02-narrative-transportation-theory-wikipedia.md)。フィクション読書と共感・心の理論の関係を感情的トランスポーテーション理論を軸に扱う3件
+- 品質ゲート却下1件（Emotion and transportation into fact and fiction、ssol-journal、本文がアブストラクトのみ960字のため）
+- fetch失敗4件（Djikic PDF・science.org・sciencedirect・J-STAGE/imagepsych PDF、いずれも要手動クリップ）。補充2件（PMC日本追試論文・Wikipedia transportation theory）で目標枠数3件に到達。原ファイル: materials_2026-08-01_2300.md
+
+## [2026-08-02] compile | 1 source → 1 new article, 3 updated
+
+- [批判という継承──パスカル・ルソー・レチフはモンテーニュをどう読んだか](/topics/writing-theory/montaigne-reception-pascal-rousseau-retif/)を新規作成。パスカルの断罪（禁書目録入りまでの検閲史）・ルソーの「横顔」批判と差異化・レチフの模倣を「批判こそ最も濃い継承」という逆説で統合。essaiの語義（試み→毒味）も収録
+- montaigne-essays・montaigne-self-portraiture-solitude・rousseau-reveriesの3記事へ双方向See Also追加。questions/montaigne-107-chaptersの「問いの現在地」に受容史からの傍証を追記——montaigne-107-chaptersの兆しが3件到達で宣言
+- インデックス更新は修正版update_indexes.py（create+update両モード実運転。行マッチングのslug正規化・ルート相対URL出力・フッター保全の3修正を検証済み）
+
+## [2026-08-02] ingest | 第３回　後世はどう読んだか：パスカル、ルソー、レチフ (raw/articles/2026-08-02-montaigne-essais-pascal-rousseau-retif.md)
+
+- 宮下志朗「モンテーニュ『エセー』を読む」第3回（webfrance.hakusuisha.co.jp、『ふらんす』2016年6月号初出）。モンテーニュの自己描写を巡るパスカル・ルソー・レチフ・ド・ラ・ブルトンヌの批判と継承を辿る
+- inboxから手動投入。raw/articles・raw/_index・wiki/_index を更新
+
 ## [2026-07-22] upload-check | 全チェック（hermes実行・lintに続けて）
 - ランフォルダ: ai-outputs/hermes-wiki-lint/2026-07-22/（report_for_claude.md 固定名）
 - コマンド: `python3 scripts/ci_checks/run_all.py <リポジトリルート>`
