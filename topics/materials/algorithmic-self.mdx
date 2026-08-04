@@ -9,7 +9,7 @@ tags: [algorithmic-self, ai-identity, introspection, digital-identity, self-trac
 confidence: medium
 summary: "AIのフィードバックによって自己認識・内省・行為主体性が構築される『アルゴリズム的自己（Algorithmic Self）』論。Spotify Wrappedの事例、内省のAIへのアウトソーシング、予測パーソナライゼーションによる選択の錯覚、感情のAI委任、ナラティブ的自己の空洞化までを整理する。"
 sidebar:
-  order: 3
+  hidden: true
 ---
 
 ## アルゴリズム的自己 ── AIは人間のアイデンティティをどう作り変えるか

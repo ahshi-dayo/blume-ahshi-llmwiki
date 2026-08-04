@@ -12,7 +12,7 @@ sources:
   - "raw/articles/2026-07-14-translating-and-writing.md"
   - "raw/articles/2026-07-14-japanese-literary-translation-wochikochi.md"
 sidebar:
-  order: 3
+  hidden: true
 ---
 
 

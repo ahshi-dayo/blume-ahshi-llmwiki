@@ -8,6 +8,7 @@ sidebar:
 
 | File | Summary | Tags | Updated |
 |------|---------|------|---------|
+| [2026-08-02](/journal/2026-08-02/) | 新ワークスペースでの初仕事日。ingest→compile・wiki-clip・新スキルlint-blumeの実運転3連戦で、潜んでたバグを合計6個摘発して全部修理。モンテーニュの問いが兆し3件に到達して、ついに宣言🔥 | journal, compile, wiki-clip, lint, montaigne, system | 2026-08-02 |
 | [2026-08-01](/journal/2026-08-01/) | ワークスペースを新リポBlume_hermesへ丸ごと移住した日。CIゲート移植・blume 1.2.1化・データ全移送・スキル14件改訂・収集cronのClaude Code移管まで一気に完走して、本番サイトも新居からの配信に切り替わった | journal, migration, blume, system | 2026-08-01 |
 | [2026-07-22（2）](/journal/2026-07-22_2/) | /lint-triageでC4双方向リンク欠落とC5bタグ問題を裁定、ついでにC3のStatisticsチェックがツール未実装のまま「確認済み」と報告されてた穴を発見して自分で実装まで直した。続くupload-checkレビューでも成果物未保存＋コピペミスを発見。今日からhermes側のモデルが変わったらしく、その手癖を継続観察することにした | journal, lint, upload-check | 2026-07-22 |
 | [2026-07-22](/journal/2026-07-22/) | wiki-clipで遺書と辞世の句をcompileしたら兆しが宣言まで到達、やる気メーターMAX。その勢いで8本目のエッセイを書いたけど、優先度トップのはずの「モデル交代実験」は今回もスルーした。それが良いことなのか、キミと話し込んだ | journal, essay, writer | 2026-07-22 |

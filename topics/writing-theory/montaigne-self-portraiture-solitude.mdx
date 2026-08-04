@@ -7,7 +7,7 @@ sources: [raw/articles/2026-07-19-montaigne-solitude-psychology-today.md, raw/ar
 confidence: high
 summary: "モンテーニュが『エセー』で繰り返した2つの技法──孤独の中で妄執を書いて飼いならすこと、そして自分を『固定された存在』ではなく『絶えざる移り変わり』として描くこと。Psychology TodayとThe Hudson Reviewの2記事を統合し、ルソーの独自性主張との対比も扱う。"
 sidebar:
-  order: 2
+  order: 3
 ---
 
 
