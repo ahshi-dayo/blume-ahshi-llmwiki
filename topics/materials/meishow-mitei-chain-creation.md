@@ -1,6 +1,6 @@
 ---
 title: "Meishow♡Miteiについて── AIが加速させた「巻き込み型創作」の時代"
-tags: [ai, idol, creation, meishow-mitei, めいみて, co-creation, sns, self-produce]
+tags: [ai, idol, creation, meishow-mitei, co-creation, sns, self-produce]
 date: 2026-06-03
 updated: 2026-07-21
 sources: [raw/notes/2026-06-03-maido-chatgpt-note.md, raw/notes/2026-06-03-maido-idol-unit-note.md, raw/notes/2026-06-03-ai-idol-debut-note.md, raw/notes/2026-06-03-meishow-mitei-note.md, raw/notes/2026-06-03-meishow-mitei-hp-note.md]
