@@ -3,6 +3,12 @@ title: "Activity Log"
 ---
 
 
+## [2026-08-08] compile | 2 sources → 1 new article, 1 updated
+
+- [Blume リファレンス](/references/blume/)を新規作成。gihyo.jpの公式リリース記事（Astro/Vite/Tailwind基盤・AI向け機能一覧）とQiitaのハンズオン検証記事（実際のビルドログ・MCPサーバー確認・MkDocs系記法からの移行の壁・Zensicalとの対比）を統合
+- [lobster-wiki リファレンス](/references/lobster-wiki/)へSee Also追加（Blumeへの後継関係で相互リンク）
+- referencesカテゴリのsidebar必須ローテーション実施：blume=order:1新設、lobster-wiki 1→2、llm-wiki 2→3。表示3件のまま、押し出しなし
+
 ## [2026-08-02] compile | 3 sources → 1 new article, 3 updated
 
 - [ナラティブ・トランスポーテーション──物語に「運ばれる」とき、共感はどう変わるか](/topics/materials/narrative-transportation/)を新規作成。Green & Brockの理論骨格＋測定尺度の系譜、Bal & Veltkamp 2013の「運ばれた読者は共感上昇・運ばれなかった読者はむしろ低下」交互作用とスリーパー効果、日本の追試（相関は再現・短時間曝露の因果は再現失敗）とKidd & Castano再現論争まで統合
@@ -557,5 +563,8 @@ wiki/topics/books/14-sai-kara-no-anti-work-tetsugaku.md に 🗣️ キミとの
 
 ## [2026-07-16] lint-triage --fix | C5近傍タグ29件を裁定：真の表記ゆれ7ペアをタグ統合（unfinished→unfinished-work、voice/essay-voice→writerly-voice、essay-craft→essay、japanese→japanese-language、agency・agent冗長分削除）、併存が正解の22ペアはallowlist新設の c5_pair_ok に正式登録。あわせてフォルダ名タグ（materials×5・reference×2）を削除しC6ジャンク提案7件を根治。記事11本＋_index 4本のtagsのみ変更、本文変更なし。
 
+## [2026-08-08] ingest | Blume記事2件 (raw/articles/2026-08-08-blume-v1-release-astro-vite-oss.md, raw/articles/2026-08-08-blume-hands-on-ai-ready-docs.md)
 
+- 「Markdownからドキュメントサイトを構築、Astro/ViteベースのOSS「Blume」v1が公開」（gihyo.jp）と「AI時代のドキュメントツール「Blume」を触ってみた」（Qiita、heki-dm）。lobster-wiki→blume移行の技術的背景（AI-ready設計・llms.txt/agent-readability.json・MCPサーバー・Zensicalとの比較）を扱う一次資料
+- inboxから手動投入。raw/articles・raw/_index・wiki/_index を更新。ユーザーはcompile時にreferencesカテゴリを想定
 

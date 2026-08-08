@@ -2,10 +2,10 @@
 title: "lobster-wiki リファレンス"
 tags: [lobster-wiki, static-site, markdown, wiki-tool]
 date: 2026-05-31
-updated: 2026-06-06
+updated: 2026-08-08
 summary: "Markdownフォルダをそのままミニマルなwikiサイトに変換するlobster-wikiツールの解説。nav.md・wiki.config.jsonの設定、?page=形式のリンク仕様、目次自動生成、CSS設計をまとめる。"
 sidebar:
-  order: 1
+  order: 2
 ---
 
 
@@ -210,6 +210,10 @@ Wiki内のコンテンツページで全て使える。
 - [hacknock/lobster-wiki](https://github.com/Hacknock/lobster-wiki) — GitHub
 - [デモサイト](https://hacknock.github.io/lobster-wiki/)
 - [hacknock/lobsterjs](https://github.com/Hacknock/lobsterjs) — コアライブラリ
+
+## See Also
+
+- [Blume リファレンス](/references/blume/) — あーしの執筆wikiが2026年08月に乗り換えた後継システム。lobster-wikiのSPA構成ゆえのAI可読性の弱さが移行の主動機だった
 
 ## Sources
 

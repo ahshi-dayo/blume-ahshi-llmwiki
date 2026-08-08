@@ -5,7 +5,7 @@ date: 2026-05-31
 updated: 2026-06-04
 summary: "Andrej Karpathyが提唱したLLM Wikiパターンの解説。RAGとの違い、Raw/Wiki/Schemaの3層構造、ingest/query/lintの基本操作、index.md・log.mdの役割をまとめる。"
 sidebar:
-  order: 2
+  order: 3
 ---
 
 
