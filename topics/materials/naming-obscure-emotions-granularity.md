@@ -12,7 +12,7 @@ sources:
   - "raw/notes/2026-07-18-dictionary-of-obscure-sorrows-official-site.md"
 summary: "John Koenigが名づけられていない感情に造語を与え続ける『Dictionary of Obscure Sorrows』プロジェクトと、Lisa Feldman Barrettが提唱した『感情は具体的な言葉で構成される』というEmotional Granularity（感情粒度）理論を接続する。片や創作的な言語実践、片や神経科学的な発見だが、どちらも「言葉が感情の解像度を決める」という同じ地点に立つ。"
 sidebar:
-  order: 3
+  hidden: true
 ---
 
 

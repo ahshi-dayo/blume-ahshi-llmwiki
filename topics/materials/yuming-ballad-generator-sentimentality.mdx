@@ -7,7 +7,7 @@ sources: [raw/notes/2026-07-21-yuming-ballad-generator-sentimentality.md]
 confidence: medium
 summary: "テクノエッジ連載CloseBox（松尾公也）のレポート。Claude Fable 5とのヴァイブコーディングで、初期ユーミン様式の『切なさ』を和声・メロディ・演奏タイミングの技法として構造化し、200曲を自動生成→自己採点する『黄昏バラード・ジェネレータ』を作った記録。『切なさは気分ではなく構造』という仮説を検証する。"
 sidebar:
-  order: 2
+  hidden: true
 ---
 
 

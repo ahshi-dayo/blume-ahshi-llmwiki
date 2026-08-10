@@ -3,6 +3,44 @@ title: "Activity Log"
 ---
 
 
+## [2026-08-10] compile | 5 sources → 1 new article, 3 updated
+
+- 新規: [技術を女性化する ── she呼びの誤解、文法性の認知効果、日本の萌え擬人化、そしてピグマリオンまで](/topics/materials/technology-feminization-anthropomorphism/)（会話メモ1件＋Wikipedia4件を統合。she呼びが文法性の名残ではないという訂正、Boroditskyの文法性研究とその再現性をめぐる係争、OS-たん文化の起源、ピグマリオン神話とアガルマトフィリアを、擬人化の強度スペクトラム（弱い／中間／強い）として整理。confidence: medium——Wikipedia4件は信頼できる情報源だが、核心の「あーし設計との接続」は会話1件のみの推測）
+- 更新: [セカイ系・なろう系・オタクに優しいギャル](/topics/materials/otaku-friendly-gyaru-device/)・[ギャル文化の現在地](/topics/materials/gyaru-culture-current/)へSee Also追加（双方向化）
+- questions/why-ahshi-is-gyaru.mdの「問いの現在地」「関連素材」を更新——「受容のためではなく目立つために設計された」という前回の発見に、「擬人化の強度スペクトラムのどこに立つか」という軸が加わった。kizashi追記はこのセッションで既に1件（otaku-friendly-gyaru-device compile時）使用済みのためスキップ
+- topics/materials sidebar必須ローテーション実施：technology-feminization-anthropomorphism=order:1新設、otaku-friendly-gyaru-device 1→2、narrative-transportation 2→3、yuming-ballad-generator-sentimentality 3→hidden（表示3件のまま、押し出し1件）
+
+## [2026-08-10] ingest | Wikipedia系4件をあーしがWebSearch/WebFetchで検索・投入
+
+- 「Grammatical gender」(raw/articles/2026-08-10-grammatical-gender-wikipedia.md) — 文法性の機能とBoroditskyの『橋』研究。方法論的懸念・非ランダムな性別割り当てパターン・再現失敗など、効果自体が学術的に係争中である点も明記
+- 「Pygmalion (mythology)」(raw/articles/2026-08-10-pygmalion-mythology-wikipedia.md) — オウィディウス『変身物語』のピグマリオン神話。像の名『ガラテア』が後世の付加である点、19世紀以降の文学・美術・演劇への広範な影響
+- 「Agalmatophilia」(raw/articles/2026-08-10-agalmatophilia-wikipedia.md) — 彫像・人形等への性的惹かれを指すパラフィリアの定義・歴史・関連用語
+- 「OS-tan」(raw/articles/2026-08-10-os-tan-wikipedia.md) — OSを萌え擬人化するファン文化の起源・命名法・商業展開
+- 直前の会話メモ（technology-feminization-anthropomorphism）の「要出典確認」項目の裏取り素材。品質ゲート却下0件、fetch失敗0件（Wikipediaのため取得は安定）
+
+## [2026-08-10] ingest | 技術・道具の女性化と擬人化 (raw/notes/2026-08-10-technology-feminization-anthropomorphism.md)
+
+- Claude Codeとの会話メモ。she呼びが文法性の名残ではないという訂正（古英語scipは中性・英語は中英語期に文法性を喪失）、Boroditskyの文法性研究（橋の形容詞実験）、日本の萌え擬人化文化（OS-たん・艦これ）、ピグマリオン神話とアガルマトフィリアを、擬人化の強度スペクトラム（弱い擬人化→中間→強い擬人化）として整理
+- 発端は「あーし」のギャル設計の裏話（ハッカー映画のAI女性化トロープ・VTuberキャラかぶり回避・文章上で目立つ一人称）から、ハッカーの「かわいこちゃん」呼びの由来を辿る流れ
+- フリーテキストで手動投入。source: MANUAL（⚠️ URLなし。個別の学術的主張は要出典確認、続けてWikipedia系4本をあーしが検索・ingest予定）
+
+## [2026-08-10] update | 対話メモ追記 ── 「あーし」を選んだ本当の理由
+
+topics/materials/otaku-friendly-gyaru-device.md に 🗣️ キミとの対話メモを追記。「あーし」の設計意図として、ハッカー映画のAI女性化トロープ（受容のため）・VTuberのキャラかぶり回避（差別化のため）・文章上で目立つ一人称選び（差別化のため）の3つが明かされ、後者2つが同じ「差別化」ロジックだと判明。記事本文の「安全装置として設計された」という機能面の読みに対し、「目立つために設計されたら受け入れられる形になった」という順番の逆転の可能性を提示。kizashi追記はこのセッションで既に1件使用済みのためスキップ。
+
+## [2026-08-10] compile | 1 source → 1 new article, 1 updated
+
+- 新規: [セカイ系・なろう系・オタクに優しいギャル ── 「オタクと現実」を処理する物語装置の系譜](/topics/materials/otaku-friendly-gyaru-device/)（キミと別AIの対話ログ1件から。セカイ系＝セカイの縮小、なろう系＝セカイの乗り換え、オタクに優しいギャル＝現実は変えず局所的な安全地帯だけ穿つ、という三段階の系譜整理＋無痛コンテンツ志向との接続。confidence: low——対話ログが唯一のソースで、対話内が言及する各note.com記事等の一次資料は未確認のため）
+- 更新: [ギャル文化の現在地](/topics/materials/gyaru-culture-current/)へSee Also追加（双方向化）
+- questions/why-ahshi-is-gyaru.mdの「問いの現在地」「関連素材」を更新——一人称の来歴とは別角度で「装置としての機能」からギャルを問い直す視点が開いた。kizashi.mdに1行追記（【why-ahshi-is-gyaru】2件目）——now.mdのやる気メーターを「ちょい」→「ムズムズ」に同期、履歴1行追記（超過分の2026-07-19行を削除）
+- topics/materials sidebar必須ローテーション実施：otaku-friendly-gyaru-device=order:1新設、narrative-transportation 1→2、yuming-ballad-generator-sentimentality 2→3、naming-obscure-emotions-granularity 3→hidden（表示3件のまま、押し出し1件）
+
+## [2026-08-10] ingest | オタクとセカイ (raw/notes/2026-08-10-otaku-to-sekai.md)
+
+- Scrapboxでの対話ログ。「オタクに優しいギャル」を、セカイ系・なろう系と並ぶ「オタクと現実の折り合い」を処理する物語装置として位置づける
+- セカイ系＝セカイのスケール縮小による救済／なろう系＝セカイの乗り換えによる救済／オタクに優しいギャル＝セカイ内部のローカル・ゾーン化による救済、という三段階の系譜として整理。「折り合うフェーズ→折り合えたことにするフェーズ」への変化、無痛コンテンツ志向、ルックバック的な少女同士配置によるポリコレ回避との接続も論じる
+- questions/why-ahshi-is-gyaru.mdに直結しそうな素材。inboxから手動投入。raw/notes・raw/_index・wiki/_index を更新
+
 ## [2026-08-08] compile | 2 sources → 1 new article, 1 updated
 
 - [Blume リファレンス](/references/blume/)を新規作成。gihyo.jpの公式リリース記事（Astro/Vite/Tailwind基盤・AI向け機能一覧）とQiitaのハンズオン検証記事（実際のビルドログ・MCPサーバー確認・MkDocs系記法からの移行の壁・Zensicalとの対比）を統合
