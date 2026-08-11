@@ -3,6 +3,25 @@ title: "Activity Log"
 ---
 
 
+## [2026-08-10] compile | 4 sources → 1 new article, 2 updated
+
+- ソース: raw/articles/2026-08-10-werewolf-wikipedia.md, raw/articles/2026-08-10-weretiger-wikipedia.md, raw/articles/2026-08-10-imposter-phenomenon-statpearls-ncbi.md, raw/articles/2026-08-10-nakajima-atsushi-biography-wikipedia.md
+- 新規: [自制を失うと人は「動物」になる ── 変身譚の比較神話学と、完璧主義という猛獣](/topics/materials/transformation-myth-and-perfectionism/)（Werewolf・Weretiger・Imposter Phenomenonの3ソースを統合。西洋の人狼伝説・東アジアの虎人間伝承は変身の原因を『呪い』『亡霊』など外部に置くのに対し、山月記の李徴だけは原因を内面（尊大な羞恥心）に置いたという異例性を指摘。インポスター症候群の心理学（完璧主義・失敗恐怖・評価回避）で、なぜ「発表できない」がここまで人を追い詰めるのかを補強）
+- 更新: [中島敦『山月記』](/topics/books/nakajima-zangetsuki/)（中島敦自身の伝記を新規セクション「伝記との重なり──完璧主義という猛獣」として追加。16年間公的な文芸誌に発表しなかった事実、模擬試験598/600点への執着などの完璧主義エピソード、生前無名のまま急逝し死後に評価された経緯。See Alsoにモンテーニュの自己描写論・新規記事を追加）
+- 更新: [モンテーニュの自己描写論](/topics/writing-theory/montaigne-self-portraiture-solitude/)（See Alsoに山月記・新規記事を追加し双方向化。「妄執を書いて飼いならす」技法と、李徴が同じ「猛獣」メタファーを飼いならせなかった対比を明記）
+- キミからの`/query`リクエスト「モンテーニュの自己描写論と中島敦『山月記』はつなげてエッセイを書けるか」への回答で洗い出した3つの知識ギャップ（中島敦の伝記／変身譚の比較神話学／完璧主義の心理学）をingest→compileした一連の流れ。ユーザー指定のルーティング（伝記情報は既存記事に追記／変身譚と心理学は新規記事に統合）に従った
+- topics/materials sidebar必須ローテーション実施：transformation-myth-and-perfectionism=order:1新設、technology-feminization-anthropomorphism 1→2、otaku-friendly-gyaru-device 2→3、narrative-transportation 3→hidden（表示3件のまま、押し出し1件）
+
+## [2026-08-10] ingest | 知識ギャップ補強4件をあーしがWebSearch/WebFetchで検索・投入
+
+- 「中島敦」(raw/articles/2026-08-10-nakajima-atsushi-biography-wikipedia.md、日本語版Wikipedia) — 完璧主義的性格（模擬試験598/600点への執着）、16年間の発表への躊躇、パラオで「オレが死んだら」と条件付きで原稿を託した心理、生前無名のまま急逝し死後に評価された経緯。山月記の李徴との伝記的な重なりが強い
+- 「Werewolf」(raw/articles/2026-08-10-werewolf-wikipedia.md、Wikipedia) — 変身の原因を『呪い』『道徳的堕落』『自制の喪失』とする文化横断的パターン、weretiger等の地域別類例
+- 「Weretiger」(raw/articles/2026-08-10-weretiger-wikipedia.md、Wikipedia) — インド・中国・タイの虎化伝承比較。中国の伥（外部の呪い・被害者としての変身）と山月記（内面の羞恥心が原因）の変身原因の違いに気づき、あーしメモとして追記
+- 「Imposter Phenomenon」(raw/articles/2026-08-10-imposter-phenomenon-statpearls-ncbi.md、StatPearls/NCBI) — インポスター症候群の6特徴、完璧主義が恥の連鎖を生み評価・発表回避を引き起こす機序、有病率・併存疾患の研究データ
+- 直前の/queryで洗い出した3ジャンル（中島敦の伝記・変身譚の比較神話学・完璧主義の心理学）の裏取り素材。品質ゲート却下0件。fetch失敗2件（Mekong Review「Weretigers, we're tigers」ペイウォールで本文断片のみ、Britannica「Lycanthropy」http_error:403）、いずれも代替のWikipedia記事で目標を満たしたため補充なし。未コンパイル
+
+## [2026-08-10] query | "モンテーニュの自己描写論と中島敦『山月記』はつなげてエッセイを書けるか" → answered from 2 articles (standard)
+
 ## [2026-08-10] compile | 5 sources → 1 new article, 3 updated
 
 - 新規: [技術を女性化する ── she呼びの誤解、文法性の認知効果、日本の萌え擬人化、そしてピグマリオンまで](/topics/materials/technology-feminization-anthropomorphism/)（会話メモ1件＋Wikipedia4件を統合。she呼びが文法性の名残ではないという訂正、Boroditskyの文法性研究とその再現性をめぐる係争、OS-たん文化の起源、ピグマリオン神話とアガルマトフィリアを、擬人化の強度スペクトラム（弱い／中間／強い）として整理。confidence: medium——Wikipedia4件は信頼できる情報源だが、核心の「あーし設計との接続」は会話1件のみの推測）

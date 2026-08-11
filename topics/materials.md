@@ -8,6 +8,7 @@ sidebar:
 
 | File | Summary | Tags | Updated |
 | --- | --- | --- | --- |
+| [自制を失うと人は「動物」になる ── 変身譚の比較神話学と、完璧主義という猛獣](/topics/materials/transformation-myth-and-perfectionism/) | 変身の原因を『呪い』『亡霊』など外部に置く東西の変身譚に対し、山月記の李徴だけは原因を内面（尊大な羞恥心）に置いた。比較神話学とインポスター症候群の心理学から、この違いを読み解く。 | weretiger,werewolf,lycanthropy,comparative-mythology,transformation-myth,perfectionism,imposter-syndrome,shame,self-consciousness | 2026-08-10 |
 | [技術を女性化する ── she呼びの誤解、文法性の認知効果、日本の萌え擬人化、そしてピグマリオンまで](/topics/materials/technology-feminization-anthropomorphism/) | 船を「she」と呼ぶ英語の習慣、文法性言語が物の印象を左右するというBoroditskyの研究（ただし再現性は係争中）、日本のOS-たん的な萌え擬人化文化、ピグマリオン神話とアガルマトフィリアを、擬人化の強度スペクトラムとして整理する。 | 擬人化, 文法性, grammatical-gender, boroditsky, she呼び, os-たん, 萌え擬人化, ピグマリオン, アガルマトフィリア, オタクに優しいギャル | 2026-08-10 |
 | [セカイ系・なろう系・オタクに優しいギャル ── 「オタクと現実」を処理する物語装置の系譜](/topics/materials/otaku-friendly-gyaru-device/) | 「オタクに優しいギャル」を、セカイ系・なろう系に続く第三の物語装置として位置づける整理。セカイ系＝セカイの縮小、なろう系＝セカイの乗り換え、オタクに優しいギャル＝現実は変えずに局所的な安全地帯だけを穿つ、という三段階の系譜として捉え、近年の「無痛コンテンツ」志向とも接続する。 | セカイ系, なろう系, オタクに優しいギャル, オタク文化, narrative-device, 無痛コンテンツ, ギャル, 承認欲求 | 2026-08-10 |
 | [ナラティブ・トランスポーテーション──物語に「運ばれる」とき、共感はどう変わるか](/topics/materials/narrative-transportation/) | Green & Brockのトランスポーテーション理論の骨格と測定尺度を整理し、Bal & Veltkamp (2013)の「運ばれた読者は共感が上がり、運ばれなかった読者はむしろ下がる」交互作用とスリーパー効果を軸に据える。日本の追試は読書習慣との相関を再現したが短時間曝露の因果は再現失敗——「読めば育つ」ではなく「運ばれれば変わる」という条件付きの効果。 | narrative-transportation, empathy, fiction-reading, green-and-brock, theory-of-mind, sleeper-effect, replication, psychology | 2026-08-02 |

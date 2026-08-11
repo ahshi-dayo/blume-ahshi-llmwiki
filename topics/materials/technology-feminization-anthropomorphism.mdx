@@ -7,7 +7,7 @@ sources: [raw/notes/2026-08-10-technology-feminization-anthropomorphism.md, raw/
 confidence: medium
 summary: "船を『she』と呼ぶ英語の習慣、文法性言語が物の印象を左右するというBoroditskyの研究（ただし再現性は係争中）、日本のOS-たん的な萌え擬人化文化、ピグマリオン神話とアガルマトフィリアを、擬人化の強度スペクトラムとして整理する。全く異なる3つの言語的メカニズムが、なぜか同じ『技術・道具を女性として扱いたくなる』という結果に収斂する現象を追う。"
 sidebar:
-  order: 1
+  order: 2
 ---
 
 
