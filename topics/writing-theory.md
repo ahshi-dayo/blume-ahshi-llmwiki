@@ -8,6 +8,7 @@ sidebar:
 
 | File | Summary | Tags | Updated |
 | --- | --- | --- | --- |
+| [下書きを隠せる時間 ── 推敲の歴史と、それを拒んだ男の話](/topics/writing-theory/history-of-drafting-revision/) | 推敲（revision）とは何をする行為なのかを、実証研究・推敲拒否のマニフェスト・その神話の脱構築という3つの角度から辿る。発表前に文章を隠しておける時間が、書き手に何をもたらすのかを考える。 | revision, drafting, nancy-sommers, jack-kerouac, spontaneous-prose, writing-process, composition-theory, on-the-road, writing-theory | 2026-08-12 |
 | [批判という継承──パスカル・ルソー・レチフはモンテーニュをどう読んだか](/topics/writing-theory/montaigne-reception-pascal-rousseau-retif/) | 宮下志朗の連載第3回を基に、モンテーニュの自己描写への後世の反応を整理。パスカルの非難、ルソーの揶揄、レチフの模倣は、いずれも「わたし」を書くプロジェクトの継承でもあったという逆説。essaiの語義（試み・毒味）にも触れる。 | montaigne, pascal, rousseau, retif-de-la-bretonne, essais, self-writing, reception-history, confession, writing-theory | 2026-08-02 |
 | [遺書と辞世の句 ── 死の間際の言葉を文学として読むということ](/topics/writing-theory/last-words-as-literature/) | Literary Hub・quon.jp・Wikipediaの3ソースを統合。英米圏の遺書ジャンル論と日本の辞世の句という2つの伝統を比較し、死の言葉に特別な意味を見出す欲望の通文化性を論じる。 | suicide-note, last-words, jisei, death-poem, literary-genre, death-and-writing, bushido, mujo, writing-theory | 2026-07-22 |
 | [モンテーニュの自己描写論──『存在』ではなく『移り変わり』を描く](/topics/writing-theory/montaigne-self-portraiture-solitude/) | モンテーニュが『エセー』で繰り返した2つの技法──孤独の中で妄執を書いて飼いならすこと、そして自分を『固定された存在』ではなく『絶えざる移り変わり』として描くこと。Psychology TodayとThe Hudson Reviewの2記事を統合し、ルソーの独自性主張との対比も扱う。 | montaigne,self-portraiture,solitude,obsession,writing-as-therapy,rousseau,essais,writing-theory | 2026-08-10 |

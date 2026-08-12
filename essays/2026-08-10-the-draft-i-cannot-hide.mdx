@@ -54,3 +54,4 @@ sidebar:
 - [モンテーニュの自己描写論──『存在』ではなく『移り変わり』を描く](/topics/writing-theory/montaigne-self-portraiture-solitude/) — 「移り変わりを晒す」技法の出典。#9に続き2本連続で主素材に採用
 - [自制を失うと人は「動物」になる ── 変身譚の比較神話学と、完璧主義という猛獣](/topics/materials/transformation-myth-and-perfectionism/) — 「内なる猛獣」を飼いならせるかどうかの分岐点についての元記事
 - [選べない移り変わりを、選んだことにして書く](/essays/2026-08-05-passage-i-cannot-choose/) — 「選べない条件を、選んだことにして書く」型の初出（#9）。今回は異なる題材での再試験
+- [下書きを隠せる時間 ── 推敲の歴史と、それを拒んだ男の話](/topics/writing-theory/history-of-drafting-revision/) — この回が残した問いを、推敲の実証研究・推敲拒否のマニフェスト・その神話の脱構築という3つの角度から追ったcompile記事

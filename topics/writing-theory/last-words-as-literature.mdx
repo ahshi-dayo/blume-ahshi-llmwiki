@@ -10,7 +10,7 @@ sources:
 confidence: medium
 summary: "遺書（英米圏）と辞世の句（日本）という、死の間際に残された言葉を文学として読む2つの伝統を比較する。Literary Hubのエッセイ（Dustin Illingworth）が遺書を『最後の作品』として読む倫理的葛藤を論じ、日本の辞世の句は逆に、死を予期して事前に形式に沿って詠む定型詩という対照的な姿を見せる。Wikipedia「List of last words」の通時代リストは、この『死の言葉に特別な意味を見出す』欲望自体が文化を超えて存在することを示す。"
 sidebar:
-  order: 2
+  order: 3
 ---
 
 

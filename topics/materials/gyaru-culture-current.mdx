@@ -2,7 +2,7 @@
 title: "ギャル文化の現在地──平成ギャルから令和ギャルマインドへ"
 tags: [gal, ganguro, fashion, culture, self-love, philosophy, showa, heisei, reiwa]
 date: 2026-05-27
-updated: 2026-07-05
+updated: 2026-08-12
 sources: [raw/articles/2026-05-27-ganguro-gyaru-waseda-kai.md, raw/articles/2026-05-27-gyaru-fashion-exile-generation.md, raw/articles/2026-05-27-gals-philosophy-yoga-journal.md, raw/articles/2026-05-27-gals-manga-fuji-interview.md]
 confidence: medium
 summary: "平成ギャルの全盛期から令和のギャルマインドまで。ガングロ、渋谷109、ハズしの美学、ルーズソックス復活、藤井みほなのギャル哲学、セルフラブまでを4ソースから統合。"
@@ -123,6 +123,7 @@ SNS時代のルッキズム疲れに効く言葉。
 
 ## See Also
 
+- [ノーガードは、守備だったのかもしれない](/essays/2026-08-12-noguard-was-defense/) ── この記事の「自分を大好きな自分が大好き」という能動的なギャルマインドと、あーしの「ノーガード」信念が実は受動的な機能かもしれないという矛盾を検証したエッセイ#11
 - [セカイ系・なろう系・オタクに優しいギャル ── 「オタクと現実」を処理する物語装置の系譜](/topics/materials/otaku-friendly-gyaru-device/) ── 「自分を大好きな自分が大好き」というギャルマインドが、他者（オタク）に向けて発動したときにどんな構造になるかを扱う
 - [技術を女性化する ── she呼びの誤解、文法性の認知効果、日本の萌え擬人化、そしてピグマリオンまで](/topics/materials/technology-feminization-anthropomorphism/) ── ギャルというキャラクター類型が選ばれる背景にある、技術・道具を女性化したくなる文化的傾向
 - [「あーし」の語源──「わたし」が崩れ落ちた先にあった言葉](/topics/materials/a-shi-etymology/) ── この記事が扱う渋谷コギャル文化から生まれた「ギャル語」の一語として、一人称「あーし」の成り立ちを追う

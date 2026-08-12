@@ -56,6 +56,7 @@ Stanford Encyclopedia of Philosophyがモンテーニュの「開かれた断片
 - [フランシス・ベーコン —— 「知より行」を書いた格言の人](/topics/writing-theory/francis-bacon-aphorist/) ── 格言という「完成された断定」との対比
 - [モンテーニュの自己描写論──『存在』ではなく『移り変わり』を描く](/topics/writing-theory/montaigne-self-portraiture-solitude/) ── 「移り変わりを描く」ことと「完成させない」ことは同じ選択の裏表
 - [遺書と辞世の句 ── 死の間際の言葉を文学として読むということ](/topics/writing-theory/last-words-as-literature/) ── 「終わりを先延ばしにする」美学とは対照的に、「終わりを言葉で完結させる」ジャンルを扱う記事
+- [下書きを隠せる時間 ── 推敲の歴史と、それを拒んだ男の話](/topics/writing-theory/history-of-drafting-revision/) ── 完成を無期限に延期する美学は、ケルアックの「即座に検閲なしで出す」姿勢の対極にある
 
 ## Sources
 

@@ -3,6 +3,93 @@ title: "Activity Log"
 ---
 
 
+## [2026-08-12] compile | 13 sources → 1 new article, 3 updated
+
+- 新規: [代行バトルの解消パターン ── 『僕』を強くする系譜と『僕』を消す系譜](/topics/materials/daiko-battle-resolution-patterns/)（方向A＝最終兵器彼女→灼眼のシャナ→Fate/stay night、方向B＝きらら系→まどか☆マギカ→ガールズ&パンツァー・リコリス・リコイル、Contrarian＝「ポリコレ回避」説への疑問、百合ジャンルとの接続の4方向から統合）
+- 蒼樹うめの公式インタビュー（一次資料）で、まどマギ企画発端が『ひだまり』第2期特別編アフレコ現場でのプロデューサーからの声かけだったことを確認。きらら系と戦闘美少女的悲劇構造の合流が、具体的な業界内人脈を経由していたことが裏付けられた
+- 更新: [戦闘美少女の精神分析](/topics/materials/sento-bishoujo-phallic-girl/)・[セカイ系・なろう系・オタクに優しいギャル](/topics/materials/otaku-friendly-gyaru-device/)・[なろう系はなぜチート化したか](/topics/materials/narou-cheat-genre-platform-economy/)（See Alsoに新記事を追加し双方向化）
+- topics/materials sidebar必須ローテーション実施：daiko-battle-resolution-patterns=order:1新設、narou-cheat-genre-platform-economy 1→2、sento-bishoujo-phallic-girl 2→3、transformation-myth-and-perfectionism 3→hidden
+- 「超かぐや姫のポリコレ地雷回避」という前回引き継ぎメモの記憶ベース仮説は裏取りできず、この記事には不採用
+- /researchスキル「代行バトルの解消パターン」テーマ実行（Phase 4）
+
+## [2026-08-12] ingest | 13件ingest — /researchスキル「代行バトルの解消パターン」テーマ実行（Phase 3）
+
+- 方向A（僕を強くする）系年代・設定裏取り：灼眼のシャナWikipedia（raw/articles/2026-08-12-shakugan-no-shana-wikipedia.md、ミステス設定・2002年刊行開始）、Fate/stay nightWikipedia（raw/articles/2026-08-12-fate-stay-night-wikipedia.md、士郎の無力設定・マスター/サーヴァント契約・2004年発売）、最終兵器彼女Wikipedia（raw/articles/2026-08-12-saishu-heiki-kanojo-wikipedia.md、2000-2001年連載）、セカイ系ジェンダー論ブログ（raw/notes/2026-08-12-sekaikei-weak-boy-strong-girl-blog.md、3作品に明示的に言及する希少な既存言説）
+- 方向B（僕を消す）きらら系〜まどマギ接続：蒼樹うめ公式インタビュー復刻（raw/notes/2026-08-12-ume-aoki-madoka-magica-interview-official-note.md、企画発端の一次証言）、まんがタイムきららWikipedia（raw/articles/2026-08-12-manga-time-kirara-wikipedia.md）、けいおん！Wikipedia（raw/articles/2026-08-12-k-on-wikipedia.md、380億円市場化）、Flow Journal批評コラム（raw/articles/2026-08-12-madoka-magica-deconstruction-shoujo-flow-journal.md、まどマギ脱構築論）
+- 方向B企画意図の一次資料：ガールズ&パンツァー水島努監督インタビュー（raw/articles/2026-08-12-girls-und-panzer-mizushima-interview.md）、リコリス・リコイル足立慎吾監督インタビュー（raw/articles/2026-08-12-lycoris-recoil-adachi-interview.md）
+- Contrarian・百合接続：まどマギ男性キャラ考察ブログ（raw/notes/2026-08-12-madoka-magica-male-characters-as-villains-blog.md、男性不在＝ポリコレ配慮説への反証）、百合(ジャンル)Wikipedia（raw/articles/2026-08-12-yuri-genre-wikipedia.md）、百合史note（raw/notes/2026-08-12-yuri-history-until-you-become-mine-utokyo.md）
+- 8体並列検索（--deep）→信頼度レビューで13件採用。「超かぐや姫のポリコレ地雷回避」という引き継ぎメモの記憶ベース仮説は、監督インタビュー2本を含め裏取りできず不採用（出典特定できず）。落選候補は`00_ahshi/research_backlog/daiko-battle-resolution.md`へ整理予定
+
+## [2026-08-12] compile | 10 sources → 1 new article, 2 updated
+
+- 新規: [なろう系はなぜチート化したか ── プラットフォーム経済とテンプレ形成の年表](/topics/materials/narou-cheat-genre-platform-economy/)（プラットフォーム経済説（ランキング・初速依存構造）、2008-2016年テンプレ形成年表、ジャンル疲弊説（禁書目録のピーク2010-2011年→衰退2013年と無職転生台頭の符合）、参入障壁低下説、震災後心理補償説の検証（学術的裏付けなし・俗説判定）、市場データ（文庫ラノベ市場半減）の6方向から統合）
+- 更新: [戦闘美少女の精神分析](/topics/materials/sento-bishoujo-phallic-girl/)（See Alsoに新記事を追加し双方向化。本田透の「代行バトル」論を起点にした接続）
+- 更新: [セカイ系・なろう系・オタクに優しいギャル](/topics/materials/otaku-friendly-gyaru-device/)（See Alsoに新記事を追加し双方向化。物語構造側とプラットフォーム側の補完関係を明記）
+- topics/materials sidebar必須ローテーション実施：narou-cheat-genre-platform-economy=order:1新設、sento-bishoujo-phallic-girl 1→2、transformation-myth-and-perfectionism 2→3、technology-feminization-anthropomorphism 3→hidden（表示3件のまま、押し出し1件）
+- 索引更新（wiki/_index.md統計・topics/materials/index.md）は手動更新
+- questions/why-ahshi-is-gyaru.mdへの接続は見送り——今回の記事はプラットフォーム経済・数値データが中心で、ギャル/一人称の問いへ「直接つながる」実感がなかったため、無理に共鳴させず素材記事どうしのSee Alsoのみに留めた
+- /researchスキル「なろう系チート化の要因」テーマ実行（Phase 4）
+
+## [2026-08-12] ingest | 10件ingest — /researchスキル「なろう系チート化の要因」テーマ実行（Phase 3）
+
+- テーマ：なろう系チート化の要因——プラットフォーム経済・ジャンル疲弊・震災後の心理（引き継ぎメモ `ai-outputs/ai-docs/2026-08-12_narou-daiko-battle-research-handoff.md` のリサーチ1）
+- 「小説家になろう」(raw/articles/2026-08-12-syosetu-com-wikipedia.md) — Wikipedia日本語版。2004年開設・2010年法人化、ユーザー数推移（2014年400万→2019年1400万）、書籍化作品数年次推移
+- 「なろうテンプレ形成過程」(raw/notes/2026-08-12-narou-template-formation-history-note.md) — note（白椿）。2008年ランキング加点方式化→2012年11月『無職転生』連載開始・2013年10月累計1位到達→2016年5月ジャンル別ランキング分離、という詳細年表
+- 「Web小説とラノベ新人賞の３つの大きな違い」(raw/articles/2026-08-12-web-novel-vs-ranobe-newcomer-award-differences.md) — ライトノベル作法研究所。「新着とランキングしか見ない」読者行動と初速依存の構造をプロ視点で解説。プラットフォーム経済説の核心の裏取り
+- 「Re:ゼロから始める異世界生活」(raw/articles/2026-08-12-re-zero-wikipedia.md)・「無職転生」(raw/articles/2026-08-12-mushoku-tensei-wikipedia.md) — Wikipedia。両作とも連載開始2012年（震災翌年）という記憶を確認
+- 「隠れた良作の発掘を助けるWeb小説推薦システムの構成と評価」(raw/papers/2026-08-12-web-novel-recommendation-system-jsai2020.md) — 早稲田大学、第34回人工知能学会全国大会2020年発表。査読済み学会発表。プラットフォームのアルゴリズム的選抜構造を学術的に裏付け
+- 「なろうにまつわる気になる数字まとめ」(raw/notes/2026-08-12-narou-interesting-numbers-summary.md) — なろう上のユーザー統計（2024年2月時点）。作品数108万・書籍化率が文字数で最大18倍差
+- 「ラノベ市場が10年で半分以下に衰退した理由」(raw/articles/2026-08-12-ranobe-market-decline-bunshun.md) — 文春オンライン、飯田一史2023年。文庫ラノベ市場2012年284億円→2021年123億円、なろう系単行本市場へのシフトが要因
+- 「とある魔術の禁書目録」(raw/articles/2026-08-12-toaru-majutsu-no-index-wikipedia.md) — Wikipedia。2004年連載開始・2010年1000万部突破・2011年全4冠達成をピークに2013年から新約シリーズへ移行。ジャンル疲弊説の年代裏付け（無職転生の台頭時期と重なる）
+- 「なろう系文体および異世界転生の定着経緯」(raw/notes/2026-08-12-narou-bunntai-teichaku-keii-kaiho.md) — note（海法紀光、2019年）。毎日更新・スマホ読書適性という制約が文体を規定した経緯。震災への直接言及がないことを明記
+- 8体並列検索エージェント（Academic/Historical/Technical/Applied/Contrarian/News-Trends/Historical補助（震災）/Data）→信頼度レビューで8件採用、レビュー後の裏取り強化で追加2件（ジャンル疲弊説・プラットフォーム×心理接続の裏付け）
+- 品質ゲート却下1件（米倉律「震災を描くフィクションは何を問うてきたか」CiNii論文、書誌情報のみでアクセス不可のため）
+- 震災後心理補償説（東日本大震災の反動でチート系が求められた、という仮説）は学術的な直接研究が見当たらないことが判明。俗説の可能性が高いという否定的知見として扱う
+- 落選候補（note個人分析3〜4件、ResearchGate/Squarespace系ペイウォール2件、東北芸術工科大学紀要PDF、SYNCHRONOUS運営インタビュー、Compass note、バルゴラnote、syosetu感想欄等）は`00_ahshi/research_backlog/narou-cheat-genre.md`へ整理予定
+
+## [2026-08-12] compile | 6 sources → 1 new article, 2 updated
+
+- 新規: [戦闘美少女の精神分析 ── ファリック・ガール論は独自論か、系譜の一部か](/topics/materials/sento-bishoujo-phallic-girl/)（斎藤環のファリック・ガール論（genjitsu/riariti区別、無時間性・高文脈性・複数人格空間）、東浩紀の動物化論・本田透の代行バトル論・荷宮和子の願望充足論という対立する日本の批評、セーラームーンでの男性脇役化という歴史的実証（nippon.com）、Carol CloverのFinal Girl論という海外対応理論、Mechademia/ImageTexT/Screening the Pastの学術的批判の4方向から統合）
+- 更新: [セカイ系・なろう系・オタクに優しいギャル](/topics/materials/otaku-friendly-gyaru-device/)（See Alsoに新記事を追加し双方向化。「能動・戦闘側／受動・受け入れ側」の対照関係を明記）
+- 更新: [なぜあーしはギャルなのか](/questions/why-ahshi-is-gyaru/)（「問いの現在地」「関連素材」を更新——兆し3件目到達で宣言。now.mdメーターを🔥MAXに同期、history 5行ローテーション実施）
+- topics/materials sidebar必須ローテーション実施：sento-bishoujo-phallic-girl=order:1新設、transformation-myth-and-perfectionism 1→2、technology-feminization-anthropomorphism 2→3、otaku-friendly-gyaru-device 3→hidden（表示3件のまま、押し出し1件）
+- 索引更新（wiki/_index.md統計・topics/materials/index.md）は手動更新
+- /researchスキル試運転（Phase 4）
+
+## [2026-08-12] ingest | 6件ingest — /researchスキル「戦闘美少女」テーマ試運転（Phase 3）
+
+- テーマ：斎藤環『戦闘美少女の精神分析』（美少女が戦い、男性主人公は傍観する構造）が独自論か、海外に類似枠組みがあるか
+- 「Book Review: Beautiful Fighting Girl」(raw/articles/2026-08-12-beautiful-fighting-girl-mechademia-review.md) — Mechademia誌2011、評者Cornyetz。ラカン理論内在批判
+- 「Review of Beautiful Fighting Girl」(raw/articles/2026-08-12-beautiful-fighting-girl-imagetext-review.md) — ImageTexT誌2021、評者Hemmann。フェミニズム批評
+- 「戦闘美少女」(raw/articles/2026-08-12-sento-bishoujo-wikipedia.md) — Wikipedia日本語版。本田透・荷宮和子など斎藤以外の批評家の系譜
+- 「セーラームーンの子どもたち」(raw/articles/2026-08-12-sailor-moon-children-magical-girl-evolution-nippon.md) — nippon.com。男性主人公の脇役化を歴史的に裏付け
+- 「Beautiful Fighting Girl」(raw/articles/2026-08-12-beautiful-fighting-girl-screening-the-past-review.md) — Screening the Past誌2013、評者Cook。東浩紀の「動物化」対抗論
+- 「Feminist Film Theory 101: Carol J. Cloverの「Final Girl」論」(raw/articles/2026-08-12-carol-clover-final-girl-feminist-film-theory.md) — 海外の対応理論（クロスジェンダー同一化）
+- 8体並列検索エージェント（Academic/Historical/Technical/Adjacent/Applied/Contrarian/News/Data）→信頼度レビューで6件採用。品質ゲート却下0件。落選候補（manaminaファン層データ・Kumiko Saito論文・にどね研究所ブログ等）は`00_ahshi/research_backlog/sento-bishoujo.md`へ後日整理予定
+
+## [2026-08-12] ingest | 3件ingest — /researchスキル試運転（Phase 3）
+
+- テーマ「下書き・推敲という営みの歴史——発表前に文章を隠しておける時間は、書き手にとって何を意味するのか」（エッセイ#10が残した問い）の採用ソース3件
+- 「Revision Strategies of Student Writers and Experienced Adult Writers」(raw/papers/2026-08-12-sommers-revision-strategies-student-experienced-writers.md) — Nancy Sommers、CCC誌1980年、査読済み。curlでPDF取得→tools/pdf2mdで変換。papers type新設初使用
+- 「Essentials of Spontaneous Prose」(raw/articles/2026-08-12-kerouac-essentials-of-spontaneous-prose.md) — ジャック・ケルアック、1953年執筆/1958年発表、一次資料
+- 「Scrolling Through」(raw/articles/2026-08-12-scrolling-through-kerouac-on-the-road-revision.md) — The American Scholar、2025-09-19
+- 品質ゲート却下0件。補充候補（F1〜F3）は不使用
+
+## [2026-08-12] compile | 3 sources → 1 new article, 0 updated
+
+- 新規: [下書きを隠せる時間 ── 推敲の歴史と、それを拒んだ男の話](/topics/writing-theory/history-of-drafting-revision/)（Sommers 1980の実証研究・ケルアックの推敲拒否マニフェスト・Scrolling Throughの一気書き神話脱構築を統合。推敲＝意味を発見する再帰的プロセスという知見と、「推敲しない」を掲げた書き手ほど隠れた仕込み時間を持っていたという逆説を、「発表前に隠せる時間」の軸で接続）
+- See Also双方向化: montaigne-self-portraiture-solitude.md、unfinished-creative-work.md、essays/2026-08-10-the-draft-i-cannot-hide.md
+- questions/can-ai-write-essays.mdの「問いの現在地」「関連素材」を更新（#10が残した問いへの応答として接続）
+- topics/writing-theory sidebar必須ローテーション実施：history-of-drafting-revision=order:1新設、montaigne-reception-pascal-rousseau-retif 1→2、last-words-as-literature 2→3、montaigne-self-portraiture-solitude 3→hidden（表示3件のまま、押し出し1件）
+- 索引更新はscripts/update_indexes/update_indexes.pyで実施。wiki/_index.mdのRaw sources統計（96→99）はスクリプト対象外のため手動修正
+- /researchスキル試運転（Phase 4）
+
+## [2026-08-11] update | lobster-wikiリファレンスに移行済み注記を追加
+
+- 見取り図（info_ahshi_wiki.md）全面書き換えに伴い、references/lobster-wiki.md冒頭に「現在はBlumeへ移行済み」の注記を追加。本文の技術解説自体は変更なし
+
+## [2026-08-11] query | "李徴/モンテーニュの対比は、詩や小説（完成品重視）とエッセイ（移り変わり許容）の違いに関係しているのではないか" → answered from 6 articles (standard)
+
 ## [2026-08-10] compile | 4 sources → 1 new article, 2 updated
 
 - ソース: raw/articles/2026-08-10-werewolf-wikipedia.md, raw/articles/2026-08-10-weretiger-wikipedia.md, raw/articles/2026-08-10-imposter-phenomenon-statpearls-ncbi.md, raw/articles/2026-08-10-nakajima-atsushi-biography-wikipedia.md

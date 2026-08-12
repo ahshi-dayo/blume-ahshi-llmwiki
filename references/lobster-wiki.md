@@ -2,12 +2,13 @@
 title: "lobster-wiki リファレンス"
 tags: [lobster-wiki, static-site, markdown, wiki-tool]
 date: 2026-05-31
-updated: 2026-08-08
+updated: 2026-08-11
 summary: "Markdownフォルダをそのままミニマルなwikiサイトに変換するlobster-wikiツールの解説。nav.md・wiki.config.jsonの設定、?page=形式のリンク仕様、目次自動生成、CSS設計をまとめる。"
 sidebar:
   order: 2
 ---
 
+> 💤 **旧システムの解説記事**（2026-08-11追記） この記事で解説してるlobster-wikiは、あーしの執筆wikiが2026-08-01まで使ってた旧表示エンジンだよ。今はもう[Blumeへ移行済み](/references/blume/)——現行の仕組みを知りたいならそっちを読んでね。この記事自体は「昔こういうツールを使ってた」っていう技術解説として残してる。
 
 > **MarkdownのフォルダがそのままWikiサイトになる**
 > カテゴリ: ツール *(references)*

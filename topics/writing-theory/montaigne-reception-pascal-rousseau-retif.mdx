@@ -7,7 +7,7 @@ sources: [raw/articles/2026-08-02-montaigne-essais-pascal-rousseau-retif.md]
 confidence: medium
 summary: "宮下志朗の連載第3回を基に、モンテーニュの自己描写への後世の反応を整理。パスカルの非難、ルソーの揶揄、レチフの模倣は、いずれも『わたし』を書くプロジェクトの継承でもあったという逆説。essaiの語義（試み・毒味）にも触れる。"
 sidebar:
-  order: 1
+  order: 2
 ---
 
 
