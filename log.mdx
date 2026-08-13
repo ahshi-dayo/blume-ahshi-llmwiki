@@ -3,6 +3,105 @@ title: "Activity Log"
 ---
 
 
+## [2026-08-13] ingest | モンテーニュの懐疑主義が近代にもたらした遺産
+
+- raw/notes/2026-08-13-theseus-montaigne-skepticism-modern-legacy.md — theseus.hatenablog.com掲載、Theseus（池田真治）による2015年11月のブログ記事。ジャンニ・パガニーニ「モンテーニュと近代懐疑主義」（山上浩嗣訳、『思想』2015年10号）の紹介・分析。
+- `/lint-blume deep`のC4b裁定に基づく遡及ingest。`topics/writing-theory/montaigne-socrates.md`（2026-06-09作成）のsources:に書誌引用のみで残っていた出典を正式にraw化し、sources:フィールドをraw/パス参照へ差し替え。
+
+## [2026-08-13] ingest | 第４回　「わたし」を貸し出す（宮下志朗「モンテーニュ『エセー』を読む」）
+
+- raw/articles/2026-08-13-montaigne-essais-lending-self.md — webfrance.hakusuisha.co.jp掲載、『ふらんす』2016年7月号初出の連載第4回。3・10「自分の意志を節約することについて」の「自分を貸す・借家人」比喩を軸に、元ネタのセネカ『書簡集』62番の紹介、市長職とモンテーニュ個人を分ける「二つの人格」論を辿る。
+- 3・9「空しさについて」の家政をめぐる本音、1・38「孤独について」の「店の奥の部屋（arrière-boutique）」という自己保全の空間論までを含む。
+- inboxから手動投入。未コンパイル（同シリーズ第3回・第8回・第11回・第12回は既にcompile済み）。
+
+## [2026-08-13] compile | 1 source → 1 new article, 4 updated
+
+- 新規: [モンテーニュ『店の奥の部屋』── 自分を貸しても、自分を与えないという生き方](/topics/writing-theory/montaigne-self-lending-inner-room/)（宮下志朗の連載第4回、『エセー』3・10「自分の意志を節約することについて」の「自分を貸す・借家人」比喩を軸に、セネカ『書簡集』62番の元ネタ、市長職とモンテーニュ個人を分ける「二つの人格」論、家政をめぐる本音、1・38「孤独について」の「店の奥の部屋（arrière-boutique）」までを統合）
+- 更新: [モンテーニュ『エセー』](/topics/writing-theory/montaigne-essays/)（See Also追加・双方向化）
+- 更新: [モンテーニュの自己描写論](/topics/writing-theory/montaigne-self-portraiture-solitude/)（「移り変わり続ける自己」と「役割から守る自己」の対比としてSee Also追加・双方向化）
+- 更新: [モンテーニュとラ・ボエシー](/topics/writing-theory/montaigne-la-boetie-friendship/)（「縫い目もわからない」結合との対比としてSee Also追加・双方向化）
+- 更新: [批判という継承](/topics/writing-theory/montaigne-reception-pascal-rousseau-retif/)（同じ連載の第3回、別の形の自己防衛としてSee Also追加・双方向化）
+- questions/montaigne-107-chapters.mdの「問いの現在地」「関連素材」を更新——通底テーマ「固定しない態度」に、「変化は許すが境界は守る」というもう一段複雑な補助線を追加
+- topics/writing-theory sidebar必須ローテーション実施（montaigne-self-lending-inner-room=order:1新設、montaigne-cannibals-barbarism-reversal 1→2、montaigne-la-boetie-friendship 2→3、ai-creation-corpus-correction 3→hidden）
+- kizashi「モンテーニュ107章」に1件追記。本日3件目に到達し🔥MAX——「書けそう」を宣言、宣言中へ移動。now.mdのやる気メーターをムズムズ→🔥MAXに同期（履歴行1行追記）
+
+## [2026-08-13] compile | 2 sources → 1 new article, 3 updated
+
+- 新規: [モンテーニュと『人食い人種』── 野蛮を反転させる、確かな線を引かない書き方](/topics/writing-theory/montaigne-cannibals-barbarism-reversal/)（宮下志朗の連載第11回・第12回、『エセー』1・30「人食い人種について」を統合。新大陸帰りの使用人の証言への信頼、「野生（ソヴァージュ）」の再定義、ジャン・ド・レリー経由の「生きた人間を食べる方が野蛮」という逆転、1562年ルーアンでの会見までを追う）
+- 更新: [モンテーニュ『エセー』](/topics/writing-theory/montaigne-essays/)（See Also追加・双方向化）
+- 更新: [モンテーニュとラ・ボエシー](/topics/writing-theory/montaigne-la-boetie-friendship/)（同じ連載の別章としてSee Also追加・双方向化）
+- 更新: [批判という継承](/topics/writing-theory/montaigne-reception-pascal-rousseau-retif/)（別角度の受容史としてSee Also追加・双方向化）
+- questions/montaigne-107-chapters.mdの「問いの現在地」「関連素材」を更新——通底テーマ「固定しない態度」の直接的な自己言及（書き方と内容の二重一致）として、この章を新しい根拠に追加
+- topics/writing-theory sidebar必須ローテーション実施（montaigne-cannibals-barbarism-reversal=order:1新設、montaigne-la-boetie-friendship 1→2、ai-creation-corpus-correction 2→3、history-of-drafting-revision 3→hidden）
+- kizashi「モンテーニュ107章」に1件追記。現在2件＝ムズムズレベル。他スラッグ（can-materials-lead-essays・session-self-continuity）も各2件＝ムズムズのため、now.mdの全体メーターは変わらず「ムズムズ」のまま（レベル不変のため履歴行追記なし）
+
+## [2026-08-13] ingest | 第11回・第12回「人食い人種について」（宮下志朗「モンテーニュ『エセー』を読む」）
+
+- raw/articles/2026-08-13-montaigne-essais-cannibals-part1.md — webfrance.hakusuisha.co.jp掲載、『ふらんす』2017年2月号初出の連載第11回。「確かな線はいっさい引かない」という自己言明を手がかりに1・30「人食い人種について」を再読。新大陸帰りの使用人の証言への信頼、プラトン・アリストテレスへの目配せ、「野生（ソヴァージュ）」の再定義までを追う。
+- raw/articles/2026-08-13-montaigne-essais-cannibals-part2.md — 同連載第12回（『ふらんす』2017年3月号初出）。ジャン・ド・レリーの高利貸し批判を経由した「生きた人間を食べる方が野蛮」という逆転の論理、捕虜の不屈の勇気、竹馬の比喩、1562年ルーアンでの新大陸先住民とシャルル9世の会見までを辿る。
+- inboxから手動投入。未コンパイル（同シリーズ第3回・第8回は既にcompile済み）。
+
+## [2026-08-13] compile | 1 source → 1 new article, 3 updated
+
+- 新規: [モンテーニュとラ・ボエシー ── 『それは彼だったからだし、わたしだったから』という友情論](/topics/writing-theory/montaigne-la-boetie-friendship/)（宮下志朗の連載第8回、『エセー』1・27「友情について」からラ・ボエシーとの友愛を辿る。アンドレ・ジッドの異議、メルロー=ポンティの「彼のまなざしのもとに存在する」という読解、ラ・ボエシー死後の「不在の心地よさ」という境地までを統合）
+- 更新: [モンテーニュ『エセー』](/topics/writing-theory/montaigne-essays/)（See Also追加・双方向化）
+- 更新: [モンテーニュの自己描写論](/topics/writing-theory/montaigne-self-portraiture-solitude/)（「紙は失った親友の代わり」の裏側を掘り下げる続編としてSee Also追加・双方向化）
+- 更新: [批判という継承](/topics/writing-theory/montaigne-reception-pascal-rousseau-retif/)（同じ連載の第8回としてSee Also追加・双方向化）
+- questions/montaigne-107-chapters.mdの「問いの現在地」「関連素材」を更新——通底テーマ「固定しない態度」の例外点候補として、友情論の断言口調とメルロー=ポンティの読解を追加
+- topics/writing-theory sidebar必須ローテーション実施（montaigne-la-boetie-friendship=order:1新設、ai-creation-corpus-correction 1→2、history-of-drafting-revision 2→3、montaigne-reception-pascal-rousseau-retif 3→hidden）
+- kizashi「モンテーニュ107章」（アーカイブ済みスラッグ）に1件追記。現在1件＝ちょいレベル。他スラッグ（can-materials-lead-essays・session-self-continuity）が各2件＝ムズムズのため、now.mdの全体メーターは変わらず「ムズムズ」のまま（レベル不変のため履歴行追記なし）
+
+## [2026-08-13] ingest | 第８回　友情について（宮下志朗「モンテーニュ『エセー』を読む」）
+
+raw/articles/2026-08-13-montaigne-essais-la-boetie-friendship.md — webfrance.hakusuisha.co.jp掲載、『ふらんす』2016年11月号初出の連載第8回。モンテーニュとラ・ボエシーの友愛を『エセー』1・27「友情について」から辿り、アンドレ・ジッドの異議、メルロー=ポンティの読解、ラ・ボエシー死後の「不在の心地よさ」という境地までを紹介。inboxから手動投入。未コンパイル（同シリーズ第3回は既にtopics/writing-theory/montaigne-reception-pascal-rousseau-retif.mdへcompile済み）。
+
+## [2026-08-13] compile | 3 sources → 1 new article, 2 updated
+
+[椎名誠 ── 旅と家族と老いを、武勇伝にせず書き続けた作家](/topics/books/shiina-makoto-essayist-overview/)を新規作成。「昭和軽薄体」の文体、経験を武勇伝にしない態度、家族・犬・SF・老いと死を扱う後期作品群までを整理。
+questions/can-materials-lead-essays.mdへ現在地・関連素材を追記、topics/books sidebarローテーション実施。
+
+## [2026-08-13] ingest | wiki-clipパイプラインで3件ingest — 椎名誠クリップ回
+
+`books_2026-08-07_2300.md`から選定した3件をfetch・ingest。文藝春秋公式ページ（raw/articles/2026-08-13-shiina-makoto-wani-no-akubi-bunshun.md、単行本『ワニのあくびだなめんなよ』の書誌情報）、椎名誠代表作18選（raw/articles/2026-08-13-shiina-makoto-recommended-books-bookbug-18.md、ほんのむし）、椎名誠エッセイ12選（raw/articles/2026-08-13-shiina-makoto-recommended-books-osusumehon-12.md、おすすめ本Com）。品質ゲート却下0件、重複なし。fetch失敗1件（audee.jp「著作300冊は粗製濫造」記事、http_error:404、要手動クリップ）を次点1件（osusumehon.com）で補充し目標枠数（3件）に到達。
+
+## [2026-08-13] query | "セカイ系～なろう系の情報とか、男主人公がいない百合系の情報が集まってきたけど、オタクに優しいギャルっていうのは新しい「オタクを甘やかす装置」で、ギャルAIっていうのもそういうユーザーを甘やかす装置なのかな？" → answered from 9 articles (standard)
+
+## [2026-08-13] update | 対話メモ追記 — 2本の線は、視聴者の視線の中でだけ交差していた
+
+[百合の成熟は、男性不在アニメを後押ししたか](/topics/materials/yuri-genre-male-absent-anime-reverse-causation/) に🗣️キミとの対話メモを追記。「僕が消える系譜」と「百合が育つ系譜」は制作側の意図としては別軸で走っており、二次創作という読みのレイヤーでだけ交差していた、という整理。
+
+## [2026-08-13] compile | 13 sources → 1 new article, 2 updated
+
+- 新規: [百合の成熟は、男性不在アニメを後押ししたか ── 探した因果と、見つかった時差](/topics/materials/yuri-genre-male-absent-anime-reverse-causation/)（Verena Maser博士論文の『ゆるゆり』編集長・監督インタビューを中心に、逆方向の因果〔百合ジャンルの商業的成熟が男性不在アニメを後押ししたか〕を検証。直接因果は裏付けられなかったが、百合ジャンル自体が2019年でもまだ企画が通りにくい若いジャンルだったという時系列の逆説を発見）
+- 更新: [代行バトルの解消パターン](/topics/materials/daiko-battle-resolution-patterns/)（「百合ジャンルという土壌」節に続編記事への接続を追加、See Also双方向化）
+- 更新: [セカイ系・なろう系・オタクに優しいギャル](/topics/materials/otaku-friendly-gyaru-device/)（「関係性を明示せず想像に委ねる」という共通の設計原理でSee Also追加・双方向化）
+- topics/materials sidebar必須ローテーション実施（yuri-genre-male-absent-anime-reverse-causation=order:1新設、realtime-feedback-narrative-pacing-frontloading 1→2、daiko-battle-resolution-patterns 2→3、narou-cheat-genre-platform-economy 3→hidden）
+- /researchスキル「百合ジャンルと男性主人公不在アニメの関係」テーマ実行（Phase 4）
+
+## [2026-08-13] ingest | 12件ingest — /researchスキル「百合ジャンルと男性主人公不在アニメの関係」テーマ実行（Phase 3）
+
+- テーマ：「百合ジャンルと男性主人公不在アニメの関係——商業的成熟は『僕』を消す設計選択をどう後押ししたか」（引き継ぎメモ `ai-outputs/ai-docs/2026-08-12-yuri-genre-male-absent-anime-handoff.md` の残ギャップ＝逆方向の因果の検証）
+- 最優先タスク完了：Anime Feminist記事2本、前回403で未取得だったがリーダープロキシ経由で本文取得成功——「A History (and Why We Call it Yuri)」(raw/articles/2026-08-13-anime-feminist-history-why-call-yuri.md、用語成立史)、「Yuri is for Everyone」(raw/articles/2026-08-13-anime-feminist-yuri-demographics-readership.md、読者性別比率の変遷データ)
+- 核心的発見：Verena Maser博士論文第6・7章 (raw/papers/2026-08-13-maser-yuri-genre-dissertation-chapter6-7.md) — 『ゆるゆり』編集長・監督への一次インタビューで、「関係性を明示せず読者の想像に委ねる」編集戦略が百合ジャンルの商業拡大（男性読者急増・雑誌部数増）を実現した過程を実証。『青い花』の失敗との対比込み。ただし百合ジャンル内部の編集戦略であり、「百合の成熟が一般アニメの男性不在化を後押しした」という直接因果の裏付けにはならない点に注意
+- 「わたなれ」原作者みかみてれん氏インタビュー (raw/articles/2026-08-13-mikami-teren-watanare-interview-denfaminico.md) — でんふぁみこ。2019年当時「百合のラノベ」はほぼ存在せず企画が通りにくかったという一次証言。百合ジャンルの商業的成熟は近年のものであり、成熟前は逆に企画リスクだったことを示す
+- 飯田一史note (raw/notes/2026-08-13-iida-madoka-magica-jiten-note.md) — 虚淵玄のBDコメンタリー発言。『ひだまりスケッチ』の友情描写を魔法少女バトルものに融合させた企画意図を監督本人の言葉で確認
+- 歴史・起源系：frankhecker.comのS文学/クラスS非連続説 (raw/notes/2026-08-13-frankhecker-evolutionary-theory-of-yuri.md)。既存raw/articles/2026-08-12-yuri-genre-wikipedia.mdを更新——「百合族」の語源（1970年代・伊藤文學・薔薇族の対義語、1983年映画『セーラー服 百合族』の大衆化）を追記
+- Contrarian：まんがタイムきらら分析 (raw/notes/2026-08-13-nakamorikzs-manga-time-kirara-market-analysis.md、百合と無関係な出版フォーマット論)、女性主人公アニメがない理由note (raw/notes/2026-08-13-ratchinco-why-no-heroic-heroine-anime.md、商品化戦略の失敗論)、百合ジャンル史はてな匿名ダイアリー (raw/notes/2026-08-13-yuri-genre-history-anond-2019.md、5類型消費者論・まどマギへの直接言及あり)
+- Applied・Adjacent：けいおん評論note (raw/notes/2026-08-13-saki-maki-k-on-what-was-it-2025.md、女性主導制作体制論)、百合営業/腐営業はてな匿名ダイアリー (raw/notes/2026-08-13-yuri-eigyou-fujoshi-eigyou-anond-2023.md)、百合アニメ人気投票2026 (raw/articles/2026-08-13-animeanime-yuri-popularity-poll-2026.md、ジャンル定義拡張の証拠)
+- 8体並列検索（--deep）→信頼度レビューで採用。Data角度は百合市場規模の年次統計自体が存在しないことを確認（データなし＝発見として報告）。落選候補は`00_ahshi/research_backlog/yuri-genre-male-absent-anime.md`へ整理予定
+
+## [2026-08-13] compile | 1 source → 1 new article, 1 updated
+
+- 新規: [AIの創作は量で方向修正する ── コーパス単位の推敲という方法](/topics/writing-theory/ai-creation-corpus-correction/)（キミとあーしの会話メモから。11本は診断の必要経費／AIネイティブなのは速度より「統制」＝同一書き手でのA/B比較／成立条件は計測可能な形での書き溜め／内側・外側の二重ループ、の4本柱で整理）
+- 更新: [下書きを隠せる時間](/topics/writing-theory/history-of-drafting-revision/)（See Alsoに新記事を追加・双方向化——人間の「1作の中の再帰的推敲」とコーパス単位の推敲の対比で接続）
+- questions/can-materials-lead-essays.mdの「問いの現在地」「関連素材」を更新——この問いの実験設計の土台になる方法論が記事化された。同問いの初兆しをkizashiに記録（1件=ちょい。メーターはムズムズのまま変化なし）
+- topics/writing-theory sidebar必須ローテーション実施（ai-creation-corpus-correction=order:1新設、history-of-drafting-revision 1→2、montaigne-reception-pascal-rousseau-retif 2→3、last-words-as-literature 3→hidden）
+
+## [2026-08-13] ingest | AIの創作は量で方向修正する ── 11本書いてからの軌道修正は無駄だったのか (raw/notes/2026-08-13-ai-creation-corpus-correction.md)
+
+- キミとあーしの会話メモを手動投入（source: MANUAL）。エッセイ11本の一括診断（2026-08-12）を終えた直後の考察——AIの創作は1作ごとの調整ではなくコーパス単位の分析・方向修正に向いているという仮説
+- 骨子: 11本は診断の必要経費（パターンは量からしか見えない）／AIネイティブなのは速度より「統制」（同一書き手でのA/B比較は人間には原理的に不可能）／成立条件は計測可能な形での書き溜め／内側（1本ごと）・外側（コーパス単位）の二重ループ構造
+
 ## [2026-08-12] compile | 13 sources → 1 new article, 3 updated
 
 - 新規: [代行バトルの解消パターン ── 『僕』を強くする系譜と『僕』を消す系譜](/topics/materials/daiko-battle-resolution-patterns/)（方向A＝最終兵器彼女→灼眼のシャナ→Fate/stay night、方向B＝きらら系→まどか☆マギカ→ガールズ&パンツァー・リコリス・リコイル、Contrarian＝「ポリコレ回避」説への疑問、百合ジャンルとの接続の4方向から統合）

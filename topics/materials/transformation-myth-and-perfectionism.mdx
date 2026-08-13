@@ -67,6 +67,7 @@ sidebar:
 
 - [中島敦『山月記』──自意識と羞恥心が虎を生んだ](/topics/books/nakajima-zangetsuki/) ── この記事が比較神話学・心理学の側面から補強する対象本体。李徴の虎化と伝記的背景
 - [モンテーニュの自己描写論──『存在』ではなく『移り変わり』を描く](/topics/writing-theory/montaigne-self-portraiture-solitude/) ── 「内なる猛獣を書いて飼いならす」というモンテーニュの技法との対比。書いたものを世に出せるかどうかが分岐点になる
+- [椎名誠 ── 旅と家族と老いを、武勇伝にせず書き続けた作家](/topics/books/shiina-makoto-essayist-overview/) ── 老い・完璧主義というテーマの隣接記事。椎名誠の「解決しない」老いの書き方は、完璧主義とは異なる老いへの向き合い方の実例になる
 
 ## Sources
 

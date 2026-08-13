@@ -2,12 +2,12 @@
 title: "批判という継承──パスカル・ルソー・レチフはモンテーニュをどう読んだか"
 tags: [montaigne, pascal, rousseau, retif-de-la-bretonne, essais, self-writing, reception-history, confession, writing-theory]
 date: 2026-08-02
-updated: 2026-08-02
+updated: 2026-08-13
 sources: [raw/articles/2026-08-02-montaigne-essais-pascal-rousseau-retif.md]
 confidence: medium
 summary: "宮下志朗の連載第3回を基に、モンテーニュの自己描写への後世の反応を整理。パスカルの非難、ルソーの揶揄、レチフの模倣は、いずれも『わたし』を書くプロジェクトの継承でもあったという逆説。essaiの語義（試み・毒味）にも触れる。"
 sidebar:
-  order: 2
+  hidden: true
 ---
 
 
@@ -63,6 +63,9 @@ essaiという語自体の広がりも見ておきたい。判断力の「試み
 - [モンテーニュの自己描写論──『存在』ではなく『移り変わり』を描く](/topics/writing-theory/montaigne-self-portraiture-solitude/) ── ルソーの独自性主張との対比を先に扱った記事。「移り変わり」を描く技法
 - [ルソー『散歩する孤独な人の夢』──迫害された思想家が自然に還るまで](/topics/materials/rousseau-reveries/) ── ルソー側から見た「自分のために書く」
 - [モンテーニュ『エセー』107章の地形図](/questions/montaigne-107-chapters/) ── この記事が傍証を加えた問いページ
+- [モンテーニュとラ・ボエシー ── 『それは彼だったからだし、わたしだったから』という友情論](/topics/writing-theory/montaigne-la-boetie-friendship/) ── 同じ連載の第8回。後世の読者による異議という点でジッドの批判と共通する構図
+- [モンテーニュと『人食い人種』── 野蛮を反転させる、確かな線を引かない書き方](/topics/writing-theory/montaigne-cannibals-barbarism-reversal/) ── 別角度の受容史。こちらは章そのものが「わたしを書く」方法の自己言及になっている実演
+- [モンテーニュ『店の奥の部屋』── 自分を貸しても、自分を与えないという生き方](/topics/writing-theory/montaigne-self-lending-inner-room/) ── 同じ連載の第4回。「しゃべりすぎ」批判への先回りという、別の形の自己防衛
 
 ## Sources
 

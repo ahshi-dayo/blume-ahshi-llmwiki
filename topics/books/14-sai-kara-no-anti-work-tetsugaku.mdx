@@ -10,7 +10,7 @@ summary: "ホモ・ネーモ『14歳からのアンチワーク哲学』の解�
 sources:
   - "https://note.com/kaduma/n/n1ed7230c3ac3"
 sidebar:
-  order: 1
+  order: 2
 ---
 
 

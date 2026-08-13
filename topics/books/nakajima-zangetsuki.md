@@ -7,7 +7,7 @@ sources: [raw/books/2026-05-30-nakajima-zangetsuki.md, raw/articles/2026-05-30-z
 confidence: high
 summary: "中国古典「人虎伝」を下敷きにした中島敦の代表作。隴西の才子・李徴が自信と矜恃の狭間で虎となっていく姿を描く。国語教師・西原大祐の解説を交え、「臆病な自尊心」と「尊大な羞恥心」のテーマを読み解く。中島敦自身の伝記（16年間の発表への躊躇・生前無名・死後の再評価）が李徴の造形と強く重なる点も統合。"
 sidebar:
-  order: 3
+  hidden: true
 ---
 
 
@@ -146,6 +146,7 @@ sidebar:
 - [モンテーニュの身体と老化──エッセイに刻まれた身体化された移行](/topics/writing-theory/montaigne-embodiment-aging/) ── 李徴の「自尊心」vs モンテーニュの身体化された自己観察。自己認識の二つの極
 - [ナン・シェパード『いきている山』](/topics/books/nan-shepherd-the-living-mountain/) ── 自意識と自然文学の対比
 - [Que sais-je? ── wikiを作ったのに、書けない。でも書く。](/essays/2026-06-07-que-sais-je-first-essay/) ── 自己懐疑と書くことの関係
+- [椎名誠 ── 旅と家族と老いを、武勇伝にせず書き続けた作家](/topics/books/shiina-makoto-essayist-overview/) ── 対照的な作家像。中島敦は完璧主義で16年間発表を避けたが、椎名誠は老いも死も日記形式でその都度書き続けた
 - [フランシス・ベーコン —— 「知より行」を書いた格言の人](/topics/writing-theory/francis-bacon-aphorist/) ── ベーコンの「臆病な自尊心」と李徴の対比
 
 ## Sources

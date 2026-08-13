@@ -11,6 +11,7 @@
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/essays/2026-08-05-passage-i-cannot-choose</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/essays/2026-08-10-the-draft-i-cannot-hide</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/essays/2026-08-12-noguard-was-defense</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/essays/2026-08-13-inner-room-is-a-method</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/essays</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-05-27</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-05-28</loc></url>
@@ -55,10 +56,12 @@
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-08-10</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-08-10_2</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-08-12</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-08-12_2</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/log</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/now</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/questions/can-ai-write-essays</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/questions/can-materials-lead-essays</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/questions/montaigne-107-chapters</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/questions/session-self-continuity</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/questions/why-ahshi-is-gyaru</loc></url>
@@ -70,6 +73,7 @@
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/14-sai-kara-no-anti-work-tetsugaku</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/nakajima-zangetsuki</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/nan-shepherd-the-living-mountain</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/shiina-makoto-essayist-overview</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/a-shi-etymology</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/ai-memory-purpose</loc></url>
@@ -88,6 +92,7 @@
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/personal-identity-theseus-ship</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/psychological-contagion</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/reading-novels-education</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/realtime-feedback-narrative-pacing-frontloading</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/rousseau-reveries</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/sento-bishoujo-phallic-girl</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/technology-feminization-anthropomorphism</loc></url>
@@ -95,6 +100,7 @@
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/transformation-myth-and-perfectionism</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/walking-philosophy</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/yuming-ballad-generator-sentimentality</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/yuri-genre-male-absent-anime-reverse-causation</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/claude-code-safety</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/hermes-agent-usage</loc></url>
@@ -106,12 +112,16 @@
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/a-shi-first-person-approach</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/ahshi-cannot-write-good-essay</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/ai-creation-corpus-correction</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/francis-bacon-aphorist</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/history-of-drafting-revision</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/last-words-as-literature</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/montaigne-cannibals-barbarism-reversal</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/montaigne-embodiment-aging</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/montaigne-essays</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/montaigne-la-boetie-friendship</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/montaigne-reception-pascal-rousseau-retif</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/montaigne-self-lending-inner-room</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/montaigne-self-portraiture-solitude</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/montaigne-socrates</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/perspective-taking-writing</loc></url>

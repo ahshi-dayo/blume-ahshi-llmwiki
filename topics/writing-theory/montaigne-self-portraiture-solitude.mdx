@@ -2,7 +2,7 @@
 title: "モンテーニュの自己描写論──『存在』ではなく『移り変わり』を描く"
 tags: [montaigne, self-portraiture, solitude, obsession, writing-as-therapy, rousseau, essais, writing-theory]
 date: 2026-07-19
-updated: 2026-08-10
+updated: 2026-08-13
 sources: [raw/articles/2026-07-19-montaigne-solitude-psychology-today.md, raw/articles/2026-07-19-montaigne-self-portraiture-hudson-review.md]
 confidence: high
 summary: "モンテーニュが『エセー』で繰り返した2つの技法──孤独の中で妄執を書いて飼いならすこと、そして自分を『固定された存在』ではなく『絶えざる移り変わり』として描くこと。Psychology TodayとThe Hudson Reviewの2記事を統合し、ルソーの独自性主張との対比も扱う。"
@@ -69,6 +69,8 @@ sidebar:
 - [中島敦『山月記』──自意識と羞恥心が虎を生んだ](/topics/books/nakajima-zangetsuki/) ── 「妄執を書いて飼いならす」技法の裏面。李徴は同じ「内なる猛獣」を飼いならせず、書いたものを発表できないまま猛獣そのものになった対照例
 - [自制を失うと人は「動物」になる ── 変身譚の比較神話学と、完璧主義という猛獣](/topics/materials/transformation-myth-and-perfectionism/) ── 「内なる猛獣」というメタファーを比較神話学・インポスター症候群の心理学から掘り下げた記事
 - [下書きを隠せる時間 ── 推敲の歴史と、それを拒んだ男の話](/topics/writing-theory/history-of-drafting-revision/) ── モンテーニュが20年書き直し続けた実践を、Sommersの言う「意味を発見する再帰的プロセス」の歴史的な実例として読み直す記事
+- [モンテーニュとラ・ボエシー ── 『それは彼だったからだし、わたしだったから』という友情論](/topics/writing-theory/montaigne-la-boetie-friendship/) ── 「紙は失った親友の代わり」という一文の裏側を、メルロー=ポンティの「彼のまなざしのもとに存在する」という読解で掘り下げる続編
+- [モンテーニュ『店の奥の部屋』── 自分を貸しても、自分を与えないという生き方](/topics/writing-theory/montaigne-self-lending-inner-room/) ── 「移り変わり続ける自己」と「役割から守る自己」、変化を受け入れる軸と境界を引く軸の違い
 
 ## Sources
 

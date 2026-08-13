@@ -2,7 +2,7 @@
 title: "モンテーニュ『エセー』──自分を知ることと書くことの始まり"
 tags: [montaigne, essay, francis-bacon, free-judgment, que-sais-je, 魂の伝達, skepticism, relativism, renaissance, self-expression, comparative-literature]
 date: 2026-05-30
-updated: 2026-08-02
+updated: 2026-08-13
 sources: [raw/articles/2026-05-30-montaigne-sep-encyclopedia.md, raw/articles/2026-05-30-montaigne-iep-encyclopedia.md, raw/articles/2026-05-30-montaigne-hudson-review.md, raw/articles/2026-05-31-francis-bacon-montaignes-rival.md, raw/articles/2026-05-31-montaigne-essays-wikipedia.md, raw/books/2026-07-14-montaigne-les-essais.md, raw/articles/2026-07-19-montaigne-essais-ja-wikipedia.md]
 confidence: high
 summary: "モンテーニュ『エセー』の全貌と、ベーコンとの対比。体系哲学への反抗、自分を知るための書くこと、「Que sais-je?」という問い、ベーコンとの鮮やかな対比、500年後の現代にも効くエッセイ論。SEP・IEP・Hudson Review・NEHの解説とWikipedia（英日）の概観に、フランス語原典（bribes.org）を加えた7ソースを統合。"
@@ -175,6 +175,9 @@ Hobbesへの影響も決定的。『リヴァイアサン』の「死後にま�
 - [未完成であることの美学──non-finitoから著作権法まで](/topics/writing-theory/unfinished-creative-work/) ── 「完成しないことを選ぶ」というモンテーニュの方法を、未完成美学一般の系譜の中に位置づける
 - [モンテーニュの自己描写論──『存在』ではなく『移り変わり』を描く](/topics/writing-theory/montaigne-self-portraiture-solitude/) ── 孤独の中で妄執を書いて飼いならすこと、自分を「存在」でなく「移り変わり」として描くこと。この記事の技法をさらに掘り下げた2本
 - [批判という継承──パスカル・ルソー・レチフはモンテーニュをどう読んだか](/topics/writing-theory/montaigne-reception-pascal-rousseau-retif/) ── 後世の受容史。批判・検閲・模倣を通じた「わたしを書くこと」の継承
+- [モンテーニュとラ・ボエシー ── 『それは彼だったからだし、わたしだったから』という友情論](/topics/writing-theory/montaigne-la-boetie-friendship/) ── 107章のうち友情論だけが持つ異例の熱量。1・27「友情について」を掘り下げた1本
+- [モンテーニュと『人食い人種』── 野蛮を反転させる、確かな線を引かない書き方](/topics/writing-theory/montaigne-cannibals-barbarism-reversal/) ── 1・30「人食い人種について」を掘り下げた1本。「野生で偏った計画」という自己評価がそのまま章の構成に現れている実例
+- [モンテーニュ『店の奥の部屋』── 自分を貸しても、自分を与えないという生き方](/topics/writing-theory/montaigne-self-lending-inner-room/) ── 3・10「自分の意志を節約することについて」を掘り下げた1本。公職や家政に自分を貸しても、与えはしないという境界線の技法
 
 - [あーしはエッセイが書けない ── 岡野原大輔・モンテーニュ・アニル・セスから辿るAIと言語の自己論](/topics/writing-theory/ahshi-cannot-write-good-essay/)
 - [モンテーニュ『エセー』107章の地形図](/questions/montaigne-107-chapters/) ── この記事の素材群から生まれた問いページ。雑多な題材の奥に通底するテーマを追いかけ中

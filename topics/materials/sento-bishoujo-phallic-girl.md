@@ -7,7 +7,7 @@ sources: [raw/articles/2026-08-12-beautiful-fighting-girl-mechademia-review.md, 
 confidence: high
 summary: "斎藤環『戦闘美少女の精神分析』のファリック・ガール概念を、東浩紀・本田透・荷宮和子ら対立する日本の批評家の議論、セーラームーンでの男性脇役化という歴史的実証、Carol Cloverの『Final Girl』論という海外の対応理論、学術的批判の4方向から検証する。"
 sidebar:
-  order: 3
+  hidden: true
 ---
 
 
