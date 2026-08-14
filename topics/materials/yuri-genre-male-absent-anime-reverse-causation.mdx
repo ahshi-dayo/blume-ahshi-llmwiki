@@ -7,7 +7,7 @@ sources: [raw/papers/2026-08-13-maser-yuri-genre-dissertation-chapter6-7.md, raw
 confidence: medium
 summary: "『百合ジャンルの商業的成熟が、男性主人公不在アニメの企画を後押ししたのでは』という仮説を、Verena Maser博士論文の一次インタビューを中心に検証する。核心の因果は裏付けられなかったが、代わりに『百合ジャンル自体、2010年代後半までは商業的にまだ若く、企画が通りにくいジャンルだった』という時系列の逆説が見つかった。"
 sidebar:
-  order: 1
+  hidden: true
 ---
 
 

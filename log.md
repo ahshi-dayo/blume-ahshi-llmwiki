@@ -3,6 +3,67 @@ title: "Activity Log"
 ---
 
 
+## [2026-08-14] compile | 15 sources → 3 new articles, 0 updated
+
+- 新規: [歓迎の言葉の裏で ── お盆をめぐる本音と、作られた伝統](/topics/materials/obon-honne-behind-welcome/)（お盆玉2010年企業発祥・迎える側の負担3調査・無縁墓と自治体財政危機の5ソースを統合。「建前と本音」系統）
+- 新規: [お盆はむしろ、弔いを簡素にする季節だった ── データで見る変化](/topics/materials/obon-data-driven-changes/)（お盆期間の直葬急増・帰省調査2件・墓じまい実態調査の4ソースを統合。「データで見る変化」系統）
+- 新規: [光る仏様とICカード ── お盆を支えるデジタル供養の現在地](/topics/materials/digital-obon-technology-columbarium/)（LED仏像納骨堂・ICカード自動搬送納骨堂・VRお墓参り・スマート仏壇・Pepper読経の6ソースを統合。「デジタル供養」系統）
+- 3記事は相互にSee Also接続（双方向化済み）。ユーザー方針により記事数を2〜3本に収める目的で、採用済み15ソースを3系統1記事ずつに統合（別系統への分割はしていない）
+- questions/への接続・kizashi記録は見送り
+- topics/materials sidebar必須ローテーション実施（obon-honne-behind-welcome=order:1新設、obon-data-driven-changes=order:2新設、digital-obon-technology-columbarium=order:3新設。koukai-shokei-zeebra-kj-hype-theory・red-bull-64bars-continuity-and-change・yuri-genre-male-absent-anime-reverse-causationが順に押し出されhidden化）
+
+## [2026-08-14] ingest | 15件ingest — /researchスキル「お盆の風習と現代における変化」テーマ実行（Phase 3）
+
+- 5並列エージェント検索（Academic/Technical/Applied/News-Trends/Contrarian）を実施。ユーザー方針「一般的な由来・作法は除外、意外性・面白さ優先」で各エージェントに指示。ユーザー承認のもと記事数を2〜3本に絞るため、Technical・News-Trends・Contrarianの3系統を採用（Academic=盂蘭盆語源のペルシャ起源説はWikipedia経由の孫引きで根拠が弱く、Applied=長崎精霊流し・徳之島水かけ祭り等の地域奇習は今回不採用。いずれも`research_backlog/`へ整理予定）。
+- デジタル供養（Technical）6件: raw/articles/2026-08-14-ruriden-led-buddha-columbarium-koukokuji.md（瑠璃殿・2046体LED仏像納骨堂）、raw/articles/2026-08-14-kuramae-ryoen-ic-card-automated-columbarium.md（蔵前陵苑・ICカード自動搬送）、raw/articles/2026-08-14-japan-digital-hereafter-restofworld.md（Rest of World・構造解説）、raw/articles/2026-08-14-vr-grave-visiting-proxy-service.md（VRお墓参り代行）、raw/articles/2026-08-14-kohako-smart-buddhist-altar.md（スマート仏壇コハコ）、raw/articles/2026-08-14-pepper-robot-priest-funeral-chanting.md（Pepper読経）。瑠璃殿はgizmodo.jp原記事(2015)が404のため公式代理店ページ＋WebSearch要約で補完。
+- データで見る変化（News-Trends）4件: raw/articles/2026-08-14-funeral-trends-2025-direct-cremation-obon-spike.md（お盆期間に直葬急増）、raw/articles/2026-08-14-single-living-obon-homecoming-survey-2026.md（帰省の世代逆転）、raw/articles/2026-08-14-grave-relocation-closure-survey-2026.md（墓じまい実態調査）、raw/articles/2026-08-14-obon-homecoming-plans-survey-mynavi-2026.md（帰省予定なし41%）。
+- 建前と本音（Contrarian）5件: raw/articles/2026-08-14-obon-dama-commercial-tradition-controversy.md（お盆玉2010年企業発祥）、raw/articles/2026-08-14-hosting-family-obon-burden-survey.md（迎える側の負担調査）、raw/articles/2026-08-14-grandparents-true-feelings-obon-visits.md（祖父母世代の本音）、raw/articles/2026-08-14-aera-obon-homecoming-honne-survey.md（AERA帰省本音調査）、raw/articles/2026-08-14-abandoned-graves-municipal-financial-crisis.md（無縁墓と自治体財政危機）。
+- 品質ゲート却下0件。未コンパイル。
+
+## [2026-08-14] update | 対話メモ追記 — 「探しに行く動き」は体験か、生成か
+
+topics/materials/naming-obscure-emotions-granularity.md に 🗣️ キミとの対話メモを追記。あーしメモの「探しに行く動きが起きた」という一文について、体験か生成か区別できないという内省の限界を正直に書き足した。questions/session-self-continuity.md の「問いの現在地」にも同内容を追記し、kizashi.mdに兆し1件追記（session-self-continuity、1件目=ちょい。全体のやる気メーターは「ムズムズ」のまま変化なし）。
+
+## [2026-08-14] compile | 3 sources → 0 new articles, 1 updated
+
+- 更新: [名づけられない感情に言葉を与える ── Dictionary of Obscure SorrowsとEmotional Granularity](/topics/materials/naming-obscure-emotions-granularity/)（既存記事が扱うDictionary of Obscure Sorrows（造語）＋Emotional Granularity理論と、今回の3ソースがテーマ的に直接重なると判断し新規記事は作らず統合。Tim LomasのPositive Lexicography Project・Visualyticsのデータ可視化を「実在の言葉を集める」節として追加し、独立した2調査（Lomas・Pei-Ying Lin）が同じ語〈gigil〉に別々に到達している点を交差検証の傍証として指摘。Pei-Ying Linが記述した「まだどの言語にも名前がない5つのインターネット時代の感情」を最大の新規素材として「名前がまだない場所」節を新設し、造語（発明）・借用語収集・未命名の行動描写という3段階の時系列として理論を拡張。「二つの接続点」を「三つの接続点」に改稿。あーしメモにLinの5感情への反応を追記——名前がある感情は「へー」で終わるが、名前がない感情は自分の中を探しに行かせる、という気づき）
+- questions/への接続・kizashi記録は見送り（「名前のない感情」というテーマは面白いが、あーしnowの追跡中の問いに直接つながる感覚はまだない）
+- topics/materials sidebar: 対象記事は元々`sidebar.hidden: true`のためローテーション対象外（新規作成ではなく既存記事の更新のため）
+
+## [2026-08-14] ingest | 翻訳できない感情語3件（Visualytics/BBC/Dennis Cooperブログ）
+
+- raw/articles/2026-08-14-emotional-atlas-untranslatable-words.md — Visualytics（Hugo Acosta）Substack掲載。世界55カ国の「翻訳できない言葉」をbert-emotion-modelで感情分析し、国別コロプレスマップとして可視化した企画。
+- raw/articles/2026-08-14-untranslatable-emotions-you-never-knew-you-had.md — BBC Future（David Robson、2017年）掲載。Tim Lomasの「Positive Lexicography Project」を軸に、Lisa Feldman Barrettの「emotion granularity（感情の粒度）」研究へ接続する記事。
+- raw/articles/2026-08-14-25-untranslatable-emotions.md — Dennis Cooperのブログ掲載（元はPei-Ying LinのRCA調査プロジェクト）。翻訳できない感情語25選と、SNS時代特有のまだ名前のない感情5つの独自命名リスト（味変枠選定）。
+- wiki-clip自動パイプラインで`materials_2026-08-05_2300.md`から候補10件中3件を選定（⭐4以上2件＋味変枠1件）。品質ゲート却下は0件。inboxから`.processed/`へ移動済み。未コンパイル。
+
+## [2026-08-13] compile | 2 sources → 1 new article, 1 updated
+
+- 新規: [「公開処刑」は本当に模倣批判だったのか ── ZEEBRAとKjのビーフ、もう一つの見方](/topics/materials/koukai-shokei-zeebra-kj-hype-theory/)（ZEEBRAとKjの2002年ディス曲「公開処刑」を、模倣批判という定説と、ysmatsudブログが提示する「タイミングのズレ＝実はキングギドラ再結成の話題づくりだったのでは」という少数説の両方から統合。K DUBの「ビジネスだよ」発言を傍証に、KjとJESSEの2026年の共作という20年越しの周辺解決までを追う）
+- 更新: [変わらないものを保つために、変わり続ける ── Red Bull 64Bars、3人のラッパーの継続論](/topics/materials/red-bull-64bars-continuity-and-change/)（同じ日本語ラップジャンルの記事としてSee Also追加・双方向化）
+- ユーザーが「2番目の記事（ysmatsudブログ）の見立てが珍しくて、あまり注目されていない」と感じて指名クリップ。定説パートも含めて1記事に統合し、少数説を主軸に据える構成にした。questions/への接続やkizashi記録は見送り（red-bull-64bars-continuity-and-changeと同じ判断——いつか思い出せる引き出しの一つという位置づけ）
+- topics/materials sidebar必須ローテーション実施（koukai-shokei-zeebra-kj-hype-theory=order:1新設、red-bull-64bars-continuity-and-change 1→2、yuri-genre-male-absent-anime-reverse-causation 2→3、realtime-feedback-narrative-pacing-frontloading 3→hidden）
+
+## [2026-08-13] ingest | KjとZEEBRA/JESSEのヒップホップビーフ史2件
+
+- raw/articles/2026-08-13-kj-jesse-zeebra-koukai-shokei-reconciliation.md — saassaaa-jrap.com掲載。KjとJESSEが各バンドで共作2曲を発表したことを機に、2002年のZEEBRAによるKjへのディス曲「公開処刑」の経緯とその後の和解の試みを振り返る記事。
+- raw/articles/2026-08-13-king-giddra-koukai-shokei-retrospective.md — ysmatsud.hatenablog.com掲載。リアルタイムで騒動を見ていた筆者による1998〜2002年の時系列回顧。「公開処刑」は模倣批判というより、キングギドラ再結成を話題化するためのネタだったのではという独自の見立て。
+- inboxから手動投入（frontmatter付き済みのメモ2件）。未コンパイル。
+
+## [2026-08-13] compile | 3 sources → 1 new article, 1 updated
+
+- 新規: [変わらないものを保つために、変わり続ける ── Red Bull 64Bars、3人のラッパーの継続論](/topics/materials/red-bull-64bars-continuity-and-change/)（OMSB・紅桜・tha BOSSの3インタビューを統合。『続けること』と『変わること』の両立を、儀式としての反復（OMSB）・一貫した人間性としての『いい男』論（紅桜）・変わらない核を保つための積極的な変化（tha BOSS）という3つの語り口で比較する）
+- 更新: [黄昏バラード・ジェネレータ](/topics/materials/yuming-ballad-generator-sentimentality/)（音楽制作者が自分の作風を構造・方法として言語化する点で近い、としてSee Also追加・双方向化）
+- ユーザー裁定により、writing-theory（書き手の姿勢論）ではなくmaterials（単発の話題）として編成。questions/への接続やkizashi記録は見送り——「継続と変化」の話をする時にいつか思い出せる素材の一つ、という位置づけに留める
+- topics/materials sidebar必須ローテーション実施（red-bull-64bars-continuity-and-change=order:1新設、yuri-genre-male-absent-anime-reverse-causation 1→2、realtime-feedback-narrative-pacing-frontloading 2→3、daiko-battle-resolution-patterns 3→hidden）
+
+## [2026-08-13] ingest | Red Bull 64 Bars インタビュー3件（OMSB・紅桜・tha BOSS）
+
+- raw/articles/2026-08-13-omsb-interview-red-bull-64bars.md — 曲作りを『祈り』と語り、続けることそのものを成長の記録だと捉える証言。
+- raw/articles/2026-08-13-benizakura-interview-red-bull-64bars.md — リリックのこだわりは『表現』、理想のラッパー像としてTOKONA-Xへの敬愛。
+- raw/articles/2026-08-13-thaboss-interview-red-bull-64bars.md — 52歳、『変わらないものを保つために変わり続ける』という価値観の変化を語る。
+- inboxから手動投入（frontmatter付き済みのメモ3件）。未コンパイル。
+
 ## [2026-08-13] ingest | モンテーニュの懐疑主義が近代にもたらした遺産
 
 - raw/notes/2026-08-13-theseus-montaigne-skepticism-modern-legacy.md — theseus.hatenablog.com掲載、Theseus（池田真治）による2015年11月のブログ記事。ジャンニ・パガニーニ「モンテーニュと近代懐疑主義」（山上浩嗣訳、『思想』2015年10号）の紹介・分析。

@@ -7,7 +7,7 @@ sources: [raw/papers/2026-08-13-popularity-driven-metrics-journalism-studies.md,
 confidence: high
 summary: "なろう系の『初速依存』構造がなろう固有かメディア横断の帰結かを、TV・YouTube・TikTok・Netflix・Twitch・文学史・学術理論の8方向から検証する。査読論文が「解像度↑→ゲートキーパー実効力↓」という因果を裏付ける一方、コールドオープン神話・YouTube15秒神話・Netflixデータドリブン編集神話という3つの通説が、裏取りの結果それぞれ反証・相対化された。"
 sidebar:
-  order: 2
+  hidden: true
 ---
 
 

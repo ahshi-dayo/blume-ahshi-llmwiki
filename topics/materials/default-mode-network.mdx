@@ -5,7 +5,7 @@ date: 2026-06-01
 updated: 2026-07-13
 confidence: high
 summary: "脳のデフォルトモードネットワーク（DMN）の全体像。何もしていないときに脳が自己参照処理を行い、創造性・内的ナラティブ・他者理解を生むメカニズム。Vinod MenonインタビューとDMN-創造性研究の2ソースを統合。"
-tags: [neuroscience, dmn, default-mode-network, mind-wandering, creativity, consciousness, self, vinod-menon, emmanuelle-volle, roger-beaty]
+tags: [neuroscience, dmn, mind-wandering, creativity, consciousness, self, vinod-menon, emmanuelle-volle, roger-beaty]
 sources:
   - raw/articles/2026-06-01-dmn-creativity.md
   - raw/articles/2026-06-01-menon-dmn-interview.md

@@ -6,7 +6,7 @@ tags: [hermes-agent, web-search, web-extract, search-backend, ddgs, bing, serper
 confidence: high
 summary: "Hermes Agentの`web_search`・`web_extract`バックエンド選定ガイド。各バックエンド（DuckDuckGo/Bing/Serper/Tavily 等）の特徴、料金、制限事項を比較。DDGSレート制限の回避方法と代替案。"
 sources:
-  - "https://hermes-agent.nousresearch.com/docs/user-guide/features/web-and-search"
+  - "https://hermes-agent.nousresearch.com/docs/user-guide/features/web-search"
 sidebar:
   hidden: true
 ---

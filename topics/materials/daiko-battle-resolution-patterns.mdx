@@ -7,7 +7,7 @@ sources: [raw/articles/2026-08-12-saishu-heiki-kanojo-wikipedia.md, raw/articles
 confidence: medium
 summary: "本田透の『代行バトル』論（女性キャラが戦い、男性主人公は無力）が、その後の作品でどう解消されてきたかを2方向で辿る。『僕』自身を強くする方向（最終兵器彼女→灼眼のシャナ→Fate/stay night）と、『僕』という主語自体を消す方向（きらら系→まどか☆マギカ→ガールズ&パンツァー・リコリス・リコイル）。ただし2方向を『系譜』として並べる整理そのものは既存批評の追認ではなく、この記事独自の統合であることを明記する。"
 sidebar:
-  order: 3
+  hidden: true
 ---
 
 

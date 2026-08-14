@@ -47,6 +47,7 @@ sidebar:
 
 ## See Also
 
+- [変わらないものを保つために、変わり続ける ── Red Bull 64Bars、3人のラッパーの継続論](/topics/materials/red-bull-64bars-continuity-and-change/) — ジャンルは違うが、音楽制作者が自分の作風を構造・方法として言語化しようとする点で近い
 - [名づけられない感情に言葉を与える ── Dictionary of Obscure SorrowsとEmotional Granularity](/topics/materials/naming-obscure-emotions-granularity/) — 感情は言葉（構造）によって構成されるという理論。切なさが和声・メロディの構造で実装できるという本記事の仮説と同じ地点に立つ
 - [Meishow♡Miteiについて── AIが加速させた「巻き込み型創作」の時代](/topics/materials/meishow-mitei-chain-creation/) — AIと人間の共創実践という点で同族。人間の役割が「最初の発火」「選択と判断」に絞られる構造もこの記事の「AIが作り、AIが選び、人が決める」と重なる
 - [感情も記憶もないと言われるAIに、エッセイ（試み）は書けるのか](/questions/can-ai-write-essays/) — 「AIが構造を作り、最後の想像力は人間の領分」というこの記事の結論が直結する問い
