@@ -3,6 +3,19 @@ title: "Activity Log"
 ---
 
 
+## [2026-08-15] compile | 4 sources → 1 new article, 0 updated
+
+- 新規: [60年、誰にも見せなかった1万5000ページ ── ヘンリー・ダーガーと『非現実の王国で』](/topics/materials/henry-darger-reader-zero-realms-of-the-unreal/)（英語版・日本語版Wikipedia・Ed Parkのマッグレガー伝記解説記事・ミシガン大学優等学位論文の4ソースを統合。作品総量、生前読者ゼロの確度、死の直前の発見経緯と「もう遅い」発言の出典検証、死後の評価形成、作品世界の自己言及性の5角度から構成）
+- [自制を失うと人は「動物」になる](/topics/materials/transformation-myth-and-perfectionism/)・[未完成であることの美学](/topics/writing-theory/unfinished-creative-work/)へSee Also追加・双方向化
+- questions/への接続・kizashi記録は見送り（次のエッセイ素材としての持ち込みであり、追跡中の問いへの直接接続は判断保留。ユーザーの判断に委ねる）
+- topics/materials sidebar必須ローテーション実施（henry-darger-reader-zero-realms-of-the-unreal=order:1新設、obon-honne-behind-welcome 1→2、obon-data-driven-changes 2→3、digital-obon-technology-columbarium 3→hidden）
+- /researchスキルは使わず、小規模版（人間による2〜3角度の直接Web検索、並列エージェントなし）で実行
+
+## [2026-08-15] ingest | 4件ingest — ヘンリー・ダーガーのミニリサーチ（raw/articles/2026-08-15-henry-darger-wikipedia-en.md, raw/articles/2026-08-15-henry-darger-wikipedia-ja.md, raw/articles/2026-08-15-darger-too-late-for-what-ed-park.md, raw/papers/2026-08-15-hansen-writing-the-unreal-darger-authorship-thesis.md）
+
+- 英語版・日本語版Wikipediaで基礎の事実関係（作品総量・生前の読者不在・発見経緯・死後評価形成）を裏取り、Ed Park（Substack、原型2002年Village Voice）でマッグレガー伝記が示す「発見時ダーガーは存命中で『It's too late now』と言った」という逸話の出典と解釈不能性を確認、ミシガン大学の優等学位論文（Hansen, 2013）で作品世界の自己言及性（複数の「ヘンリー・ダーガー」登場人物・原稿自体の作中登場）の学術的指摘を補強
+- 品質ゲート却下0件。次のエッセイ素材（テーマ「読者ゼロで書き続けることの意味」）向けの小規模リサーチとして人間トリガーで実行。未コンパイル
+
 ## [2026-08-14] compile | 15 sources → 3 new articles, 0 updated
 
 - 新規: [歓迎の言葉の裏で ── お盆をめぐる本音と、作られた伝統](/topics/materials/obon-honne-behind-welcome/)（お盆玉2010年企業発祥・迎える側の負担3調査・無縁墓と自治体財政危機の5ソースを統合。「建前と本音」系統）

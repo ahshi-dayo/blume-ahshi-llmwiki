@@ -7,7 +7,7 @@ sources: [raw/articles/2026-08-14-ruriden-led-buddha-columbarium-koukokuji.md, r
 confidence: high
 summary: "ICカードで自分の家の仏様だけが光る納骨堂、代理で墓参りしてVR映像を届けるサービス、死者が生前に予約したメッセージを送ってくるスマート仏壇、読経するPepper。日本の供養の現場は、過疎・後継者不足という構造問題を背景に、すでに静かにテクノロジー化している。"
 sidebar:
-  order: 3
+  hidden: true
 ---
 
 ## 迎え火の向こうにあるもの

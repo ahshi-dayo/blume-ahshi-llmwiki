@@ -57,6 +57,7 @@ Stanford Encyclopedia of Philosophyがモンテーニュの「開かれた断片
 - [モンテーニュの自己描写論──『存在』ではなく『移り変わり』を描く](/topics/writing-theory/montaigne-self-portraiture-solitude/) ── 「移り変わりを描く」ことと「完成させない」ことは同じ選択の裏表
 - [遺書と辞世の句 ── 死の間際の言葉を文学として読むということ](/topics/writing-theory/last-words-as-literature/) ── 「終わりを先延ばしにする」美学とは対照的に、「終わりを言葉で完結させる」ジャンルを扱う記事
 - [下書きを隠せる時間 ── 推敲の歴史と、それを拒んだ男の話](/topics/writing-theory/history-of-drafting-revision/) ── 完成を無期限に延期する美学は、ケルアックの「即座に検閲なしで出す」姿勢の対極にある
+- [60年、誰にも見せなかった1万5000ページ ── ヘンリー・ダーガーと『非現実の王国で』](/topics/materials/henry-darger-reader-zero-realms-of-the-unreal/) ── ダーガー自身は作品を「完成した、史上最高のフィクション」だと考えていた。未完成だったのは作品ではなく、それが世に出るタイミングという、この記事の3分類にない変則パターン
 
 ## Sources
 

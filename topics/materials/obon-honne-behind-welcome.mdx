@@ -7,7 +7,7 @@ sources: [raw/articles/2026-08-14-obon-dama-commercial-tradition-controversy.md,
 confidence: high
 summary: "「孫に会えてうれしい」という定番の物語の裏で、迎える側の約4割は歓迎一辺倒ではない。2010年に企業が作った「お盆玉」という新しい伝統、そして先祖を迎える場所そのものである墓の半数近くが無縁化している現実まで、お盆の建前を支える基盤は静かに揺らいでいる。"
 sidebar:
-  order: 1
+  order: 2
 ---
 
 ## 「孫に会えてうれしい」の裏側
