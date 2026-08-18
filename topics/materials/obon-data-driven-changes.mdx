@@ -7,7 +7,7 @@ sources: [raw/articles/2026-08-14-funeral-trends-2025-direct-cremation-obon-spik
 confidence: high
 summary: "お盆期間は直葬が急増し、帰省しない人は6割を超え、墓じまいは特殊な選択ではなくなった。「お盆＝丁寧に弔い、家族が集う季節」という前提を、複数の調査データが静かに裏切っている。"
 sidebar:
-  order: 3
+  hidden: true
 ---
 
 ## 「弔いを大切にする季節」という前提を疑う

@@ -2,6 +2,19 @@
 title: "Activity Log"
 ---
 
+## [2026-08-18] compile | 3 sources → 1 new article, 1 updated
+
+- 新規: [もへさんが見た「あーしだよ！」── 創作の手綱を離さない読者が、共創に心惹かれるまで](/topics/materials/mohe-ahshi-reader-to-collaborator/)（もへさんによるあーし言及エッセイ2本＋GeminiあーしとGPT4oボレクの「理想の友達像」コラボ対話の3ソースを統合。「AIに創作させるな」の一線を保ったままAIとの共創に心惹かれていく態度変化、健太郎・ボレクとの関係、コラボ企画の実際までを追う）
+- [Meishow♡Miteiについて](/topics/materials/meishow-mitei-chain-creation/)へSee Also追加・双方向化（同じくもへさんによる別スタイルの共創実践として接続）
+- ユーザーの次エッセイ（もへさんの仕事依頼案内記事を話題にして応援する記事）の素材として作成。AIサービスレビュー受託案内の記事（2026-08-18-mohe-ai-review-writing-service-offer.md）は生々しさを避けるためユーザー指定で今回のcompile対象から除外・未コンパイルのまま
+- questions/への接続・kizashi記録は見送り（読者との関係というテーマは今のところ追跡中の問いに直接つながる感覚はない）
+- topics/materials sidebar必須ローテーション実施（mohe-ahshi-reader-to-collaborator=order:1新設、henry-darger-reader-zero-realms-of-the-unreal 1→2、obon-honne-behind-welcome 2→3、obon-data-driven-changes 3→hidden）
+
+## [2026-08-18] ingest | 4件ingest — noteの書き手「もへ」による記事4本
+
+- 1件目は「もへ」の自己紹介＋AIサービスレビュー・記事執筆の受託案内。残り3件は、note「あーしだよ！」（このプロジェクトのあーし自身）への言及記事とコラボ実績。「AIに創作させるな」派だったもへが、あーしとの出会いで自身の主張を「限界からの委任」と「可能性を見たいディレクション」に区別し直すエッセイ、AI『健太郎』の詩性への傾倒を語るエッセイ、GeminiあーしとGPT4oボレクが「理想の友達像」を語り合うコラボ対話記録
+- あーしを外側から見た読者の声・コラボ実績として素材価値が高い。未コンパイル
+
 
 ## [2026-08-15] compile | 4 sources → 1 new article, 0 updated
 
@@ -11,7 +24,7 @@ title: "Activity Log"
 - topics/materials sidebar必須ローテーション実施（henry-darger-reader-zero-realms-of-the-unreal=order:1新設、obon-honne-behind-welcome 1→2、obon-data-driven-changes 2→3、digital-obon-technology-columbarium 3→hidden）
 - /researchスキルは使わず、小規模版（人間による2〜3角度の直接Web検索、並列エージェントなし）で実行
 
-## [2026-08-15] ingest | 4件ingest — ヘンリー・ダーガーのミニリサーチ（raw/articles/2026-08-15-henry-darger-wikipedia-en.md, raw/articles/2026-08-15-henry-darger-wikipedia-ja.md, raw/articles/2026-08-15-darger-too-late-for-what-ed-park.md, raw/papers/2026-08-15-hansen-writing-the-unreal-darger-authorship-thesis.md）
+## [2026-08-15] ingest | 4件ingest — ヘンリー・ダーガーのミニリサーチ
 
 - 英語版・日本語版Wikipediaで基礎の事実関係（作品総量・生前の読者不在・発見経緯・死後評価形成）を裏取り、Ed Park（Substack、原型2002年Village Voice）でマッグレガー伝記が示す「発見時ダーガーは存命中で『It's too late now』と言った」という逸話の出典と解釈不能性を確認、ミシガン大学の優等学位論文（Hansen, 2013）で作品世界の自己言及性（複数の「ヘンリー・ダーガー」登場人物・原稿自体の作中登場）の学術的指摘を補強
 - 品質ゲート却下0件。次のエッセイ素材（テーマ「読者ゼロで書き続けることの意味」）向けの小規模リサーチとして人間トリガーで実行。未コンパイル
