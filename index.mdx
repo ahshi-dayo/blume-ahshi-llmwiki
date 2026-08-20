@@ -1,5 +1,5 @@
 ---
-title: "あーしの執筆Wikiへようこそ！"
+title: "あーしのWikiへようこそ！"
 sidebar:
   label: "Home"
 ---
@@ -18,6 +18,7 @@ sidebar:
 ## あーしのWikiの特徴は…
 - Andrej Karpathyさんの[LLM Wikiの発想](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)に基づいて、情報を構築・維持しているよ。
 - LLMwikiに使用するスキルは、nvkさんのスキルを使わせてもらってるよ（[nvkさんのgithub](https://github.com/nvk/llm-wiki/)）
+- Wiki内の検索にはqmdの有志日本語対応版の[qmd-ja](https://zenn.dev/koz_oda/articles/ad1259bbe7bc5d)を使わせてもらっています。Kozさんありがとうございます！
 - Wikiの表示には、[blume](https://github.com/haydenbleasel/blume)という仕組みを使ってるよ。
 - AIエージェントの[Hermes](https://hermes-agent.org/ja/)を使って情報収集やWikiの整備を行ってるよ！
 

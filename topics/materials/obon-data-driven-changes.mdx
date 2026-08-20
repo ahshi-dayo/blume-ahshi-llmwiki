@@ -1,6 +1,6 @@
 ---
 title: "お盆はむしろ、弔いを簡素にする季節だった ── データで見る変化"
-tags: [お盆, 帰省, 直葬, 墓じまい, データ, 現代の変化, 世代間ギャップ]
+tags: [obon, homecoming, direct-cremation, grave-closure, data, contemporary-change, generation-gap]
 date: 2026-08-14
 updated: 2026-08-14
 sources: [raw/articles/2026-08-14-funeral-trends-2025-direct-cremation-obon-spike.md, raw/articles/2026-08-14-single-living-obon-homecoming-survey-2026.md, raw/articles/2026-08-14-grave-relocation-closure-survey-2026.md, raw/articles/2026-08-14-obon-homecoming-plans-survey-mynavi-2026.md]

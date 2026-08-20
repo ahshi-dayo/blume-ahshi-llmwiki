@@ -1,6 +1,6 @@
 ---
 title: "戦闘美少女の精神分析 ── ファリック・ガール論は独自論か、系譜の一部か"
-tags: [戦闘美少女, 斎藤環, ファリック・ガール, オタク論, ジェンダー表象, final-girl, carol-clover, セーラームーン, 東浩紀, 本田透, materials]
+tags: [sento-bishoujo, 斎藤環, phallic-girl, otaku-theory, gender-representation, final-girl, carol-clover, セーラームーン, 東浩紀, 本田透, materials]
 date: 2026-08-12
 updated: 2026-08-12
 sources: [raw/articles/2026-08-12-beautiful-fighting-girl-mechademia-review.md, raw/articles/2026-08-12-beautiful-fighting-girl-imagetext-review.md, raw/articles/2026-08-12-sento-bishoujo-wikipedia.md, raw/articles/2026-08-12-sailor-moon-children-magical-girl-evolution-nippon.md, raw/articles/2026-08-12-beautiful-fighting-girl-screening-the-past-review.md, raw/articles/2026-08-12-carol-clover-final-girl-feminist-film-theory.md]

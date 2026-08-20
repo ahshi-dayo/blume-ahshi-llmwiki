@@ -1,6 +1,6 @@
 ---
 title: "光る仏様とICカード ── お盆を支えるデジタル供養の現在地"
-tags: [お盆, デジタル供養, 納骨堂, テクノロジー, 多死社会, 終活]
+tags: [obon, digital-memorial, columbarium, technology, mass-death-society, shukatsu]
 date: 2026-08-14
 updated: 2026-08-14
 sources: [raw/articles/2026-08-14-ruriden-led-buddha-columbarium-koukokuji.md, raw/articles/2026-08-14-kuramae-ryoen-ic-card-automated-columbarium.md, raw/articles/2026-08-14-japan-digital-hereafter-restofworld.md, raw/articles/2026-08-14-vr-grave-visiting-proxy-service.md, raw/articles/2026-08-14-kohako-smart-buddhist-altar.md, raw/articles/2026-08-14-pepper-robot-priest-funeral-chanting.md]

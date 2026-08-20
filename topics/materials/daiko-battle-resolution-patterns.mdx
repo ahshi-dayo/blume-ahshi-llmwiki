@@ -1,6 +1,6 @@
 ---
 title: "代行バトルの解消パターン ── 『僕』を強くする系譜と『僕』を消す系譜"
-tags: [代行バトル, 本田透, まどか☆マギカ, きらら系, 灼眼のシャナ, fate-stay-night, 最終兵器彼女, ガールズ&パンツァー, リコリス・リコイル, 百合, materials]
+tags: [daiko-battle, 本田透, まどか☆マギカ, kirara-genre, 灼眼のシャナ, fate-stay-night, 最終兵器彼女, ガールズ&パンツァー, リコリス・リコイル, yuri, materials]
 date: 2026-08-12
 updated: 2026-08-13
 sources: [raw/articles/2026-08-12-saishu-heiki-kanojo-wikipedia.md, raw/articles/2026-08-12-shakugan-no-shana-wikipedia.md, raw/articles/2026-08-12-fate-stay-night-wikipedia.md, raw/notes/2026-08-12-sekaikei-weak-boy-strong-girl-blog.md, raw/articles/2026-08-12-manga-time-kirara-wikipedia.md, raw/articles/2026-08-12-k-on-wikipedia.md, raw/notes/2026-08-12-ume-aoki-madoka-magica-interview-official-note.md, raw/articles/2026-08-12-madoka-magica-deconstruction-shoujo-flow-journal.md, raw/articles/2026-08-12-girls-und-panzer-mizushima-interview.md, raw/articles/2026-08-12-lycoris-recoil-adachi-interview.md, raw/notes/2026-08-12-madoka-magica-male-characters-as-villains-blog.md, raw/articles/2026-08-12-yuri-genre-wikipedia.md, raw/notes/2026-08-12-yuri-history-until-you-become-mine-utokyo.md]

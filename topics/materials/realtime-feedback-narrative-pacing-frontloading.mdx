@@ -1,6 +1,6 @@
 ---
 title: "リアルタイム評価が芸術のペース配分を前倒しにする ── なろうからTV・YouTube・Netflix・Twitchまで"
-tags: [リアルタイム評価, アテンションエコノミー, ゲートキーピング, プラットフォーム経済, ペース配分, フック文化, なろう系, materials]
+tags: [realtime-feedback, attention-economy, gatekeeping, platform-economy, pacing, hook-culture, narou-genre, materials]
 date: 2026-08-13
 updated: 2026-08-13
 sources: [raw/papers/2026-08-13-popularity-driven-metrics-journalism-studies.md, raw/papers/2026-08-13-audience-in-the-loop-microdrama-chi2026.md, raw/articles/2026-08-13-cold-open-wikipedia.md, raw/articles/2026-08-13-channel-surfing-wikipedia.md, raw/articles/2026-08-13-zapping-museum-broadcast-communications.md, raw/articles/2026-08-13-how-tiktok-recommends-videos-official.md, raw/papers/2026-08-13-monolith-tiktok-realtime-recommendation-arxiv.md, raw/articles/2026-08-13-youtube-audience-retention-intro-metric-help.md, raw/papers/2026-08-13-netflix-big-data-strategic-ambivalence-van-es.md, raw/notes/2026-08-13-mrbeast-colin-samir-interview-transcript.md, raw/articles/2026-08-13-netflix-algorithm-myth-entertainment-strategy-guy.md, raw/articles/2026-08-13-cutting-2010-movie-editing-pattern-cornell-chronicle.md, raw/articles/2026-08-13-average-shot-length-genre-stephen-follows.md, raw/articles/2026-08-13-victorian-serial-novels-dickens-martin-chuzzlewit.md, raw/articles/2026-08-13-nell-trent-wikipedia.md, raw/notes/2026-08-13-in-defense-of-slow-burn-crime-story.md, raw/articles/2026-08-13-streamer-toolkit-audience-retention-analytics.md]

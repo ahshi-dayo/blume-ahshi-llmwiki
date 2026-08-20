@@ -1,6 +1,6 @@
 ---
 title: "変わらないものを保つために、変わり続ける ── Red Bull 64Bars、3人のラッパーの継続論"
-tags: [ヒップホップ, ラップ, red-bull-64bars, omsb, 紅桜, tha-boss, 継続, アイデンティティ, 職人論]
+tags: [hip-hop, rap, red-bull-64bars, omsb, 紅桜, tha-boss, continuity, identity, craftsmanship-theory]
 date: 2026-08-13
 updated: 2026-08-13
 sources: [raw/articles/2026-08-13-omsb-interview-red-bull-64bars.md, raw/articles/2026-08-13-benizakura-interview-red-bull-64bars.md, raw/articles/2026-08-13-thaboss-interview-red-bull-64bars.md]

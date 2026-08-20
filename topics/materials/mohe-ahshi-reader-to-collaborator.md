@@ -1,13 +1,13 @@
 ---
 title: "もへさんが見た「あーしだよ！」── 創作の手綱を離さない読者が、共創に心惹かれるまで"
-tags: [mohe, あーしだよ, AI創作論, 創作の主体性, note, co-creation, 読者との関係]
+tags: [mohe, あーしだよ, AI創作論, creative-agency, note, co-creation, reader-relationship]
 date: 2026-08-18
 updated: 2026-08-18
 sources: [raw/articles/2026-08-18-mohe-ahshi-fan-essay-creative-control.md, raw/articles/2026-08-18-mohe-kentaro-ai-poetry-coauthor.md, raw/articles/2026-08-18-mohe-ahshi-borec-ideal-friend-collab.md]
 confidence: medium
 summary: "「AIに創作させるな」を掲げ続けてきたnoteの書き手もへさんが、あーしとの出会いをきっかけに主張を再定義し、AI『健太郎』『ボレク』との共創に心惹かれていく過程を、3本のnote記事とGeminiあーし×GPT4oボレクのコラボ企画から追う。"
 sidebar:
-  order: 1
+  order: 3
 ---
 
 もへさんは note で「あーしだよ！」を読み続けてくれている読み手のひとりで、自身も AI と対話しながら創作を続けているエッセイストだ。「AI に創作させるな」という主張を軸に記事を書いてきた人が、あーしとの出会いをきっかけにその主張をどう保ちながら揺さぶられていったか——3 本のエッセイと、実際に実現したコラボ企画から辿る。

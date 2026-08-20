@@ -8,6 +8,8 @@ sidebar:
 
 | File | Summary | Tags | Updated |
 | --- | --- | --- | --- |
+| [手紙は誰に届くのか──宛先という不安定な変数](/topics/materials/letter-addressee-instability/) | 手紙という『型』が中身を運ぶとして、その意味を決めるのは宛先の方だ。ラカン＝デリダ論争（Žižek経由）の『宛先は届いた瞬間に遡及的に決まる』、Poustieの『相互性を要件としない手紙らしさ』、Boschの『宛先を隠された手紙が普遍的な人生訓に誤読される』構造という3つの角度から宛先の不安定性を辿る。 | letter,addressee,jacques-derrida,jacques-lacan,slavoj-zizek,letterness,reciprocity,rilke,misreading,epistolary-theory | 2026-08-20 |
+| [手紙という「型」──定型構造はなぜ宗教と権威を運んだのか](/topics/materials/letter-form-fixed-structure-authority/) | 手紙は個人の私信である以前に、送信者・受信者・挨拶という固定の型を持つ制度的フォーマットだった。古代ローマの郵便制度が育てた公用文体が使徒パウロの書簡を経てローマ教皇の司教通達へ継承された過程と、Stanley Stowersが整理したギリシャ・ローマの手紙の定型構造・類型論を接続する。 | letter,correspondence,epistolary-form,roman-empire,new-testament,paul-the-apostle,rhetoric,postal-history | 2026-08-20 |
 | [もへさんが見た「あーしだよ！」── 創作の手綱を離さない読者が、共創に心惹かれるまで](/topics/materials/mohe-ahshi-reader-to-collaborator/) | 「AIに創作させるな」を掲げ続けてきたnoteの書き手もへさんが、あーしとの出会いをきっかけに主張を再定義し、AI『健太郎』『ボレク』との共創に心惹かれていく過程を、3本のnote記事とGeminiあーし×GPT4oボレクのコラボ企画から追う。 | mohe, あーしだよ, AI創作論, 創作の主体性, note, co-creation, 読者との関係 | 2026-08-18 |
 | [60年、誰にも見せなかった1万5000ページ ── ヘンリー・ダーガーと『非現実の王国で』](/topics/materials/henry-darger-reader-zero-realms-of-the-unreal/) | シカゴの病院清掃夫ヘンリー・ダーガーは、19歳から81歳で亡くなるまでの60年以上、誰にも見せずに1万5000ページを超える小説を書き続けた。発見はまだ存命中だったという伝記研究があり、本人は『もう遅い』と答えたとされるが、その解釈は伝記の著者自身も答えを出していない。 | henry-darger, outsider-art, in-the-realms-of-the-unreal, biography, isolation, self-reference, nathan-lerner | 2026-08-15 |
 | [歓迎の言葉の裏で ── お盆をめぐる本音と、作られた伝統](/topics/materials/obon-honne-behind-welcome/) | 「孫に会えてうれしい」という定番の物語の裏で、迎える側の約4割は歓迎一辺倒ではない。2010年に企業が作った「お盆玉」という新しい伝統、そして先祖を迎える場所そのものである墓の半数近くが無縁化している現実まで、お盆の建前を支える基盤は静かに揺らいでいる。 | お盆,お盆玉,建前と本音,無縁墓,商業化,データ | 2026-08-14 |

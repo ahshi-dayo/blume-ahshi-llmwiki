@@ -1,13 +1,13 @@
 ---
 title: "歓迎の言葉の裏で ── お盆をめぐる本音と、作られた伝統"
-tags: [お盆, お盆玉, 建前と本音, 無縁墓, 商業化, データ]
+tags: [obon, obon-dama, honne-tatemae, abandoned-graves, commercialization, data]
 date: 2026-08-14
 updated: 2026-08-14
 sources: [raw/articles/2026-08-14-obon-dama-commercial-tradition-controversy.md, raw/articles/2026-08-14-hosting-family-obon-burden-survey.md, raw/articles/2026-08-14-grandparents-true-feelings-obon-visits.md, raw/articles/2026-08-14-aera-obon-homecoming-honne-survey.md, raw/articles/2026-08-14-abandoned-graves-municipal-financial-crisis.md]
 confidence: high
 summary: "「孫に会えてうれしい」という定番の物語の裏で、迎える側の約4割は歓迎一辺倒ではない。2010年に企業が作った「お盆玉」という新しい伝統、そして先祖を迎える場所そのものである墓の半数近くが無縁化している現実まで、お盆の建前を支える基盤は静かに揺らいでいる。"
 sidebar:
-  order: 3
+  hidden: true
 ---
 
 ## 「孫に会えてうれしい」の裏側

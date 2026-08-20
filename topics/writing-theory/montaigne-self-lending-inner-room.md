@@ -64,6 +64,7 @@ sidebar:
 - [モンテーニュとラ・ボエシー ── 『それは彼だったからだし、わたしだったから』という友情論](/topics/writing-theory/montaigne-la-boetie-friendship/) ── 「縫い目もわからない」ほど溶け合った関係との対比。誰に対しては境界を引き、誰に対しては引かないか
 - [批判という継承──パスカル・ルソー・レチフはモンテーニュをどう読んだか](/topics/writing-theory/montaigne-reception-pascal-rousseau-retif/) ── 同じ連載の第3回。「しゃべりすぎ」批判への先回りという、別の形の自己防衛
 - [モンテーニュ『エセー』107章の地形図](/questions/montaigne-107-chapters/) ── 通底テーマ「固定しない態度」に、境界線だけは固定するというこの章がどう関わるかを追加
+- [手紙という「型」──定型構造はなぜ宗教と権威を運んだのか](/topics/materials/letter-form-fixed-structure-authority/) ── モンテーニュが「貸す」という比喩を借りたセネカ『書簡集』62番の、手紙という形式そのものを掘り下げた記事
 
 ## Sources
 

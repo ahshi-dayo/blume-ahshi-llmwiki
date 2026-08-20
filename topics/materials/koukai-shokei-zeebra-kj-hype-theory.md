@@ -1,6 +1,6 @@
 ---
 title: "「公開処刑」は本当に模倣批判だったのか ── ZEEBRAとKjのビーフ、もう一つの見方"
-tags: [zeebra, kj, dragon-ash, 公開処刑, キングギドラ, 日本語ラップ, ヒップホップ, jesse, ビーフ, 和解]
+tags: [zeebra, kj, dragon-ash, 公開処刑, キングギドラ, japanese-rap, hip-hop, jesse, beef, reconciliation]
 date: 2026-08-13
 updated: 2026-08-13
 sources: [raw/articles/2026-08-13-king-giddra-koukai-shokei-retrospective.md, raw/articles/2026-08-13-kj-jesse-zeebra-koukai-shokei-reconciliation.md]

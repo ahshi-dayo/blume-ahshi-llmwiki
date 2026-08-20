@@ -4,7 +4,7 @@ type: "topics/books"
 created: "2026-08-13"
 date: "2026-08-13"
 updated: "2026-08-13"
-tags: [椎名誠, 昭和軽薄体, essay, 紀行文, 家族, sf, 老い, 死生観, 読書ガイド]
+tags: [椎名誠, 昭和軽薄体, essay, travel-writing, family, sf, aging, death-views, reading-guide]
 confidence: medium
 sources:
   - "raw/articles/2026-08-13-shiina-makoto-wani-no-akubi-bunshun.md"

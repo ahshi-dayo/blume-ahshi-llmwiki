@@ -1,6 +1,6 @@
 ---
 title: "百合の成熟は、男性不在アニメを後押ししたか ── 探した因果と、見つかった時差"
-tags: [百合, 男性不在アニメ, ゆるゆり, verena-maser, まどか☆マギカ, けいおん, わたなれ, きらら系, 商業戦略]
+tags: [yuri, male-absent-anime, ゆるゆり, verena-maser, まどか☆マギカ, けいおん, わたなれ, kirara-genre, business-strategy]
 date: 2026-08-13
 updated: 2026-08-13
 sources: [raw/papers/2026-08-13-maser-yuri-genre-dissertation-chapter6-7.md, raw/articles/2026-08-13-mikami-teren-watanare-interview-denfaminico.md, raw/articles/2026-08-13-anime-feminist-history-why-call-yuri.md, raw/articles/2026-08-13-anime-feminist-yuri-demographics-readership.md, raw/notes/2026-08-13-frankhecker-evolutionary-theory-of-yuri.md, raw/notes/2026-08-13-iida-madoka-magica-jiten-note.md, raw/notes/2026-08-13-saki-maki-k-on-what-was-it-2025.md, raw/notes/2026-08-13-nakamorikzs-manga-time-kirara-market-analysis.md, raw/notes/2026-08-13-ratchinco-why-no-heroic-heroine-anime.md, raw/notes/2026-08-13-yuri-genre-history-anond-2019.md, raw/notes/2026-08-13-yuri-eigyou-fujoshi-eigyou-anond-2023.md, raw/articles/2026-08-13-animeanime-yuri-popularity-poll-2026.md, raw/articles/2026-08-12-yuri-genre-wikipedia.md]

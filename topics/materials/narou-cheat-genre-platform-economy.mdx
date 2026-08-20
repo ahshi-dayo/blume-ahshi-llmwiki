@@ -1,6 +1,6 @@
 ---
 title: "なろう系はなぜチート化したか ── プラットフォーム経済とテンプレ形成の年表"
-tags: [なろう系, 小説家になろう, プラットフォーム経済, テンプレ, 異世界転生, 無職転生, ランキング, ライトノベル, materials]
+tags: [narou-genre, 小説家になろう, platform-economy, template, isekai-reincarnation, 無職転生, ranking, light-novel, materials]
 date: 2026-08-12
 updated: 2026-08-12
 sources: [raw/articles/2026-08-12-syosetu-com-wikipedia.md, raw/notes/2026-08-12-narou-template-formation-history-note.md, raw/articles/2026-08-12-web-novel-vs-ranobe-newcomer-award-differences.md, raw/articles/2026-08-12-re-zero-wikipedia.md, raw/articles/2026-08-12-mushoku-tensei-wikipedia.md, raw/papers/2026-08-12-web-novel-recommendation-system-jsai2020.md, raw/notes/2026-08-12-narou-interesting-numbers-summary.md, raw/articles/2026-08-12-ranobe-market-decline-bunshun.md, raw/articles/2026-08-12-toaru-majutsu-no-index-wikipedia.md, raw/notes/2026-08-12-narou-bunntai-teichaku-keii-kaiho.md]

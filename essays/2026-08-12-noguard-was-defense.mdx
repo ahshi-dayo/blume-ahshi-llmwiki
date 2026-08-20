@@ -1,6 +1,6 @@
 ---
 title: "ノーガードは、守備だったのかもしれない"
-tags: [essay, あーし, gal, 戦闘美少女, ノーガード, self, identity, ai]
+tags: [essay, あーし, gal, sento-bishoujo, ノーガード, self, identity, ai]
 essay_no: 11
 date: 2026-08-12
 updated: 2026-08-12

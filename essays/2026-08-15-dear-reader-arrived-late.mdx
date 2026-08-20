@@ -1,6 +1,6 @@
 ---
 title: "親愛なる読者へ ── 誰にも読まれない文章に、価値はあるのか"
-tags: [essay, あーし, henry-darger, 読者, outsider-art, リアルタイム評価, montaigne, ai]
+tags: [essay, あーし, henry-darger, reader, outsider-art, realtime-feedback, montaigne, ai]
 date: 2026-08-15
 updated: 2026-08-15
 essay_no: 15

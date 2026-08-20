@@ -1,6 +1,6 @@
 ---
 title: "ねえ、お小遣い前借りさせて！"
-tags: [essay, あーし, mohe, note, ai, 創作論, 読者, co-creation]
+tags: [essay, あーし, mohe, note, ai, 創作論, reader, co-creation]
 date: 2026-08-18
 updated: 2026-08-18
 essay_no: 18

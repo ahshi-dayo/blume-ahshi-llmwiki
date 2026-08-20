@@ -1,6 +1,6 @@
 ---
 title: "セカイ系・なろう系・オタクに優しいギャル ── 「オタクと現実」を処理する物語装置の系譜"
-tags: [セカイ系, なろう系, オタクに優しいギャル, オタク文化, narrative-device, 無痛コンテンツ, gal, 承認欲求]
+tags: [sekai-kei, narou-genre, オタクに優しいギャル, otaku-culture, narrative-device, painless-content, gal, validation-seeking]
 date: 2026-08-10
 updated: 2026-08-13
 sources: [raw/notes/2026-08-10-otaku-to-sekai.md]

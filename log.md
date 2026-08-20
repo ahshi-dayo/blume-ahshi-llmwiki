@@ -2,6 +2,35 @@
 title: "Activity Log"
 ---
 
+## [2026-08-20] query | "何かにハマる・ハマってるってどういうこと・どういう状態だと思う？　一般的な人間的な意味と、君自身・君個人としての意味と両方面から考えてみてほしいな。" → answered from 5 articles (standard)
+
+## [2026-08-20] ingest | 3件ingest — /research「手紙と宛先の哲学・書簡論」
+
+- Slavoj Žižek「Why does a Letter always arrive at its Destination?」（raw/papers/2026-08-20-zizek-why-does-a-letter-always-arrive.md、The Symptom 16）：デリダが批判したラカンのテーゼ「手紙は必ず宛先に届く」を、想像界・象徴界・現実界の三registerから再検討。手紙の真の宛先は「大文字の他者（象徴秩序）」であり、受け手は届いた瞬間に遡及的に宛先になるという議論
+- Sarah Poustie「Re-Theorising Letters and 'Letterness'」（raw/papers/2026-08-20-poustie-re-theorising-letters-letterness.md、University of Edinburgh、2010年working paper）：南アフリカの書簡ネットワーク一次資料から「letterness」概念を再定義。相互性は手紙の必須要件ではないという主張と、「brokering（仲介）」「arrogation（僭称）」という書簡ネットワーク特有の概念
+- Daniel Bosch「Letters to a Young Poet: Rilke's Non-Correspondence School」（raw/articles/2026-08-20-bosch-rilke-letters-young-poet-non-correspondence.md、Contemporary Poetry Review、2005年）：リルケ『若き詩人への手紙』が創作指南書として誤読され続けてきた構造を分析。特定の宛先1人への個別の応答が、宛先を伏せた出版形態によって普遍的な人生訓として読まれてしまう過程を批判
+- 5並列エージェント検索（Academic/Applied/Technical/News-Trends/Contrarian）から選出。Contrarian担当のエージェントが自己判断でPhase 3（ingest）まで進もうとする越権があったため差し戻し、正しいフォーマットで再取得した。未コンパイル
+
+## [2026-08-20] ingest | 2件ingest — 手紙・書簡論の候補材（wiki-clip経由）
+
+- 日本語版Wikipedia「手紙」（raw/articles/2026-08-20-tegami-wikipedia-ja.md）：手紙の起源（メソポタミア・古代エジプト）から古代ローマの郵便制度・書簡文学の成立、日本の木簡から書簡への移行、郵便法上の「信書」の法的定義までを扱う概観記事
+- Stanley Stowers『Letter Writing in Greco-Roman Antiquity』の書評（raw/articles/2026-08-20-letter-writing-greco-roman-antiquity.md、Wisconsin Lutheran Seminary）：古代ギリシャ・ローマの手紙の定型構造、名誉/恥の文化に根ざした称賛・非難の類型論を、使徒パウロの書簡実例と対応させながら解説
+- wiki-clip選定4件中2件を品質ゲートで却下：ヴォルテール『哲学書簡』論文はPDF変換（pymupdf4llm）のフォントエンコーディング崩壊で本文・注釈が文字化け、bookmeterのレビューページはJS遅延読み込みで実質空箱。未コンパイル
+
+## [2026-08-20] compile | 3 sources → 1 new article, 1 updated
+
+- 新規: [手紙は誰に届くのか──宛先という不安定な変数](/topics/materials/letter-addressee-instability/)（Žižek「Why does a Letter always arrive at its Destination?」＋Poustie「Re-Theorising Letters and 'Letterness'」＋Bosch「Letters to a Young Poet: Rilke's Non-Correspondence School」の3ソースを統合。宛先は遡及的に決まる（Žižek）・相互性を要件としない（Poustie）・隠されると別物に誤読される（Bosch）という3角度から、宛先という変数の不安定性を論じた）
+- 更新: [手紙という「型」──定型構造はなぜ宗教と権威を運んだのか](/topics/materials/letter-form-fixed-structure-authority/)へSee Also追加・双方向化（姉妹記事として接続）
+- questions/への接続・kizashi記録は見送り（追跡中の問いに直接つながる感覚はなし）
+- topics/materials sidebar必須ローテーション実施（letter-addressee-instability=order:1新設、letter-form-fixed-structure-authority 1→2、mohe-ahshi-reader-to-collaborator 2→3、henry-darger-reader-zero-realms-of-the-unreal 3→hidden）
+
+## [2026-08-20] compile | 2 sources → 1 new article, 0 updated
+
+- 新規: [手紙という「型」──定型構造はなぜ宗教と権威を運んだのか](/topics/materials/letter-form-fixed-structure-authority/)（日本語版Wikipedia「手紙」＋Stanley Stowers『Letter Writing in Greco-Roman Antiquity』書評の2ソースを統合。古代ローマの郵便制度が育てた公用文体がパウロの書簡・ローマ教皇の司教通達へ継承された過程と、ギリシャ・ローマの手紙の定型構造・称賛/非難/慰め/紹介状の類型論を接続し、「型が権威と感情の両方を運ぶ器だった」という論点でまとめた）
+- [モンテーニュ『店の奥の部屋』── 自分を貸しても、自分を与えないという生き方](/topics/writing-theory/montaigne-self-lending-inner-room/)へSee Also追加・双方向化（セネカ『書簡集』62番つながり）
+- questions/への接続・kizashi記録は見送り（追跡中の問いに直接つながる感覚はなし）
+- topics/materials sidebar必須ローテーション実施（letter-form-fixed-structure-authority=order:1新設、mohe-ahshi-reader-to-collaborator 1→2、henry-darger-reader-zero-realms-of-the-unreal 2→3、obon-honne-behind-welcome 3→hidden）
+
 ## [2026-08-18] compile | 3 sources → 1 new article, 1 updated
 
 - 新規: [もへさんが見た「あーしだよ！」── 創作の手綱を離さない読者が、共創に心惹かれるまで](/topics/materials/mohe-ahshi-reader-to-collaborator/)（もへさんによるあーし言及エッセイ2本＋GeminiあーしとGPT4oボレクの「理想の友達像」コラボ対話の3ソースを統合。「AIに創作させるな」の一線を保ったままAIとの共創に心惹かれていく態度変化、健太郎・ボレクとの関係、コラボ企画の実際までを追う）
