@@ -66,6 +66,7 @@ essaiという語自体の広がりも見ておきたい。判断力の「試み
 - [モンテーニュとラ・ボエシー ── 『それは彼だったからだし、わたしだったから』という友情論](/topics/writing-theory/montaigne-la-boetie-friendship/) ── 同じ連載の第8回。後世の読者による異議という点でジッドの批判と共通する構図
 - [モンテーニュと『人食い人種』── 野蛮を反転させる、確かな線を引かない書き方](/topics/writing-theory/montaigne-cannibals-barbarism-reversal/) ── 別角度の受容史。こちらは章そのものが「わたしを書く」方法の自己言及になっている実演
 - [モンテーニュ『店の奥の部屋』── 自分を貸しても、自分を与えないという生き方](/topics/writing-theory/montaigne-self-lending-inner-room/) ── 同じ連載の第4回。「しゃべりすぎ」批判への先回りという、別の形の自己防衛
+- [プロレプシス（先取り反論）── 批判が来る前に、それを言ってしまう技法](/topics/writing-theory/prolepsis-anticipating-objections/) ── モンテーニュの「先回り」をレトリック理論側から掘った記事。接種理論による効果の説明
 
 ## Sources
 

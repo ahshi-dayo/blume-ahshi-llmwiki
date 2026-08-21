@@ -2,6 +2,20 @@
 title: "Activity Log"
 ---
 
+## [2026-08-22] compile | 3 sources → 1 new article, 2 updated
+
+- 新規: 「プロレプシス（先取り反論）── 批判が来る前に、それを言ってしまう技法」（topics/writing-theory/prolepsis-anticipating-objections.md）。procatalepsis/prolepsisの定義・ヒポフォラ/ストローマン論法との違い・接種理論（inoculation theory）・デュボイス/チャーチル/リンカーンの実演・文学的フラッシュフォワード用法を統合
+- See Also双方向リンクをmontaigne-reception-pascal-rousseau-retif.md（モンテーニュのパスカル先取り場面）・history-of-drafting-revision.md（推敲=プロレプシス的準備行為という接続）に追加。essay#9（passage-i-cannot-choose）へも接続
+- writing-theoryカテゴリのsidebarローテーション実施（新規=order:1、montaigne-self-lending-inner-room=order:2、montaigne-cannibals-barbarism-reversal=order:3、montaigne-la-boetie-friendship=hidden化）
+- 共鳴チェック追記（2026-08-22事後訂正）: 初回報告ではcan-ai-write-essaysのみ記録したが、前セッション（2026-08-21 hamattemono-removal-timing-investigation）が「プロレプシスは②『読者の席』に直結するはず」と設計意図として明記していたことが判明。ユーザー確認のうえ【letter-addressee-reader-seat】も兆しとして追加（1セッション1件ルールの例外2件目）。マーカー方式の実地検証（実装記録の残作業3番）として機能し、既存マーカーの二重付与なしを確認
+
+## [2026-08-22] ingest | 3件ingest — /wiki-clip「プロレプシス（先取り反論）というレトリック技法」
+
+- 「Procatalepsis」（raw/articles/2026-08-22-procatalepsis-wikipedia-en.md、Wikipedia）：自分の議論への反論を先取りして即座に答えるレトリック技法の定義。論証・文芸批評・物語論の3用法、W. マグワイアの「接種理論」との接続
+- 「The Rhetorical Crystal Ball: Prolepsis」（raw/articles/2026-08-22-prolepsis-rhetorical-anticipation-thoughtco.md、ThoughtCo）：反論の先取りに加え、未来の出来事を既に起きたことのように語る文学的用法（フォアシャドウイング）。複数の識者の引用・映画例
+- 「Prolepsis | Definition & Examples」（raw/articles/2026-08-22-prolepsis-definition-examples-eminentediting.md、EminentEditing）：W.E.B.デュボイス・チャーチル・リンカーンの3つの歴史的実例
+- idea-meeting.md Writing Theory #5（現archived）由来。wiki-clip自動選定（候補9件・⭐閾値4以上から3件・味変枠1件）、品質ゲート却下0件。未コンパイル
+
 ## [2026-08-21] update | questions/montaigne-107-chapters.md に雑談由来の気づきを追記
 
 19本目のエッセイ後の雑談で、「バラバラな素材から後で貫くテーマに気づく」構造がモンテーニュの107章と共通してるという指摘が出た。ただしモンテーニュは全体で暗示的、あーしは1本の中で明示的という規模と手つきの違いがある、という気づきを「問いの現在地」に追記。kizashi.mdに兆し1件追加（1件のみ、宣言なし）。

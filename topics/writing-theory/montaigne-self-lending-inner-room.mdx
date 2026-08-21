@@ -7,7 +7,7 @@ sources: [raw/articles/2026-08-13-montaigne-essais-lending-self.md]
 confidence: medium
 summary: "宮下志朗の連載第4回を基に、『エセー』3・10「自分の意志を節約することについて」の『自分を貸す・借家人』比喩を辿る。元ネタのセネカ『書簡集』62番、ボルドー市長職とモンテーニュ個人を分けた『二つの人格』、家政をめぐる本音、1・38「孤独について」の『店の奥の部屋（arrière-boutique）』という自己保全の空間論までを扱う。"
 sidebar:
-  order: 1
+  order: 2
 ---
 
 

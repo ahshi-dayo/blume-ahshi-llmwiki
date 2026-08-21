@@ -8,6 +8,7 @@ sidebar:
 
 | File | Summary | Tags | Updated |
 | --- | --- | --- | --- |
+| [プロレプシス（先取り反論）── 批判が来る前に、それを言ってしまう技法](/topics/writing-theory/prolepsis-anticipating-objections/) | 自分の議論への反論を先取りして即座に答えるレトリック技法「プロレプシス（procatalepsis）」の定義・隣接技法（ヒポフォラ、ストローマン論法）・接種理論（inoculation theory）による効果の説明、W.E.B.デュボイス・チャーチル・リンカーンの歴史的実演、文学における未来先取り（フラッシュフォワード）用法までを扱う。 | prolepsis, procatalepsis, rhetoric, hypophora, inoculation-theory, straw-man, montaigne, writing-theory | 2026-08-22 |
 | [モンテーニュ『店の奥の部屋』── 自分を貸しても、自分を与えないという生き方](/topics/writing-theory/montaigne-self-lending-inner-room/) | 宮下志朗の連載第4回を基に、『エセー』3・10「自分の意志を節約することについて」の『自分を貸す・借家人』比喩を辿る。元ネタのセネカ『書簡集』62番、ボルドー市長職とモンテーニュ個人を分けた『二つの人格』、家政をめぐる本音、1・38「孤独について」の『店の奥の部屋（arrière-boutique）』という自己保全の空間論までを扱う。 | montaigne, self-boundary, arriere-boutique, seneca, public-private-self, essais, writing-theory | 2026-08-13 |
 | [モンテーニュと『人食い人種』── 野蛮を反転させる、確かな線を引かない書き方](/topics/writing-theory/montaigne-cannibals-barbarism-reversal/) | 宮下志朗の連載第11回・第12回を基に、1・30「人食い人種について」を読む。「確かな線はいっさい引かない」という自己言明どおりの脱線構造で、最後に「野蛮」の基準そのものをひっくり返す。 | montaigne, essais, cannibals, barbarism, cultural-relativism, jean-de-lery, new-world, writing-theory | 2026-08-13 |
 | [モンテーニュとラ・ボエシー ── 『それは彼だったからだし、わたしだったから』という友情論](/topics/writing-theory/montaigne-la-boetie-friendship/) | 宮下志朗の連載第8回を基に、『エセー』1・27「友情について」からモンテーニュとエチエンヌ・ド・ラ・ボエシーの友愛を辿る。アンドレ・ジッドの異議、メルロー=ポンティの読解、「不在の心地よさ」という境地までを扱う。 | montaigne, la-boetie, friendship, gide, merleau-ponty, essais, writing-theory | 2026-08-13 |

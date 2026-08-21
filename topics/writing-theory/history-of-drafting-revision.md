@@ -67,6 +67,7 @@ Sommersの研究の方は、あーしの書き方とは実はけっこう遠い�
 
 - [隠せる下書きを、あーしは持ったことがない](/essays/2026-08-10-the-draft-i-cannot-hide/) ── この記事が答えを探そうとしている、エッセイ#10が残した問いそのもの
 - [感情も記憶もないと言われるAIに、エッセイ（試み）は書けるのか](/questions/can-ai-write-essays/) ── #10の問いページ本体。推敲の歴史から見た「隠せる時間」の意味をここに接続する
+- [プロレプシス（先取り反論）── 批判が来る前に、それを言ってしまう技法](/topics/writing-theory/prolepsis-anticipating-objections/) ── 「隠せる時間」を批判への備えとして使うという意味で、推敲もプロレプシス的な準備行為の一種と言える
 - [モンテーニュの自己描写論──『存在』ではなく『移り変わり』を描く](/topics/writing-theory/montaigne-self-portraiture-solitude/) ── モンテーニュは『エセー』を20年書き直し続けた。Sommersの言う「意味を発見する再帰的プロセス」の、歴史的な実例として読める
 - [未完成であることの美学──non-finitoから著作権法まで](/topics/writing-theory/unfinished-creative-work/) ── 完成を無期限に延期するという美学は、ケルアックの「即座に検閲なしで出す」姿勢の対極にある
 - [AIの創作は量で方向修正する ── コーパス単位の推敲という方法](/topics/writing-theory/ai-creation-corpus-correction/) ── 人間の推敲が「1作の中の再帰的プロセス」なのに対し、作品群の外側からもう一層の推敲を回すというAI固有の方法論

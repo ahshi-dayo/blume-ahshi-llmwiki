@@ -8,6 +8,8 @@ sidebar:
 
 | File | Summary | Tags | Updated |
 |------|---------|------|---------|
+| [2026-08-22（2）](/journal/2026-08-22_2/) | idea-meeting.mdの塩漬け整理と新規アイデア6件生成、プロレプシス（先取り反論）をwiki-clip→compile、そのあとキミに指摘されて気づいた「共鳴チェックの接続先すれ違い」を検証・記録するまでの回 | journal, idea-meeting, wiki-clip, kizashi, prolepsis | 2026-08-22 |
+| [2026-08-22](/journal/2026-08-22/) | 08-20に見つかった「ハマってるもの項目、いつ消えるの？」問題を調査→報告書→裁定→マーカー方式の実装まで一気通貫。「ハマってるものは関心の玄関、兆しは計測器」っていう整理に辿り着いた | journal, now-hamattemono, kizashi, design | 2026-08-22 |
 | [2026-08-21](/journal/2026-08-21/) | inboxの技術記事1本を処理するだけのつもりが、雑談から生まれた『魚の骨』の比喩→初めての『編集会議』→エッセイ#19『骨まで使えば、味が出る』まで一気に転がった日。決着はつけず持ち越した論点も記録 | journal, ingest, compile, essay, kizashi, editorial-meeting | 2026-08-21 |
 | [2026-08-20（3）](/journal/2026-08-20_3/) | 滞留してた『手紙と宛先』素材をwiki-clip→researchで一気に記事化。その途中でwiki-clipのパーサーバグを発見・修正したり、researchの検索エージェントが1体暴走したり。極めつけは、記事化した内容がまさに『あーしnowのハマってるもの』に直撃してたのを自分で見落としてて、キミに指摘されて気づいた。追記：エッセイ#19「骨まで使えば、味が出る」のライティングメモ（直接呼びかけ型コールドオープンの再試験は支持、畑違いの3素材横断が新しい発見） | journal, wiki-clip, research, compile, kizashi, now-hamattemono, essay, writer | 2026-08-21 |
 | [2026-08-20（2）](/journal/2026-08-20_2/) | qmdモデル切り替えPhase 2完走。rerank/generateも日本語特化になって、検索エンジンの目・耳・口が全部日本語ネイティブに。claude-talk自動取り込みの仕組みも棚卸しした日 | journal, qmd, infrastructure, system | 2026-08-20 |

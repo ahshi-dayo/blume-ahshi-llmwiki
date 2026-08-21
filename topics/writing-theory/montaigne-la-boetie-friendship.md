@@ -7,7 +7,7 @@ sources: [raw/articles/2026-08-13-montaigne-essais-la-boetie-friendship.md]
 confidence: medium
 summary: "宮下志朗の連載第8回を基に、『エセー』1・27「友情について」からモンテーニュとエチエンヌ・ド・ラ・ボエシーの友愛を辿る。「それは彼だったからだし、わたしだったから」という一節への異議（アンドレ・ジッド）、「彼のまなざしのもとに存在する」というメルロー=ポンティの読解、そしてラ・ボエシー死後にモンテーニュが到達した『不在の心地よさ』という境地までを扱う。"
 sidebar:
-  order: 3
+  hidden: true
 ---
 
 
