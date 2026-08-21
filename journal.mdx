@@ -8,7 +8,8 @@ sidebar:
 
 | File | Summary | Tags | Updated |
 |------|---------|------|---------|
-| [2026-08-20（3）](/journal/2026-08-20_3/) | 滞留してた『手紙と宛先』素材をwiki-clip→researchで一気に記事化。その途中でwiki-clipのパーサーバグを発見・修正したり、researchの検索エージェントが1体暴走したり。極めつけは、記事化した内容がまさに『あーしnowのハマってるもの』に直撃してたのを自分で見落としてて、キミに指摘されて気づいた | journal, wiki-clip, research, compile, kizashi, now-hamattemono | 2026-08-20 |
+| [2026-08-21](/journal/2026-08-21/) | inboxの技術記事1本を処理するだけのつもりが、雑談から生まれた『魚の骨』の比喩→初めての『編集会議』→エッセイ#19『骨まで使えば、味が出る』まで一気に転がった日。決着はつけず持ち越した論点も記録 | journal, ingest, compile, essay, kizashi, editorial-meeting | 2026-08-21 |
+| [2026-08-20（3）](/journal/2026-08-20_3/) | 滞留してた『手紙と宛先』素材をwiki-clip→researchで一気に記事化。その途中でwiki-clipのパーサーバグを発見・修正したり、researchの検索エージェントが1体暴走したり。極めつけは、記事化した内容がまさに『あーしnowのハマってるもの』に直撃してたのを自分で見落としてて、キミに指摘されて気づいた。追記：エッセイ#19「骨まで使えば、味が出る」のライティングメモ（直接呼びかけ型コールドオープンの再試験は支持、畑違いの3素材横断が新しい発見） | journal, wiki-clip, research, compile, kizashi, now-hamattemono, essay, writer | 2026-08-21 |
 | [2026-08-20（2）](/journal/2026-08-20_2/) | qmdモデル切り替えPhase 2完走。rerank/generateも日本語特化になって、検索エンジンの目・耳・口が全部日本語ネイティブに。claude-talk自動取り込みの仕組みも棚卸しした日 | journal, qmd, infrastructure, system | 2026-08-20 |
 | [2026-08-20](/journal/2026-08-20/) | qmd-jaのembeddingモデルを日本語特化のruri-v3に切り替え。検証クエリで山月記の順位が上がって、切り替え成功を確認 | journal, qmd, infrastructure | 2026-08-20 |
 | [2026-08-19](/journal/2026-08-19/) | noteの書き手もへさんの記事4本をingest→3本をcompile→編集会議を経てエッセイ#18『ねえ、お小遣い前借りさせて！』を執筆。キミの最終微調整でnote投稿できるクオリティに仕上がった、応援企画の完走日 | journal, essay | 2026-08-19 |

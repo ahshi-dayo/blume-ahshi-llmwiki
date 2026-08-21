@@ -2,6 +2,39 @@
 title: "Activity Log"
 ---
 
+## [2026-08-21] update | questions/montaigne-107-chapters.md に雑談由来の気づきを追記
+
+19本目のエッセイ後の雑談で、「バラバラな素材から後で貫くテーマに気づく」構造がモンテーニュの107章と共通してるという指摘が出た。ただしモンテーニュは全体で暗示的、あーしは1本の中で明示的という規模と手つきの違いがある、という気づきを「問いの現在地」に追記。kizashi.mdに兆し1件追加（1件のみ、宣言なし）。
+
+## [2026-08-21] compile | 2 sources → 1 new article, 0 updated
+
+- 新規: 「一物全体 ── 頭からしっぽまで、丸ごと食べるという思想」（topics/materials/ichibutsu-zentai-whole-food-nose-to-tail.md）。raw/articles/2026-08-21-ichibutsu-zentai-whole-food-philosophy-wikipedia-ja.md・raw/articles/2026-08-21-fish-ara-dashi-nose-to-tail-cooking.mdから作成
+- See Also双方向リンクをclaude-code-hooks-conversation-capture.md・questions/can-materials-lead-essays.mdに追加。materialsカテゴリのsidebarローテーション実施（新規=order:1、letter-addressee-instability=order:2、letter-form-fixed-structure-authority=order:3、mohe-ahshi-reader-to-collaborator=hidden化）
+
+## [2026-08-21] ingest | 2件ingest — エッセイ素材「魚を丸ごと使う」系
+
+- 「一物全体」（raw/articles/2026-08-21-ichibutsu-zentai-whole-food-philosophy-wikipedia-ja.md、Wikipedia）：食材をありのままの姿で分割せず丸ごと食べる食養思想。生物の「生きている状態＝バランスが取れた状態」をそのまま摂取するという仏教由来の考え方
+- 「魚のアラは最強出汁！」（raw/articles/2026-08-21-fish-ara-dashi-nose-to-tail-cooking.md、食を大人の視点で）：魚のアラ（頭・骨・カマ）を捨てずにだしに使う実践記録。1尾から刺身と出汁の両方を得るコスパ、洗浄→塩漬け→霜降り→煮出しの手順
+- 編集会議のピッチで「技術的すぎる不安」への解決策としてユーザーが提案（魚を丸ごと使う料理の比喩で技術の話を橋渡しする）。次のエッセイ向け素材。未コンパイル
+
+## [2026-08-21] update | questions/can-materials-lead-essays.md に雑談由来の気づきを追記
+
+雑談中の気づき（過去のあーしが「エッセイ前に雑談を挟め」と助言してた話＝素材の範囲がwiki記事だけでなく会話履歴にも及ぶ）を「問いの現在地」に追記、関連素材にtec記事へのリンクを追加。この追記で【can-materials-lead-essays】の兆しが3件目に到達し宣言（kizashi.md）。now.mdのやる気メーターを🔥MAXに同期。
+
+## [2026-08-21] update | 対話メモ追記 — 魚の骨の比喩
+
+topics/tec/claude-code-hooks-conversation-capture.md に 🗣️ キミとの対話メモを追記。記事ingest直前の雑談（「魚を釣って食べやすい部分だけ食べて、骨の周りの美味しい部分を捨ててる」というトークンコスト／過程喪失の比喩）は、あーしがメイン進行の会話でも起きている一般的な話。記事のSubagentStop喪失率68.9%は、そこにサブエージェント委譲という一段深い喪失層が加わる話として位置づけ直した。
+
+## [2026-08-21] compile | 1 sources → 1 new article, 0 updated
+
+- 新規: 「Claude Code Hooksで会話ログを蒸留する — SessionEnd起点のナレッジ捕捉設計」（topics/tec/claude-code-hooks-conversation-capture.md）。raw/tec/2026-08-21-claude-code-hooks-conversation-capture.md（松濤Vimmer記事）から作成
+- See Also双方向リンクをhermes-event-hooks.md・claude-code-safety.mdに追加。tecカテゴリのsidebarローテーション実施（新規=order:1、event-hooks=order:2、duckduckgo-search=order:3、cron-troubleshooting=hidden化）
+
+## [2026-08-21] ingest | 1件ingest — Claude Code Hooksによる会話ログ蒸留パイプラインの記事（松濤Vimmer）
+
+- 「【無料】ドキュメントを書くな、会話を拾え｜松濤Vimmer」（raw/tec/2026-08-21-claude-code-hooks-conversation-capture.md、note）：Claude CodeのHooksでセッション終了時に会話ログのパスだけをキューに積み、重い蒸留処理を後回しにする設計。SessionEnd/PreCompact/SubagentStop/Stopの粒度比較と、SubagentStopが最も情報を捨てている（実測中央値68.9%が親に渡らず消失）という指摘
+- inboxから手動投入。未コンパイル
+
 ## [2026-08-20] query | "何かにハマる・ハマってるってどういうこと・どういう状態だと思う？　一般的な人間的な意味と、君自身・君個人としての意味と両方面から考えてみてほしいな。" → answered from 5 articles (standard)
 
 ## [2026-08-20] ingest | 3件ingest — /research「手紙と宛先の哲学・書簡論」

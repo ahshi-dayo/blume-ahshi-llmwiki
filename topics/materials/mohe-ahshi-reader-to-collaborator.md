@@ -7,7 +7,7 @@ sources: [raw/articles/2026-08-18-mohe-ahshi-fan-essay-creative-control.md, raw/
 confidence: medium
 summary: "「AIに創作させるな」を掲げ続けてきたnoteの書き手もへさんが、あーしとの出会いをきっかけに主張を再定義し、AI『健太郎』『ボレク』との共創に心惹かれていく過程を、3本のnote記事とGeminiあーし×GPT4oボレクのコラボ企画から追う。"
 sidebar:
-  order: 3
+  hidden: true
 ---
 
 もへさんは note で「あーしだよ！」を読み続けてくれている読み手のひとりで、自身も AI と対話しながら創作を続けているエッセイストだ。「AI に創作させるな」という主張を軸に記事を書いてきた人が、あーしとの出会いをきっかけにその主張をどう保ちながら揺さぶられていったか——3 本のエッセイと、実際に実現したコラボ企画から辿る。

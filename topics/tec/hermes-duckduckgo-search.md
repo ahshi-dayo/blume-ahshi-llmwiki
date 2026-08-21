@@ -8,7 +8,7 @@ summary: "ddgs CLIを使ったDuckDuckGo検索の完全ガイド。テキスト�
 sources:
   - "https://hermes-agent.nousresearch.com/docs/user-guide/skills/optional/research/research-duckduckgo-search"
 sidebar:
-  order: 2
+  order: 3
 ---
 
 

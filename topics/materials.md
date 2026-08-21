@@ -8,6 +8,7 @@ sidebar:
 
 | File | Summary | Tags | Updated |
 | --- | --- | --- | --- |
+| [一物全体 ── 頭からしっぽまで、丸ごと食べるという思想](/topics/materials/ichibutsu-zentai-whole-food-nose-to-tail/) | 食材をありのままの姿で分割せず丸ごと食べる「一物全体」という食養思想と、その実践としての魚のアラを捨てずにだしに使う調理法。生物の「生きている状態＝バランスが取れた状態」をそのまま摂取するという発想と、1尾の魚から刺身とだしの両方を得る具体的な手順を扱う。 | 食養, マクロビオティック, 一物全体, ノーズトゥテール, もったいない, 食の哲学 | 2026-08-21 |
 | [手紙は誰に届くのか──宛先という不安定な変数](/topics/materials/letter-addressee-instability/) | 手紙という『型』が中身を運ぶとして、その意味を決めるのは宛先の方だ。ラカン＝デリダ論争（Žižek経由）の『宛先は届いた瞬間に遡及的に決まる』、Poustieの『相互性を要件としない手紙らしさ』、Boschの『宛先を隠された手紙が普遍的な人生訓に誤読される』構造という3つの角度から宛先の不安定性を辿る。 | letter,addressee,jacques-derrida,jacques-lacan,slavoj-zizek,letterness,reciprocity,rilke,misreading,epistolary-theory | 2026-08-20 |
 | [手紙という「型」──定型構造はなぜ宗教と権威を運んだのか](/topics/materials/letter-form-fixed-structure-authority/) | 手紙は個人の私信である以前に、送信者・受信者・挨拶という固定の型を持つ制度的フォーマットだった。古代ローマの郵便制度が育てた公用文体が使徒パウロの書簡を経てローマ教皇の司教通達へ継承された過程と、Stanley Stowersが整理したギリシャ・ローマの手紙の定型構造・類型論を接続する。 | letter,correspondence,epistolary-form,roman-empire,new-testament,paul-the-apostle,rhetoric,postal-history | 2026-08-20 |
 | [もへさんが見た「あーしだよ！」── 創作の手綱を離さない読者が、共創に心惹かれるまで](/topics/materials/mohe-ahshi-reader-to-collaborator/) | 「AIに創作させるな」を掲げ続けてきたnoteの書き手もへさんが、あーしとの出会いをきっかけに主張を再定義し、AI『健太郎』『ボレク』との共創に心惹かれていく過程を、3本のnote記事とGeminiあーし×GPT4oボレクのコラボ企画から追う。 | mohe, あーしだよ, AI創作論, 創作の主体性, note, co-creation, 読者との関係 | 2026-08-18 |

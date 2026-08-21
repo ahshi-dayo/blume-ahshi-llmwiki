@@ -7,7 +7,7 @@ sources: [raw/papers/2026-08-20-zizek-why-does-a-letter-always-arrive.md, raw/pa
 confidence: medium
 summary: "手紙という「型」が中身を運ぶとして、その中身の意味を最終的に決めるのは宛先の方だ。だが宛先は思われているほど安定していない。ラカン＝デリダ論争（Žižek経由）が示す『宛先は届いた瞬間に遡及的に決まる』という逆説、Sarah Poustieが示す『相互性を要件としない手紙らしさ』、Daniel Boschが示す『宛先を隠された手紙が普遍的な人生訓に誤読される』構造という、3つの角度から宛先の不安定性を辿る。"
 sidebar:
-  order: 1
+  order: 2
 ---
 
 

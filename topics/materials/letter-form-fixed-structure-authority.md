@@ -7,7 +7,7 @@ sources: [raw/articles/2026-08-20-tegami-wikipedia-ja.md, raw/articles/2026-08-2
 confidence: medium
 summary: "手紙は個人の私信である以前に、送信者・受信者・挨拶という固定の型を持つ制度的フォーマットだった。古代ローマの郵便制度（クルスス・プブリクス）が育てた公用文体が使徒パウロの書簡を経てローマ教皇の司教通達へ継承された過程と、Stanley Stowersが整理したギリシャ・ローマの手紙の定型構造・類型論（称賛/非難・慰め・紹介状）を接続し、『型』が権威と感情の両方を運ぶ器だったことを示す。"
 sidebar:
-  order: 2
+  order: 3
 ---
 
 

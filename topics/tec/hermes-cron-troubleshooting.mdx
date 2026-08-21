@@ -8,7 +8,7 @@ summary: "Hermes Agentのcronジョブが動かないときの診断手順。ジ
 sources:
   - "https://hermes-agent.nousresearch.com/docs/guides/cron-troubleshooting"
 sidebar:
-  order: 3
+  hidden: true
 ---
 
 

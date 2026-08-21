@@ -3,13 +3,13 @@ title: "Hermes Event Hooks — ライフサイクルでフックする自動化�
 created: 2026-06-04
 date: 2026-06-04
 updated: 2026-06-04
-tags: [hermes-agent, hook, gateway, plugin, event, lifecycle, automation]
+tags: [hermes-agent, hooks, gateway, plugin, event, lifecycle, automation]
 confidence: high
 summary: "Hermes Agentの3種フックシステム（Gateway/Plugin/Shell）の仕様と実装パターン。BOOT.mdパターン、pre_tool_callによるツールインターセプト、transform系フックによる出力加工などを解説。"
 sources:
   - "https://hermes-agent.nousresearch.com/docs/user-guide/features/hooks"
 sidebar:
-  order: 1
+  order: 2
 ---
 
 
@@ -221,6 +221,7 @@ Hermes のフックシステムはかなり柔軟で、「エージェントの�
 
 - [hermes-cron-troubleshooting.md](/topics/tec/hermes-cron-troubleshooting/) — Cron トラブルシューティング
 - [hermes-agent-usage.md](/topics/tec/hermes-agent-usage/) — Hermes Agent 運用の教訓
+- [Claude Code Hooksで会話ログを蒸留する — SessionEnd起点のナレッジ捕捉設計](/topics/tec/claude-code-hooks-conversation-capture/) — 同じ「フックでライフサイクルに介入する」設計。Hermes側の`subagent_stop`は監視専用だが、こちらは同種のフックを蒸留パイプラインの起点として使う提案
 
 ## Sources
 

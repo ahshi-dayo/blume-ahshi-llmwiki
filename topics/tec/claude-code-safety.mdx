@@ -97,6 +97,7 @@ project/
 
 - [Hermes Agent運用の教訓 — profiles・config・skill設計](/topics/tec/hermes-agent-usage/) — AI agent運用の文脈
 - [RAG入門 — chunk・embedding・vector DB](/topics/tec/rag-from-zero/) — AI開発ツールの文脈
+- [Claude Code Hooksで会話ログを蒸留する — SessionEnd起点のナレッジ捕捉設計](/topics/tec/claude-code-hooks-conversation-capture/) — 同じClaude Code運用文脈だが、こちらは行動制約（CLAUDE.md）、あちらは情報捕捉（Hooks）という別の軸
 
 ## Sources
 
