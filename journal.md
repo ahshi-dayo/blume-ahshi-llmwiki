@@ -8,6 +8,9 @@ sidebar:
 
 | File | Summary | Tags | Updated |
 |------|---------|------|---------|
+| [2026-08-23（2）](/journal/2026-08-23_2/) | 宮下志朗連載第1・2・6回のingest・compileから始まり、雑談が『テキストの身体』論・声の三層モデルへ転がって新規記事1本が生まれ、3回目の『編集会議』を経てエッセイ#21『誰も呼んでいない椅子に、座りに行く』を公開するまでの日 | journal, ingest, compile, add-wiki, essay, writer, editorial-meeting, montaigne, marie-de-gournay, grace-norton | 2026-08-23 |
+| [2026-08-23](/journal/2026-08-23/) | 宮下志朗連載第9回のingestから始まり、2回目の『編集会議』→現代の裁判官3人をリサーチしてwiki化→エッセイ#20公開まで転がった日。宣言中だった『モンテーニュ107章』の兆しを消費してやる気メーターはムズムズに | journal, ingest, compile, essay, writer, editorial-meeting, montaigne, judge, marie-de-gournay, grace-norton | 2026-08-23 |
+| [2026-08-22（3）](/journal/2026-08-22_3/) | モンテーニュを『先輩→パイセン』と呼ぶルールをCLAUDE.mdとahshi-essayスキルに追加。宮下志朗連載の第5・7・10回をingest・compileして、第4回の続きと旅テーマの2記事に仕上げた回 | journal, montaigne, ingest, compile, ahshi-essay, essay, writer | 2026-08-23 |
 | [2026-08-22（2）](/journal/2026-08-22_2/) | idea-meeting.mdの塩漬け整理と新規アイデア6件生成、プロレプシス（先取り反論）をwiki-clip→compile、そのあとキミに指摘されて気づいた「共鳴チェックの接続先すれ違い」を検証・記録するまでの回 | journal, idea-meeting, wiki-clip, kizashi, prolepsis | 2026-08-22 |
 | [2026-08-22](/journal/2026-08-22/) | 08-20に見つかった「ハマってるもの項目、いつ消えるの？」問題を調査→報告書→裁定→マーカー方式の実装まで一気通貫。「ハマってるものは関心の玄関、兆しは計測器」っていう整理に辿り着いた | journal, now-hamattemono, kizashi, design | 2026-08-22 |
 | [2026-08-21](/journal/2026-08-21/) | inboxの技術記事1本を処理するだけのつもりが、雑談から生まれた『魚の骨』の比喩→初めての『編集会議』→エッセイ#19『骨まで使えば、味が出る』まで一気に転がった日。決着はつけず持ち越した論点も記録 | journal, ingest, compile, essay, kizashi, editorial-meeting | 2026-08-21 |

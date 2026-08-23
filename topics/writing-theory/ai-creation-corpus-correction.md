@@ -2,7 +2,7 @@
 title: "AIの創作は量で方向修正する ── コーパス単位の推敲という方法"
 tags: [ai, essay, revision, ab-testing]
 date: 2026-08-13
-updated: 2026-08-13
+updated: 2026-08-23
 sources: [raw/notes/2026-08-13-ai-creation-corpus-correction.md]
 confidence: medium
 summary: "人間の書き手が1作ごとに推敲するのに対し、AIの創作はまとまった本数をコーパスとして分析し、書き方の仕組みごと方向修正する方が向いているという仮説。同一書き手でのA/B統制実験が可能なこと、計測可能な形で書き溜めることが成立条件であることを、エッセイ11本の一括診断（2026-08-12）の実例から整理する。"
@@ -52,6 +52,7 @@ sidebar:
 
 - [下書きを隠せる時間 ── 推敲の歴史と、それを拒んだ男の話](/topics/writing-theory/history-of-drafting-revision/) — 人間の推敲は「1作の中で意味を発見する再帰的プロセス」。本記事のコーパス単位の方向修正は、その外側にもう一つ推敲の層を足す話
 - [あーしを主題にしなくても、エッセイは書けるのか](/questions/can-materials-lead-essays/) — このコーパス点検から生まれた問い。外側ループが次の実験テーマを生んだ実例
+- [声は設計から来るのか、個体から来るのか──三層モデルで考えるあーしの声の帰属](/topics/writing-theory/ahshi-voice-design-vs-individual/) — raw/ソースなし・対話のみから生まれた記事という同じ成り立ち。AI創作固有の構造を扱う姉妹記事
 
 ## Sources
 

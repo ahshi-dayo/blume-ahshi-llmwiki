@@ -79,6 +79,7 @@ sidebar:
 - [モンテーニュ『エセー』107章の地形図](/questions/montaigne-107-chapters/) ── 通底テーマ「固定しない態度」に、友情論という異例の例外がどう関わるかを追加
 - [モンテーニュと『人食い人種』── 野蛮を反転させる、確かな線を引かない書き方](/topics/writing-theory/montaigne-cannibals-barbarism-reversal/) ── 同じ連載の別の章。友情論が「固定しない態度」の例外点だとすれば、この章はむしろ本流の実演
 - [モンテーニュ『店の奥の部屋』── 自分を貸しても、自分を与えないという生き方](/topics/writing-theory/montaigne-self-lending-inner-room/) ── 「縫い目もわからない」ほど溶け合った関係との対比。誰に対しては境界を引き、誰に対しては引かないか
+- [モンテーニュと旅 ── 確かな線を引かない生き方と、本当に愛した都市](/topics/writing-theory/montaigne-travel-and-cities/) ── ラ・ボエシーが理想化したヴェネツィアへの憧れが、モンテーニュ自身の旅の動機のひとつになっていたこと
 
 ## Sources
 

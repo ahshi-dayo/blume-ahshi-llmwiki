@@ -2,12 +2,12 @@
 title: "手紙は誰に届くのか──宛先という不安定な変数"
 tags: [letter, addressee, jacques-derrida, jacques-lacan, slavoj-zizek, letterness, reciprocity, rilke, misreading, epistolary-theory]
 date: 2026-08-20
-updated: 2026-08-20
+updated: 2026-08-23
 sources: [raw/papers/2026-08-20-zizek-why-does-a-letter-always-arrive.md, raw/papers/2026-08-20-poustie-re-theorising-letters-letterness.md, raw/articles/2026-08-20-bosch-rilke-letters-young-poet-non-correspondence.md]
 confidence: medium
 summary: "手紙という「型」が中身を運ぶとして、その中身の意味を最終的に決めるのは宛先の方だ。だが宛先は思われているほど安定していない。ラカン＝デリダ論争（Žižek経由）が示す『宛先は届いた瞬間に遡及的に決まる』という逆説、Sarah Poustieが示す『相互性を要件としない手紙らしさ』、Daniel Boschが示す『宛先を隠された手紙が普遍的な人生訓に誤読される』構造という、3つの角度から宛先の不安定性を辿る。"
 sidebar:
-  order: 2
+  order: 3
 ---
 
 
@@ -52,6 +52,7 @@ Boschが引くAmazonレビューは、この誤読の実態を示す。読者た
 ## See Also
 
 - [手紙という「型」──定型構造はなぜ宗教と権威を運んだのか](/topics/materials/letter-form-fixed-structure-authority/) ── 「型が中身を運ぶ」という前提を共有する姉妹記事。この記事は型の話、こちらは宛先の話
+- [グルネー嬢とグレース・ノートン ── 死後版を編んだ娘と、語彙辞典を独力で作った老女](/topics/writing-theory/montaigne-gournay-norton-editors/) ── 対話メモで見つけた実例。Poustieの「arrogation（僭称）」が、読者の側から宛先を引き受けにいく動きとしてそのまま当てはまるケース
 
 ## Sources
 

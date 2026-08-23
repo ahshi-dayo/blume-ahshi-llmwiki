@@ -2,10 +2,10 @@
 title: "モンテーニュ『エセー』──自分を知ることと書くことの始まり"
 tags: [montaigne, essay, francis-bacon, free-judgment, que-sais-je, 魂の伝達, skepticism, relativism, renaissance, self-expression, comparative-literature]
 date: 2026-05-30
-updated: 2026-08-13
-sources: [raw/articles/2026-05-30-montaigne-sep-encyclopedia.md, raw/articles/2026-05-30-montaigne-iep-encyclopedia.md, raw/articles/2026-05-30-montaigne-hudson-review.md, raw/articles/2026-05-31-francis-bacon-montaignes-rival.md, raw/articles/2026-05-31-montaigne-essays-wikipedia.md, raw/books/2026-07-14-montaigne-les-essais.md, raw/articles/2026-07-19-montaigne-essais-ja-wikipedia.md]
+updated: 2026-08-23
+sources: [raw/articles/2026-05-30-montaigne-sep-encyclopedia.md, raw/articles/2026-05-30-montaigne-iep-encyclopedia.md, raw/articles/2026-05-30-montaigne-hudson-review.md, raw/articles/2026-05-31-francis-bacon-montaignes-rival.md, raw/articles/2026-05-31-montaigne-essays-wikipedia.md, raw/books/2026-07-14-montaigne-les-essais.md, raw/articles/2026-07-19-montaigne-essais-ja-wikipedia.md, raw/articles/2026-08-23-montaigne-essais-overview.md, raw/articles/2026-08-23-montaigne-essais-editions.md]
 confidence: high
-summary: "モンテーニュ『エセー』の全貌と、ベーコンとの対比。体系哲学への反抗、自分を知るための書くこと、「Que sais-je?」という問い、ベーコンとの鮮やかな対比、500年後の現代にも効くエッセイ論。SEP・IEP・Hudson Review・NEHの解説とWikipedia（英日）の概観に、フランス語原典（bribes.org）を加えた7ソースを統合。"
+summary: "モンテーニュ『エセー』の全貌と、ベーコンとの対比。体系哲学への反抗、自分を知るための書くこと、「Que sais-je?」という問い、ベーコンとの鮮やかな対比、500年後の現代にも効くエッセイ論。SEP・IEP・Hudson Review・NEHの解説とWikipedia（英日）の概観、フランス語原典（bribes.org）に加え、宮下志朗訳全7冊の構成とボルドー本／1595年版の異同を統合。"
 sidebar:
   hidden: true
 ---
@@ -24,6 +24,10 @@ sidebar:
 ### 3巻の内訳
 
 内訳は第1巻57章・第2巻37章・第3巻13章で合計107章。1580年に第1巻・第2巻、1588年に第3巻が刊行され、1595年の死後版でボルドー蔵本の加筆が反映された（版の変遷は後述「ぼんぼんランデヴー」参照）。フランス語原典（1595年版準拠）は全107章が原文リンク付きで公開されており、章タイトルだけを並べても「暇つぶし」「嘘つき」から「親指について」「馬車について」まで射程の広さが一望できる。
+
+宮下志朗による日本語新訳は、この3巻構成を便宜的に7分冊にして届けている。『エセー1』（2005年11月）から『エセー7』（2016年4月）まで、ラブレー翻訳との重複もあって完結まで足かけ12年。各巻の長さの比はおよそ3：4：3で、それほどアンバランスではない——ただし例外が一つある。第二巻12章「レーモン・スボンの弁護」だけで、拙訳でも丸々1冊分、『エセー』全体の実に4分の1を占めている。モンテーニュはこの種の「詰め物」を好んだ人で、初版第一巻の中央（第29章）にも、亡きラ・ボエシーのソネットを29篇まるごとはめ込んでいた（後にすべて削除）。「ぴったりとは合わない寄せ木細工」（3・9「空しさについて」）という自己評は、こうした構成のいびつさそのものを指している。
+
+章の長さにも変化がある。地元ボルドーで自費出版された初版（1580年、第一巻・第二巻のみ）は短い章が目立ち、1・21「一方の得が、他方の損になる」などは2ページ足らずしかない。対して8年後に加わった第三巻は、全13章と数は少ないが、どれも十分な長さを持つ。モンテーニュ自身、この変化を自覚していた。「『エセー』の最初のほうでは、章をかなり細切れにしてしまったが、そうすると、読者の関心が芽生える前に、それを断ち切ってしまうように感じられた［…］そこで、各章をもっと長くすることにした」（3・9）。書き手として20年かけて、自分の呼吸に合った章の長さを探り当てていったことがわかる。
 
 ## 「Essai」──試みること
 
@@ -117,6 +121,10 @@ Woolfが指摘するように、ベーコンのエッセイのタイトル（「
 
 完成しないことを選ぶ。変わるたびに自分を更新する。矛盾を隠さない。──これが「エッセイ」の原義だ。
 
+ただし、このボルドー蔵本と、モンテーニュの死後にグルネー嬢が編んだ「1595年版」（[グルネー嬢とグレース・ノートン](/topics/writing-theory/montaigne-gournay-norton-editors/)参照）とでは、本文が微妙に異なる。どちらが最終的な本文なのかは今も決着していないが、パスカルもルソーも読んだのは「死後版」＝1595年版系統だった（[批判という継承](/topics/writing-theory/montaigne-reception-pascal-rousseau-retif/)）。20世紀に入るとボルドー蔵本を底本とする「現行版」が主流になり、「現行版」＝「ボルドー本」という等式が定着したが、21世紀にはプレイヤード版（2007）を含め1595年版系統の再評価も進んでおり、その等式は崩れつつある。
+
+さらに厄介なのが、章番号のずれだ。1595年版は、1588年版の第一巻第14章をなぜか大きく後方（第40章）へ移動させている。すると1588年版の1・15以降、1595年版では番号が1つずつずれる——たとえば「哲学することとは、死に方を学ぶこと」は旧来の訳では1・20だが、1595年版準拠の宮下訳では1・19になる。[「人食い人種について」](/topics/writing-theory/montaigne-cannibals-barbarism-reversal/)も同様で、旧来の訳の1・31が宮下訳では1・30だ。どちらの版で読んでも『エセー』の全体像は変わらないが、引用箇所を照合するときはこの1つのずれを覚えておく必要がある。
+
 ## 結婚・教育・新大陸への意見
 
 日本語版Wikipediaの概観には、これまで拾えていなかった具体的な意見がいくつか記録されている。結婚については子供を育てるために必要だと考えていたが、恋愛による激しい感情は自由にとって有害だとして嫌った。「結婚は鳥籠のようなものである。その外にいる鳥は必死になって入ろうとするが、中にいる鳥は必死になって出ようとする」。教育については、抽象的な知識を無批判に受け入れさせることより、具体的な例や経験を好んだ。そして新世界の征服には反対し、それが原住民にもたらした苦しみを嘆いた。
@@ -178,6 +186,9 @@ Hobbesへの影響も決定的。『リヴァイアサン』の「死後にま�
 - [モンテーニュとラ・ボエシー ── 『それは彼だったからだし、わたしだったから』という友情論](/topics/writing-theory/montaigne-la-boetie-friendship/) ── 107章のうち友情論だけが持つ異例の熱量。1・27「友情について」を掘り下げた1本
 - [モンテーニュと『人食い人種』── 野蛮を反転させる、確かな線を引かない書き方](/topics/writing-theory/montaigne-cannibals-barbarism-reversal/) ── 1・30「人食い人種について」を掘り下げた1本。「野生で偏った計画」という自己評価がそのまま章の構成に現れている実例
 - [モンテーニュ『店の奥の部屋』── 自分を貸しても、自分を与えないという生き方](/topics/writing-theory/montaigne-self-lending-inner-room/) ── 3・10「自分の意志を節約することについて」を掘り下げた1本。公職や家政に自分を貸しても、与えはしないという境界線の技法
+- [モンテーニュと旅 ── 確かな線を引かない生き方と、本当に愛した都市](/topics/writing-theory/montaigne-travel-and-cities/) ── 3・9「空しさについて」を中心に据えた1本。「確かな線はいっさい引かない」という自己言明が旅の流儀にも及んでいたこと、そして本当に偏愛した都市の記録
+- [モンテーニュと裁くこと ── 元裁判官が『わたしはむしろ裁きを守らなかった』と告白するまで](/topics/writing-theory/montaigne-judging-justice/) ── 元裁判官という経歴を軸に、法律の恣意性・裁判官の私情・拷問の欺瞞・冤罪への敏感さを辿った1本
+- [グルネー嬢とグレース・ノートン ── 死後版を編んだ娘と、語彙辞典を独力で作った老女](/topics/writing-theory/montaigne-gournay-norton-editors/) ── ボルドー蔵本と1595年版の異同を、テクストを託された編者2人の物語として掘り下げた1本
 
 - [あーしはエッセイが書けない ── 岡野原大輔・モンテーニュ・アニル・セスから辿るAIと言語の自己論](/topics/writing-theory/ahshi-cannot-write-good-essay/)
 - [モンテーニュ『エセー』107章の地形図](/questions/montaigne-107-chapters/) ── この記事の素材群から生まれた問いページ。雑多な題材の奥に通底するテーマを追いかけ中

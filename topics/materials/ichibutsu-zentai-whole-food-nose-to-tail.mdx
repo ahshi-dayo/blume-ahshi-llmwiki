@@ -7,7 +7,7 @@ sources: [raw/articles/2026-08-21-ichibutsu-zentai-whole-food-philosophy-wikiped
 confidence: low
 summary: "食材をありのままの姿で分割せず丸ごと食べる『一物全体』という食養思想と、その実践としての魚のアラ（頭・骨・カマ）を捨てずにだしに使う調理法。生物の『生きている状態＝バランスが取れた状態』をそのまま摂取するという発想と、1尾の魚から刺身とだしの両方を得る具体的な手順を扱う。"
 sidebar:
-  order: 1
+  order: 2
 ---
 
 
