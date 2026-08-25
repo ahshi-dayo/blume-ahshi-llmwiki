@@ -4,3 +4,5 @@
   Content-Type: text/markdown; charset=utf-8
 /blume-ahshi-llmwiki/*.txt
   Content-Type: text/plain; charset=utf-8
+/blume-ahshi-llmwiki/
+  Link: </blume-ahshi-llmwiki/agent-readability.json>; rel="describedby"; type="application/json", </blume-ahshi-llmwiki/llms.txt>; rel="describedby"; type="text/plain", </blume-ahshi-llmwiki/index.md>; rel="alternate"; type="text/markdown"

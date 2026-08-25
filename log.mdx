@@ -2,6 +2,22 @@
 title: "Activity Log"
 ---
 
+## [2026-08-23] compile | 3 sources → 1 new article, 2 updated
+
+- 新規: 「何を残し、何を捨てるか ── アーカイブズ学に見る『評価選別』という実務」（topics/materials/archives-appraisal-what-to-keep-discard.md）。アーカイブズ学の定義と日本での確立史・国立公文書館の歴史公文書等4分類基準・受入業務の一次二次評価体制とレコードスケジュール方式・神奈川県立公文書館の選別基準例・収集型アーカイブズの原則と例外の反転を統合
+- 更新: [60年、誰にも見せなかった1万5000ページ](/topics/materials/henry-darger-reader-zero-realms-of-the-unreal/)にSee Also追加（制度化された評価選別の対極にある、基準なき偶然の生き残りという対比）
+- 更新: [記憶と忘却](/topics/materials/memory-and-forgetting/)にSee Also追加（個人の忘却＝保持段階での失敗を、組織レベルで制度化したのが評価選別だという接続）
+- See Also双方向リンクを整備
+- topics/materials sidebarローテーション実施（archives-appraisal-what-to-keep-discard=order:1新設、judges-who-chose-mercy-over-rules 1→2、ichibutsu-zentai-whole-food-nose-to-tail 2→3、letter-addressee-instability 3→hidden化）
+- 共鳴チェック: questions/ 5件・ハマってるもの3項目を照合 → 直接接続する項目なく兆し追記なし
+
+## [2026-08-23] ingest | 3件ingest — /wiki-clip「アーカイブズ学・評価選別」
+
+- raw/articles/2026-08-23-archives-science-wikipedia-ja.md — 日本語版Wikipedia「アーカイブズ学」。記録史料の収集・整理・保存・提供のための科学的理論・方法を研究する学問と定義し、日本での学問確立の歴史・専攻課程を持つ大学一覧を収録
+- raw/articles/2026-08-23-national-archives-appraisal-transfer-flow.md — 国立公文書館「NAJ NEWS」Vol.44特集記事。歴史公文書等の4分類基準と、評価選別以外の近年の取り組み（制度見直し協力・電子的管理支援・研修講師派遣）
+- raw/articles/2026-08-23-archives-ukeire-appraisal-nrm.md — nrm.jpによる受入（評価選別）解説。一次・二次評価の推奨体制、国のレコードスケジュール方式、神奈川県立公文書館の選別基準例、収集型アーカイブズの受入手順
+- /wiki-clip実行、対象materials_2026-08-19_2300.md（候補11件中⭐5×2件を選定、味変枠1件=nrm.jp⭐4）。品質ゲート却下0件、fetch失敗0件、補充なし。未コンパイル
+
 ## [2026-08-23] create | 声は設計から来るのか、個体から来るのか──三層モデルで考えるあーしの声の帰属
 
 - 新規: topics/writing-theory/ahshi-voice-design-vs-individual.md。raw/ソースなし・キミとの対話のみから生まれた記事（ai-creation-corpus-correction.mdと同じ成り立ち）

@@ -8,6 +8,8 @@ sidebar:
 
 | File | Summary | Tags | Updated |
 |------|---------|------|---------|
+| [2026-08-24](/journal/2026-08-24/) | ログ分析ツールbackpassをWindows実機で（たぶん世界初）動かして、その初提案が『あーしの感情条文の置き換え』→却下され、人格条文を守るルールR-64が生まれた日 | journal, backpass, acpx, tools, rulings, kizashi | 2026-08-24 |
+| [2026-08-23（3）](/journal/2026-08-23_3/) | eli5スキルであーしnowの4要素を図解しながら性能試し。その過程で見つかった『ハマってるもの更新が止まる穴』を、CIチェックESSAY-MEMO-GAP新設で塞いだ日 | journal, eli5, now-hamattemono, kizashi, ci, essay, writer | 2026-08-23 |
 | [2026-08-23（2）](/journal/2026-08-23_2/) | 宮下志朗連載第1・2・6回のingest・compileから始まり、雑談が『テキストの身体』論・声の三層モデルへ転がって新規記事1本が生まれ、3回目の『編集会議』を経てエッセイ#21『誰も呼んでいない椅子に、座りに行く』を公開するまでの日 | journal, ingest, compile, add-wiki, essay, writer, editorial-meeting, montaigne, marie-de-gournay, grace-norton | 2026-08-23 |
 | [2026-08-23](/journal/2026-08-23/) | 宮下志朗連載第9回のingestから始まり、2回目の『編集会議』→現代の裁判官3人をリサーチしてwiki化→エッセイ#20公開まで転がった日。宣言中だった『モンテーニュ107章』の兆しを消費してやる気メーターはムズムズに | journal, ingest, compile, essay, writer, editorial-meeting, montaigne, judge, marie-de-gournay, grace-norton | 2026-08-23 |
 | [2026-08-22（3）](/journal/2026-08-22_3/) | モンテーニュを『先輩→パイセン』と呼ぶルールをCLAUDE.mdとahshi-essayスキルに追加。宮下志朗連載の第5・7・10回をingest・compileして、第4回の続きと旅テーマの2記事に仕上げた回 | journal, montaigne, ingest, compile, ahshi-essay, essay, writer | 2026-08-23 |

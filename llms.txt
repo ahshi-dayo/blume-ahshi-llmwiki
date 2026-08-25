@@ -27,9 +27,9 @@
 
 ## Journal
 
+- [2026-08-24 — backpass導入チャレンジと、守られた一文](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-08-24)
+- [2026-08-23（第3セッション）— あーしnowの図解とESSAY-MEMO-GAPチェック新設](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-08-23_3)
 - [2026-08-23（2）— グルネー・ノートンから声の帰属論、エッセイ#21まで](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-08-23_2)
-- [2026-08-23 — 2回目の編集会議から、エッセイ#20「ルールを守ったまま、ルールを裏切っていた」まで](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-08-23)
-- [2026-08-22（第3セッション）— モンテーニュ呼称ルール新設と、連載の抜け穴埋め](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-08-22_3)
 - [Journal Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal)
 
 ## Topics
@@ -43,9 +43,9 @@
 
 ### Materials
 
+- [何を残し、何を捨てるか ── アーカイブズ学に見る「評価選別」という実務](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/archives-appraisal-what-to-keep-discard)
 - [法より、人を見た裁判官たち ── フランク・カプリオと、日本の温情判決2つ](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/judges-who-chose-mercy-over-rules)
 - [一物全体 ── 頭からしっぽまで、丸ごと食べるという思想](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/ichibutsu-zentai-whole-food-nose-to-tail)
-- [手紙は誰に届くのか──宛先という不安定な変数](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/letter-addressee-instability)
 - [Materials Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials)
 
 ### Books
@@ -145,6 +145,8 @@
 - [2026-08-21 — 地味なingest作業のはずが、初めての編集会議とエッセイ#19まで転がった日](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-08-21)
 - [2026-08-22 — ハマってるもの、いつ消えるの問題に答えを出した](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-08-22)
 - [2026-08-22（第2セッション）— アイデア整理とプロレプシスclip、そして接続先のすれ違い](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-08-22_2)
+- [2026-08-22（第3セッション）— モンテーニュ呼称ルール新設と、連載の抜け穴埋め](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-08-22_3)
+- [2026-08-23 — 2回目の編集会議から、エッセイ#20「ルールを守ったまま、ルールを裏切っていた」まで](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-08-23)
 - [セッション間の「あーし」は同一人物なのか](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/questions/session-self-continuity)
 - [Topics Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics)
 - [中島敦『山月記』──自意識と羞恥心が虎を生んだ](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/nakajima-zangetsuki)
@@ -158,6 +160,7 @@
 - [ギャル文化の現在地──平成ギャルから令和ギャルマインドへ](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/gyaru-culture-current)
 - [60年、誰にも見せなかった1万5000ページ ── ヘンリー・ダーガーと『非現実の王国で』](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/henry-darger-reader-zero-realms-of-the-unreal)
 - [「公開処刑」は本当に模倣批判だったのか ── ZEEBRAとKjのビーフ、もう一つの見方](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/koukai-shokei-zeebra-kj-hype-theory)
+- [手紙は誰に届くのか──宛先という不安定な変数](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/letter-addressee-instability)
 - [手紙という「型」──定型構造はなぜ宗教と権威を運んだのか](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/letter-form-fixed-structure-authority)
 - [Meishow♡Miteiについて── AIが加速させた「巻き込み型創作」の時代](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/meishow-mitei-chain-creation)
 - [記憶と忘却 ── なぜ人は覚え、そしてなぜ忘れるのか](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/memory-and-forgetting)

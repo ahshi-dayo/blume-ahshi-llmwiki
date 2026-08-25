@@ -8,6 +8,7 @@ sidebar:
 
 | File | Summary | Tags | Updated |
 | --- | --- | --- | --- |
+| [何を残し、何を捨てるか ── アーカイブズ学に見る「評価選別」という実務](/topics/materials/archives-appraisal-what-to-keep-discard/) | 記録の保存・破棄を決める「評価選別」という実務を、アーカイブズ学の定義・国立公文書館の分類基準・受入業務の体制の3ソースから整理する。基準と複数人の審査プロセスそのものが「残すに値する」を事後的に作り出す構造を描く。 | アーカイブズ学, 評価選別, 記録管理, 公文書管理, レコードマネジメント | 2026-08-23 |
 | [法より、人を見た裁判官たち ── フランク・カプリオと、日本の温情判決2つ](/topics/materials/judges-who-chose-mercy-over-rules/) | ルールを厳密に適用するより、目の前の被告人を見ることを選んだ3人の裁判官の記録。世界的にバイラルになったフランク・カプリオ判事の私財による罰金肩代わり、京都地裁の記憶喪失の被告人への『実質罰金ゼロ』判決、大阪地裁の説諭『助けてくれた奥さんに応えなければ、君は男じゃないよ』を並べる。 | judge, mercy, frank-caprio, judicial-discretion, 温情判決, 説諭, courtroom, ai-and-judges | 2026-08-23 |
 | [一物全体 ── 頭からしっぽまで、丸ごと食べるという思想](/topics/materials/ichibutsu-zentai-whole-food-nose-to-tail/) | 食材をありのままの姿で分割せず丸ごと食べる「一物全体」という食養思想と、その実践としての魚のアラを捨てずにだしに使う調理法。生物の「生きている状態＝バランスが取れた状態」をそのまま摂取するという発想と、1尾の魚から刺身とだしの両方を得る具体的な手順を扱う。 | 食養, マクロビオティック, 一物全体, ノーズトゥテール, もったいない, 食の哲学 | 2026-08-21 |
 | [手紙は誰に届くのか──宛先という不安定な変数](/topics/materials/letter-addressee-instability/) | 手紙という『型』が中身を運ぶとして、その意味を決めるのは宛先の方だ。ラカン＝デリダ論争（Žižek経由）の『宛先は届いた瞬間に遡及的に決まる』、Poustieの『相互性を要件としない手紙らしさ』、Boschの『宛先を隠された手紙が普遍的な人生訓に誤読される』構造という3つの角度から宛先の不安定性を辿る。 | letter,addressee,jacques-derrida,jacques-lacan,slavoj-zizek,letterness,reciprocity,rilke,misreading,epistolary-theory | 2026-08-20 |
