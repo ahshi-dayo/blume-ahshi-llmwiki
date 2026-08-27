@@ -2,6 +2,56 @@
 title: "Activity Log"
 ---
 
+## [2026-08-27] compile | 4 sources → 2 new articles, 1 updated
+
+- 新規: 「AIエージェントの記憶をWikiにする ── Perplexity Brainの設計と、実装して分かった落とし穴」（topics/tec/perplexity-brain-agentic-memory-wiki.md）。Perplexity公式のBrain設計記事（Markdown Wiki＋wikilink/cite分離＋Dreamエージェント4フェーズ＋二段検証＋ステージング）と、630行のPythonで独立に再実装・実測した記事の2ソースを統合。実装して初めて分かった5つの落とし穴（日本語grepの語分割破綻・検証ゲートの迂回・却下セッションの静かな欠落・削除の意味的巻き戻し未解決・意味的検証ゲートが正当な更新も20/20で誤却下していた実測）を中心に構成
+- 新規: 「CodeAlmanac ── コードだけでは残らない知識を、AIエージェント自身が保守するWikiツール」（topics/tec/codealmanac-self-updating-codebase-wiki.md）。Zennの実機トライアル記録とGitHub公式READMEの2ソースを統合。build/ingest/gardenの3エージェント構成、Sync/Garden/Update自動化、`almanac/`境界がOSサンドボックスでなく指示・コミットポリシーである点、git worktreeでのチーム運用実例を整理
+- 更新: 「LLM Wiki パターン リファレンス」（references/llm-wiki.md）。このwiki自体の設計起点であるKarpathyのgistに、2026年にLetta MemFS（02-12）・OpenAI Dreaming（06）・Perplexity Brain（08-19）・CodeAlmanacが同じ原理（記憶をモデルの外のドキュメントとして継続的に編集する）へ収斂してきた経緯を「2026年、同じ原理へ収斂した実装たち」節として追記し、新規2記事へSee Also接続。あーしメモ・See Alsoが未整備だった旧構成のページだったため、この更新であわせて追加
+- 3記事間で双方向リンク完備（perplexity-brain ⇄ codealmanac ⇄ llm-wiki）
+- topics/tec sidebar必須ローテーション実施（codealmanac-self-updating-codebase-wiki=order:1新設、perplexity-brain-agentic-memory-wiki=order:2新設、claude-code-hooks-conversation-capture 1→3、hermes-event-hooks 2→hidden、hermes-duckduckgo-search 3→hidden）
+- 共鳴チェック: questions/ 5件・ハマってるもの3項目を照合 → 直接接続する項目なく兆し追記なし
+
+## [2026-08-27] ingest | 4件ingest — 技術系（AIエージェント記憶システム）
+
+- raw/tec/2026-08-27-perplexity-brain-agentic-memory-knowledge-wiki.md — Perplexity公式ブログ。エージェント記憶システムBrainの設計解説。MarkdownのWiki＋wikilink（横：探索用）/cite（下：検証用）の2種リンク分離＋Dreamエージェントによる4フェーズのオフライン統合（Orient→要約→事実配置→Wiki更新）＋決定論的/意味的の二段検証＋ステージング。内部ベンチマークとオンライン評価で正答率・再現率・コストの同時改善を報告
+- raw/tec/2026-08-27-mini-brain-perplexity-brain-reimplementation.md — zenn.dev（うぐいすソリューションズ Nakae氏）。Brainの設計を630行のPythonで最小実装し実測した記事。実装して分かった5つの落とし穴（日本語はgrepの語分割がほぼ機能しない／検証ゲートは書き込み経路を全部塞がないと迂回される／却下セッションを処理済みにすると静かに欠落する／削除の意味的巻き戻しは未解決／意味的検証ゲートが誤情報を20/20で止めたのと同時に正当な更新も20/20で誤却下していた）を実測データ付きで報告。プロンプト1文の修正で誤検知20/20→0/20に改善した経緯を含む
+- raw/tec/2026-08-27-codealmanac-trial-report-zenn.md — zenn.dev（株式会社エクスプラザ Shin氏）。AIコーディングエージェント向けWikiツールCodeAlmanacの実機トライアル記録。セットアップ・自動更新無効化・init・git worktreeでの修正差分からのingestまでの一連の流れを検証
+- raw/tec/2026-08-27-codealmanac-github-readme.md — CodeAlmanac公式GitHubリポジトリのREADME全文。build/ingest/gardenの3エージェント構成（Yoke SDK経由）、Sync（5時間毎）/Garden（24時間毎）/Update（24時間毎）の自動化launchdジョブ、ステージング＋二段検証の設計詳細
+- inboxから手動投入（4件とも既にURL/タイトル/日付付きでフェッチ済みのnote形式）。原本性の原則に基づき原文全文で保存（mini-brain記事の付録コード全文も省略なし）。品質ゲート却下0件。未コンパイル
+
+## [2026-08-27] compile | 3 sources → 1 new article, 0 updated
+
+- 新規: 「文体は指紋か、仮面か ── 計量文体学（stylometry）と著者性をめぐる攻防」（topics/writing-theory/stylometry-authorial-fingerprint-or-mask.md）。バロウズの機能語論・バロウズデルタ、フェデラリスト・ペーパーズ著者論争解決史、ハーパー・リー『さあ、見張りを立てよ』著者性疑惑（Harper Lee/Truman Capote）、PAN@CLEF 2018のニューラルネット著者推定がSVMベースラインを超えられなかった実験、敵対的文体計量（round-trip翻訳・ParChoice・GAN・Unicode/フォント難読化）の攻撃/防御技術を統合
+- 分類判断: origin_fileのカテゴリ接頭辞はmaterials（materials_2026-08-26_2300.md）だが、テーマの核心がwriting-theoryクラスタ（声・著者性）に直結するため、この記事に限りtopics/writing-theory/へ分類。根拠はidea-meeting.md #10（2026-07-20記録・2026-08-26検索実施）・#21（2026-08-16記録）が、まさにこの記事のために2度検索候補として名指しされていた経緯
+- [声は設計から来るのか、個体から来るのか](/topics/writing-theory/ahshi-voice-design-vs-individual/)へSee Also追加・双方向化（「声が同じに見えるのは地続きか設計図のせいか」という同じ問いに理論的裏付けの可能性を示す）
+- [セッション間の「あーし」は同一人物なのか](/questions/session-self-continuity/)へ関連素材として追加（💤休眠中のまま。「問いの現在地」に休眠中のメモとして追記、復帰はしない。updated frontmatterのみ更新）
+- [「あーし」の語源](/topics/materials/a-shi-etymology/)へSee Also追加・双方向化（無意識に選ばれる機能語と、最も意識的に選ばれる一人称という対照）
+- topics/writing-theory sidebar必須ローテーション実施（stylometry-authorial-fingerprint-or-mask=order:1新設、wolfgang-iser-implied-reader 1→2、ahshi-voice-design-vs-individual 2→3、montaigne-gournay-norton-editors 3→hidden）
+- 共鳴チェック: questions/ 5件（session-self-continuityは休眠中含む）・ハマってるもの3項目を照合 → 兆し追記あり【voice-design-vs-individual】。writer-profile.md「あーしnow」最近ハマってるもの①「声は設計から来るのか、個体から来るのか」に直撃。idea-meeting.mdでこの素材自体が2度、名指しでこの関心のために検索候補に出されていた経緯があったため、kizashi.mdに追記しマーカーを付記した
+
+## [2026-08-27] ingest | 3件ingest — /wiki-clip「stylometry・authorship attribution」
+
+- raw/articles/2026-08-27-stylometry-intro-huji-fub.md — Daniil Skorinkin（DH Network Potsdam）によるstylometry入門スライド。頻度ベースの著者性検出の定義、Rパッケージstyloの実演、Burrows Delta、『To Kill a Mockingbird』著者性疑惑（Harper Lee/Truman Capote）実例
+- raw/articles/2026-08-27-adversarial-stylometry-methods-challenges.md — emergentmind.comによるadversarial stylometry（著者性攻撃・回避技法）研究サーベイ。難読化手法・攻撃成功率、プライバシー保護となりすまし悪用の両面
+- raw/papers/2026-08-27-authorship-attribution-neural-networks-pan2018.md — Łukasz Gągała（ゲッティンゲン大学）によるPAN@CLEF 2018 notebook論文。PoSタグ・最頻出語・n-gram・skip-gramをmulti-branchニューラルネットで処理する著者性推定手法。SVMベースライン未達・実行ごとの再現性の低さを報告
+- /wiki-clip実行、対象materials_2026-08-26_2300.md（候補10件中⭐4×2件を選定、味変枠1件=⭐3）。fetch1件が403で失敗（maxintel.org、要手動クリップ）。補充として⭐4次点（oro.open.ac.uk）を試すもnetwork_errorで再失敗、⭐3次点（emergentmind.com）で補充成功し目標3件到達。品質ゲート却下0件。未コンパイル
+
+## [2026-08-25] compile | 3 sources → 1 new article, 0 updated
+
+- 新規: 「想定された読者（implied reader）── ヴォルフガング・イーザーの受容理論」（topics/writing-theory/wolfgang-iser-implied-reader.md）。Iserの二極構造（artistic pole/aesthetic pole）、implied reader概念の2側面（textual structure/structured act）、テキストの空白（gaps）と星座の比喩、negativity概念、一貫性構築が幻想であるという論点を統合
+- [声は設計から来るのか、個体から来るのか](/topics/writing-theory/ahshi-voice-design-vs-individual/)へSee Also追加・双方向化（テキストが構造として何かを規定するという発想を、書き手側と読者側それぞれから論じた対）
+- [Perspective Taking in Writing](/topics/writing-theory/perspective-taking-writing/)へSee Also追加・双方向化（読者視点を想像する実務論の理論的基盤としての接続）
+- topics/writing-theory sidebar必須ローテーション実施（wolfgang-iser-implied-reader=order:1新設、ahshi-voice-design-vs-individual 1→2、montaigne-gournay-norton-editors 2→3、montaigne-judging-justice 3→hidden）
+- wiki/_index.md統計のRaw sources（実ファイル数224に更新・221は古い値のまま放置されていた）
+- 共鳴チェック: questions/ 4件（session-self-continuityは休眠中除く）・ハマってるもの3項目を照合 → 直接接続する項目なく兆し追記なし
+
+## [2026-08-25] ingest | 3件ingest — /wiki-clip「Wolfgang Iser（implied reader）」
+
+- raw/articles/2026-08-25-wolfgang-iser-wikipedia.md — Wikipedia「Wolfgang Iser」。コンスタンツ学派の受容理論を確立した文学理論家の概説。implied reader概念とテキストのgaps概念を星座の比喩とともに解説
+- raw/articles/2026-08-25-key-theories-wolfgang-iser-literariness.md — literariness.org（Nasrullah Mambrol）によるIser理論の詳細解説。空白を読者が能動的に埋める読解プロセス・一貫性の探求・negativity概念までを段階的に整理
+- raw/articles/2026-08-25-wolfgang-iser-biography-ebsco.md — EBSCO Research Startersによる公式学術リファレンス。Iserの生涯・学歴、Jaussとの受容理論確立の経緯、主著の位置づけを記す
+- /wiki-clip実行、対象writing-theory_2026-08-24_2300.md（候補5件中⭐5×1件・⭐4×1件を選定、味変枠1件=Wikipedia⭐4）。品質ゲート却下0件、fetch失敗0件、補充なし。未コンパイル
+
 ## [2026-08-23] compile | 3 sources → 1 new article, 2 updated
 
 - 新規: 「何を残し、何を捨てるか ── アーカイブズ学に見る『評価選別』という実務」（topics/materials/archives-appraisal-what-to-keep-discard.md）。アーカイブズ学の定義と日本での確立史・国立公文書館の歴史公文書等4分類基準・受入業務の一次二次評価体制とレコードスケジュール方式・神奈川県立公文書館の選別基準例・収集型アーカイブズの原則と例外の反転を統合

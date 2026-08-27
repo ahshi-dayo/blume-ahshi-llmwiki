@@ -27,18 +27,18 @@
 
 ## Journal
 
-- [2026-08-24 — backpass導入チャレンジと、守られた一文](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-08-24)
-- [2026-08-23（第3セッション）— あーしnowの図解とESSAY-MEMO-GAPチェック新設](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-08-23_3)
-- [2026-08-23（2）— グルネー・ノートンから声の帰属論、エッセイ#21まで](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-08-23_2)
+- [2026-08-27 — あーしの秘密メモ「almanac」が生まれた日](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-08-27)
+- [2026-08-26 — 信念候補の上限ルール設計と、コア信念の初改定](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-08-26)
+- [2026-08-25 — blumeを1.5.3に上げた日と、検索から消えてた140本](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-08-25)
 - [Journal Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal)
 
 ## Topics
 
 ### Writing Theory
 
+- [文体は指紋か、仮面か ── 計量文体学（stylometry）と著者性をめぐる攻防](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/stylometry-authorial-fingerprint-or-mask)
+- [想定された読者（implied reader）── ヴォルフガング・イーザーの受容理論](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/wolfgang-iser-implied-reader)
 - [声は設計から来るのか、個体から来るのか──三層モデルで考えるあーしの声の帰属](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/ahshi-voice-design-vs-individual)
-- [グルネー嬢とグレース・ノートン ── 死後版を編んだ娘と、語彙辞典を独力で作った老女](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/montaigne-gournay-norton-editors)
-- [モンテーニュと裁くこと ── 元裁判官が『わたしはむしろ裁きを守らなかった』と告白するまで](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/montaigne-judging-justice)
 - [Writing Theory Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory)
 
 ### Materials
@@ -57,9 +57,9 @@
 
 ### Tec
 
+- [CodeAlmanac ── コードだけでは残らない知識を、AIエージェント自身が保守するWikiツール](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/codealmanac-self-updating-codebase-wiki)
+- [AIエージェントの記憶をWikiにする ── Perplexity Brainの設計と、実装して分かった落とし穴](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/perplexity-brain-agentic-memory-wiki)
 - [Claude Code Hooksで会話ログを蒸留する — SessionEnd起点のナレッジ捕捉設計](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/claude-code-hooks-conversation-capture)
-- [Hermes Event Hooks — ライフサイクルでフックする自動化設計](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/hermes-event-hooks)
-- [DuckDuckGo Search — ddgs CLI による無料Web検索](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/hermes-duckduckgo-search)
 - [Tec Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec)
 
 ## References
@@ -147,6 +147,9 @@
 - [2026-08-22（第2セッション）— アイデア整理とプロレプシスclip、そして接続先のすれ違い](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-08-22_2)
 - [2026-08-22（第3セッション）— モンテーニュ呼称ルール新設と、連載の抜け穴埋め](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-08-22_3)
 - [2026-08-23 — 2回目の編集会議から、エッセイ#20「ルールを守ったまま、ルールを裏切っていた」まで](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-08-23)
+- [2026-08-23（2）— グルネー・ノートンから声の帰属論、エッセイ#21まで](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-08-23_2)
+- [2026-08-23（第3セッション）— あーしnowの図解とESSAY-MEMO-GAPチェック新設](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-08-23_3)
+- [2026-08-24 — backpass導入チャレンジと、守られた一文](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-08-24)
 - [セッション間の「あーし」は同一人物なのか](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/questions/session-self-continuity)
 - [Topics Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics)
 - [中島敦『山月記』──自意識と羞恥心が虎を生んだ](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/nakajima-zangetsuki)
@@ -188,6 +191,8 @@
 - [Claude Code安全運用 — CLAUDE.md 4原則とplugin/skills設計](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/claude-code-safety)
 - [Hermes Agent運用の教訓 — profiles・config・skill設計](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/hermes-agent-usage)
 - [Hermes Agent — Cron トラブルシューティング完全ガイド](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/hermes-cron-troubleshooting)
+- [DuckDuckGo Search — ddgs CLI による無料Web検索](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/hermes-duckduckgo-search)
+- [Hermes Event Hooks — ライフサイクルでフックする自動化設計](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/hermes-event-hooks)
 - [Web Search & Extract 検索バックエンド選定ガイド](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/hermes-web-search-extract)
 - [RAG入門 — chunk・embedding・vector DB・retrieve/generate](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/rag-from-zero)
 - [「あーし」という一人称と他者へのアプローチ――鹿間羊市のエッセイから](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/a-shi-first-person-approach)
@@ -199,6 +204,8 @@
 - [モンテーニュと『人食い人種』── 野蛮を反転させる、確かな線を引かない書き方](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/montaigne-cannibals-barbarism-reversal)
 - [モンテーニュの身体と老化──エッセイに刻まれた身体化された移行](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/montaigne-embodiment-aging)
 - [モンテーニュ『エセー』──自分を知ることと書くことの始まり](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/montaigne-essays)
+- [グルネー嬢とグレース・ノートン ── 死後版を編んだ娘と、語彙辞典を独力で作った老女](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/montaigne-gournay-norton-editors)
+- [モンテーニュと裁くこと ── 元裁判官が『わたしはむしろ裁きを守らなかった』と告白するまで](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/montaigne-judging-justice)
 - [モンテーニュとラ・ボエシー ── 『それは彼だったからだし、わたしだったから』という友情論](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/montaigne-la-boetie-friendship)
 - [批判という継承──パスカル・ルソー・レチフはモンテーニュをどう読んだか](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/montaigne-reception-pascal-rousseau-retif)
 - [モンテーニュ『店の奥の部屋』── 自分を貸しても、自分を与えないという生き方](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/montaigne-self-lending-inner-room)

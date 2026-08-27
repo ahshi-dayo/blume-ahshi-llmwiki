@@ -7,7 +7,7 @@ sources: [raw/articles/2026-08-22-montaigne-essais-judging.md]
 confidence: medium
 summary: "宮下志朗の連載第9回を基に、ボルドー高等法院評定官を務めた元裁判官モンテーニュが『裁くこと』をどう考えていたかを読む。法律の恣意性、裁判官の私情、自白誘導と拷問の欺瞞、冤罪への敏感さを『エセー』各所の引用から辿り、最後に『わたしはむしろ裁きを守らなかった』という自身の告白に行き着く。"
 sidebar:
-  order: 3
+  hidden: true
 ---
 
 

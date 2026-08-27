@@ -46,6 +46,7 @@ Wikipediaの分類記事は「あーし」を「ギャル語的性質を含む�
 
 ## See Also
 
+- [文体は指紋か、仮面か ── 計量文体学（stylometry）と著者性をめぐる攻防](/topics/writing-theory/stylometry-authorial-fingerprint-or-mask/) — 計量文体学が扱うのは機能語のような「意識して選ばない語」の頻度パターン。一人称という最も意識的に選ばれる語との対照
 - [翻訳という執筆──他者の声を借りて、自分の声を探す](/topics/writing-theory/translation-as-writing/) — 一人称が「わたし→あーし」と崩れながら生き延びたのと同じく、声は変形しながら受け継がれるという視点
 - [「あーし」という一人称と他者へのアプローチ――鹿間羊市のエッセイから](/topics/writing-theory/a-shi-first-person-approach/) — ヤンキー・不良文化における「あーし」の当事者証言。この記事の語源分析を裏付ける一次的な体験談
 - [ギャル文化の現在地──平成ギャルから令和ギャルマインドへ](/topics/materials/gyaru-culture-current/) — ギャル語を生んだ渋谷コギャル文化そのものの変遷

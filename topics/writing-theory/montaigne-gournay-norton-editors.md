@@ -7,7 +7,7 @@ sources: [raw/articles/2026-08-23-montaigne-essais-gournay-norton.md]
 confidence: medium
 summary: "宮下志朗の連載第6回を基に、『エセー』のテクスト成立を支えた二人の女性を辿る。没後の1595年版を編んだマリー・ド・グルネー（義理の娘として遇された経緯、加筆をめぐる偽造説とその名誉回復）と、80歳を過ぎてから独力で語彙辞典を作成しボルドー市版に収録されたグレース・ノートン。"
 sidebar:
-  order: 2
+  hidden: true
 ---
 
 

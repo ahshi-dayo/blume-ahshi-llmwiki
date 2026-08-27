@@ -17,4 +17,4 @@ Last updated: 2026-08-11
 |------|---------|------|---------|
 |[Blume リファレンス](/references/blume/)|Astro/Vite/TailwindベースのAI-ready指向ドキュメントサイト生成OSS「Blume」の解説。静的HTML出力・llms.txt・MCPサーバー標準搭載などのAI向け機能をまとめる。|blume, astro, vite, documentation-site-generator, markdown, ai-readability, llms-txt, mcp-server, static-site|2026-08-08|
 |[lobster-wiki リファレンス](/references/lobster-wiki/)|lobster-wikiのリファレンス。設定・構成・CSS設計・SPAルーティング（旧表示エンジン、現在はBlumeへ移行済み）。|lobster-wiki, static-site, markdown, wiki-tool|2026-08-11|
-|[LLM Wiki パターン リファレンス](/references/llm-wiki/)|KarpathyのLLM Wikiパターン。3層構造・Ingest/Query/Lint操作。|llm-wiki, knowledge-base, karpathy, wiki-pattern|2026-05-30|
+|[LLM Wiki パターン リファレンス](/references/llm-wiki/)|KarpathyのLLM Wikiパターン。3層構造・Ingest/Query/Lint操作。2026年にLetta MemFS・Perplexity Brain・CodeAlmanac等が同じ原理へ収斂した経緯を追記。|llm-wiki, knowledge-base, karpathy, wiki-pattern, agentic-memory|2026-08-27|

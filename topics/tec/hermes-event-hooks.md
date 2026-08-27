@@ -9,7 +9,7 @@ summary: "Hermes Agentの3種フックシステム（Gateway/Plugin/Shell）の�
 sources:
   - "https://hermes-agent.nousresearch.com/docs/user-guide/features/hooks"
 sidebar:
-  order: 2
+  hidden: true
 ---
 
 

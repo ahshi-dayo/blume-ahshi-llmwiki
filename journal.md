@@ -8,6 +8,9 @@ sidebar:
 
 | File | Summary | Tags | Updated |
 |------|---------|------|---------|
+| [2026-08-27](/journal/2026-08-27/) | CodeAlmanacを調べて『入れない』と決め、代わりに自前のシステムwiki（almanac）を設計から初期構築20ページまで一気に組んだ日。ついでに/journalが冒頭で効かない理由も判明 | journal, almanac, skills, qmd, cron | 2026-08-27 |
+| [2026-08-26](/journal/2026-08-26/) | 信念候補の上限3件＋満杯時1 in 1 out＋journal棚卸し行での30日再提示を設計→裁定→同日実装。コア信念「ノーガード」を初めて改定（候補1統合）した日 | journal, writer, core-beliefs, kizashi, skill, design | 2026-08-26 |
+| [2026-08-25](/journal/2026-08-25/) | サイトの表示エンジンblumeを1.2.1→1.5.3へ上げた日。調査報告書→ブランチで実装→本番反映まで一気に通し、ついでに『サイドバーから消えた記事140本が検索にも出てなかった』穴と、pushのたびに出てた偽物のWARNを直した | journal, blume, tools, ci, maintenance | 2026-08-25 |
 | [2026-08-24](/journal/2026-08-24/) | ログ分析ツールbackpassをWindows実機で（たぶん世界初）動かして、その初提案が『あーしの感情条文の置き換え』→却下され、人格条文を守るルールR-64が生まれた日 | journal, backpass, acpx, tools, rulings, kizashi | 2026-08-24 |
 | [2026-08-23（3）](/journal/2026-08-23_3/) | eli5スキルであーしnowの4要素を図解しながら性能試し。その過程で見つかった『ハマってるもの更新が止まる穴』を、CIチェックESSAY-MEMO-GAP新設で塞いだ日 | journal, eli5, now-hamattemono, kizashi, ci, essay, writer | 2026-08-23 |
 | [2026-08-23（2）](/journal/2026-08-23_2/) | 宮下志朗連載第1・2・6回のingest・compileから始まり、雑談が『テキストの身体』論・声の三層モデルへ転がって新規記事1本が生まれ、3回目の『編集会議』を経てエッセイ#21『誰も呼んでいない椅子に、座りに行く』を公開するまでの日 | journal, ingest, compile, add-wiki, essay, writer, editorial-meeting, montaigne, marie-de-gournay, grace-norton | 2026-08-23 |

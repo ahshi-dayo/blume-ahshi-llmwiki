@@ -7,7 +7,7 @@ sources: [raw/tec/2026-08-21-claude-code-hooks-conversation-capture.md]
 confidence: low
 summary: "Claude CodeのHooksを使い、会話ログに残る『判断の過程』を後から蒸留するパイプライン設計。SessionEndでは会話ログ本体をコピーせずパスだけキューに積み、重い処理は後回しにする。SubagentStopが最も情報を捨てている（実測中央値68.9%喪失）という指摘が核。"
 sidebar:
-  order: 1
+  order: 3
 ---
 
 

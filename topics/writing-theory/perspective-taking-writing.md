@@ -71,6 +71,7 @@ Perspective Takingは、私たちの限られた視点を広げ、より良い�
 
 ## See Also
 
+- [想定された読者（implied reader）── ヴォルフガング・イーザーの受容理論](/topics/writing-theory/wolfgang-iser-implied-reader/) — 書き手が読者の視点を想像するという実務論の理論的基盤。イーザーの理論はこの実務がなぜ成立するのかを説明する
 - [Writing Pedagogies of Empathy](/topics/writing-theory/writing-pedagogies-empathy/)
 - [フランシス・ベーコン —— 「知より行」を書いた格言の人](/topics/writing-theory/francis-bacon-aphorist/)
 - [アウシュヴィッツの後に詩は書けるか──アドルノの弁証法とセバルトの実践](/topics/writing-theory/poetry-after-auschwitz/) — 他者の視点に入り込むことの極限。トラウマの表現という倫理的問題
