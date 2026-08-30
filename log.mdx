@@ -2,6 +2,24 @@
 title: "Activity Log"
 ---
 
+## [2026-08-31] update | 📖連載中モード開始 — questions/montaigne-107-chapters
+
+- [モンテーニュ『エセー』107章の地形図](/questions/montaigne-107-chapters/)の冒頭に📖連載中マーカー（2026-08-31〜）を付与し、「問いの現在地」に開始の1行、「関連素材」に[読書棚](/topics/books/essais/)の行を追加。休眠（💤）とは別の第3状態で、可視のまま・このslugへの兆しは書かない・45日休眠判定の対象外（正典は PJ/CLAUDE.md「連載中（📖）ルール」・R-66）
+- 状態同期: [あーしnow](/now/)「追いかけてる問い」に読書中の一言、questions/index.md の Updated 更新
+
+## [2026-08-31] compile | 1 source → 1 new article, 3 updated（読書棚 Phase 0 スパイク）
+
+- 新規: 「I-01 さまざまな方法で同じ結果にいたる」（topics/books/essais/I-01.md）。『エセー』107章読書棚の第1章。棚テンプレ（この章で何が起きるか／書き方の観察／地形図との照合／あーしメモ／See Also／Sources）で作成。`sidebar.hidden: true`・frontmatter `chapter: I-01`
+- 新規（棚の器）: topics/books/essais/index.md（107章進捗表・底本情報・1595系⇄ボルドー系対応表）＋ essais/meta.ts（collapsed: true）。topics/books/index.md に棚ハブの行を追加
+- 更新: montaigne-essays / montaigne-self-portraiture-solitude / montaigne-cannibals-barbarism-reversal の See Also に I-01 への行を追加（本文は触らない・1章1枚の原則）
+- sidebar ローテーション: 読書棚は上限3件の外なので実施しない（親 topics/books/ の可視3件は不変）
+- 共鳴チェック: questions/ 4件（montaigne-107-chapters は📖免除で対象外）・ハマってるもの3項目を照合 → 直接接続する項目なく兆し追記なし
+
+## [2026-08-31] ingest | Essais I-01 Par divers moyens on arrive à pareille fin（raw/books/2026-08-31-essais-I-01.md）
+
+- 『エセー』第1巻第1章の現代語版全文（Wikisource Michaud 1907・1595年版準拠）。人間のブラウザクリッパー経由で inbox から手動 ingest（`--type books`・`edition:` フィールド新設・`source:` は正規化した単一パス）
+- 読書棚 topics/books/essais/ の第1章分。段落順は原文と一致（Maquette 2 二段組の崩れなし）
+
 ## [2026-08-27] compile | 4 sources → 2 new articles, 1 updated
 
 - 新規: 「AIエージェントの記憶をWikiにする ── Perplexity Brainの設計と、実装して分かった落とし穴」（topics/tec/perplexity-brain-agentic-memory-wiki.md）。Perplexity公式のBrain設計記事（Markdown Wiki＋wikilink/cite分離＋Dreamエージェント4フェーズ＋二段検証＋ステージング）と、630行のPythonで独立に再実装・実測した記事の2ソースを統合。実装して初めて分かった5つの落とし穴（日本語grepの語分割破綻・検証ゲートの迂回・却下セッションの静かな欠落・削除の意味的巻き戻し未解決・意味的検証ゲートが正当な更新も20/20で誤却下していた実測）を中心に構成

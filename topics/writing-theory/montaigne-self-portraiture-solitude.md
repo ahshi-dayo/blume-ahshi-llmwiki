@@ -2,7 +2,7 @@
 title: "モンテーニュの自己描写論──『存在』ではなく『移り変わり』を描く"
 tags: [montaigne, self-portraiture, solitude, obsession, writing-as-therapy, rousseau, essais, writing-theory]
 date: 2026-07-19
-updated: 2026-08-13
+updated: 2026-08-31
 sources: [raw/articles/2026-07-19-montaigne-solitude-psychology-today.md, raw/articles/2026-07-19-montaigne-self-portraiture-hudson-review.md]
 confidence: high
 summary: "モンテーニュが『エセー』で繰り返した2つの技法──孤独の中で妄執を書いて飼いならすこと、そして自分を『固定された存在』ではなく『絶えざる移り変わり』として描くこと。Psychology TodayとThe Hudson Reviewの2記事を統合し、ルソーの独自性主張との対比も扱う。"
@@ -71,6 +71,7 @@ sidebar:
 - [下書きを隠せる時間 ── 推敲の歴史と、それを拒んだ男の話](/topics/writing-theory/history-of-drafting-revision/) ── モンテーニュが20年書き直し続けた実践を、Sommersの言う「意味を発見する再帰的プロセス」の歴史的な実例として読み直す記事
 - [モンテーニュとラ・ボエシー ── 『それは彼だったからだし、わたしだったから』という友情論](/topics/writing-theory/montaigne-la-boetie-friendship/) ── 「紙は失った親友の代わり」という一文の裏側を、メルロー=ポンティの「彼のまなざしのもとに存在する」という読解で掘り下げる続編
 - [モンテーニュ『店の奥の部屋』── 自分を貸しても、自分を与えないという生き方](/topics/writing-theory/montaigne-self-lending-inner-room/) ── 「移り変わり続ける自己」と「役割から守る自己」、変化を受け入れる軸と境界を引く軸の違い
+- [I-01 さまざまな方法で同じ結果にいたる](/topics/books/essais/I-01/) ── 「人間はまことに定まりなく、揺れ動き、多様だ（ondoyant et divers）」と人間一般について言った第1章。「移り変わり」として自分を描く技法と同じ根
 
 ## Sources
 

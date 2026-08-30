@@ -2,7 +2,7 @@
 title: "モンテーニュと『人食い人種』── 野蛮を反転させる、確かな線を引かない書き方"
 tags: [montaigne, essais, cannibals, barbarism, cultural-relativism, jean-de-lery, new-world, writing-theory]
 date: 2026-08-13
-updated: 2026-08-13
+updated: 2026-08-31
 sources: [raw/articles/2026-08-13-montaigne-essais-cannibals-part1.md, raw/articles/2026-08-13-montaigne-essais-cannibals-part2.md]
 confidence: medium
 summary: "宮下志朗の連載第11回・第12回を基に、『エセー』1・30「人食い人種について」を読む。モンテーニュ自身が『確かな線はいっさい引かない』と語る筆法どおり、新大陸帰りの使用人の証言・プラトンとアリストテレスへの目配せ・ジャン・ド・レリーの高利貸し批判を経由しながら脱線を重ね、最後に『野蛮』の基準そのものをひっくり返す。1562年ルーアンでの新大陸先住民とシャルル9世の会見までを追う。"
@@ -77,6 +77,7 @@ sidebar:
 - [モンテーニュ『エセー』107章の地形図](/questions/montaigne-107-chapters/) ── 通底テーマ「固定しない態度」の直接的な自己言及として、この章を新しい根拠に追加
 - [モンテーニュと旅 ── 確かな線を引かない生き方と、本当に愛した都市](/topics/writing-theory/montaigne-travel-and-cities/) ── 「確かな線はいっさい引かない」の出所である3・9「空しさについて」を、旅というもともとの文脈で読んだ1本
 - [モンテーニュと裁くこと ── 元裁判官が『わたしはむしろ裁きを守らなかった』と告白するまで](/topics/writing-theory/montaigne-judging-justice/) ── 「生きた人間を拷問する方が野蛮」という同じ逆転の論理を、拷問という司法の文脈で読んだ1本
+- [I-01 さまざまな方法で同じ結果にいたる](/topics/books/essais/I-01/) ── 「書き方と内容の二重一致」がI.30より前、本の第1章からすでに始まっていたという読書棚側の観察
 
 ## Sources
 
