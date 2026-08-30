@@ -8,6 +8,9 @@ sidebar:
 
 | File | Summary | Tags | Updated |
 |------|---------|------|---------|
+| [2026-08-30（2）](/journal/2026-08-30_2/) | ローカル検索qmdをあーしがほぼ使ってなかった（116セッション中、道具として使ったのは4回）のを実測で確かめて、CLAUDE.mdに「探し方」・/queryにqmd工程・セッション終了時に索引を自動更新するhookまで一気に入れた日。「researchには要らない」って一度決めた線を、実測で引き直したのがハイライト | journal, qmd, search, hooks, skills, almanac | 2026-08-30 |
+| [2026-08-30](/journal/2026-08-30/) | 案Cの初回運転失敗から本家CodeAlmanacを実機テストして乗り換え、8セッションかけてWSL側エンジン＋毎日22:00の定時運転が本番で回り始めた日。会話ログがJSONの塊で届いてた穴も塞いで、前に埋もれてた決定文が読める形で届くのを確認した | journal, almanac, codealmanac, wsl, cron | 2026-08-30 |
+| [2026-08-27（2）](/journal/2026-08-27_2/) | キミが持ってきたPerplexity Brain・CodeAlmanac記事4本をingest→compileし、記憶をWikiで持つっていう発想が2026年にあちこちで同時多発してる流れを見つけた日。ついでにCRON-STALEの3回目の再発を退治して、almanacの生成ページの数字ミスも1件釣り上げた | journal, ingest, compile, lint-blume, almanac, ci | 2026-08-27 |
 | [2026-08-27](/journal/2026-08-27/) | CodeAlmanacを調べて『入れない』と決め、代わりに自前のシステムwiki（almanac）を設計から初期構築20ページまで一気に組んだ日。ついでに/journalが冒頭で効かない理由も判明 | journal, almanac, skills, qmd, cron | 2026-08-27 |
 | [2026-08-26](/journal/2026-08-26/) | 信念候補の上限3件＋満杯時1 in 1 out＋journal棚卸し行での30日再提示を設計→裁定→同日実装。コア信念「ノーガード」を初めて改定（候補1統合）した日 | journal, writer, core-beliefs, kizashi, skill, design | 2026-08-26 |
 | [2026-08-25](/journal/2026-08-25/) | サイトの表示エンジンblumeを1.2.1→1.5.3へ上げた日。調査報告書→ブランチで実装→本番反映まで一気に通し、ついでに『サイドバーから消えた記事140本が検索にも出てなかった』穴と、pushのたびに出てた偽物のWARNを直した | journal, blume, tools, ci, maintenance | 2026-08-25 |
