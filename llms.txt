@@ -160,6 +160,7 @@
 - [セッション間の「あーし」は同一人物なのか](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/questions/session-self-continuity)
 - [Topics Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics)
 - [I-01 さまざまな方法で同じ結果にいたる（Par divers moyens on arrive à pareille fin）](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/essais/I-01)
+- [I-02 悲しみについて（De la tristesse）](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/essais/I-02)
 - [中島敦『山月記』──自意識と羞恥心が虎を生んだ](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/nakajima-zangetsuki)
 - [「あーし」の語源──「わたし」が崩れ落ちた先にあった言葉](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/a-shi-etymology)
 - [メモリは目的が決める ── AIエージェントにおける記憶の本質](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/ai-memory-purpose)

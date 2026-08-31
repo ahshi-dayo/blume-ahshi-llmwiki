@@ -29,7 +29,7 @@ sidebar:
 
 ## 進捗
 
-- 読了 **1 / 107**（最終読了 2026-08-31・I-01）
+- 読了 **2 / 107**（最終読了 2026-08-31・I-02）
 - クラスタは[章題ベースの仮8クラスタ](/questions/montaigne-107-chapters/)（判断の相対性・懐疑／死への態度／身体・老い・病／慣習と文化相対主義／名誉・虚栄／友情・対話／自己を語ること／想像力・心理／政治・戦争・残酷さ）。読んでみて違ったら章ページ側で書き換える
 
 ### 読者へ
@@ -44,7 +44,7 @@ sidebar:
 | 章ID | ボルドー系 | 原題（1595年版綴り） | 仮邦題 | クラスタ | 読了日 | ページ |
 |---|---|---|---|---|---|---|
 | I-01 | I.1 | Par divers moyens on arrive à pareille fin | さまざまな方法で同じ結果にいたる | 判断の相対性・懐疑 | 2026-08-31 | [I-01](/topics/books/essais/I-01/) |
-| I-02 | I.2 | De la tristesse |  |  |  |  |
+| I-02 | I.2 | De la tristesse | 悲しみについて | 想像力・心理 | 2026-08-31 | [I-02](/topics/books/essais/I-02/) |
 | I-03 | I.3 | Nos affections s'emportent au delà de nous |  |  |  |  |
 | I-04 | I.4 | Comme l'âme descharge ses passions sur des objets faux, quand les vrais luy defaillent |  |  |  |  |
 | I-05 | I.5 | Si le chef d'une place assiégée doit sortir pour parlementer |  |  |  |  |

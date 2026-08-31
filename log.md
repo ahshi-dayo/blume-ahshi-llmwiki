@@ -2,6 +2,20 @@
 title: "Activity Log"
 ---
 
+## [2026-08-31] compile | 1 source → 1 new article, 1 updated（読書棚 I-02）
+
+- 新規: 「I-02 悲しみについて」（topics/books/essais/I-02.md）。章ページ型（6見出し固定）・`sidebar.hidden: true`・`chapter: I-02`。`/montaigne-clip` の初回実運転
+- 更新: I-01 の See Also に「次の章」行（双方向）。既存主題記事の増補はしない（1章1枚）
+- 棚ハブ: I-02 行（仮邦題・クラスタ・読了日・リンク）＋読了 2/107。`topics/books/index.md`・Statistics は不変（直下規約）
+- 用語集: 「De la tristesse＝悲しみについて」を固定訳に追記
+- sidebar ローテーション: 読書棚は対象外（親 topics/books/ の可視3件は不変）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記なし
+
+## [2026-08-31] ingest | Essais I-02 De la tristesse（raw/books/2026-08-31-essais-I-02.md）
+
+- 『エセー』第1巻第2章「悲しみについて」の現代語版全文（Wikisource Michaud 1907・1595年版準拠）。人間のブラウザクリッパー経由で inbox から取り込み。`/montaigne-clip` の初回実運転（Step 1 `check_clip.py`＝ok・I-02・7,442字・1 part・対訳ラベル無し）
+- 読書棚 topics/books/essais/ の第2章分。段落順は原文と一致・ナビ残骸なし。段落頭の太字小見出し3つは1907年版編者のもの（raw には残す・章ページには混ぜない）
+
 ## [2026-08-31] update | 📖連載中モード開始 — questions/montaigne-107-chapters
 
 - [モンテーニュ『エセー』107章の地形図](/questions/montaigne-107-chapters/)の冒頭に📖連載中マーカー（2026-08-31〜）を付与し、「問いの現在地」に開始の1行、「関連素材」に[読書棚](/topics/books/essais/)の行を追加。休眠（💤）とは別の第3状態で、可視のまま・このslugへの兆しは書かない・45日休眠判定の対象外（正典は PJ/CLAUDE.md「連載中（📖）ルール」・R-66）
