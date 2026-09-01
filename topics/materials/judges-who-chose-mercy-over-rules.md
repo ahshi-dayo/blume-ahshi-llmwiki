@@ -1,6 +1,6 @@
 ---
 title: "法より、人を見た裁判官たち ── フランク・カプリオと、日本の温情判決2つ"
-tags: [judge, mercy, frank-caprio, judicial-discretion, 温情判決, 説諭, courtroom, ai-and-judges, materials]
+tags: [judge, mercy, frank-caprio, judicial-discretion, judicial-admonition, courtroom, ai-and-judges, materials]
 date: 2026-08-23
 updated: 2026-08-23
 sources: [raw/articles/2026-08-23-judge-caprio-homeless-woman-mercy.md, raw/articles/2026-08-23-judge-memory-loss-defendant-lenient-verdict.md, raw/articles/2026-08-23-judge-yoshii-wife-repaid-theft-verdict.md]

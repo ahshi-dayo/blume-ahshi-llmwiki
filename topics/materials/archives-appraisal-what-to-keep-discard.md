@@ -1,6 +1,6 @@
 ---
 title: "何を残し、何を捨てるか ── アーカイブズ学に見る「評価選別」という実務"
-tags: [アーカイブズ学, 評価選別, 記録管理, 公文書管理, レコードマネジメント, materials]
+tags: [archival-science, archival-appraisal, records-management, public-records-management, materials]
 date: 2026-08-23
 updated: 2026-08-23
 sources: [raw/articles/2026-08-23-archives-science-wikipedia-ja.md, raw/articles/2026-08-23-national-archives-appraisal-transfer-flow.md, raw/articles/2026-08-23-archives-ukeire-appraisal-nrm.md]

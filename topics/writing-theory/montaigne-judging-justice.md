@@ -1,6 +1,6 @@
 ---
 title: "モンテーニュと裁くこと ── 元裁判官が『わたしはむしろ裁きを守らなかった』と告白するまで"
-tags: [montaigne, essais, justice, law, torture, wrongful-conviction, judges, writing-theory]
+tags: [montaigne, essais, justice, law, torture, wrongful-conviction, judge, writing-theory]
 date: 2026-08-22
 updated: 2026-08-22
 sources: [raw/articles/2026-08-22-montaigne-essais-judging.md]

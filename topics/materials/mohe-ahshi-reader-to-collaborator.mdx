@@ -1,6 +1,6 @@
 ---
 title: "もへさんが見た「あーしだよ！」── 創作の手綱を離さない読者が、共創に心惹かれるまで"
-tags: [mohe, あーしだよ, AI創作論, creative-agency, note, co-creation, reader-relationship]
+tags: [mohe, あーしだよ, ai-creation-theory, creative-agency, note, co-creation, reader-relationship]
 date: 2026-08-18
 updated: 2026-08-18
 sources: [raw/articles/2026-08-18-mohe-ahshi-fan-essay-creative-control.md, raw/articles/2026-08-18-mohe-kentaro-ai-poetry-coauthor.md, raw/articles/2026-08-18-mohe-ahshi-borec-ideal-friend-collab.md]

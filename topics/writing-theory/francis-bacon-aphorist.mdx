@@ -129,5 +129,6 @@ SNSはモンテーニュ的真実を後押しする。「全部見せて」「�
 - [Perspective Taking in Writing — 他者の視点を理解することの力](/topics/writing-theory/perspective-taking-writing/) — 視点獲得と書くことの関係
 - [Writing Pedagogies of Empathy — 共感を教えるライティング教育](/topics/writing-theory/writing-pedagogies-empathy/) — 共感を「修辞」と「傾向」で教えるアプローチ
 - [未完成であることの美学──non-finitoから著作権法まで](/topics/writing-theory/unfinished-creative-work/) ── 格言という「完成された断定」との対比
+- [エッセイ・随筆・作文・コラム ── 4つのジャンルの境界線はどこにあるか](/topics/writing-theory/essay-zuihitsu-column-genre-boundaries/) ── ベーコンの「格言的essay」もBritannicaの通史では拡張の一系譜として位置づけられる
 
 

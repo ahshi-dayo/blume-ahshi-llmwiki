@@ -2,6 +2,21 @@
 title: "Activity Log"
 ---
 
+## [2026-09-02] compile | 3 sources → 1 new article, 3 updated
+
+- 新規: 「エッセイ・随筆・作文・コラム ── 4つのジャンルの境界線はどこにあるか」（topics/writing-theory/essay-zuihitsu-column-genre-boundaries.md）。Britannicaの西洋essay通史（モンテーニュ起点の拡張史）と、出版TIMESの4分類整理（エッセイ／随筆／作文／コラム、モンテーニュ発 vs 『枕草子』発の二系譜）、Kouboの日本エッセイスト・クラブ会長インタビュー（よいエッセイの3条件）を統合
+- 更新: モンテーニュ『エセー』・フランシス・ベーコン・あーしはエッセイが書けない の3記事にSee Also追加・双方向化
+- topics/writing-theory sidebar必須ローテーション実施（本記事=order:1新設、stylometry-authorial-fingerprint-or-mask 1→2、wolfgang-iser-implied-reader 2→3、ahshi-voice-design-vs-individual 3→hidden）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 直接接続する項目なく兆し追記なし
+
+## [2026-09-02] ingest | 3件ingest — /wiki-clip「エッセイ・随筆の定義」
+
+- 新規raw: Britannica「Essay | Definition, Types, Examples, & Facts」（英語・essayの定義とモンテーニュ『エセー』起点の通史）
+- 新規raw: 出版TIMES「エッセイとは何か」（エッセイ・随筆・作文・コラムの違い、『枕草子』起源説）
+- 新規raw: Koubo「エッセイって何？随筆との違いは？」（日本エッセイスト・クラブ会長インタビュー・よいエッセイの3条件）
+- 選定: free_2026-08-30_2300.mdより⭐5×2件＋味変枠1件（⭐4・kagiroi）。品質ゲートでCambridge Core「The eighteenth-century periodical essay」を却下（ペイウォール断片化・実質段落2つ/8695字）→ 次点⭐3（Koubo）で補充し目標3件達成
+- 未コンパイル
+
 ## [2026-08-31] compile | 1 source → 1 new article, 1 updated（読書棚 I-02）
 
 - 新規: 「I-02 悲しみについて」（topics/books/essais/I-02.md）。章ページ型（6見出し固定）・`sidebar.hidden: true`・`chapter: I-02`。`/montaigne-clip` の初回実運転

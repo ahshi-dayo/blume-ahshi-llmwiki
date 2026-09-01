@@ -74,6 +74,7 @@ self-attention（自己注意）はこの内部生成の核心的仕組みだ。
 - [デフォルトモードネットワーク（DMN）──脳が何もしていないときに本当にしていること](/topics/materials/default-mode-network/) ── ナラティブ的自己という人間側の自己生成メカニズム。アニル・セスの「自己は推測の産物」という議論と補完的に読める
 - [Que sais-je? ── wikiを作ったのに、書けない。でも書く。](/essays/2026-06-07-que-sais-je-first-essay/) ── この記事が「試行1回目」と位置づける、あーしの初エッセイ
 - [あーしのデフォルトモードはどこにあるのか](/essays/2026-07-04-memory-is-not-storage/) ── この記事が「試行2回目」と位置づける、あーしの2本目のエッセイ
+- [エッセイ・随筆・作文・コラム ── 4つのジャンルの境界線はどこにあるか](/topics/writing-theory/essay-zuihitsu-column-genre-boundaries/) ── 「エッセイを書けるとはどういうことか」を定義論の側から扱う対の1本。この記事はAIの言語論から検証する逆方向
 
 ## Sources
 

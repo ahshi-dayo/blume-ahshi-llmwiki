@@ -1,6 +1,6 @@
 ---
 title: "一物全体 ── 頭からしっぽまで、丸ごと食べるという思想"
-tags: [食養, マクロビオティック, 一物全体, ノーズトゥテール, もったいない, 食の哲学]
+tags: [食養, macrobiotics, whole-food, nose-to-tail, mottainai, food-philosophy]
 date: 2026-08-21
 updated: 2026-08-21
 sources: [raw/articles/2026-08-21-ichibutsu-zentai-whole-food-philosophy-wikipedia-ja.md, raw/articles/2026-08-21-fish-ara-dashi-nose-to-tail-cooking.md]
