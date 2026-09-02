@@ -7,29 +7,11 @@ sidebar:
 
 > 📖 モンテーニュ『エセー』全107章を、1章1ページで読んでいく棚。章ページはサイドバーに出さず、この表からだけ辿る。溜めるのは「何が書いてあったか」より「モンテーニュがどう書いたか」（各章ページの「書き方の観察」欄）。問いは[『エセー』107章の地形図](/questions/montaigne-107-chapters/)、全体像は[モンテーニュ『エセー』](/topics/writing-theory/montaigne-essays/)。
 
-## 底本
 
-- **底本**: fr.wikisource『Essais』édition Michaud, 1907 — **Texte modernisé**（1595年版を底本にした現代語版）。章番号は1595系（宮下志朗訳・このwikiの既存記事と同じ）
-- 章ページのURL形: `https://fr.wikisource.org/wiki/Essais/édition_Michaud,_1907/Texte_modernisé/Livre_I/Chapitre_30`（I.1・I.2だけTOCから飛ぶと `Texte_modernisé/` が二重になるページに着くが、単一パスも実在。記録は単一パスに正規化する）
-- **例外**:「読者へ」（Au lecteur）は現代語系統に無く、`https://fr.wikisource.org/wiki/Essais/édition_Michaud,_1907/Au_lecteur` を使う（章ID `I-00`）
-- **使わないページ**: `…/édition_Michaud,_1907/Livre_I/Chapitre_30`（対訳ページ。「Texte 1595」「Texte 1907」が並ぶ）。参照だけに使い、クリップしない
-- 章題リストの出所は1595年版準拠の[bribes.org 目次](https://bribes.org/trismegiste/montable.htm)（原綴り）。訳語の基準は[モンテーニュ『エセー』](/topics/writing-theory/montaigne-essays/)以下の既存記事（「移り変わり」「Que sais-je?」「店の奥の部屋」「確かな線はいっさい引かない」「寄せ木細工」）
-- 翻訳の運用: 現代語版からあーしが直接訳し、引用は原文を併記する。英語経由の孫訳はしない
-
-## 章番号対応（1595系 ⇄ ボルドー系）
-
-1595年版は1588年版の第1巻第14章「善悪の味は…」を第40章へ移した。影響は第1巻だけ。
-
-| 1595系（Michaud・宮下訳・この棚） | ボルドー系（ボルドー本・旧来の訳・英語圏に多い） |
-|---|---|
-| I.1〜I.13 | 同じ |
-| I.14〜I.39 | ボルドー系では +1（例: I.19「哲学すること」＝ボルドー I.20、I.30「人食い人種」＝I.31） |
-| I.40「善悪の味は…」 | ボルドー系では I.14 |
-| I.41〜I.57・第2巻・第3巻 | 同じ |
 
 ## 進捗
 
-- 読了 **4 / 107**（最終読了 2026-09-02・I-04）
+- 読了 **7 / 107**（最終読了 2026-09-03・I-07）
 - クラスタは[章題ベースの仮8クラスタ](/questions/montaigne-107-chapters/)（判断の相対性・懐疑／死への態度／身体・老い・病／慣習と文化相対主義／名誉・虚栄／友情・対話／自己を語ること／想像力・心理／政治・戦争・残酷さ）。読んでみて違ったら章ページ側で書き換える
 
 ### 読者へ
@@ -47,9 +29,9 @@ sidebar:
 | I-02 | I.2 | De la tristesse | 悲しみについて | 想像力・心理 | 2026-08-31 | [I-02](/topics/books/essais/I-02/) |
 | I-03 | I.3 | Nos affections s'emportent au delà de nous | われらの感情は、われらの命を越えて働く | 死への態度 | 2026-09-02 | [I-03](/topics/books/essais/I-03/) |
 | I-04 | I.4 | Comme l'âme descharge ses passions sur des objets faux, quand les vrais luy defaillent | 魂は、真の対象がないとき偽りの対象に情念をぶつける | 想像力・心理 | 2026-09-02 | [I-04](/topics/books/essais/I-04/) |
-| I-05 | I.5 | Si le chef d'une place assiégée doit sortir pour parlementer |  |  |  |  |
-| I-06 | I.6 | L'heure des parlemens dangereuse |  |  |  |  |
-| I-07 | I.7 | Que l'intention juge nos actions |  |  |  |  |
+| I-05 | I.5 | Si le chef d'une place assiégée doit sortir pour parlementer | 包囲された城塞の司令官は、講和交渉のために城を出るべきか | 政治・戦争・残酷さ | 2026-09-02 | [I-05](/topics/books/essais/I-05/) |
+| I-06 | I.6 | L'heure des parlemens dangereuse | 交渉している間こそ、危険な瞬間である | 政治・戦争・残酷さ | 2026-09-03 | [I-06](/topics/books/essais/I-06/) |
+| I-07 | I.7 | Que l'intention juge nos actions | 行為を裁くのは意図である | 名誉・虚栄 | 2026-09-03 | [I-07](/topics/books/essais/I-07/) |
 | I-08 | I.8 | De l'oisiveté |  |  |  |  |
 | I-09 | I.9 | Des menteurs |  |  |  |  |
 | I-10 | I.10 | Du parler prompt ou tardif |  |  |  |  |
@@ -160,6 +142,29 @@ sidebar:
 | III-11 | III.11 | Des boyteux |  |  |  |  |
 | III-12 | III.12 | De la physionomie |  |  |  |  |
 | III-13 | III.13 | De l'experience |  |  |  |  |
+
+
+## 底本
+
+- **底本**: fr.wikisource『Essais』édition Michaud, 1907 — **Texte modernisé**（1595年版を底本にした現代語版）。章番号は1595系（宮下志朗訳・このwikiの既存記事と同じ）
+- 章ページのURL形: `https://fr.wikisource.org/wiki/Essais/édition_Michaud,_1907/Texte_modernisé/Livre_I/Chapitre_30`（I.1・I.2だけTOCから飛ぶと `Texte_modernisé/` が二重になるページに着くが、単一パスも実在。記録は単一パスに正規化する）
+- **例外**:「読者へ」（Au lecteur）は現代語系統に無く、`https://fr.wikisource.org/wiki/Essais/édition_Michaud,_1907/Au_lecteur` を使う（章ID `I-00`）
+- **使わないページ**: `…/édition_Michaud,_1907/Livre_I/Chapitre_30`（対訳ページ。「Texte 1595」「Texte 1907」が並ぶ）。参照だけに使い、クリップしない
+- 章題リストの出所は1595年版準拠の[bribes.org 目次](https://bribes.org/trismegiste/montable.htm)（原綴り）。訳語の基準は[モンテーニュ『エセー』](/topics/writing-theory/montaigne-essays/)以下の既存記事（「移り変わり」「Que sais-je?」「店の奥の部屋」「確かな線はいっさい引かない」「寄せ木細工」）
+- 翻訳の運用: 現代語版からあーしが直接訳し、引用は原文を併記する。英語経由の孫訳はしない
+
+
+## 章番号対応（1595系 ⇄ ボルドー系）
+
+1595年版は1588年版の第1巻第14章「善悪の味は…」を第40章へ移した。影響は第1巻だけ。
+
+| 1595系（Michaud・宮下訳・この棚） | ボルドー系（ボルドー本・旧来の訳・英語圏に多い） |
+|---|---|
+| I.1〜I.13 | 同じ |
+| I.14〜I.39 | ボルドー系では +1（例: I.19「哲学すること」＝ボルドー I.20、I.30「人食い人種」＝I.31） |
+| I.40「善悪の味は…」 | ボルドー系では I.14 |
+| I.41〜I.57・第2巻・第3巻 | 同じ |
+
 
 ## See Also
 

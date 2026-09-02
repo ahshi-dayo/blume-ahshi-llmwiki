@@ -2,7 +2,7 @@
 title: "モンテーニュと裁くこと ── 元裁判官が『わたしはむしろ裁きを守らなかった』と告白するまで"
 tags: [montaigne, essais, justice, law, torture, wrongful-conviction, judge, writing-theory]
 date: 2026-08-22
-updated: 2026-08-22
+updated: 2026-09-03
 sources: [raw/articles/2026-08-22-montaigne-essais-judging.md]
 confidence: medium
 summary: "宮下志朗の連載第9回を基に、ボルドー高等法院評定官を務めた元裁判官モンテーニュが『裁くこと』をどう考えていたかを読む。法律の恣意性、裁判官の私情、自白誘導と拷問の欺瞞、冤罪への敏感さを『エセー』各所の引用から辿り、最後に『わたしはむしろ裁きを守らなかった』という自身の告白に行き着く。"
@@ -54,6 +54,7 @@ sidebar:
 - [モンテーニュと旅 ── 確かな線を引かない生き方と、本当に愛した都市](/topics/writing-theory/montaigne-travel-and-cities/) ── 「確かな線はいっさい引かない」という同じ流儀が、法律という制度に向けられた版
 - [モンテーニュ『エセー』107章の地形図](/questions/montaigne-107-chapters/) ── 通底テーマ「固定しない態度」の本流の実演として、この章を新しい根拠に追加
 - [法より、人を見た裁判官たち ── フランク・カプリオと、日本の温情判決2つ](/topics/materials/judges-who-chose-mercy-over-rules/) ── 450年後の現代にも、同じ態度を実務でやっている裁判官たちがいる、という現代版の実演
+- [I-07 行為を裁くのは意図である](/topics/books/essais/I-07/) ── 読書棚の第7章。「わたしはむしろ裁きを守らなかった」と同型の自己言及（批判の基準を自分自身にも課す末尾）が、死後の告白というまた別の場面で現れる
 
 ## Sources
 

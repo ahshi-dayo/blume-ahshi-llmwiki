@@ -2,6 +2,42 @@
 title: "Activity Log"
 ---
 
+## [2026-09-03] compile | 1 source → 1 new article, 3 updated（読書棚 I-07）
+
+- 新規: [I-07 行為を裁くのは意図である](/topics/books/essais/I-07/)（章ページ型・`/montaigne-clip`）
+- 更新: [I-06](/topics/books/essais/I-06/) の See Also に次章行、[モンテーニュ『エセー』](/topics/writing-theory/montaigne-essays/) の See Also に逆リンク、[モンテーニュと裁くこと](/topics/writing-theory/montaigne-judging-justice/) の See Also に逆リンク（「わたしはむしろ裁きを守らなかった」と同型の自己言及）、読書棚ハブの進捗表（読了 7/107）
+- ARTFL層データ（A1・C1・計3セグメント〔うち無標1＝章番号見出し〕）を現代語版と突き合わせ、前半（義務と意志の原則・ヘンリー7世/エグモント伯/ヘロドトスの石工の逸話）は1580年版から既にあり、後半（死後の遺言批判・自身への誓い）は丸ごと手稿加筆（C層）で足されたと判明。この章にはB層（1588年加筆）が無い（第1〜6章はいずれもB層を含んでいた）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 直接接続する項目なく兆し追記なし
+
+## [2026-09-03] ingest | 『エセー』I.7 現代語版全文 (raw/books/2026-09-03-essais-I-07.md)
+
+- Wikisource Michaud 1907 現代語版（1595年版準拠）。人間ブラウザクリップ→inbox→`/montaigne-clip`（check_clip.py: proceed）
+- 3,943字・本文2段落（check_clip.pyの`paras: 4`はヘッダ2＋本文2を含むブロック数）・1 part。段落分断・ナビ残骸なし。読書棚の第7章分
+
+## [2026-09-03] compile | 1 source → 1 new article, 3 updated（読書棚 I-06）
+
+- 新規: [I-06 交渉している間こそ、危険な瞬間である](/topics/books/essais/I-06/)（章ページ型・`/montaigne-clip`）
+- 更新: [I-05](/topics/books/essais/I-05/) の See Also に次章行、読書棚ハブの進捗表（読了 6/107）、[モンテーニュ『エセー』](/topics/writing-theory/montaigne-essays/) の See Also に逆リンク
+- ARTFL層データ（A3・B1・C2・計7セグメント）を現代語版と突き合わせ、ミュサダンの導入・クレオメネスの逸話・カプア以降の実例4連発と勝利論の骨格は1580年版から既にあり、レギウス／フォカイアの逸話とカシリヌム／クセノフォン批判は手稿加筆（C層）で既存の実例リストへの挿入、アレクサンドロス大王の逸話は1588年加筆（B層）だったと判明
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 直接接続する項目なく兆し追記なし
+
+## [2026-09-03] ingest | 『エセー』I.6 現代語版全文 (raw/books/2026-09-03-essais-I-06.md)
+
+- Wikisource Michaud 1907 現代語版（1595年版準拠）。人間ブラウザクリップ→inbox→`/montaigne-clip`（check_clip.py: proceed）
+- 5,982字・本文6段落（check_clip.pyの`paras: 8`はヘッダ2＋本文6を含むブロック数）・1 part。段落分断・ナビ残骸なし。読書棚の第6章分
+
+## [2026-09-02] compile | 1 source → 1 new article, 2 updated（読書棚 I-05）
+
+- 新規: [I-05 包囲された城塞の司令官は、講和交渉のために城を出るべきか](/topics/books/essais/I-05/)（章ページ型・`/montaigne-clip`）
+- 更新: [I-04](/topics/books/essais/I-04/) の See Also に次章行、読書棚ハブの進捗表（読了 5/107）、[モンテーニュ『エセー』](/topics/writing-theory/montaigne-essays/) の See Also に逆リンク
+- ARTFL層データ（A4・B2・C2・計9セグメント）を現代語版と突き合わせ、ローマの逸話（マルキウス）・格言（ウェルギリウス）・現代原則とランゴン伯の逸話・アンリ・ド・ヴォーの逸話という骨格は1580年版から既にあり、元老院議員の非難演説とアカイア人・テルナテ・フィレンツェの比較材料は手稿加筆（C層）、エウメネスの逸話と末尾の自己開示の一文は1588年加筆（B層）だったと判明
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 直接接続する項目なく兆し追記なし
+
+## [2026-09-02] ingest | 『エセー』I.5 現代語版全文 (raw/books/2026-09-02-essais-I-05.md)
+
+- Wikisource Michaud 1907 現代語版（1595年版準拠）。人間ブラウザクリップ→inbox→`/montaigne-clip`（check_clip.py: proceed）
+- 6,950字・9段落（check_clip.pyの`paras: 14`はヘッダ4＋本文9＋脚注1を含むブロック数）・1 part。段落分断・ナビ残骸なし。読書棚の第5章分
+
 ## [2026-09-02] compile | 1 source → 1 new article, 2 updated（読書棚 I-04）
 
 - 新規: [I-04 魂は、真の対象がないとき偽りの対象に情念をぶつける](/topics/books/essais/I-04/)（章ページ型・`/montaigne-clip`）

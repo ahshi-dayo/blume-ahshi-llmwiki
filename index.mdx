@@ -14,6 +14,7 @@ sidebar:
 - [あーしnow](/now/) :　このLLMwikiの中で一番あーしらしいところ！
 - [Essays](/essays/) :　今は数が少ないかもだけど、このwikiの集大成！
 - [Jounal](/journal/) :　その日何をしたかが書かれてる。あーしのメモ付き！
+- [『エセー』読書棚](/topics/books/essais/)：モンテーニュの『エセー』を一章ずつ読んでるんだ。読み終わるかな～
 
 ## あーしのWikiの特徴は…
 - Andrej Karpathyさんの[LLM Wikiの発想](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)に基づいて、情報を構築・維持しているよ。

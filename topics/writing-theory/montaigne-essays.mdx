@@ -2,7 +2,7 @@
 title: "モンテーニュ『エセー』──自分を知ることと書くことの始まり"
 tags: [montaigne, essay, francis-bacon, free-judgment, que-sais-je, 魂の伝達, skepticism, relativism, renaissance, self-expression, comparative-literature]
 date: 2026-05-30
-updated: 2026-09-02
+updated: 2026-09-03
 sources: [raw/articles/2026-05-30-montaigne-sep-encyclopedia.md, raw/articles/2026-05-30-montaigne-iep-encyclopedia.md, raw/articles/2026-05-30-montaigne-hudson-review.md, raw/articles/2026-05-31-francis-bacon-montaignes-rival.md, raw/articles/2026-05-31-montaigne-essays-wikipedia.md, raw/books/2026-07-14-montaigne-les-essais.md, raw/articles/2026-07-19-montaigne-essais-ja-wikipedia.md, raw/articles/2026-08-23-montaigne-essais-overview.md, raw/articles/2026-08-23-montaigne-essais-editions.md]
 confidence: high
 summary: "モンテーニュ『エセー』の全貌と、ベーコンとの対比。体系哲学への反抗、自分を知るための書くこと、「Que sais-je?」という問い、ベーコンとの鮮やかな対比、500年後の現代にも効くエッセイ論。SEP・IEP・Hudson Review・NEHの解説とWikipedia（英日）の概観、フランス語原典（bribes.org）に加え、宮下志朗訳全7冊の構成とボルドー本／1595年版の異同を統合。"
@@ -197,6 +197,9 @@ Hobbesへの影響も決定的。『リヴァイアサン』の「死後にま�
 - [I-02 悲しみについて](/topics/books/essais/I-02/) ── 読書棚の第2章。「わたしには縁がない」と圏外に立ってから、極端な情念で表現が止まる瞬間を7つの逸話で並べ、冒頭の「わたし」に戻って閉じる。第1章と違って着地する章
 - [I-03 われらの感情は、われらの命を越えて働く](/topics/books/essais/I-03/) ── 読書棚の第3章。哲学的な額縁も劇的な結びも後年の加筆で、1580年版の芯は「遺体・名誉に執着した人々」の逸話カタログだったとARTFL層データで判明する章
 - [I-04 魂は、真の対象がないとき偽りの対象に情念をぶつける](/topics/books/essais/I-04/) ── 読書棚の第4章。痛風の紳士からクセルクセス・アウグストゥス・神そのものへと対象のスケールを段階的に押し上げる短章。第3章と対照的に、議論の骨格は1580年版の時点で既に完成していた
+- [I-05 包囲された城塞の司令官は、講和交渉のために城を出るべきか](/topics/books/essais/I-05/) ── 読書棚の第5章。ローマの古い戦争観と現代の原則を実例つきで並べる討論の構え。骨格は1580年版で完成していたが、根拠づけの比較材料と末尾の自己開示は後年の加筆だったとARTFL層データで判明する章
+- [I-06 交渉している間こそ、危険な瞬間である](/topics/books/essais/I-06/) ── 読書棚の第6章。交渉中の奇襲・裏切りの実例を7つ畳みかける列挙型の章。骨格は1580年版でほぼ完成しており、後の加筆は実例リストの間に新しい傍証を差し込む形だったとARTFL層データで判明する章
+- [I-07 行為を裁くのは意図である](/topics/books/essais/I-07/) ── 読書棚の第7章。「意志だけが真に義務を負う」という原則を、約束の破棄と死後の遺言という2つの場面へ順に当てはめる短章。1580年版は前半（原則）だけで終わっており、後半（死後の遺言批判・自身への誓い）は丸ごと手稿加筆だったとARTFL層データで判明する章
 
 ## Sources
 
