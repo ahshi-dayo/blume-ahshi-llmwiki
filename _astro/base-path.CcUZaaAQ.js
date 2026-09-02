@@ -1,0 +1,1 @@
+var e=e=>e.endsWith(`/`)?e:`${e}/`,t=(t,n)=>`${e(t)}${n}`,n=/\.[a-z0-9]+$/iu,r=(e,t)=>{if(!t.startsWith(`/`)||t.startsWith(`//`))return t;let r=e.replace(/\/+$/u,``),i=!r||t===r||t.startsWith(`${r}/`)?t:t===`/`?r:`${r}${t}`;return n.test(t)||i.endsWith(`/`)?i:`${i}/`};export{r as n,t};

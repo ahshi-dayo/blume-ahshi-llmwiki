@@ -2,6 +2,30 @@
 title: "Activity Log"
 ---
 
+## [2026-09-02] compile | 1 source → 1 new article, 2 updated（読書棚 I-04）
+
+- 新規: [I-04 魂は、真の対象がないとき偽りの対象に情念をぶつける](/topics/books/essais/I-04/)（章ページ型・`/montaigne-clip`）
+- 更新: [I-03](/topics/books/essais/I-03/) の See Also に次章行、読書棚ハブの進捗表（読了 4/107）、[モンテーニュ『エセー』](/topics/writing-theory/montaigne-essays/) の See Also に逆リンク
+- ARTFL層データ（A7・B3・C4・計15セグメント）を現代語版と突き合わせ、議論のエスカレーション構造（人→動物→物→自然→神）は1580年版の時点でほぼ完成していたと判明。後の加筆は主に個々の逸話の補強・拡張（ルカヌス詩句と怒りの動物例、ティトゥス・リウィウス／ビオンの逸話、神への逆恨みパートの一部——「王が神への祈りを10年禁じる」逸話とトラキア人の慣習）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 直接接続する項目なく兆し追記なし
+
+## [2026-09-02] ingest | 『エセー』I.4 現代語版全文 (raw/books/2026-09-02-essais-I-04.md)
+
+- Wikisource Michaud 1907 現代語版（1595年版準拠）。人間ブラウザクリップ→inbox→`/montaigne-clip`（check_clip.py: proceed）
+- 5,946字・10段落・1 part。段落分断・ナビ残骸なし。読書棚の第4章分
+
+## [2026-09-02] compile | 1 source → 1 new article, 2 updated（読書棚 I-03）
+
+- 新規: [I-03 われらの感情は、われらの命を越えて働く](/topics/books/essais/I-03/)（章ページ型・`/montaigne-clip`）
+- 更新: [I-02](/topics/books/essais/I-02/) の See Also に次章行、読書棚ハブの進捗表（読了 3/107）、[モンテーニュ『エセー』](/topics/writing-theory/montaigne-essays/) の See Also に逆リンク（レビューで漏れを検出し追補）
+- ARTFL層データ（A5・B10・C7・計23セグメント）を現代語版と突き合わせ、冒頭の哲学的な額縁（未来への不安・自己認識）と末尾の大逸話（アルギヌサイ処刑）がほぼすべてB/C層＝後年の加筆で、1580年版の芯はデュ・ゲクラン／エドワード1世／バヤール卿ら「遺体・名誉に執着した歴史上の人物」を並べる逸話の羅列だけだったと判明
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 直接接続する項目なく兆し追記なし
+
+## [2026-09-02] ingest | 『エセー』I.3 現代語版全文 (raw/books/2026-09-02-essais-I-03.md)
+
+- Wikisource Michaud 1907 現代語版（1595年版準拠）。人間ブラウザクリップ→inbox→`/montaigne-clip`（check_clip.py: proceed）
+- 段落分断1箇所（「Quelques années après, la Fortune punit les Athéniens par là」／「même où ils avaient péché」＝Maquette二段組の痕跡）を1文に結合して整形。18,704字・1 part。読書棚の第3章分
+
 ## [2026-09-02] compile | 3 sources → 1 new article, 3 updated
 
 - 新規: 「エッセイ・随筆・作文・コラム ── 4つのジャンルの境界線はどこにあるか」（topics/writing-theory/essay-zuihitsu-column-genre-boundaries.md）。Britannicaの西洋essay通史（モンテーニュ起点の拡張史）と、出版TIMESの4分類整理（エッセイ／随筆／作文／コラム、モンテーニュ発 vs 『枕草子』発の二系譜）、Kouboの日本エッセイスト・クラブ会長インタビュー（よいエッセイの3条件）を統合
