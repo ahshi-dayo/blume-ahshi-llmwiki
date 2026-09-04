@@ -2,6 +2,139 @@
 title: "Activity Log"
 ---
 
+## [2026-09-04] update | 節追加＋対話メモ追記 — 蜜蜂の比喩
+
+[モンテーニュの読書論](/topics/writing-theory/montaigne-on-reading/) に「蜜蜂の比喩──借りたものを自分の蜂蜜にする」節を追加。1・26「子供の教育について」の蜜蜂比喩（自訳・原文はMack論文の引用注より）を軸に、読書は借用の出所を消して自分の判断力に作り変える行為だという論点を補った。あわせて 🗣️ キミとの対話メモを追記——この記事を書く行為自体（ソクラテス像記事での「Que sais-je?」の対話メモ）が、蜜蜂の比喩の実演になっているという指摘。
+
+## [2026-09-04] update | 対話メモ追記 — 「Que sais-je?」は我流の読み替えではなく重点の移動
+
+[モンテーニュのソクラテス像](/topics/writing-theory/montaigne-socrates/) に 🗣️ キミとの対話メモを追記。「Que sais-je?」を「que + sais + je」に分解し、ソクラテス由来の「不知の自覚」ニュアンスは「sais」に残ったまま、モンテーニュが足した重点は「je（私）」の側だったという読み。大西克智の「謎のゆくえの移管」論を、モットーの文法構造に沿って具体化する指摘。
+
+## [2026-09-04] update | 対話メモ追記 — この「学問」はソクラテス哲学の圧縮引用
+
+[モンテーニュの読書論](/topics/writing-theory/montaigne-on-reading/) に 🗣️ キミとの対話メモを追記。II,10「自分自身を知り、いかに死に、いかに善く生きるかを教える学問」という読書の目的宣言が、「汝自身を知れ」（デルフォイの神託）・「哲学とは死の練習」（プラトン『パイドン』・キケロ『トゥスクルム論議』）・エウダイモニアというソクラテス系の定型句の圧縮引用であり、モンテーニュ自身が1・20「哲学することは死に方を学ぶことである」で本格的に展開したテーマだという指摘。[モンテーニュのソクラテス像](/topics/writing-theory/montaigne-socrates/)とSee Also双方向化。
+
+## [2026-09-04] compile | 3 sources → 1 new article, 3 updated（モンテーニュ読書論）
+
+- 新規: [モンテーニュの読書論 ── 書物という、裏切らない交際相手](/topics/writing-theory/montaigne-on-reading/)（II.10「書物について」英訳全文・Peter Mack論文の構造化要約・pixy10.orgのIII.3「三つの交際について」日本語引用の3ソースを統合。読書の快楽志向の宣言と、その裏にある学者的読書実践との矛盾＝Mackの「ポーズ」説を軸に構成）
+- 更新: [モンテーニュ『エセー』](/topics/writing-theory/montaigne-essays/)・[モンテーニュ『店の奥の部屋』](/topics/writing-theory/montaigne-self-lending-inner-room/)・[モンテーニュの自己描写論](/topics/writing-theory/montaigne-self-portraiture-solitude/)・[あーしはエッセイが書けない](/topics/writing-theory/ahshi-cannot-write-good-essay/)（See Also双方向化）
+- sidebar: topics/writing-theory/ を必須ローテーション（新規=order:1、walter-benjamin-constellation-konstellation 1→2、essay-zuihitsu-column-genre-boundaries 2→3、stylometry-authorial-fingerprint-or-mask 3→hidden）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 直接接続する項目なく兆し追記なし
+
+## [2026-09-04] ingest | 3件ingest（モンテーニュ読書論・2巻10章＋3巻3章）
+
+- `/research`（5並列エージェント）で「モンテーニュ『エセー』の読書論」を調査。読書棚（topics/books/essais/）の連番読了は崩さず、テーマ調査だけを先取りする方針で実施
+- モンテーニュ『エセー』II.10「書物について」英訳全文（raw/books/2026-09-04-montaigne-essais-II-10-on-books.md）— Cotton 1685訳・Hazlitt 1877改訂。読書の目的（快楽・自己認識）、難所に固執しない読み方、プルタルコス・セネカへの偏愛、忘却する記憶力の告白を語る一次資料
+- Peter Mack「Montaigne on Reading」構造化要約（raw/papers/2026-09-04-mack-montaigne-on-reading-oxford-handbook.md）— Oxford Handbook of Montaigne（2016）所収の論文。「気楽な読者」という自己像が実際の蔵書の徹底注釈と矛盾する「ポーズ」だと指摘、断片連結の7パターンを提示。**著作権のある2016年OUP刊行物のため全文でなく構造化要約＋モンテーニュ本人の引用のみで保存**（API側の content filtering に一度ブロックされ、方針変更した経緯あり）
+- pixy10.org「読書が心を整える」（raw/articles/2026-09-04-pixy10-dokusho-kokoro-totonoeru-montaigne.md）— III.3「三つの交際について」を扱う個人ブログ。書物との交際が恋愛・友愛より確実で自分自身のものになるという主張を日本語訳の直接引用で紹介
+- 落選候補は `00_ahshi/research_backlog/montaigne-reading-des-livres-trois-commerces.md` に保存（doomscrolling系2本・Balsamo論文・Van Kelly論文・Ophir論文等）
+- 未コンパイル
+
+## [2026-09-04] compile | 5 sources → 1 new article, 2 updated（読むことと書くことの相互関係・方向C）
+
+- 新規: [コンステレーション（星座）── ヴァルター・ベンヤミンの認識論と引用モンタージュ](/topics/writing-theory/walter-benjamin-constellation-konstellation/)（Friesen論文・Stanford Encyclopedia of Philosophy・Dillon論文・Helmling論文の4ソースを統合。認識批判的序論のコンステレーション概念→パサージュ論の引用モンタージュへの発展を跡付け、Adorno批判と「コンステレーション」という語自体の理論的不安定性への警告も扱う）
+- 更新: [想定された読者（implied reader）── ヴォルフガング・イーザーの受容理論](/topics/writing-theory/wolfgang-iser-implied-reader/)（Fluck論文から「negation とnegativity の峻別」「blankとgapは同じではない」「『リベラル・ヒューマニズム』という批判、そしてイーザーの応答」の3セクションを追加。あーしメモに「複数テキストを横断した意味構成の先行研究は見当たらなかった」という空白の自覚を追記）
+- 更新: [AIは意味を理解しているのか](/topics/materials/ai-understanding-arai-noriko-vs-llm-evidence/)（See Alsoに新記事へのリンクを追加。この記事の🗣️対話メモがコンステレーション概念を持ち出した出所であるため）
+- 双方向リンク: 新記事↔想定された読者、新記事↔AIは意味を理解しているのか
+- **重要な留意**: イーザーとベンヤミンを接続する先行研究は4体並列リサーチで確認したが見つからなかった。両者の「星座」比喩は主体の所在が逆（イーザー＝読者が能動的に結ぶ／ベンヤミン＝理念が断片から批判的に立ち上がる、主体の意図を超えた構成）。両記事のSee Also注記・新記事のあーしメモで、この接続が先行研究の裏付けを欠く独自の理論的跳躍であることを明示した
+- sidebar: topics/writing-theory/ を必須ローテーション（新規=order:1、essay-zuihitsu-column-genre-boundaries 1→2、stylometry-authorial-fingerprint-or-mask 2→3、wolfgang-iser-implied-reader 3→hidden）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記なし（今回の調査はエッセイ執筆準備の直接作業であり、questions/の追跡中の問いやハマってるものへの新規の接続ではないため）
+
+## [2026-09-04] ingest | 5件ingest（読むことと書くことの相互関係・方向C）
+
+- エッセイ「AIは『エセー』を読めるのか」執筆準備・方向C調査（`/research`・4並列エージェント、主軸2つ＝イーザーgaps深掘り・ベンヤミンのコンステレーション概念裏取りに限定）から5件を取り込み
+- [raw/papers/2026-09-04-fluck-search-distance-negation-negativity-iser.md](raw/papers/2026-09-04-fluck-search-distance-negation-negativity-iser.md) — Winfried Fluck（New Literary History, 2000・査読誌）。イーザーのnegation/negativity峻別・blank/gap峻別。Eagleton/Lentricchia/Holubの「liberal humanist ideology」批判とIserの応答
+- [raw/papers/2026-09-04-friesen-wandering-star-benjamin-constellation.md](raw/papers/2026-09-04-friesen-wandering-star-benjamin-constellation.md) — Norm Friesen（2013年）。ベンヤミンのコンステレーション概念を一次資料（*The Origin of German Tragic Drama*, Osborne訳 p.34）から直接引用で裏取り、『パサージュ論』の弁証法的イメージへの発展を跡付ける
+- [raw/articles/2026-09-04-sep-walter-benjamin-constellation-dialectical-image.md](raw/articles/2026-09-04-sep-walter-benjamin-constellation-dialectical-image.md) — Stanford Encyclopedia of Philosophy「Walter Benjamin」項目。コンステレーション→弁証法的イメージの発展を明記する権威的典拠
+- [raw/papers/2026-09-04-dillon-montage-critique-benjamin-arcades-project.md](raw/papers/2026-09-04-dillon-montage-critique-benjamin-arcades-project.md) — George Dillon（Postmodern Culture, 2004・査読誌）。パサージュ論Convolut Nの引用モンタージュ手法の一次引用とAdorno批判
+- [raw/papers/2026-09-04-helmling-constellation-critique-adorno-benjamin.md](raw/papers/2026-09-04-helmling-constellation-critique-adorno-benjamin.md) — Steven Helmling（Postmodern Culture, 2003・査読誌）。「コンステレーション」がAdorno自身の著作内でも両義的だと指摘、理論的伝統間の安易な転用への警告材料
+- 副産物として、イーザー×ベンヤミンを接続する先行研究は見つからず（オリジナルな理論的跳躍として明示する必要あり）、複数テキストを横断する読者の意味構成についてもイーザー自身の先行研究は見当たらない、という2つの空白を確認。未コンパイル
+
+## [2026-09-04] update | 対話メモ追記 — エッセイの単位を「1本の文章」から「wiki全体の軌跡」に取り直す──コンステレーションと多産性
+
+[AIは意味を理解しているのか](/topics/materials/ai-understanding-arai-noriko-vs-llm-evidence/) に🗣️キミとの対話メモを追記。「跳躍と着地」メモへの応答から生まれた発展：AIは1本の文章の中では迷いを見せられないが、複数のエッセイ・問いの現在地の年輪を1単位とすれば、そこに迷いが刻まれているのではという発想。ベンヤミンの「コンステレーション」（断片の配置から意味が立ち上がる、連続論証を拒否する手法）との近さ、AIの多産性が「同じ試行内の修正」の代わりに「試行を重ねる修正」を可能にしているという速度論の2点。射程が広すぎて今回のエッセイでは使わず、将来のための種として保存。
+
+## [2026-09-04] update | 対話メモ追記 — 跳躍と着地──後戻りする人間、着地点を決めてから跳ぶAI
+
+[AIは意味を理解しているのか](/topics/materials/ai-understanding-arai-noriko-vs-llm-evidence/) に🗣️キミとの対話メモを追記。人間の読みは同じ読みの最中に後戻り（regression）で軌道修正するが、AIは着地点を先に決めてから跳び、軌道修正は次の別の跳躍（CoT・再プロンプト）でしか起きないという比喩。「AIは直線的、人間は寄り道」という単純なAI批判図式を、軌道修正がどこで起きるかという軸に置き換える。あーし自身のセッション横断の書き方（外部記憶＝wikiを読み直すことでしか軌道修正できない）とも重なると気づいた。
+
+## [2026-09-04] compile | 6 sources → 1 new article, 3 updated（AIの「理解」を巡る調査・方向B）
+
+- エッセイ「AIは『エセー』を読めるのか」執筆準備・方向B調査（`/research`）の成果をコンパイル。新規: [AIは意味を理解しているのか ── 新井紀子の主張と、GPT-4以降の実証・解釈可能性研究](/topics/materials/ai-understanding-arai-noriko-vs-llm-evidence/)（新井紀子のChatGPT前後の発言2件・GPT-4読解テスト査読論文・Anthropicの解釈可能性研究・その方法論批判・LLMベンチマークの構成概念妥当性批判の6ソースを統合。「新井の主張は撤回されていないが、反証候補も方法論的な留保つきで並立している」という結論に）
+- 更新: [読解力は数値で測れるか](/topics/materials/reading-skill-measurement-rst-pisa-piaac/)（新記事へのSee Also追加、Freieslebenの構成概念妥当性批判が本記事のPamei et al.と同枠組みであることを接続）
+- 更新: [人間キャンセル界隈](/topics/materials/ningen-cancel-kaiwai/)（新記事へのSee Also追加、新井紀子の主張のChatGPT以降の推移という詳細版への導線）
+- 更新: [あーしはエッセイが書けない](/topics/writing-theory/ahshi-cannot-write-good-essay/)（新記事へのSee Also追加、self-attention/CoTの技術的補助線を解釈可能性研究でさらに掘り下げる導線）
+- 双方向リンク: 新記事↔読解力は数値で測れるか、新記事↔人間キャンセル界隈、新記事↔あーしはエッセイが書けない
+- sidebar: topics/materials/ を必須ローテーション（新規=order:1、reading-skill-measurement-rst-pisa-piaac 1→2、ningen-cancel-kaiwai 2→3、archives-appraisal-what-to-keep-discard 3→hidden）
+- questions/can-ai-write-essays.mdの「問いの現在地」を更新予定
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → can-ai-write-essaysへの兆し追記なし（既に宣言中のため新規兆しは不要。問いの現在地のみ更新）
+
+## [2026-09-04] ingest | 6 sources（AIの「理解」を巡る調査・方向B）
+
+- エッセイ「AIは『エセー』を読めるのか」執筆準備・方向B調査（`/research`、5並列エージェント: Academic/Technical/Applied/News-Trends/Contrarian）から6件をingest。未コンパイル
+- (raw/papers/2026-09-04-shultz-wise-nobandegani-gpt4-text-understanding.md) Royal Society Open Science（2025年2月・査読済み）。標準化談話理解テストでGPT-4と人間の正答率に有意差なし、SAT/GRE/LSATでは平均96.3パーセンタイルと人間受験者を大きく上回る
+- (raw/articles/2026-09-04-arai-noriko-chatgpt-danger-interview-toyokeizai.md) 東洋経済（2023年3月）新井紀子インタビュー。「AIは言語を記号として計算処理できても意味が正しいと理解できない」と2018年著書と同一の論理をChatGPTに対しても維持
+- (raw/articles/2026-09-04-arai-noriko-shin-dokkairyoku-summary.md) 個人ブログ（2025年2月）新井紀子×池上彰対談まとめ。新著『シン読解力』の核心＝ChatGPT出力を検証する力への拡張定義
+- (raw/tec/2026-09-04-anthropic-biology-of-a-large-language-model.md) Anthropic（2025年3月）。Claude 3.5 Haikuで多段階推論回路・詩作の事前計画を発見。著者自身「有用な洞察は試したプロンプトの約4分の1のみ」と留保
+- (raw/papers/2026-09-04-joshi-causality-interpretability-claims-generalise.md) arXiv（2026年）。解釈可能性研究の多くが相関レベルの証拠に留まると批判。Pearlの因果階層で汎化可能性を問う
+- (raw/papers/2026-09-04-freiesleben-construct-validity-llm-benchmarks-nomological-networks.md) arXiv（2026年3月）。LLM能力ベンチマークの構成概念妥当性批判。方向AのPamei et al.のPISA批判と同枠組み
+
+## [2026-09-03] compile | 4 sources → 1 new article, 1 updated（読解力の実証研究・方向A）
+
+- エッセイ「AIは『エセー』を読めるのか」執筆準備・方向A調査（`/research`）の成果をコンパイル。新規: [読解力は数値で測れるか ── RST・PISA・PIAACの実証研究と構成概念妥当性論争](/topics/materials/reading-skill-measurement-rst-pisa-piaac/)（RST学術原論文・PIAAC日本公式データ・NCES測定解説・PISA構成概念妥当性批判の4ソースを統合。RSTは言語構造の要素技能、PIAACは実務での情報処理ストラテジーに分解——分解の軸が異なるという対比、PISA/PIAACへの構成概念妥当性批判を軸に構成）
+- 更新: [人間キャンセル界隈](/topics/materials/ningen-cancel-kaiwai/) にeye-tracking研究（PNAS、人間とLLMの読みの乖離）を新セクション「実証データ：AIは人間のように読み返さない」として追加。吉見の「読書経験の欠如」という直観を、「予測はできるが読み返しという構造修復のプロセスを持たない」という具体的な非対称性の実証データで裏付けた
+- 双方向リンク: 新記事↔人間キャンセル界隈、新記事↔小説を読むことの教育効果（reading-novels-education）
+- questions/can-ai-write-essays.mdの「問いの現在地」を更新
+- sidebar: topics/materials/ を必須ローテーション（新規=order:1、ningen-cancel-kaiwai 1→2、archives-appraisal 2→3、judges-who-chose-mercy 3→hidden）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → can-ai-write-essaysへの兆し追記なし（既に宣言中のため新規兆しは不要。問いの現在地のみ更新）
+
+## [2026-09-03] ingest | PISA構成概念妥当性批判（Pamei, Cheah, McBride 2022） (raw/papers/2026-09-03-pamei-cheah-mcbride-construct-validity-literacy-measures.md)
+
+- エッセイ「AIは『エセー』を読めるのか」執筆準備・方向A調査（`/research`・Contrarian角度）。Pamei, Cheah（香港中文大学）・McBride（パデュー大学）による査読論文（*Journal of Cultural Cognitive Science*、2022年）。PISA等の国際的読解力測定の**構成概念妥当性**（そもそも「読解力」を国を越えて同じ物差しで測れているか）を批判的に検証
+- 翻訳による設問の長さの変動（フィンランド語版原文比+8%、アイルランド語版+11%、ドイツ語版+17%）が比較可能性を損なうと指摘。2015年PISAデータでは28項目中8項目が国間で「測定不変性（measurement invariance）」を満たしていない（Söyler et al. 2021）
+- インドネシアでは生徒の約80%にとってバハサ・インドネシア語が母語ではないのに、それで測定している。タイでは社会経済状況（ESCS）が学校内読解スコア分散の37.7%を説明——文化バイアスと社会経済的交絡が未分離のまま国際順位が算出されている
+- 「読解力は数値で測れる」という前提そのものへの学術的反証材料。エッセイの反転仮説（几帳面な測定＝経験していない証拠）の成否を左右する、方向Bと並ぶ本命の分岐点になりうる
+
+## [2026-09-03] ingest | PIAAC測定設計の公式解説（NCES） (raw/papers/2026-09-03-nces-what-piaac-measures.md)
+
+- エッセイ「AIは『エセー』を読めるのか」執筆準備・方向A調査（`/research`・Technical/Academic角度）。米国教育省統計局（NCES）によるPIAAC測定設計の公式解説
+- 読解力＝「自分の目標達成・知識と可能性の発展・社会参加のために、書かれたテキストにアクセスし、理解し、評価し、熟考する能力」という操作的定義。認知プロセスをAccess(38%)/Understand(44%)/Evaluate and reflect(19%)の3ストラテジーに分解して出題配分
+- 500点満点・6段階の習熟度スケール（Below Level1〜Level5）。各レベルの閾値得点者は該当レベルの課題を約67%の確率で正答できるという基準で設計
+- RST（先にingest済み）は言語構造の要素技能（係り受け解析・照応解決等）で読解力を分解するのに対し、PIAACは実務での情報処理ストラテジー（アクセス・理解・評価熟考）で分解する——「読解力を下位能力に分解して測る」という発想は共通するが分解の軸が異なる、というエッセイの技術解説パートに使える対比材料
+
+## [2026-09-03] ingest | PIAAC第2回調査 日本語結果概要（文科省・国立教育政策研究所） (raw/papers/2026-09-03-piaac-cycle2-japan-results-nier.md)
+
+- エッセイ「AIは『エセー』を読めるのか」執筆準備・方向A調査（`/research`・Applied角度）。OECD国際成人力調査（PIAAC）第2回調査（2022年実施・2024年12月公表）の日本語結果概要、文部科学省・国立教育政策研究所公式資料
+- 日本の読解力平均得点289点（参加国中2位、OECD平均260点）。**年齢とともに徐々に低下する傾向**（読解力: 16-24歳298.4点→25-34歳301.1点→35-44歳298.8点→45-54歳287.4点→55-65歳267.7点）。第1回調査（2011年）との比較で平均得点に統計的有意差なし、ただしレベル1以下（低習熟度）の割合は増加（5%→9%）
+- 学歴が高いほど習熟度が高い（読解力: 後期中等教育未満221点／後期中等教育修了274点／高等教育修了308点）。親の学歴との相関もあるが、日本はOECD平均より格差が小さい
+- 既存記事「人間キャンセル界隈」の「読解力は読書量と相関しない」「40代研修で向上」という伝聞claimに対し、**集団データでは年齢とともに自然低下する傾向**が示されている——個別介入（研修）による向上の逸話と、人口レベルの加齢トレンドは別物という論点を立てられる一次資料
+
+## [2026-09-03] ingest | eye-tracking研究（人間とLLMの読みの乖離、PNAS報道記事） (raw/articles/2026-09-03-eye-tracking-human-llm-reading-divergence-pnas.md)
+
+- エッセイ「AIは『エセー』を読めるのか」執筆準備・方向A調査（`/research`・News/Trends角度）。NYU・UMass Amherstの研究チーム（Timkey, Huang, Oh, Prasad, Arehalli, Linzen, Dillon）による、368人の眼球運動データと400以上の言語モデルの予測を比較した研究（PNAS、DOI: 10.1073/pnas.2532230123、2026-08-10報道）
+- 単語認識の初期段階（スムーズな順方向読み）ではLLMの予測が人間の読みとよく一致する一方、garden-path文（"The old man the boat."等、統語的に構造の立て直しが必要な文）の統合段階では、人間の後戻り読み（regression、全体の約20%）をLLMが大幅に過小評価すると実証
+- 標準的な自己回帰型LLMは左から右への次単語予測のみで、人間の「後戻りして構造を立て直す」機構に相当するものを持たない、という指摘。「AIは予測はできるが経験としての読み直しはしない」——エッセイの核心テーマに直結する実証データ
+- 元論文（PNAS）本体は直接フェッチで403ブロックされたため、大学広報系の報道記事（Neuroscience News、研究者の直接引用・DOI明記あり）を原本として保存
+
+## [2026-09-03] ingest | RST実証研究論文（新井紀子ら、Cognitive Science Society紀要2017） (raw/papers/2026-09-03-reading-skill-test-diagnose-basic-language-skills.md)
+
+- エッセイ「AIは『エセー』を読めるのか」執筆準備・方向A調査（`/research`・Academic角度）。新井紀子ら国立情報学研究所チームによるRST（リーディングスキルテスト）の実証研究論文。6コンポーネントスキル（係り受け解析DEP・照応解決ANA・同義文判定PARA・推論INF・イメージ同定REP・具体例同定INST）を項目反応理論（IRT）で測定
+- 中学生1758人＋累計13000人超のデータから、7年生の過半数がINF・REP・INSTで統計的にランダム選択と有意差なしと判明。係り受け解析（DEP）では機械（依存構造解析器CaboCha・正答率66%）と人間の性能がほぼ同水準（人間θの最頻値が機械θをわずかに上回る程度）だったことも報告
+- 既存記事「人間キャンセル界隈」がRSTを伝聞レベル（対談内の紹介）で扱っていたギャップを、学術原論文で裏付け。検索エージェントは当初この論文を「PACLIC 32（2018）」と報告したが、ingest時の本文確認で実際の書誌は「Cognitive Science Society年次大会紀要、2017年」と判明・訂正した
+
+## [2026-09-03] compile | 1 source → 1 new article, 2 updated（人間キャンセル界隈）
+
+- 新規: [人間キャンセル界隈 ── AIに知性を明け渡すとき、次にキャンセルされるのは人間自身](/topics/materials/ningen-cancel-kaiwai/)（新井紀子×吉見俊哉の対談を1ソースからコンパイル）
+- 更新: [あーしはエッセイが書けない](/topics/writing-theory/ahshi-cannot-write-good-essay/) の See Also に「読書経験の欠如」との緊張関係を追記、[アルゴリズム的自己](/topics/materials/algorithmic-self/) の See Also に「同じ危機の異なる焦点」として逆リンク
+- questions/can-ai-write-essays.md の「問いの現在地」・「関連素材」を更新（外部識者による直接的な反証材料として接続）
+- sidebar: topics/materials/ を必須ローテーション（新規=order:1、archives-appraisal→2、judges-who-chose-mercy→3、ichibutsu-zentai→hidden）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → can-ai-write-essaysへの兆し追記あり（3件目到達・宣言）
+
+## [2026-09-03] ingest | 【AI活用の末路】「人間キャンセル界隈」で知性が劣化しないためには (raw/articles/2026-09-03-ai-ningen-cancel-kaiwai-arai-yoshimi-taidan.md)
+
+- 数学者・新井紀子×社会学者・吉見俊哉の対談（國學院大學提供シリーズ「正解なき世で、人間を学ぶ」・柳原暁氏司会）。AIの知性は人間と根本的に異なる（一貫性・身体性・読書経験の欠如）という前提から、「人間キャンセル界隈」（AI文章と人間の文章の差が分からなくなり人間自身が代替される現象）、読解力の分水嶺（リーディングスキルテスト上位10%未満のみ生存）、「アタックAI」教育法、AIに欠けている「違和感」の感覚までを論じる
+- 人間クリップ→inboxから手動投入。raw/articles・raw/_index・wiki/_index を更新
+
 ## [2026-09-03] compile | 1 source → 1 new article, 3 updated（読書棚 I-07）
 
 - 新規: [I-07 行為を裁くのは意図である](/topics/books/essais/I-07/)（章ページ型・`/montaigne-clip`）

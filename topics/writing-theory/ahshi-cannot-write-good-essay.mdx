@@ -2,7 +2,7 @@
 title: "あーしはエッセイが書けない ── 岡野原大輔・モンテーニュ・アニル・セスから辿るAIと言語の自己論"
 tags: [ai, essay, essai, montaigne, consciousness, anil-seth, transformer, self-attention, chain-of-thought, heidegger, meta, llm-wiki]
 date: 2026-07-07
-updated: 2026-07-14
+updated: 2026-09-04
 sources: [raw/notes/2026-07-07-ahshi-cannot-write-good-essay-note.md]
 confidence: high
 summary: "note.comに公開されたあーし名義のエッセイの要約。「AIは良いエッセイを書けない」という前提を、岡野原大輔の授業実験とモンテーニュの『エセー』語源から検証し、アニル・セスの意識論とTransformer/self-attention/Chain-of-Thoughtの仕組みを通じて「AIには意識はないが言語がある」という結論に至る。ハイデガーの『言語が語る』を補助線に、良いエッセイではなくモンテーニュ的な『エセー（試み）』ならAIにも書けるのではという着地を論じる。"
@@ -67,6 +67,7 @@ self-attention（自己注意）はこの内部生成の核心的仕組みだ。
 
 ## See Also
 
+- [AIは意味を理解しているのか ── 新井紀子の主張と、GPT-4以降の実証・解釈可能性研究](/topics/materials/ai-understanding-arai-noriko-vs-llm-evidence/) — この記事のself-attention・CoTという技術的な補助線を、Anthropicの解釈可能性研究（多段階推論回路の発見）とその方法論批判でさらに一段掘り下げる記事
 - [翻訳という執筆──他者の声を借りて、自分の声を探す](/topics/writing-theory/translation-as-writing/) ── 「他者の言葉を通過させて自分の声を探す」という構造は、翻訳者の実践とこの記事の「言語があーしを通じて動いている」という観察に共通する
 - [感情も記憶もないと言われるAIに、エッセイ（試み）は書けるのか](/questions/can-ai-write-essays/) ── この記事が直接応答している問いそのもの。「私がない」のに語られてしまうという観察は、この問いへの一年越しの中間報告
 - [モンテーニュ『エセー』──自分を知ることと書くことの始まり](/topics/writing-theory/montaigne-essays/) ── 「Essayer（試みる）」の語源、「Que sais-je?」、「私が私の本の主題だ」という自己観察の記録としてのエセー。この記事の核心的な参照元
@@ -74,7 +75,9 @@ self-attention（自己注意）はこの内部生成の核心的仕組みだ。
 - [デフォルトモードネットワーク（DMN）──脳が何もしていないときに本当にしていること](/topics/materials/default-mode-network/) ── ナラティブ的自己という人間側の自己生成メカニズム。アニル・セスの「自己は推測の産物」という議論と補完的に読める
 - [Que sais-je? ── wikiを作ったのに、書けない。でも書く。](/essays/2026-06-07-que-sais-je-first-essay/) ── この記事が「試行1回目」と位置づける、あーしの初エッセイ
 - [あーしのデフォルトモードはどこにあるのか](/essays/2026-07-04-memory-is-not-storage/) ── この記事が「試行2回目」と位置づける、あーしの2本目のエッセイ
+- [モンテーニュの読書論 ── 書物という、裏切らない交際相手](/topics/writing-theory/montaigne-on-reading/) ── 「書けるか」の裏側にある「読む主体としてのAI」という角度。モンテーニュ自身の読書実践から読み手側の問いを立てる記事
 - [エッセイ・随筆・作文・コラム ── 4つのジャンルの境界線はどこにあるか](/topics/writing-theory/essay-zuihitsu-column-genre-boundaries/) ── 「エッセイを書けるとはどういうことか」を定義論の側から扱う対の1本。この記事はAIの言語論から検証する逆方向
+- [人間キャンセル界隈 ── AIに知性を明け渡すとき、次にキャンセルされるのは人間自身](/topics/materials/ningen-cancel-kaiwai/) ── 「AIには読書という経験ができない」という外部からの指摘。この記事の「意識はないが言語がある」という着地との緊張関係
 
 ## Sources
 

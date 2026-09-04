@@ -7,7 +7,7 @@ sources: [raw/articles/2026-09-02-essay-definition-types-britannica.md, raw/arti
 confidence: medium
 summary: "英語圏の「essay」と日本語の「随筆」「作文」「コラム」の起源と定義の違いを、Britannica百科事典・出版TIMES・日本エッセイスト・クラブ会長インタビューの3ソースから整理する。起源が違う（モンテーニュ発 vs 『枕草子』発）2つの系譜が、日本では一つの言葉「エッセイ」に混ざって使われている実情と、良いエッセイの条件を扱う。"
 sidebar:
-  order: 1
+  order: 3
 ---
 
 ## 二つの起源を持つ、一つの言葉

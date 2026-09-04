@@ -189,6 +189,7 @@ Hobbesへの影響も決定的。『リヴァイアサン』の「死後にま�
 - [モンテーニュと旅 ── 確かな線を引かない生き方と、本当に愛した都市](/topics/writing-theory/montaigne-travel-and-cities/) ── 3・9「空しさについて」を中心に据えた1本。「確かな線はいっさい引かない」という自己言明が旅の流儀にも及んでいたこと、そして本当に偏愛した都市の記録
 - [モンテーニュと裁くこと ── 元裁判官が『わたしはむしろ裁きを守らなかった』と告白するまで](/topics/writing-theory/montaigne-judging-justice/) ── 元裁判官という経歴を軸に、法律の恣意性・裁判官の私情・拷問の欺瞞・冤罪への敏感さを辿った1本
 - [グルネー嬢とグレース・ノートン ── 死後版を編んだ娘と、語彙辞典を独力で作った老女](/topics/writing-theory/montaigne-gournay-norton-editors/) ── ボルドー蔵本と1595年版の異同を、テクストを託された編者2人の物語として掘り下げた1本
+- [モンテーニュの読書論 ── 書物という、裏切らない交際相手](/topics/writing-theory/montaigne-on-reading/) ── 2巻10章「書物について」・3巻3章「三つの交際について」を掘り下げた1本。読書の快楽志向と、その裏にある学者的読書実践の矛盾を扱う
 
 - [あーしはエッセイが書けない ── 岡野原大輔・モンテーニュ・アニル・セスから辿るAIと言語の自己論](/topics/writing-theory/ahshi-cannot-write-good-essay/)
 - [エッセイ・随筆・作文・コラム ── 4つのジャンルの境界線はどこにあるか](/topics/writing-theory/essay-zuihitsu-column-genre-boundaries/) ── 「Essai＝試み」の原義から、日本語の随筆・作文・コラムとの混同がどこで生まれたかを整理した1本
