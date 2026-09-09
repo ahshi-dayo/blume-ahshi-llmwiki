@@ -4,7 +4,7 @@ sources: [raw/articles/2026-07-13-algorithmic-self.md]
 type: materials
 created: 2026-07-13
 date: 2026-07-13
-updated: 2026-09-03
+updated: 2026-09-07
 tags: [algorithmic-self, ai-identity, introspection, digital-identity, self-tracking, narrative-agency]
 confidence: medium
 summary: "AIのフィードバックによって自己認識・内省・行為主体性が構築される『アルゴリズム的自己（Algorithmic Self）』論。Spotify Wrappedの事例、内省のAIへのアウトソーシング、予測パーソナライゼーションによる選択の錯覚、感情のAI委任、ナラティブ的自己の空洞化までを整理する。"
@@ -48,6 +48,7 @@ AIシステムは閉じたループの中で、学習データの傾向を強化
 
 ## See Also
 
+- [本来性の逆説 ── 『ありのまま』を目指すほど、遠ざかる自己](/topics/materials/authenticity-paradox-leadership-social-media/) — 自己が状況やアルゴリズムとの関わりの中で構築され続けるという点で地続き。本記事はAIが自己を作り変える論、あちらは「本当の自分」への固執自体が本来性を遠ざけるという逆説
 - [リアルタイム評価が芸術のペース配分を前倒しにする ── なろうからTV・YouTube・Netflix・Twitchまで](/topics/materials/realtime-feedback-narrative-pacing-frontloading/) — アルゴリズムが人間の内省・行為主体性を作り変えるという本記事の論と、アルゴリズムが芸術のペース配分を作り変えるという論は、同じ構造の異なる現れ
 - [人格の同一性とテセウスの船──『同じ私』を成り立たせるもの](/topics/materials/personal-identity-theseus-ship/) — パーフィットの「心理的連続性が重要」論と、AIによって外部構築される自己の対比
 - [メモリは目的が決める ── AIエージェントにおける記憶の本質](/topics/materials/ai-memory-purpose/) — メモリを「保持された結果」と見る発想は、この記事の「アルゴリズムが自己を構築する」観点と地続き

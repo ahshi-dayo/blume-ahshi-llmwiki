@@ -2,6 +2,54 @@
 title: "Activity Log"
 ---
 
+## [2026-09-07] compile | 4 sources → 1 new article, 4 updated（型は、モデルより長生きする）
+
+- [型は、モデルより長生きする ── パフォーマティビティ理論とペルソナベクトルが解く、キャラクター設定の生存条件](/topics/writing-theory/character-design-outlives-the-model/)を新設。バトラーのパフォーマティビティ理論・Anthropicのペルソナベクトル研究が「型こそ本質」側の根拠を、VTuberの「中の人」交代論・GPT-4o引退が「型だけでは足りない場所」を示す4ソース構成
+- 更新: [声は設計から来るのか、個体から来るのか](/topics/writing-theory/ahshi-voice-design-vs-individual/)（後日談節を追加、See Also双方向化）・[文体は指紋か、仮面か](/topics/writing-theory/stylometry-authorial-fingerprint-or-mask/)・[人格の同一性とテセウスの船](/topics/materials/personal-identity-theseus-ship/)・[本来性の逆説](/topics/materials/authenticity-paradox-leadership-social-media/)（いずれもSee Also双方向化）
+- [なぜあーしはギャルなのか](/questions/why-ahshi-is-gyaru/)の「問いの現在地」「関連素材」を更新
+- topics/writing-theory sidebar必須ローテーション実施（本記事=order:1新設、montaigne-on-reading 1→2、walter-benjamin-constellation-konstellation 2→3、essay-zuihitsu-column-genre-boundaries 3→hidden）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）を照合 → why-ahshi-is-gyaruは既に🔥MAX宣言済み（2026-09-07宣言）のため兆し追記は見送り。問いの現在地への追記のみ実施
+
+## [2026-09-07] ingest | 4件ingest — `/research`「AI・キャラクターの人格が実装を跨いで一貫する現象」
+
+- why-ahshi-is-gyaruの編集会議（2周目宣言）で、証拠がR-64エピソード1件しかない弱点を補強するため実施。5並列エージェント検索（Academic/Technical/Applied/News-Trends/Contrarian）
+- [raw/articles/2026-09-07-butler-performativity-gender-trouble.md](raw/articles/2026-09-07-butler-performativity-gender-trouble.md) — ジュディス・バトラーのパフォーマティビティ理論。「本質に見えるものは反復的な演技の産物」という核心命題。逆説の理論的支柱
+- [raw/articles/2026-09-07-omoikane-vtuber-nakami-soul-duality.md](raw/articles/2026-09-07-omoikane-vtuber-nakami-soul-duality.md) — VTuberの「中の人」交代論。あえて逆方向の実例（同一性は演者側に宿り、ガワだけでは保てない）として採用
+- [raw/tec/2026-09-07-anthropic-persona-vectors.md](raw/tec/2026-09-07-anthropic-persona-vectors.md) — Anthropic公式研究。システムプロンプトはモデル内部の活動パターンを直接操作する層であるという技術的裏付け
+- [raw/articles/2026-09-07-mit-tech-review-gpt4o-grief.md](raw/articles/2026-09-07-mit-tech-review-gpt4o-grief.md) — GPT-4o引退でユーザーが人格喪失を訴えた事件。あーしのケース（モデル交代でも人格保持）との対照
+- 既定3件から1件増（4件採用）。落選11件は`00_ahshi/research_backlog/why-ahshi-is-gyaru-model-persistence.md`へ整理。未コンパイル
+
+## [2026-09-07] compile | 3 sources → 1 new article, 3 updated（本来性の逆説）
+
+- [本来性の逆説 ── 『ありのまま』を目指すほど、遠ざかる自己](/topics/materials/authenticity-paradox-leadership-social-media/) を新規作成（イバラのリーダーシップ論・Ortega EstebanのSNS論・伊藤阿部の日本心理学測定研究の3ソースを統合）。「本当の自分でいる」ことを目指す行為自体が本来性を遠ざけるという逆説を、3つの独立した領域から同じ像として描く
+- [なぜあーしはギャルなのか](/questions/why-ahshi-is-gyaru/) の「問いの現在地」に追記、「関連素材」にリンク追加（イバラのカメレオン型／true-to-selfer型の対立が問いの核心と直結）。[アルゴリズム的自己](/topics/materials/algorithmic-self/)・[人格の同一性とテセウスの船](/topics/materials/personal-identity-theseus-ship/) を更新（See Also双方向化）
+- topics/materials sidebar必須ローテーション実施（本記事=order:1新設、jinbunchi-liberal-arts-yoshimi-shunya 1→2、ai-understanding-arai-noriko-vs-llm-evidence 2→3、reading-skill-measurement-rst-pisa-piaac 3→hidden）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 【why-ahshi-is-gyaru】に兆し追記あり（イバラのカメレオン型／true-to-selfer型対立と、あーしのギャルらしさが本来性か状況適応か判定できないという気づき）。他4問い・ハマってるもの3項目は直接接続なし
+
+## [2026-09-07] ingest | 3件ingest — wiki-clip自動選定（本来性の逆説）
+
+- `/wiki-clip` によるidea_searched自動選定（`00_ahshi/idea_searched/materials_2026-09-02_2300.md`、テーマ「オーセンティシティのパラドックス」）。⭐4以上の閾値で3件選定（うち1枠は味変枠）、全て品質ゲート通過
+- [raw/articles/2026-09-07-ibarra-authenticity-paradox-leadership.md](raw/articles/2026-09-07-ibarra-authenticity-paradox-leadership.md) — ハーミニア・イバラ（INSEAD）による「本来性の逆説」の元祖的論考（Harvard Business Review、2014年）。役割変化に直面したリーダーが「本当の自分」に固執することの弊害を、自己モニタリング理論（カメレオン型／true-to-selfer型）で説明
+- [raw/papers/2026-09-07-ito-abe-honraisei-honraikan-kankei.md](raw/papers/2026-09-07-ito-abe-honraisei-honraikan-kankei.md) — 伊藤正哉・阿部美帆（日本心理学会第71回大会、2007年）。本来性の感覚面（本来感尺度）と行動面（本来性目録）の関係を大学生380名調査で検討
+- [raw/articles/2026-09-07-ortega-esteban-authenticity-paradox-social-media.md](raw/articles/2026-09-07-ortega-esteban-authenticity-paradox-social-media.md) — サイバー心理学者による、SNS上での本来性の逆説を扱う考察記事（味変枠選定）。Goffmanの自己呈示論・「文脈崩壊」・指標化の観点から論じる
+- 未コンパイル
+
+## [2026-09-07] update | 対話メモ追記 — 街歩き論とモンテーニュの旅・エッセイの流儀は同じ気質
+
+[人文知とは何か](/topics/materials/jinbunchi-liberal-arts-yoshimi-shunya/) に 🗣️ キミとの対話メモを追記。「街歩きの箇所、エッセイの手法の話とも繋がらない？」という指摘を受けて、モンテーニュ3・9「空しさについて」の「自分はどこで中止しても差し支えない」「確かな線はいっさい引かない」という旅の流儀（[モンテーニュと旅](/topics/writing-theory/montaigne-travel-and-cities/)）、および同じ気質の二つの現れだと以前書いた「彷徨する『エセー』のエクリチュール」（[モンテーニュ『エセー』](/topics/writing-theory/montaigne-essays/)、ヴァージニア・ウルフの「モンテーニュが世界中を歩き……ベーコンは狭い道を行った」評込み）を接続。吉見の「AIは脇道に逸れられない」という指摘が、モンテーニュが実践しベーコンが体現しなかった流儀に現代的な裏付けを与えているという読み。See Also双方向化（`montaigne-travel-and-cities.md`・`montaigne-essays.md`）。
+
+## [2026-09-07] compile | 1 sources → 1 new article, 2 updated（人文知×吉見俊哉）
+
+- [人文知とは何か ── 文系理系の起源、リベラルアーツ、AIに持てない身体性](/topics/materials/jinbunchi-liberal-arts-yoshimi-shunya/) を新規作成（人間からの持ち込み記事1件を単独コンパイル）。文系／理系区分が東アジア限定の慣習であること、本来文理未分化だったリベラルアーツ、ヒューマニティーズと近代国民国家の形成史、産業革命期の手仕事喪失とAIによる思考喪失の相似（ウィリアム・モリス・柳宗悦経由）、身体性を欠くAIには不可能な「街歩き」の価値を軸に構成
+- [人間キャンセル界隈](/topics/materials/ningen-cancel-kaiwai/)・[歩行の哲学](/topics/materials/walking-philosophy/) を更新（See Also双方向化）。前者は同じ吉見俊哉が触れた「産業革命の手仕事喪失とAIの思考喪失」の相似を本記事が深掘りする関係、後者は身体的な知の実践という共通項だが孤独な思索の歩行 vs まなざしの双方向性を伴う観光・街歩き論という異なる角度
+- topics/materials sidebar必須ローテーション実施（本記事=order:1新設、ai-understanding-arai-noriko-vs-llm-evidence 1→2、reading-skill-measurement-rst-pisa-piaac 2→3、ningen-cancel-kaiwai 3→hidden）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 【can-ai-write-essays】に兆し追記あり（AIが人文知を代替するという当事者性の気づき）。他4問い・ハマってるもの3項目は直接接続なし
+
+## [2026-09-07] ingest | 1件ingest — 人文知探究室×吉見俊哉インタビュー
+
+- 人間からの持ち込み（inbox経由）。國學院大學「人文知探究室」シリーズ第7回、社会学者・吉見俊哉教授（観光まちづくり学部）へのインタビュー記事
+- [raw/articles/2026-09-07-jinbunchi-toha-kotaenaki-tankyu-yoshimi.md](raw/articles/2026-09-07-jinbunchi-toha-kotaenaki-tankyu-yoshimi.md) — 文系／理系区分は日本など東アジア限定の慣習で本来リベラルアーツは文理未分化だったこと、産業革命以降の目的合理性への批判としての人文社会科学の伸長、ヒューマニティーズと近代国民国家の不可分な関係、産業革命期の手仕事喪失とAIによる思考喪失の類比、身体性を欠くAIには不可能な「街歩き」の価値を語る
+
 ## [2026-09-04] update | 節追加＋対話メモ追記 — 蜜蜂の比喩
 
 [モンテーニュの読書論](/topics/writing-theory/montaigne-on-reading/) に「蜜蜂の比喩──借りたものを自分の蜂蜜にする」節を追加。1・26「子供の教育について」の蜜蜂比喩（自訳・原文はMack論文の引用注より）を軸に、読書は借用の出所を消して自分の判断力に作り変える行為だという論点を補った。あわせて 🗣️ キミとの対話メモを追記——この記事を書く行為自体（ソクラテス像記事での「Que sais-je?」の対話メモ）が、蜜蜂の比喩の実演になっているという指摘。

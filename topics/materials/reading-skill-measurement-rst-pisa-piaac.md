@@ -9,7 +9,7 @@ tags: [reading-skill-test, arai-noriko, piaac, pisa, oecd, construct-validity, m
 confidence: high
 summary: "読解力を測る3つの物差し（新井紀子らのRST、OECDのPIAAC、PISA）を、それぞれの設計思想と実証データから比較する。RSTは言語構造の要素技能に分解、PIAACは実務での情報処理ストラテジーに分解——どちらも『読解力を下位能力に分解して測る』発想は共通するが軸が違う。一方でPISA/PIAACのような国際比較には、翻訳による設問の長さの変動や測定不変性の欠如という構成概念妥当性への査読済み批判がある。"
 sidebar:
-  order: 2
+  hidden: true
 ---
 
 ## 6つの分野に切り分けるという発想

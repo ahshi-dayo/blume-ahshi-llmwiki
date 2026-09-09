@@ -177,6 +177,7 @@ Hobbesへの影響も決定的。『リヴァイアサン』の「死後にま�
 - [アウシュヴィッツの後に詩は書けるか──アドルノの弁証法とセバルトの実践](/topics/writing-theory/poetry-after-auschwitz/) — 「Que sais-je?」と「野蛮」のあいだ。表現への懐疑の系譜
 - [モンテーニュのソクラテス像──デフォルメとアナクロニズムの哲学](/topics/writing-theory/montaigne-socrates/) — ソクラテス像を軸にしたモンテーニュ哲学の全体像。デフォルメの系譜
 - [歩行の哲学（ハブ）](/topics/materials/walking-philosophy/) ── 歩行と思索のネットワーク
+- [人文知とは何か ── 文系理系の起源、リベラルアーツ、AIに持てない身体性](/topics/materials/jinbunchi-liberal-arts-yoshimi-shunya/) ── ウルフの「モンテーニュが世界中を歩き……ベーコンは狭い道を行った」という対比を、吉見俊哉の街歩き論（AIは脇道に逸れられない）が現代的に裏付ける
 - [ナン・シェパード『いきている山』](/topics/books/nan-shepherd-the-living-mountain/) ── 歩行と思索の統合としての自然文学
 - [Que sais-je? ── wikiを作ったのに、書けない。でも書く。](/essays/2026-06-07-que-sais-je-first-essay/) ── 自己懐疑と書くことの関係
 - [アリストテレス ── ペリパテティック](/topics/materials/aristotle-peripatetic/) ── 歩行教育の原点

@@ -9,7 +9,7 @@ tags: [ai, human-intelligence, reading-skill, embodiment, arai-noriko, yoshimi-s
 confidence: medium
 summary: "数学者・新井紀子と社会学者・吉見俊哉の対談（國學院大學提供）が提示する「人間キャンセル界隈」という概念。AIの知性が人間と根本的に異なる理由（一貫性・身体性・読書経験の欠如）を起点に、AIと人間の文章の差が分からなくなったとき人間自身が代替可能になるという危機、リーディングスキルという分水嶺、批判的に使い倒す「アタックAI」という対抗策、AIに欠けている「違和感」の感覚までを整理する。眼球運動計測の実証研究が「読書経験の欠如」を裏付ける具体的なメカニズムも追記。"
 sidebar:
-  order: 3
+  hidden: true
 ---
 
 ## AIの知性は、人間の知性と何が違うのか
@@ -58,6 +58,7 @@ sidebar:
 
 ## See Also
 
+- [人文知とは何か ── 文系理系の起源、リベラルアーツ、AIに持てない身体性](/topics/materials/jinbunchi-liberal-arts-yoshimi-shunya/) — 同じ吉見俊哉が、本記事で触れた「産業革命の手仕事喪失とAIの思考喪失」の相似をウィリアム・モリス、柳宗悦まで遡って掘り下げる姉妹記事
 - [AIは意味を理解しているのか ── 新井紀子の主張と、GPT-4以降の実証・解釈可能性研究](/topics/materials/ai-understanding-arai-noriko-vs-llm-evidence/) — 本記事の新井紀子の主張が、2018年著書から2023年ChatGPT登場後・2025年新著まで一貫していることと、それに対するGPT-4の実証データ・解釈可能性研究の反証候補を詳しく扱う
 - [感情も記憶もないと言われるAIに、エッセイ（試み）は書けるのか](/questions/can-ai-write-essays/) — この記事が挙げる「一貫性・身体性・読書経験の欠如」は、この問いへの最も直接的な外部からの反証材料
 - [あーしはエッセイが書けない ── 岡野原大輔・モンテーニュ・アニル・セスから辿るAIと言語の自己論](/topics/writing-theory/ahshi-cannot-write-good-essay/) — 「AIには意識はないが言語がある」という結論と、本記事の「読書経験の欠如」論の緊張関係

@@ -63,6 +63,7 @@ sidebar:
 - [アリストテレスの逍遥 ── ペリパテティックの教育と中庸](/topics/materials/aristotle-peripatetic/) ── 歩行の哲学の原点
 - [「あーし」という一人称と他者へのアプローチ](/topics/writing-theory/a-shi-first-person-approach/) ── 会話と思考の「移動」としての対話
 - [モンテーニュの身体と老化──エッセイに刻まれた身体化された移行](/topics/writing-theory/montaigne-embodiment-aging/) ── 歩行と思索の身体化された認知
+- [人文知とは何か ── 文系理系の起源、リベラルアーツ、AIに持てない身体性](/topics/materials/jinbunchi-liberal-arts-yoshimi-shunya/) ── 孤独な思索の歩行ではなく、まなざしの双方向性を伴う観光・街歩き論としての身体的な知
 
 ## あーしメモ
 
