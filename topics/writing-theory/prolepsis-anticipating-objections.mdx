@@ -2,7 +2,7 @@
 title: "プロレプシス（先取り反論）── 批判が来る前に、それを言ってしまう技法"
 tags: [prolepsis, procatalepsis, rhetoric, hypophora, inoculation-theory, straw-man, montaigne, writing-theory]
 date: 2026-08-22
-updated: 2026-08-22
+updated: 2026-09-10
 sources: [raw/articles/2026-08-22-procatalepsis-wikipedia-en.md, raw/articles/2026-08-22-prolepsis-rhetorical-anticipation-thoughtco.md, raw/articles/2026-08-22-prolepsis-definition-examples-eminentediting.md]
 confidence: high
 summary: "自分の議論への反論を先取りして即座に答えるレトリック技法「プロレプシス（procatalepsis）」の定義・隣接技法（ヒポフォラ、ストローマン論法）・接種理論（inoculation theory）による効果の説明、W.E.B.デュボイス・チャーチル・リンカーンの歴史的実演、文学における未来先取り（フラッシュフォワード）用法までを扱う。"
@@ -48,6 +48,8 @@ Leo van Lierはこの用法を、小説家が今後起こることをほのめ�
 
 ## See Also
 
+- [引用を、エッセイにどう編み込むか ── 導入・提示・意義づけの技法](/topics/writing-theory/quotation-integration-technique/) ── 相手の言葉（引用）であれ想定反論（プロレプシス）であれ、他者の言葉を歪めずに自分の文章へ組み込む精度が効果を決めるという点で共通する
+- [並置（juxtaposition）── 異なるものを並べて意味を立ち上げる技法](/topics/writing-theory/juxtaposition-rhetorical-device/) ── 正確な先取りという技法としてのプロレプシスと、説明を省いて印象を作る並置の危険性は対になる
 - [批判という継承──パスカル・ルソー・レチフはモンテーニュをどう読んだか](/topics/writing-theory/montaigne-reception-pascal-rousseau-retif/) ── モンテーニュがパスカルの「しゃべりすぎ」批判を先取りしていた場面。この記事の出発点
 - [推敲の主導権は誰が握るか](/topics/writing-theory/history-of-drafting-revision/) ── 「隠せる時間」を使って批判に備えるという意味では、推敲もプロレプシス的な準備行為の一種と言える
 - [選べない移り変わりを、選んだことにして書く](/essays/2026-08-05-passage-i-cannot-choose/) ── モンテーニュのパスカル先取りを扱ったエッセイ#9。この記事の候補アイデアはここから生まれた

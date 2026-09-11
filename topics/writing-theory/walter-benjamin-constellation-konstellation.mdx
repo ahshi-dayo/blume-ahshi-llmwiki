@@ -7,7 +7,7 @@ sources: [raw/papers/2026-09-04-friesen-wandering-star-benjamin-constellation.md
 confidence: high
 summary: "ヴァルター・ベンヤミンが『ドイツ悲劇の根源』の認識批判的序論で提示した「コンステレーション（星座）」概念──理念は現象を論証で包摂するのではなく、断片の配置そのものから浮かび上がる、というモデル。『パサージュ論』では著者の論評を排した「引用モンタージュ」という実践的手法へ発展するが、Adornoの批判（恣意性・因果の素朴さ）と、この語自体の理論的不安定性を扱う。"
 sidebar:
-  order: 3
+  hidden: true
 ---
 
 ヴァルター・ベンヤミン（1892-1940）が『ドイツ悲劇の根源』（*Ursprung des deutschen Trauerspiels*, 1925）の「認識批判的序論（Erkenntniskritische Vorrede）」で提示した「コンステレーション（Konstellation、星座）」は、断片的な歴史的事実と、それを超えた哲学的な意味との関係をどう結ぶかという問題への、一つの答えだった。

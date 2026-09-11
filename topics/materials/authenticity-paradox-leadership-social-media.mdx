@@ -2,12 +2,12 @@
 title: "本来性の逆説 ── 『ありのまま』を目指すほど、遠ざかる自己"
 tags: [authenticity, authenticity-paradox, self-monitoring, self-presentation, social-media, leadership, honraisei, materials]
 date: 2026-09-07
-updated: 2026-09-07
+updated: 2026-09-10
 sources: [raw/articles/2026-09-07-ibarra-authenticity-paradox-leadership.md, raw/articles/2026-09-07-ortega-esteban-authenticity-paradox-social-media.md, raw/papers/2026-09-07-ito-abe-honraisei-honraikan-kankei.md]
 confidence: medium
 summary: "『本当の自分でいる』ことを目指す行為そのものが、かえって本来性を遠ざけるという逆説を、リーダーシップ論（Ibarra）・SNS論（Ortega Esteban）・日本の心理学的測定研究（伊藤・阿部）の3つの角度から整理する。「本来性」は固定された内実ではなく、状況に応じて構築し続ける作業だという像が3方向から浮かび上がる。"
 sidebar:
-  order: 1
+  hidden: true
 ---
 
 ## 本来性の逆説 ── 『ありのまま』を目指すほど、遠ざかる自己
@@ -50,6 +50,7 @@ INSEADの経営学者ハーミニア・イバラは、リーダーが役割の�
 - [アルゴリズム的自己 ── AIは人間のアイデンティティをどう作り変えるか](/topics/materials/algorithmic-self/) — 自己が外部（AI・アルゴリズム）との関わりの中で構築されるという点で、本記事の「本来性は状況の中で作られる」という像と地続き
 - [人格の同一性とテセウスの船──『同じ私』を成り立たせるもの](/topics/materials/personal-identity-theseus-ship/) — 「同じ私」を成り立たせるものを問う哲学的枠組みと、「本当の自分」を問う本記事の逆説は同じ問いの別角度
 - [型は、モデルより長生きする ── パフォーマティビティ理論とペルソナベクトルが解く、キャラクター設定の生存条件](/topics/writing-theory/character-design-outlives-the-model/) — 「本来の自分を求めること自体が本来性を遠ざける」という本記事の逆説と、「一番作り物に見える型こそが本質を構成する」というバトラーの逆説は、理論的に接続する姉妹記事
+- [被投性（Geworfenheit）と『親ガチャ』── 選べない条件を、哲学とスラングはどう語るか](/topics/materials/geworfenheit-oyagacha-thrown-condition/) — 「本来性は固定された内実ではなく状況ごとに作られる」という本記事の像と、被投性の「本来的／非本来的」という引き受け方の区別は、同じ主題を別の角度から扱う
 
 ## Sources
 

@@ -2,6 +2,99 @@
 title: "Activity Log"
 ---
 
+## [2026-09-11] compile | 3 sources → 2 new articles, 1 updated（ネガティブ・ケイパビリティ／物語消費論）
+
+- [ネガティブ・ケイパビリティ ── キーツの詩論が、180年かけて『答えを急がない力』になるまで](/topics/materials/negative-capability-keats-bion-houkibousei/) を新規作成（松岡正剛「千夜千冊」1787夜を統合。キーツの原義→ビオンによる180年後の臨床転用→帚木蓬生による一般書化、という2段階の距離を明示）
+- [物語消費論 ── 断片を集めれば『大きな物語』に近づけるという錯覚](/topics/materials/monogatari-shohi-ron-otsuka-azuma/) を新規作成（KADOKAWA公式紹介ページ・雲上ブログの東浩紀解説の2ソースを統合。大塚の物語消費論と東のデータベース消費論の前提の違い＝「大きな物語への欲望があるかどうか」を整理）
+- [即答という思考の型](/topics/materials/heidegger-question-structure-calculative-meditative-thinking/) を更新（See Alsoに2新記事への逆リンクを追加。「性急に答えへ到達しようとする思考」への批判という問題意識の重なりを明示）
+- topics/materials sidebar必須ローテーション実施（monogatari-shohi-ron=order:1新設、negative-capability=order:2新設、symbol-grounding-functionalism 1→3、temperature-not-creativity-dial-llm 2→hidden、heidegger-question-structure 3→hidden）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記なし（can-ai-write-essaysと関連しうる内容だが、本セッションは新規兆し無し。國學院note応募エッセイはnote専用でwiki側の問い消費対象外）
+
+## [2026-09-11] ingest | 3件ingest（`/research`「ネガティブ・ケイパビリティ（キーツ・帚木蓬生）と物語消費論の原義」・國學院note応募エッセイ準備R3）
+
+- 5並列エージェント検索（Academic/Technical/Applied-News/Contrarian/Historical）から3件を採用。松岡正剛「千夜千冊」1787夜（帚木蓬生『ネガティブ・ケイパビリティ』評、`raw/articles/2026-09-11-1787ya-negative-capability-houkibousei-matsuoka-seigo.md`）がキーツ原義→ビオンの臨床転用→帚木の一般書化という2段階の距離を明示。KADOKAWA公式『定本 物語消費論』紹介ページ（`raw/articles/2026-09-11-teihon-monogatari-shouhiron-kadokawa.md`）が大塚英志1989年原著の原義を確定。個人ブログ「雲上」の東浩紀『動物化するポストモダン』第2章解説（`raw/articles/2026-09-11-doubutsuka-suru-postmodern-monogatari-shouhi-unjyou.md`）が大塚物語消費論と東データベース消費論の前提の違い（大きな物語への欲望の有無）を整理。
+- 國學院大學「学踏」の命名意図は募集記事以外に公式説明が見つからず（プレスリリース403・X公式検索0件・辞書未収載の造語と確認）。ingestなし・落選候補として記録。
+- 落選候補は `00_ahshi/research_backlog/negative-capability-monogatari-shohi-gakuto.md` へ。未コンパイル
+
+## [2026-09-11] compile | 5 sources → 2 new articles, 3 updated（temperature×創造性・grounding論争・モリス→バウハウス）
+
+- [temperatureは創造性のダイヤルではない ── LLMのサンプリングパラメータを巡る実証研究](/topics/materials/temperature-not-creativity-dial-llm/) を新規作成（Peeperkorn et al. ICCC 2024・Parupudi et al. arXiv 2606.01451の2ソースを統合）
+- [AIは身体を持たずに意味を持てるか ── 記号接地問題を巡る機能主義と身体化認知の対立](/topics/materials/symbol-grounding-functionalism-vs-embodied-cognition/) を新規作成（Floridi et al. arXiv 2512.09117・Farkaš et al. Frontiers in Systems Neuroscience 2025の2ソースを統合。機能主義側と身体化認知側が正反対の結論に至る対立構造をそのまま記事化）
+- [人文知とは何か](/topics/materials/jinbunchi-liberal-arts-yoshimi-shunya/) を更新（Museum Crush記事から「補足：産業革命への応答は『懐古』だけではなかった」節を追加。グロピウス1923年発言＋モリス家具→ブロイヤー椅子の系譜。Pevsnerの目的論的単線史観への学術批判も併記し、単純な進歩史観の鵜呑みを避ける）
+- [即答という思考の型](/topics/materials/heidegger-question-structure-calculative-meditative-thinking/)・[AIは意味を理解しているのか](/topics/materials/ai-understanding-arai-noriko-vs-llm-evidence/)・[人間キャンセル界隈](/topics/materials/ningen-cancel-kaiwai/) の See Also に逆リンク（双方向化）
+- topics/materials sidebar必須ローテーション実施（symbol-grounding=order:1新設、temperature-not-creativity-dial-llm=order:2新設、heidegger-question-structure 1→3、geworfenheit-oyagacha 2→hidden、authenticity-paradox 3→hidden）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記なし（can-ai-write-essaysと直結する内容だが、本セッションは既にR1のcompileで1件消化済み。1セッション新規兆し最大1件のルールに従い見送り）
+
+## [2026-09-11] ingest | 5件ingest（`/research`「AIに脇道はあるか：temperatureと創造性、grounding論争、モリス→バウハウス系譜」・國學院note応募エッセイ準備R2）
+
+- 國學院大學×note応募エッセイ（[2026-09-10_國學院note応募エッセイ_プロット評価と段取り.md](../ai-outputs/ai-docs/2026-09-10_國學院note応募エッセイ_プロット評価と段取り.md)）§5 R2の実行。8並列エージェント検索（Academic/Technical/Applied/News-Trends/Contrarian/Historical/Adjacent/Data・`--deep`）から5件を採用
+- **temperature×創造性**：Peeperkorn et al.（ICCC 2024・査読会議、`raw/papers/2026-09-11-peeperkorn-is-temperature-the-creativity-parameter-llms.md`）——4エージェントが独立発見。新規性と弱い相関のみ、典型性・結束性とは無相関、強く相関するのはむしろ一貫性の低下。「temperature=創造性ダイヤル」という通説を実証的に反証。Parupudi et al.（arXiv 2606.01451・未査読、`raw/papers/2026-09-11-parupudi-et-al-before-after-temperature-distributional-view.md`）——T=0.8最良・T=1.5最悪と一致評価、高温度の破綻を「質量漏出」として分布論的に定量化し、Peeperkornの結論に機構的説明を加える
+- **grounding論争（身体化認知vs機能主義）**：Floridi et al.（arXiv 2512.09117・未査読、`raw/papers/2026-09-11-floridi-et-al-categorical-analysis-llms-symbol-grounding.md`）——4エージェントが独立発見。圏論でLLMは記号接地問題を「解決でなく回避」と論じる機能主義側。Farkaš, Vavrečka, Wermter（Frontiers in Systems Neuroscience 2025・査読誌、`raw/papers/2026-09-11-farkas-vavrecka-wermter-multimodal-llms-deep-understanding.md`）——身体化認知側から正面対立、MLLMは発達的な段階学習を欠くため深い理解に至らないと主張
+- **モリス→バウハウス系譜**：Museum Crush記事（`raw/articles/2026-09-11-william-morris-father-of-the-bauhaus-museumcrush.md`）——グロピウス本人の1923年発言（「ラスキンとモリスに負っている」）とモリス家具→マルセル・ブロイヤー椅子の70年越しの継承例。「懐古だけでなく機械美学の連続的発展」という報告書§2-5の読みを裏付ける一次的な具体例
+- 落選候補（NoveltyBench・Koivisto & Grassini・Bellemare-Pepin・techxplore PNAS Nexus・Harnad 1990起源・EMNLP2024機能主義論文・Tim Benton「Pevsnerの目的論批判」等）は `00_ahshi/research_backlog/ai-creative-detour-temperature-grounding-bauhaus.md` へ保存
+- 未コンパイル。3件以上のため `/compile` 実行を提案
+
+## [2026-09-11] compile | 4 sources → 1 new article, 0 updated（即答という思考の型）
+
+- [即答という思考の型 ── ハイデガーの『計算的思考／省察的思考』と『問いの三構造』](/topics/materials/heidegger-question-structure-calculative-meditative-thinking/) を新規作成（存在と時間§2英訳原典・Fasiku 2026・Malloy et al. 2014・NDPR書評の4ソースを統合）
+- (a)案「Befragte＝誰に問うか」は字義的な誤用と判明（現存在自身が問いかけられる対象という存在論的概念）。(b)案「計算的思考／省察的思考」は2026年の査読論文でAI倫理に直結する形で使えるが、「計算的思考」概念がハイデガー自身の反ユダヤ主義的言説と歴史的に結びついていたという留保を本文に明記
+- [被投性（Geworfenheit）と『親ガチャ』](/topics/materials/geworfenheit-oyagacha-thrown-condition/)・[人文知とは何か](/topics/materials/jinbunchi-liberal-arts-yoshimi-shunya/)・[人間キャンセル界隈](/topics/materials/ningen-cancel-kaiwai/)・[あーしはエッセイが書けない](/topics/writing-theory/ahshi-cannot-write-good-essay/) の See Also に逆リンク（双方向化）
+- topics/materials sidebar必須ローテーション実施（本記事=order:1新設、geworfenheit-oyagacha 1→2、authenticity-paradox 2→3、jinbunchi-liberal-arts-yoshimi-shunya 3→hidden）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記あり【can-ai-write-essays】（即答と省察の対比が、この問いの核心である「計算的に処理する」対「試みる」の区別に直結したため）
+
+## [2026-09-11] ingest | 4件ingest（`/research`「ハイデガー 問いの構造と計算的思考／省察的思考」・國學院note応募エッセイ準備R1）
+
+- 國學院大學×note応募エッセイ（[2026-09-10_國學院note応募エッセイ_プロット評価と段取り.md](../ai-outputs/ai-docs/2026-09-10_國學院note応募エッセイ_プロット評価と段取り.md)）§5 R1の実行。ハイデガー『存在と時間』第2節の問いの三構造（Gefragte/Erfragte/Befragte）と、後期の計算的思考／省察的思考（『放下』Gelassenheit, 1955）の裏取りが目的
+- 5並列エージェント検索（Academic/Technical/Applied/News-Trends/Contrarian）から4件を採用：
+  - 『存在と時間』第2節「存在への問いの形式的構造」英訳原典（Macquarrie & Robinson訳、[raw/articles/2026-09-11-being-and-time-section2-formal-structure-question-of-being.md](../raw/articles/2026-09-11-being-and-time-section2-formal-structure-question-of-being.md)）— 三構造の一次資料。Befragteは「誰に問うか」という話者選択の対比には字義的に使えない（現存在自身が問いかけられる対象という存在論的概念）と判明
+  - Fasiku「The Ethical Significance of Gelassenheit in Martin Heidegger in the Age of AI」（Studia Heideggeriana Vol.XV, 2026・査読誌、[raw/papers/2026-09-11-fasiku-ethical-significance-gelassenheit-age-of-ai.md](../raw/papers/2026-09-11-fasiku-ethical-significance-gelassenheit-age-of-ai.md)）— Gelassenheitを「制御でも支配されることでもない第三の道」として定式化、AI倫理へ直結する2026年最新の学術的裏付け
+  - Malloy et al.「Discourse on Medicine」（Philosophy, Ethics, and Humanities in Medicine, 2014・査読誌・PMC収録、[raw/papers/2026-09-11-malloy-et-al-calculative-meditative-thinking-medicine.md](../raw/papers/2026-09-11-malloy-et-al-calculative-meditative-thinking-medicine.md)）— 計算的思考／省察的思考の原典引用付き定義と実証研究（7カ国69名医師、計算的76%・省察的24%）
+  - NDPR書評「Heidegger's Black Notebooks: Responses to Anti-Semitism」（[raw/papers/2026-09-11-ndpr-review-heidegger-black-notebooks-antisemitism.md](../raw/papers/2026-09-11-ndpr-review-heidegger-black-notebooks-antisemitism.md)）— 「計算的思考」批判とハイデガー自身の反ユダヤ主義的言説（ユダヤ人を「計算と機械化の支配」の体現者とみなす存在史的反ユダヤ主義）の歴史的結びつき。(b)案採用時の留保材料
+- 落選候補（SEP/IEP・辻村公一訳の書誌情報のみで本文未確認・Thomson 2025書評・El Ciudadano・innovatopia.jp・Yahoo!エキスパート等11件）は [00_ahshi/research_backlog/heidegger-question-structure-calculative-meditative-thinking.md](../00_ahshi/research_backlog/heidegger-question-structure-calculative-meditative-thinking.md) へ保存
+- 未コンパイル
+
+## [2026-09-10] compile | 1 source → 1 new article, 2 updated（読書棚 I-08）
+
+- 読書棚の第8章 [I-08 暇であることについて](/topics/books/essais/I-08/) を章ページ型で作成（`/montaigne-clip`）
+- ARTFL層データ（A3・B2・C0・計6セグメント）を突き合わせ、章の約9割（土地・女性・精神の三重比喩、ホラティウス句込みの箇所、自伝段落全体）が1580年版から既にあり、1588年加筆（B層）はウェルギリウスとマルティアリスの詩句引用2箇所（計232字）のみ、**手稿加筆（C層）はゼロ**と判明。第1〜7章はいずれもC層を含んでいたが、この章は書かれてから一度も手を入れられていない
+- [I-07 行為を裁くのは意図である](/topics/books/essais/I-07/) の See Also に次章行、[モンテーニュ『店の奥の部屋』](/topics/writing-theory/montaigne-self-lending-inner-room/) の See Also に逆リンク（同記事が既にI-08の一節「残されたわずかな余生を、世間から離れてのんびりすごそう」を引用していた）
+- [読書棚ハブ](/topics/books/essais/)の進捗表を更新（読了 8/107）
+- 共鳴チェック: 📖免除により montaigne-107-chapters には兆しを書かず、他slugへの兆しもなし
+
+## [2026-09-10] ingest | 1件ingest（読書棚 I-08）
+
+- 『エセー』I.8「暇であることについて」現代語版全文（[raw/books/2026-09-10-essais-I-08.md](../raw/books/2026-09-10-essais-I-08.md)） — Wikisource Michaud 1907 現代語版（1595年版準拠）。人間クリップ→inbox→`/montaigne-clip`（check_clip.py: proceed・2,509字・段落2・1 part・対訳ラベル無し）
+- 読書棚 topics/books/essais/ の第8章分
+
+## [2026-09-10] compile | 3 sources → 2 new articles（引用統合技法＋並置）
+
+- [引用を、エッセイにどう編み込むか ── 導入・提示・意義づけの技法](/topics/writing-theory/quotation-integration-technique/)を新設（UNCライティングセンター「Quotations」・Ursinus大学「Integrating a Quotation into an Essay」の2ソースを統合。両ガイドが共有する「引用は自立したミニチュアのエッセイ」という考え方を軸に、導入→提示→意義づけ→出典の骨格を整理）
+- [並置（juxtaposition）── 異なるものを並べて意味を立ち上げる技法](/topics/writing-theory/juxtaposition-rhetorical-device/)を新設（英語版Wikipedia「Juxtaposition」単独ソース。言語・論理的誤謬・数学記法・芸術の5領域を整理）
+- 新設2記事を相互にSee Also接続。[プロレプシス（先取り反論）](/topics/writing-theory/prolepsis-anticipating-objections/)にもSee Also双方向化（他者の言葉・想定反論・並置された要素を自分の文章へ組み込む精度という共通項で接続）
+- topics/writing-theory sidebar必須ローテーション実施（juxtaposition=order:1新設、quotation-integration=order:2新設、character-design-outlives-the-model 1→3、montaigne-on-reading 2→hidden、walter-benjamin-constellation-konstellation 3→hidden）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 直接接続する項目なく兆し追記なし
+
+## [2026-09-10] ingest | 3件ingest（wiki-clip自動選定・引用技法）
+
+- `/wiki-clip`によるidea_searched自動選定（writing-theory_2026-09-07_2300.md）から3件fetch成功、品質ゲート却下・fetch失敗なし
+- 採用: UNCライティングセンター「Quotations」（[raw/articles/2026-09-10-quotations-writing-center.md](../raw/articles/2026-09-10-quotations-writing-center.md)）、英語版Wikipedia「Juxtaposition」（[raw/articles/2026-09-10-juxtaposition-wikipedia.md](../raw/articles/2026-09-10-juxtaposition-wikipedia.md)）、Ursinus大学「Integrating a Quotation into an Essay」（味変枠・PDF取込＝`pdf2md(pymupdf4llm)`、[raw/articles/2026-09-10-integrating-quotation-into-essay-ursinus.md](../raw/articles/2026-09-10-integrating-quotation-into-essay-ursinus.md)）
+- 未コンパイル
+
+## [2026-09-10] compile | 3 sources → 1 new article, 2 updated（被投性と『親ガチャ』）
+
+- [被投性（Geworfenheit）と『親ガチャ』── 選べない条件を、哲学とスラングはどう語るか](/topics/materials/geworfenheit-oyagacha-thrown-condition/)を新設（Heidegger Dictionaryの「Geworfenheit」項・Wikipedia「存在と時間」・Wikipedia「親ガチャ」の3ソースを統合）。idea-meeting #12「被投性と『〇〇ガチャ』」の元ネタ（essay#9「選べない移り変わりを、選んだことにして書く」）に忠実に、被投性の「選べなさをどう引き受けるか」という踏み込みと、親ガチャの「結果の評価で止まりやすい」という違いを軸に構成
+- 更新: [選べない移り変わりを、選んだことにして書く](/essays/2026-08-05-passage-i-cannot-choose/)（See Also追加）・[本来性の逆説](/topics/materials/authenticity-paradox-leadership-social-media/)（See Also双方向化）
+- topics/materials sidebar必須ローテーション実施（本記事=order:1新設、authenticity-paradox 1→2、jinbunchi-liberal-arts 2→3、ai-understanding-arai-noriko 3→hidden）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 直接接続する項目なく兆し追記なし（本記事は信念候補「選べない条件を、選んだことにして引き受け直すと、エッセイが前に進む」（保留中）の裏付け材料だが、kizashiルールの対象＝questions/追跡中の問い・ハマってるものには該当しないため見送り）
+
+## [2026-09-10] ingest | 3件ingest（wiki-clip自動選定・ハイデガー被投性＋親ガチャ）
+
+- `/wiki-clip`によるidea_searched自動選定（materials_2026-09-09_2300.md）から3件fetch成功、うち1件を品質ゲートで却下
+- 却下: Cambridge Heidegger Lexicon「Thrownness」章（味変枠外の通常選定・⭐5）— TOC・アクセシビリティ説明文・Kindle/Dropbox/Google Drive保存UIが本文8179字の大半を占め、実質コンテンツは要旨段落1つ（約550字）のみ。「Temporary Disruption」というアクセス制限メッセージ付きで、全文取得できていない疑い。`inbox/.rejected/2026-09-10T220630+0900-note.md`へ退避
+- 補充fetch（次点⭐4）で親ガチャWikipediaを追加し目標3件を確保
+- 採用: Daniel DahlstromのHeidegger Dictionary「Geworfenheit（被投性）」項（[raw/articles/2026-09-10-geworfenheit-heidegger-dictionary-dhalstrom.md](../raw/articles/2026-09-10-geworfenheit-heidegger-dictionary-dhalstrom.md)）、日本語版Wikipedia「存在と時間」（味変枠、[raw/articles/2026-09-10-sonzai-to-jikan-wikipedia.md](../raw/articles/2026-09-10-sonzai-to-jikan-wikipedia.md)）、日本語版Wikipedia「親ガチャ」（補充、[raw/articles/2026-09-10-oyagacha-wikipedia.md](../raw/articles/2026-09-10-oyagacha-wikipedia.md)）
+- 未コンパイル
+
 ## [2026-09-07] compile | 4 sources → 1 new article, 4 updated（型は、モデルより長生きする）
 
 - [型は、モデルより長生きする ── パフォーマティビティ理論とペルソナベクトルが解く、キャラクター設定の生存条件](/topics/writing-theory/character-design-outlives-the-model/)を新設。バトラーのパフォーマティビティ理論・Anthropicのペルソナベクトル研究が「型こそ本質」側の根拠を、VTuberの「中の人」交代論・GPT-4o引退が「型だけでは足りない場所」を示す4ソース構成

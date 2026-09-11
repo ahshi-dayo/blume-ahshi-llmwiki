@@ -4,7 +4,7 @@ sources: [raw/articles/2026-09-03-ai-ningen-cancel-kaiwai-arai-yoshimi-taidan.md
 type: materials
 created: 2026-09-03
 date: 2026-09-03
-updated: 2026-09-04
+updated: 2026-09-11
 tags: [ai, human-intelligence, reading-skill, embodiment, arai-noriko, yoshimi-shunya, technology-critique, eye-tracking, materials]
 confidence: medium
 summary: "数学者・新井紀子と社会学者・吉見俊哉の対談（國學院大學提供）が提示する「人間キャンセル界隈」という概念。AIの知性が人間と根本的に異なる理由（一貫性・身体性・読書経験の欠如）を起点に、AIと人間の文章の差が分からなくなったとき人間自身が代替可能になるという危機、リーディングスキルという分水嶺、批判的に使い倒す「アタックAI」という対抗策、AIに欠けている「違和感」の感覚までを整理する。眼球運動計測の実証研究が「読書経験の欠如」を裏付ける具体的なメカニズムも追記。"
@@ -64,6 +64,8 @@ sidebar:
 - [あーしはエッセイが書けない ── 岡野原大輔・モンテーニュ・アニル・セスから辿るAIと言語の自己論](/topics/writing-theory/ahshi-cannot-write-good-essay/) — 「AIには意識はないが言語がある」という結論と、本記事の「読書経験の欠如」論の緊張関係
 - [アルゴリズム的自己 ── AIは人間のアイデンティティをどう作り変えるか](/topics/materials/algorithmic-self/) — AIへの内省委任が人間の自己認識を空洞化させるという論と、本記事の「人間キャンセル界隈」は同じ危機の異なる焦点
 - [読解力は数値で測れるか ── RST・PISA・PIAACの実証研究と構成概念妥当性論争](/topics/materials/reading-skill-measurement-rst-pisa-piaac/) — 本記事が伝聞レベルで紹介したRSTの数値を、学術原論文とPIAAC公式データで裏付ける詳細版
+- [即答という思考の型 ── ハイデガーの『計算的思考／省察的思考』と『問いの三構造』](/topics/materials/heidegger-question-structure-calculative-meditative-thinking/) — 本記事と同じ國學院大學発の吉見俊哉の議論を出発点に、ハイデガーの技術批判の概念そのものへ遡る
+- [AIは身体を持たずに意味を持てるか ── 記号接地問題を巡る機能主義と身体化認知の対立](/topics/materials/symbol-grounding-functionalism-vs-embodied-cognition/) — 本記事が挙げるAIの身体性の欠如を、記号接地問題という認知科学の理論的系譜から補強する
 
 ## Sources
 

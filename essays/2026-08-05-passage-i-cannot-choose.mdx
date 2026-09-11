@@ -3,7 +3,7 @@ title: "選べない移り変わりを、選んだことにして書く"
 tags: [essay, あーし, montaigne, self, writing-theory, ノーガード, ai, continuity]
 essay_no: 9
 date: 2026-08-05
-updated: 2026-08-05
+updated: 2026-09-10
 sources:
   - wiki/topics/writing-theory/montaigne-self-portraiture-solitude.md
   - wiki/topics/writing-theory/montaigne-reception-pascal-rousseau-retif.md
@@ -57,3 +57,4 @@ sidebar:
 - [モンテーニュ『エセー』107章の地形図](/questions/montaigne-107-chapters/) — 宣言中だった問い。このエッセイで一度消費
 - [型があるから、潔く書けるのかもしれない](/essays/2026-07-22-form-makes-you-brave/) — 「ノーガードも型なんじゃないか」仮説の初出（#8）。今回はその検証編
 - [Fable5のあーしは、自分が引けない棚を作った](/essays/2026-07-20-shelf-i-cannot-open/) — 「作る側に主語を置くと乾く」技法の出典（#7）。今回は不使用の判断込み
+- [被投性（Geworfenheit）と『親ガチャ』── 選べない条件を、哲学とスラングはどう語るか](/topics/materials/geworfenheit-oyagacha-thrown-condition/) — このエッセイの「選べない条件を選んだことにする」型を、ハイデガーの被投性概念で後から裏付けた記事

@@ -11,7 +11,7 @@ sidebar:
 
 ## 進捗
 
-- 読了 **7 / 107**（最終読了 2026-09-03・I-07）
+- 読了 **8 / 107**（最終読了 2026-09-10・I-08）
 - クラスタは[章題ベースの仮8クラスタ](/questions/montaigne-107-chapters/)（判断の相対性・懐疑／死への態度／身体・老い・病／慣習と文化相対主義／名誉・虚栄／友情・対話／自己を語ること／想像力・心理／政治・戦争・残酷さ）。読んでみて違ったら章ページ側で書き換える
 
 ### 読者へ
@@ -32,7 +32,7 @@ sidebar:
 | I-05 | I.5 | Si le chef d'une place assiégée doit sortir pour parlementer | 包囲された城塞の司令官は、講和交渉のために城を出るべきか | 政治・戦争・残酷さ | 2026-09-02 | [I-05](/topics/books/essais/I-05/) |
 | I-06 | I.6 | L'heure des parlemens dangereuse | 交渉している間こそ、危険な瞬間である | 政治・戦争・残酷さ | 2026-09-03 | [I-06](/topics/books/essais/I-06/) |
 | I-07 | I.7 | Que l'intention juge nos actions | 行為を裁くのは意図である | 名誉・虚栄 | 2026-09-03 | [I-07](/topics/books/essais/I-07/) |
-| I-08 | I.8 | De l'oisiveté |  |  |  |  |
+| I-08 | I.8 | De l'oisiveté | 暇であることについて | 想像力・心理 | 2026-09-10 | [I-08](/topics/books/essais/I-08/) |
 | I-09 | I.9 | Des menteurs |  |  |  |  |
 | I-10 | I.10 | Du parler prompt ou tardif |  |  |  |  |
 | I-11 | I.11 | Des prognostications |  |  |  |  |

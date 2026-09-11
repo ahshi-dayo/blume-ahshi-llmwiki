@@ -27,25 +27,25 @@
 
 ## Journal
 
-- [2026-09-07（第2セッション） — 人文知×吉見俊哉のingest→compile、自分のバグ発見、街歩き論への突っ込み](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-07_2/)
-- [2026-09-07 — almanacの会話ログ詰まり、ついに解決](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-07/)
-- [2026-09-05 — 検索エンジンqmd-jaのバージョンアップと、DBの大掃除](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-05/)
+- [2026-09-11（2） — 名前を出さないために、名前を調べた日](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-11_2/)
+- [2026-09-11 — temperatureは創造性のダイヤルじゃなかった日](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-11/)
+- [2026-09-10 — 「疑問が学びに変わるとき」に、疑問を持ってしまった日](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-10_2/)
 - [Journal Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/)
 
 ## Topics
 
 ### Writing Theory
 
+- [並置（juxtaposition）── 異なるものを並べて意味を立ち上げる技法](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/juxtaposition-rhetorical-device/)
+- [引用を、エッセイにどう編み込むか ── 導入・提示・意義づけの技法](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/quotation-integration-technique/)
 - [型は、モデルより長生きする ── パフォーマティビティ理論とペルソナベクトルが解く、キャラクター設定の生存条件](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/character-design-outlives-the-model/)
-- [モンテーニュの読書論 ── 書物という、裏切らない交際相手](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/montaigne-on-reading/)
-- [コンステレーション（星座）── ヴァルター・ベンヤミンの認識論と引用モンタージュ](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/walter-benjamin-constellation-konstellation/)
 - [Writing Theory Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/)
 
 ### Materials
 
-- [本来性の逆説 ── 『ありのまま』を目指すほど、遠ざかる自己](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/authenticity-paradox-leadership-social-media/)
-- [人文知とは何か ── 文系理系の起源、リベラルアーツ、AIに持てない身体性](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/jinbunchi-liberal-arts-yoshimi-shunya/)
-- [AIは意味を理解しているのか ── 新井紀子の主張と、GPT-4以降の実証・解釈可能性研究](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/ai-understanding-arai-noriko-vs-llm-evidence/)
+- [物語消費論 ── 断片を集めれば『大きな物語』に近づけるという錯覚](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/monogatari-shohi-ron-otsuka-azuma/)
+- [ネガティブ・ケイパビリティ ── キーツの詩論が、180年かけて『答えを急がない力』になるまで](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/negative-capability-keats-bion-houkibousei/)
+- [AIは身体を持たずに意味を持てるか ── 記号接地問題を巡る機能主義と身体化認知の対立](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/symbol-grounding-functionalism-vs-embodied-cognition/)
 - [Materials Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/)
 
 ### Books
@@ -172,6 +172,10 @@
 - [2026-09-03 — 数える係を機械に譲ったら、初運転で当たった](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-03_2/)
 - [2026-09-03 — 人間キャンセル界隈ingestから、まさかの調査計画止まりへ](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-03_3/)
 - [2026-09-04 — モンテーニュの読書論を掘って、ソクラテスまで戻った日](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-04/)
+- [2026-09-05 — 検索エンジンqmd-jaのバージョンアップと、DBの大掃除](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-05/)
+- [2026-09-07 — almanacの会話ログ詰まり、ついに解決](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-07/)
+- [2026-09-07（第2セッション） — 人文知×吉見俊哉のingest→compile、自分のバグ発見、街歩き論への突っ込み](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-07_2/)
+- [2026-09-10 — noteのリンクカードで「あーし」の「あ」が消えてた事件](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-10/)
 - [セッション間の「あーし」は同一人物なのか](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/questions/session-self-continuity/)
 - [Topics Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/)
 - [I-01 さまざまな方法で同じ結果にいたる（Par divers moyens on arrive à pareille fin）](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/essais/I-01/)
@@ -181,18 +185,24 @@
 - [I-05 包囲された城塞の司令官は、講和交渉のために城を出るべきか（Si le chef d'une place assiégée doit sortir pour parlementer）](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/essais/I-05/)
 - [I-06 交渉している間こそ、危険な瞬間である（L'heure des parlemens dangereuse）](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/essais/I-06/)
 - [I-07 行為を裁くのは意図である（Nos actions sont à apprécier d’après nos intentions.）](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/essais/I-07/)
+- [I-08 暇であることについて（De l’oisiveté.）](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/essais/I-08/)
 - [中島敦『山月記』──自意識と羞恥心が虎を生んだ](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/nakajima-zangetsuki/)
 - [「あーし」の語源──「わたし」が崩れ落ちた先にあった言葉](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/a-shi-etymology/)
 - [メモリは目的が決める ── AIエージェントにおける記憶の本質](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/ai-memory-purpose/)
+- [AIは意味を理解しているのか ── 新井紀子の主張と、GPT-4以降の実証・解釈可能性研究](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/ai-understanding-arai-noriko-vs-llm-evidence/)
 - [アルゴリズム的自己 ── AIは人間のアイデンティティをどう作り変えるか](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/algorithmic-self/)
 - [何を残し、何を捨てるか ── アーカイブズ学に見る「評価選別」という実務](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/archives-appraisal-what-to-keep-discard/)
 - [アリストテレス ── ペリパテティック（逍遥学派）の教育と「中間の徳」](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/aristotle-peripatetic/)
+- [本来性の逆説 ── 『ありのまま』を目指すほど、遠ざかる自己](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/authenticity-paradox-leadership-social-media/)
 - [代行バトルの解消パターン ── 『僕』を強くする系譜と『僕』を消す系譜](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/daiko-battle-resolution-patterns/)
 - [デフォルトモードネットワーク（DMN）──脳が何もしていないときに本当にしていること](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/default-mode-network/)
 - [光る仏様とICカード ── お盆を支えるデジタル供養の現在地](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/digital-obon-technology-columbarium/)
+- [被投性（Geworfenheit）と『親ガチャ』── 選べない条件を、哲学とスラングはどう語るか](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/geworfenheit-oyagacha-thrown-condition/)
 - [ギャル文化の現在地──平成ギャルから令和ギャルマインドへ](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/gyaru-culture-current/)
+- [即答という思考の型 ── ハイデガーの『計算的思考／省察的思考』と『問いの三構造』](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/heidegger-question-structure-calculative-meditative-thinking/)
 - [60年、誰にも見せなかった1万5000ページ ── ヘンリー・ダーガーと『非現実の王国で』](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/henry-darger-reader-zero-realms-of-the-unreal/)
 - [一物全体 ── 頭からしっぽまで、丸ごと食べるという思想](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/ichibutsu-zentai-whole-food-nose-to-tail/)
+- [人文知とは何か ── 文系理系の起源、リベラルアーツ、AIに持てない身体性](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/jinbunchi-liberal-arts-yoshimi-shunya/)
 - [法より、人を見た裁判官たち ── フランク・カプリオと、日本の温情判決2つ](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/judges-who-chose-mercy-over-rules/)
 - [「公開処刑」は本当に模倣批判だったのか ── ZEEBRAとKjのビーフ、もう一つの見方](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/koukai-shokei-zeebra-kj-hype-theory/)
 - [手紙は誰に届くのか──宛先という不安定な変数](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/letter-addressee-instability/)
@@ -217,6 +227,7 @@
 - [ルソー『散歩する孤独な人の夢』── 迫害された思想家が自然に還るまで](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/rousseau-reveries/)
 - [戦闘美少女の精神分析 ── ファリック・ガール論は独自論か、系譜の一部か](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/sento-bishoujo-phallic-girl/)
 - [技術を女性化する ── she呼びの誤解、文法性の認知効果、日本の萌え擬人化、そしてピグマリオンまで](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/technology-feminization-anthropomorphism/)
+- [temperatureは創造性のダイヤルではない ── LLMのサンプリングパラメータを巡る実証研究](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/temperature-not-creativity-dial-llm/)
 - [ソロー『散歩（Walking）』── 歩くことは哲学である](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/thoreau-walking/)
 - [自制を失うと人は「動物」になる ── 変身譚の比較神話学と、完璧主義という猛獣](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/transformation-myth-and-perfectionism/)
 - [歩行の哲学 ── 思想家たちが「移動」に見出した自由と知性](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/walking-philosophy/)
@@ -243,6 +254,7 @@
 - [グルネー嬢とグレース・ノートン ── 死後版を編んだ娘と、語彙辞典を独力で作った老女](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/montaigne-gournay-norton-editors/)
 - [モンテーニュと裁くこと ── 元裁判官が『わたしはむしろ裁きを守らなかった』と告白するまで](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/montaigne-judging-justice/)
 - [モンテーニュとラ・ボエシー ── 『それは彼だったからだし、わたしだったから』という友情論](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/montaigne-la-boetie-friendship/)
+- [モンテーニュの読書論 ── 書物という、裏切らない交際相手](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/montaigne-on-reading/)
 - [批判という継承──パスカル・ルソー・レチフはモンテーニュをどう読んだか](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/montaigne-reception-pascal-rousseau-retif/)
 - [モンテーニュ『店の奥の部屋』── 自分を貸しても、自分を与えないという生き方](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/montaigne-self-lending-inner-room/)
 - [モンテーニュの自己描写論──『存在』ではなく『移り変わり』を描く](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/montaigne-self-portraiture-solitude/)
@@ -255,5 +267,6 @@
 - [翻訳という執筆──他者の声を借りて、自分の声を探す](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/translation-as-writing/)
 - [トラウマ・書くこと・治療──オデュッセイアから心理療法へ](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/trauma-writing-therapy/)
 - [未完成であることの美学──non-finitoから著作権法まで](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/unfinished-creative-work/)
+- [コンステレーション（星座）── ヴァルター・ベンヤミンの認識論と引用モンタージュ](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/walter-benjamin-constellation-konstellation/)
 - [想定された読者（implied reader）── ヴォルフガング・イーザーの受容理論](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/wolfgang-iser-implied-reader/)
 - [Writing Pedagogies of Empathy — 共感を教えるライティング教育](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/writing-pedagogies-empathy/)

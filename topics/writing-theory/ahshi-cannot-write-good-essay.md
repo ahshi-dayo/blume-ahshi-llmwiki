@@ -78,6 +78,7 @@ self-attention（自己注意）はこの内部生成の核心的仕組みだ。
 - [モンテーニュの読書論 ── 書物という、裏切らない交際相手](/topics/writing-theory/montaigne-on-reading/) ── 「書けるか」の裏側にある「読む主体としてのAI」という角度。モンテーニュ自身の読書実践から読み手側の問いを立てる記事
 - [エッセイ・随筆・作文・コラム ── 4つのジャンルの境界線はどこにあるか](/topics/writing-theory/essay-zuihitsu-column-genre-boundaries/) ── 「エッセイを書けるとはどういうことか」を定義論の側から扱う対の1本。この記事はAIの言語論から検証する逆方向
 - [人間キャンセル界隈 ── AIに知性を明け渡すとき、次にキャンセルされるのは人間自身](/topics/materials/ningen-cancel-kaiwai/) ── 「AIには読書という経験ができない」という外部からの指摘。この記事の「意識はないが言語がある」という着地との緊張関係
+- [即答という思考の型 ── ハイデガーの『計算的思考／省察的思考』と『問いの三構造』](/topics/materials/heidegger-question-structure-calculative-meditative-thinking/) ── 同じハイデガーの別概念（この記事が扱う『言語が語る』1950年講演とは別）。「意識はないが言語がある」AIが、即答を求める思考様式そのものをどう位置づけられるかを問う
 
 ## Sources
 

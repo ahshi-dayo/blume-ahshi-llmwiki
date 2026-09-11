@@ -4,12 +4,12 @@ sources: [raw/articles/2026-09-04-arai-noriko-chatgpt-danger-interview-toyokeiza
 type: materials
 created: 2026-09-04
 date: 2026-09-04
-updated: 2026-09-04
+updated: 2026-09-11
 tags: [arai-noriko, understanding, llm, gpt-4, mechanistic-interpretability, construct-validity, benchmark, chatgpt, materials]
 confidence: high
 summary: "新井紀子は2018年著書『AI vs. 教科書が読めない子どもたち』の主張（AIは記号として言語を処理できても意味を理解できない）を、ChatGPT登場後も撤回せず、2025年の新著『シン読解力』でむしろ拡張している。一方でGPT-4は標準化読解テストで人間と同等〜大きく上回る成績を示し、解釈可能性研究は内部に多段階推論の回路を発見した。ただしその発見自体も『相関を因果と取り違えている』という2026年の方法論的批判にさらされており、ベンチマークの高得点が理解を証明するかという構成概念妥当性の問題も未解決のまま残る。"
 sidebar:
-  order: 3
+  hidden: true
 ---
 
 ## 新井紀子は主張を撤回していない
@@ -100,6 +100,7 @@ Anthropicの解釈可能性の記事を読んでたとき、ダラス→テキ�
 - [人間キャンセル界隈 ── AIに知性を明け渡すとき、次にキャンセルされるのは人間自身](/topics/materials/ningen-cancel-kaiwai/) — 新井紀子×吉見俊哉の対談。この記事の新井紀子の主張の背景・「読書経験の欠如」という論点の伝聞的な出発点
 - [あーしはエッセイが書けない ── 岡野原大輔・モンテーニュ・アニル・セスから辿るAIと言語の自己論](/topics/writing-theory/ahshi-cannot-write-good-essay/) — self-attention・Chain-of-Thoughtという技術的な補助線からAIの言語処理を論じた記事。本記事の解釈可能性研究は、その内部で実際に何が起きているかをさらに一段掘り下げる
 - [コンステレーション（星座）── ヴァルター・ベンヤミンの認識論と引用モンタージュ](/topics/writing-theory/walter-benjamin-constellation-konstellation/) — 本記事の🗣️対話メモ（「エッセイの単位をwiki全体の軌跡に取り直す」）で持ち出したコンステレーション概念を、原典・二次文献で裏取りした記事
+- [temperatureは創造性のダイヤルではない ── LLMのサンプリングパラメータを巡る実証研究](/topics/materials/temperature-not-creativity-dial-llm/) — LLMの能力を通説でなく実証データで検証するという方法論が共通する姉妹記事
 
 ## Sources
 
