@@ -2,7 +2,7 @@
 title: "アウシュヴィッツの後に詩は書けるか──アドルノの弁証法とセバルトの実践"
 tags: [adorno, sebald, auschwitz, poetry, barbarism, representation, trauma, holocaust, art-ethics, dialectic]
 date: 2026-06-09
-updated: 2026-06-09
+updated: 2026-09-12
 sources:
   - "https://www.marcuse.org/herbert/people/adorno/AdornoPoetryAuschwitzQuote.htm"
   - "https://artsone.arts.ubc.ca/student-journal/sebalds-barbaric-poetry/"
@@ -129,6 +129,7 @@ W.G.セバルトの小説『アウスティッツ』は、アドルノの命題�
 
 ## See Also
 
+- [モダニズム芸術は、なぜ自らを傷つける身振りをするのか ── アドルノの美学と『表現することの暴力』](/topics/writing-theory/adorno-aesthetic-of-self-inflicted-violence/) — 同じAdornoの「野蛮」論を、ホロコーストという特定の破局から、モダニズム芸術一般の形式論へ拡張した記事
 - [モンテーニュ『エセー』──自分を知ることと書くことの始まり](/topics/writing-theory/montaigne-essays/) — 「Que sais-je?」とアドルノの「野蛮」のあいだ。表現することへの懐疑と決断
 - [Perspective Taking in Writing — 他者の視点を理解することの力](/topics/writing-theory/perspective-taking-writing/) — 他者の視点に入り込むことの暴力と倫理
 - [フランシス・ベーコン —— 「知より行」を書いた格言の人](/topics/writing-theory/francis-bacon-aphorist/) — 格言的断定性 vs 弁証法的留保。アドルノの「野蛮」が属する表現の系譜

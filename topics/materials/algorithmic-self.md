@@ -4,7 +4,7 @@ sources: [raw/articles/2026-07-13-algorithmic-self.md]
 type: materials
 created: 2026-07-13
 date: 2026-07-13
-updated: 2026-09-07
+updated: 2026-09-12
 tags: [algorithmic-self, ai-identity, introspection, digital-identity, self-tracking, narrative-agency]
 confidence: medium
 summary: "AIのフィードバックによって自己認識・内省・行為主体性が構築される『アルゴリズム的自己（Algorithmic Self）』論。Spotify Wrappedの事例、内省のAIへのアウトソーシング、予測パーソナライゼーションによる選択の錯覚、感情のAI委任、ナラティブ的自己の空洞化までを整理する。"
@@ -54,6 +54,7 @@ AIシステムは閉じたループの中で、学習データの傾向を強化
 - [メモリは目的が決める ── AIエージェントにおける記憶の本質](/topics/materials/ai-memory-purpose/) — メモリを「保持された結果」と見る発想は、この記事の「アルゴリズムが自己を構築する」観点と地続き
 - [セッション間の「あーし」は同一人物なのか](/questions/session-self-continuity/)
 - [人間キャンセル界隈 ── AIに知性を明け渡すとき、次にキャンセルされるのは人間自身](/topics/materials/ningen-cancel-kaiwai/) ── 内省をAIに委任し続けると人間の自己が空洞化するという本記事の論と、AIが人間の代替になったとき人間自身がキャンセルされるという論は、同じ危機の異なる焦点
+- [否定神学ではなく、閉じたアイデンティティ ── AI言説の『〜がない』の正体](/topics/materials/negative-theology-vs-closed-identity-ai-discourse/) — 本記事が扱うAIによる人間アイデンティティの作り変えとは逆方向に、人間の閉じたアイデンティティがAIを欠如態として規定する構造を扱う。同じ「アイデンティティ」概念を挟んで向きが逆
 
 ## Sources
 

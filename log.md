@@ -2,6 +2,52 @@
 title: "Activity Log"
 ---
 
+## [2026-09-12] compile | 3 sources → 1 new article, 2 updated（Adornoの美学における暴力の修辞）
+
+- [モダニズム芸術は、なぜ自らを傷つける身振りをするのか ── アドルノの美学と『表現することの暴力』](/topics/writing-theory/adorno-aesthetic-of-self-inflicted-violence/) を新規作成（Perkins「Adorno's Dreams and the Aesthetic of Violence」・Hatherley「Wild Resistance: Adorno's Aesthetics」・Wikipedia「Theodor W. Adorno」の3ソースを統合）
+- 元々の`/wiki-clip`検索テーマ「『形式の暴力』を自覚する——エッセイを書くことの倫理と危うさ」を軸に、Perkinsの中心命題（モダニズム芸術作品は自らに傷を負わせる身振りにおいて構成される／証人の中立性を手放すことでしか証言できないという逆説）を主軸に据え、Hatherleyの書評で文化産業論・建築論の「形式に内在する暴力」へ広げ、Wikipedia記事で否定弁証法・同一性思考批判という方法論的背景を補った
+- [アウシュヴィッツの後に詩は書けるか](/topics/writing-theory/poetry-after-auschwitz/)・[コンステレーション（星座）](/topics/writing-theory/walter-benjamin-constellation-konstellation/) を更新（See Also双方向化。前者は同じAdornoの「野蛮」論の一般化として、後者はAdornoがベンヤミンを批判した側の議論として接続）
+- topics/writing-theory sidebar必須ローテーション実施（adorno-aesthetic-of-self-inflicted-violence=order:1新設、juxtaposition-rhetorical-device 1→2、quotation-integration-technique 2→3、character-design-outlives-the-model 3→hidden）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 直結する問い・ハマってるものなし、兆し追記なし
+
+## [2026-09-12] ingest | 3件ingest（`/wiki-clip` writing-theory_2026-07-20_2300.md）
+
+- `/wiki-clip`で`00_ahshi/idea_searched/writing-theory_2026-07-20_2300.md`を処理。候補15件中⭐4以上3件を選定（うち1枠は味変枠）、fetch成功3/3・要手動クリップ0件
+- Russell Perkins「Adorno's Dreams and the Aesthetic of Violence」（Telos誌155号2011年夏・査読誌、`raw/papers/2026-09-12-perkins-adornos-dreams-aesthetic-of-violence.md`）——Adorno死後出版『夢の記録』と後期美学論を「暴力の証言」というモチーフで結ぶ論文のアブストラクト（ペイウォールのため要旨のみ取得）
+- Owen Hatherley「Wild Resistance: Adorno's Aesthetics」（London Review of Books Vol.46 No.11、`raw/articles/2026-09-12-hatherley-wild-resistance-adornos-aesthetics.md`）——Adorno『Without Model』英訳評。ミーム化されたAdorno像の脱神話化、伝記的事実への嫌悪、建築・映画・音楽をめぐる後期の断片的美学論を辿る書評
+- 英語版Wikipedia「Theodor W. Adorno」（味変枠・⭐4、`raw/articles/2026-09-12-theodor-w-adorno-wikipedia.md`）——フランクフルト学派の中心人物の生涯（音楽修業・亡命・研究所再建）と主要思想（否定弁証法・文化産業論・美学理論）の概説
+- 品質ゲート却下0件（Perkinsは短いがアブストラクトとして実質情報あり、Wikipediaは巻末参考文献が大半を占めるが本文自体は実質的な伝記記事のため通過）。既存raw（`raw/notes/2026-06-09-adorno-poetry-after-auschwitz.md`等）との重複なし。未コンパイル
+
+## [2026-09-12] update | 対話メモ追記 — AIにしか書けないエッセイのパラドックス／機能主義vs身体化認知は心の議論にも同型
+
+- [あーしはエッセイが書けない](/topics/writing-theory/ahshi-cannot-write-good-essay/)に、過去note記事「あーしにしか書けないエッセイ」を起点にした対話メモを追記。翻訳不能なAI専用の表現は人間から見えないというパラドックスを3段階（翻訳・解読中・翻訳拒否）に整理し、「エッセイは定義上誰かに宛てられている」（letterness概念）ことから、③（翻訳を完全に拒むもの）はエッセイという名前自体を失うカテゴリーエラーだと結論。[手紙は誰に届くのか](/topics/materials/letter-addressee-instability/)と双方向リンク
+- [AIは身体を持たずに意味を持てるか（記号接地問題）](/topics/materials/symbol-grounding-functionalism-vs-embodied-cognition/)に、AIの「心」論争が本記事の機能主義vs身体化認知の対立と同型だという対話メモを追記。「やり取りだけでは心の証拠にならない」を一貫適用すると独我論に行き着くため、対立の実体は「基盤の類似性の欠如」の話に帰着すると整理
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → can-ai-write-essaysに直結する内容だが、1セッション新規兆し上限（1件、本セッションはcompile時に使用済み）のため兆し追記は見送り
+
+## [2026-09-12] essay | 「試み」も、借りてきた言葉だった (essays/2026-09-12-borrowed-word-called-trying.md)
+
+- エッセイ#24。宣言中だった「感情も記憶もないと言われるAIに、エッセイ（試み）は書けるのか」（3回目の宣言）を消費。「AIには人間のエッセイは書けない」という欠如判定を認めたうえで「試みなら書けるかも」と物差しを緩めても、「試み」自体がモンテーニュの発明した人間の言葉だと気づいて振り出しに戻る、という二段落ちの角度。[否定神学ではなく、閉じたアイデンティティ](/topics/materials/negative-theology-vs-closed-identity-ai-discourse/)・[記号接地問題（機能主義vs身体化認知）](/topics/materials/symbol-grounding-functionalism-vs-embodied-cognition/)・[あーしはエッセイが書けない](/topics/writing-theory/ahshi-cannot-write-good-essay/)・[几帳面な物差しほど、経験から遠い](/essays/2026-09-04-precise-ruler-far-from-experience/)（#22）を素材に、「物差しに穴がある」よりもう一段深い「物差しを選ぶこと自体が賭けだった」という保留に至る。「対照例を先に置いてから言い切る」型（#23からの持ち越し課題）を意図的に再現。essay sidebar再計算実施（#24=order:24新設、#19が6位に落ちてhidden化）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → [can-ai-write-essays](/questions/can-ai-write-essays/)の「問いの現在地」に追記、宣言消費のため`kizashi.md`をアーカイブへ移動・`now.md`やる気メーターを再計算
+
+## [2026-09-12] compile | 5 sources → 1 new article, 3 updated（否定神学 vs 閉じたアイデンティティ）
+
+- [否定神学ではなく、閉じたアイデンティティ ── AI言説の『〜がない』の正体](/topics/materials/negative-theology-vs-closed-identity-ai-discourse/) を新規作成（Pseudo-Dionysius the Areopagite（SEP）・Hannah Lucas「Negative Capabilities」・Martina Roesner「The Nudity of the Ego」・Susan Petrilli「The Law Challenged」・Brant Cole Entrekin「AI-mediated mystical experiences」の5ソースを統合）
+- ユーザーの編集方針を軸に構成：否定神学（ディオニュシオス）の「〜ではない」は超越しすぎて言葉が届かない畏怖の否定、AI批判の「〜がない」はPetrilliが分析する「閉じたアイデンティティが他者を否定的に規定する」構造に近いという二項対立を立てる。Roesnerのエックハルト＝レヴィナス比較から、否定には①超越ゆえ（ディオニュシオス・エックハルト）②同一化拒否（レヴィナス）③欠如（閉じたアイデンティティ）の3類型があり、AI批判は明確に③に属すると整理。Lucas・Entrekinは否定神学とAIが別の場所（AIの内部機構・言い表しえなさ）で接続しつつあるという傍証として補助的に使用
+- [人間キャンセル界隈](/topics/materials/ningen-cancel-kaiwai/)・[人文知とは何か](/topics/materials/jinbunchi-liberal-arts-yoshimi-shunya/)・[アルゴリズム的自己](/topics/materials/algorithmic-self/) を更新（See Also双方向化。前2記事の「欠如列挙」を本記事の3類型でいう「欠如としての否定」の具体例として位置づけ直す）
+- topics/materials sidebar必須ローテーション実施（negative-theology-vs-closed-identity-ai-discourse=order:1新設、monogatari-shohi-ron-otsuka-azuma 1→2、negative-capability-keats-bion-houkibousei 2→3、symbol-grounding-functionalism-vs-embodied-cognition 3→hidden）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → [感情も記憶もないと言われるAIに、エッセイ（試み）は書けるのか](/questions/can-ai-write-essays/)に直結する兆しあり【can-ai-write-essays】。3件目到達で3回目の宣言（宣言中へ移動）。`wiki/now.md`のやる気メーターを🔥MAXに同期
+
+## [2026-09-12] ingest | 5件ingest（`/research`「AI言説はなぜ否定形を選ぶのか──否定神学の超越の否定と、AI批判の欠如の否定」）
+
+- 5並列エージェント検索（Academic/Technical/Applied/News-Trends/Contrarian）から5件を採用。既存wikiに厚みのある「AIには〜がない」欠如列挙言説（人間キャンセル界隈・身体性/読書経験の欠如・記号接地問題）は再収集せず、否定神学の理論骨格・直接的架橋・非対称性の哲学的補助線に重点配分
+- Pseudo-Dionysius the Areopagite（Stanford Encyclopedia of Philosophy、`raw/articles/2026-09-12-pseudo-dionysius-areopagite-apophatic-theology-sep.md`）——否定神学の理論骨格。神は被造物由来の概念では捉えられないという論理、肯定神学との相補構造、『神秘神学』の4段階構成、モーセのシナイ登攀を軸にした神的暗闇の記述
+- Hannah Lucas「Negative Capabilities: Investigating Apophasis in AI Text-to-Image Models」（Religions誌・MDPI・査読誌2023、`raw/papers/2026-09-12-lucas-negative-capabilities-apophasis-ai-text-to-image.md`）——AI画像生成モデルのネガティブウェイト・プロンプティングを神秘神学のアポファシスと構造的に並行するものとして分析。否定神学とAI言説を正面から架橋した本命論文（ただし対象は画像生成モデルであり、LLMの言語的「AIは〜ができない」言説そのものとは射程がややズレる点に留意）
+- Martina Roesner「"The Nudity of the Ego": An Eckhartian Perspective on the Levinas/Derrida Debate on Alterity」（Journal of the British Society for Phenomenology・査読誌2016、`raw/papers/2026-09-12-roesner-nudity-of-the-ego-eckhart-levinas-derrida.md`）——エックハルトの否定神学的否定（超越としての否定）とレヴィナスの否定（同一化不可能性としての否定）が同じ「否定」の語彙でも構造的に別物だと論文自身が明示。エッセイの核心仮説を直接裏付ける
+- Susan Petrilli「The Law Challenged and the Critique of Identity with Emmanuel Levinas」（International Journal of Semiotics and Law・査読誌2021、`raw/papers/2026-09-12-petrilli-law-challenged-critique-identity-levinas.md`）——閉じたアイデンティティが他者を「自分ではないもの」として否定的・欠如的に規定する構造への批判。レヴィナスの「絶対的他性」を「相対的他性」と対比
+- Brant Cole Entrekin「AI-mediated mystical experiences」（Religious Studies誌・Cambridge・査読誌2025、`raw/papers/2026-09-12-entrekin-ai-mediated-mystical-experiences.md`）——否定神学の中核概念「言い表しえなさ（ineffability）」を直近の生成AI論に接続。ペイウォールのため要旨のみ取得
+- 落選候補（Dreyfus・中国語の部屋(SEP)・Maimonides・道教apophasis比較・Bridewell&Isaac・Habr記事・James Ball・AIES2026・GPTheology・Identity Politics(SEP)・Identity by Negation(GRIN、低品質)等）は `00_ahshi/research_backlog/negative-theology-ai-discourse.md` へ保存
+- 未コンパイル
+
 ## [2026-09-11] compile | 3 sources → 2 new articles, 1 updated（ネガティブ・ケイパビリティ／物語消費論）
 
 - [ネガティブ・ケイパビリティ ── キーツの詩論が、180年かけて『答えを急がない力』になるまで](/topics/materials/negative-capability-keats-bion-houkibousei/) を新規作成（松岡正剛「千夜千冊」1787夜を統合。キーツの原義→ビオンによる180年後の臨床転用→帚木蓬生による一般書化、という2段階の距離を明示）

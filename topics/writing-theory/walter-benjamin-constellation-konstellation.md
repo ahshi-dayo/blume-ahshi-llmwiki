@@ -2,7 +2,7 @@
 title: "コンステレーション（星座）── ヴァルター・ベンヤミンの認識論と引用モンタージュ"
 tags: [walter-benjamin, constellation, konstellation, epistemo-critical-prologue, dialectical-image, arcades-project, literary-montage, adorno, writing-theory]
 date: 2026-09-04
-updated: 2026-09-04
+updated: 2026-09-12
 sources: [raw/papers/2026-09-04-friesen-wandering-star-benjamin-constellation.md, raw/articles/2026-09-04-sep-walter-benjamin-constellation-dialectical-image.md, raw/papers/2026-09-04-dillon-montage-critique-benjamin-arcades-project.md, raw/papers/2026-09-04-helmling-constellation-critique-adorno-benjamin.md]
 confidence: high
 summary: "ヴァルター・ベンヤミンが『ドイツ悲劇の根源』の認識批判的序論で提示した「コンステレーション（星座）」概念──理念は現象を論証で包摂するのではなく、断片の配置そのものから浮かび上がる、というモデル。『パサージュ論』では著者の論評を排した「引用モンタージュ」という実践的手法へ発展するが、Adornoの批判（恣意性・因果の素朴さ）と、この語自体の理論的不安定性を扱う。"
@@ -62,6 +62,7 @@ Steven Helmling（*Postmodern Culture*, 2003）は重要な警告を加える。
 
 ## See Also
 
+- [モダニズム芸術は、なぜ自らを傷つける身振りをするのか ── アドルノの美学と『表現することの暴力』](/topics/writing-theory/adorno-aesthetic-of-self-inflicted-violence/) — 本記事でAdornoがベンヤミンのモンタージュ手法を批判した側の議論を扱う記事。理論を武器にする人物が、盟友の方法論には容赦しなかったという別の緊張
 - [想定された読者（implied reader）── ヴォルフガング・イーザーの受容理論](/topics/writing-theory/wolfgang-iser-implied-reader/) — イーザーも「星座」の比喩を使うが（読者ごとに違う線を結ぶ、という文脈）、主体の所在が逆。両者を接続する先行研究は見当たらず、接続するなら独自の理論的跳躍だと明示する必要がある
 - [AIは意味を理解しているのか ── 新井紀子の主張と、GPT-4以降の実証・解釈可能性研究](/topics/materials/ai-understanding-arai-noriko-vs-llm-evidence/) — このコンステレーション概念が持ち出された対話（「エッセイの単位をwiki全体の軌跡に取り直す」というアイデア）の記録元
 
