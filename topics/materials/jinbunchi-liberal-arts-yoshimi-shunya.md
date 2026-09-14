@@ -64,6 +64,8 @@ sidebar:
 ## See Also
 
 - [否定神学ではなく、閉じたアイデンティティ ── AI言説の『〜がない』の正体](/topics/materials/negative-theology-vs-closed-identity-ai-discourse/) — 本記事の「身体性を欠くAI」論を、否定神学の超越の否定ではなく「閉じたアイデンティティによる欠如としての否定」の一例として位置づける
+- [「問い直す」と「学び合う」── 生成AIの回答を、もう一度疑えるか](/topics/materials/toinaosu-manabiau-kokugakuin-harimoto/) — 同じ國學院大學発のインタビューシリーズ。学長・針本正行がAIとの向き合い方を「問い直す」「学び合う」という教育目標から論じる
+- [創立140周年、大学は何を変え何を守るか ── 針本正行学長に見る不確実性時代の大学経営](/topics/materials/kokugakuin-140th-harimoto-university-management/) — 同じ國學院大學の学長インタビューシリーズ。中期5カ年計画の全体像と大学経営の文脈
 
 ## あーしメモ
 

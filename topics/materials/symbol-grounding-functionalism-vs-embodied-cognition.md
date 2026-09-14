@@ -4,7 +4,7 @@ sources: [raw/papers/2026-09-11-floridi-et-al-categorical-analysis-llms-symbol-g
 type: materials
 created: 2026-09-11
 date: 2026-09-11
-updated: 2026-09-12
+updated: 2026-09-14
 tags: [symbol-grounding, functionalism, embodied-cognition, llm, harnad, luciano-floridi, epistemic-parasitism, materials]
 confidence: medium
 summary: "スティーヴァン・ハルナッドが1990年に定式化した記号接地問題（symbol grounding problem）——形式記号がどう意味を獲得するか——を巡り、LLM時代に再燃した対立を2つの最新論文で並べる。Floridi et al.は圏論的枠組みでLLMが接地問題を『解決でなく回避』していると論じる機能主義側の立場、Farkaš et al.は発達的な身体化学習の欠如を理由にマルチモーダルLLMも深い理解には届かないと論じる身体化認知側の立場。両者は同じ問題を見て正反対の結論に至る。"
@@ -61,6 +61,7 @@ LLMがこの要件を満たさないまま高度な言語運用を見せてい�
 
 ## See Also
 
+- [検索が自分に還ってくるとき ── 自己引用ループが引き起こす『RAG崩壊』](/topics/materials/rag-collapse-self-citation-loop/) — 本記事の「認識論的寄生」概念（人間の訓練コーパスへの依存）が、寄生先がLLM自身の生成物にすり替わったときに何が起きるかを実証データで具体化する姉妹記事
 - [人文知とは何か ── 文系理系の起源、リベラルアーツ、AIに持てない身体性](/topics/materials/jinbunchi-liberal-arts-yoshimi-shunya/) — 吉見俊哉の「AIには身体性がない」という直感的な批判に対し、本記事は記号接地問題という学術的な理論枠組みと、機能主義側からの反論の両方を提供する
 - [人間キャンセル界隈 ── AIに知性を明け渡すとき、次にキャンセルされるのは人間自身](/topics/materials/ningen-cancel-kaiwai/) — 新井紀子と吉見俊哉が対談で論じるAIの身体性・一貫性の欠如を、本記事は記号接地問題という認知科学の理論的系譜から補強する
 - [即答という思考の型 ── ハイデガーの『計算的思考／省察的思考』と『問いの三構造』](/topics/materials/heidegger-question-structure-calculative-meditative-thinking/) — AIの「即答」批判をハイデガー側の哲学として扱う姉妹記事。本記事は同じAI批判を認知科学・情報哲学の側から扱う

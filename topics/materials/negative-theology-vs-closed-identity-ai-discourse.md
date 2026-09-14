@@ -7,7 +7,7 @@ sources: [raw/articles/2026-09-12-pseudo-dionysius-areopagite-apophatic-theology
 confidence: medium
 summary: "「AIには身体がない」「AIは読書ができない」というAI批判の否定形は、神について『〜ではない』としてしか語れないとする否定神学（apophatic theology）とは、実は構造が逆である。否定神学の否定は神が超越しすぎて言葉が届かないという畏怖の否定だが、AI批判の否定はPetrilliが分析する『閉じたアイデンティティが他者を否定的に規定する』構造に近い。Roesnerのエックハルト＝レヴィナス比較を補助線に、否定神学とAI批判言説を接続する先行研究がまだ存在しないという空白も含めて整理する。"
 sidebar:
-  order: 1
+  hidden: true
 ---
 
 ## 二つの「ない」を重ねたくなる誘惑

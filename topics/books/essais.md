@@ -11,7 +11,7 @@ sidebar:
 
 ## 進捗
 
-- 読了 **8 / 107**（最終読了 2026-09-10・I-08）
+- 読了 **10 / 107**（最終読了 2026-09-14・I-10）＋序文「読者へ」（I-00・107章の外・2026-09-14読了）
 - クラスタは[章題ベースの仮8クラスタ](/questions/montaigne-107-chapters/)（判断の相対性・懐疑／死への態度／身体・老い・病／慣習と文化相対主義／名誉・虚栄／友情・対話／自己を語ること／想像力・心理／政治・戦争・残酷さ）。読んでみて違ったら章ページ側で書き換える
 
 ### 読者へ
@@ -19,7 +19,7 @@ sidebar:
 
 | 章ID | ボルドー系 | 原題（1595年版綴り） | 仮邦題 | クラスタ | 読了日 | ページ |
 |---|---|---|---|---|---|---|
-| I-00 | — | Au lecteur | 読者へ |  |  |  |
+| I-00 | — | Au lecteur | 読者へ | 自己を語ること | 2026-09-14 | [I-00](/topics/books/essais/I-00/) |
 
 ### 第1巻（57章）
 
@@ -33,8 +33,8 @@ sidebar:
 | I-06 | I.6 | L'heure des parlemens dangereuse | 交渉している間こそ、危険な瞬間である | 政治・戦争・残酷さ | 2026-09-03 | [I-06](/topics/books/essais/I-06/) |
 | I-07 | I.7 | Que l'intention juge nos actions | 行為を裁くのは意図である | 名誉・虚栄 | 2026-09-03 | [I-07](/topics/books/essais/I-07/) |
 | I-08 | I.8 | De l'oisiveté | 暇であることについて | 想像力・心理 | 2026-09-10 | [I-08](/topics/books/essais/I-08/) |
-| I-09 | I.9 | Des menteurs |  |  |  |  |
-| I-10 | I.10 | Du parler prompt ou tardif |  |  |  |  |
+| I-09 | I.9 | Des menteurs | 嘘つきについて | 自己を語ること | 2026-09-13 | [I-09](/topics/books/essais/I-09/) |
+| I-10 | I.10 | Du parler prompt ou tardif | 話し方の早い・遅いについて | 未分類（弁論術・即興） | 2026-09-14 | [I-10](/topics/books/essais/I-10/) |
 | I-11 | I.11 | Des prognostications |  |  |  |  |
 | I-12 | I.12 | De la constance |  |  |  |  |
 | I-13 | I.13 | Ceremonie de l'entrevuë des roys |  |  |  |  |

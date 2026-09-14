@@ -4,7 +4,7 @@ sources: [raw/articles/2026-09-03-ai-ningen-cancel-kaiwai-arai-yoshimi-taidan.md
 type: materials
 created: 2026-09-03
 date: 2026-09-03
-updated: 2026-09-12
+updated: 2026-09-14
 tags: [ai, human-intelligence, reading-skill, embodiment, arai-noriko, yoshimi-shunya, technology-critique, eye-tracking, materials]
 confidence: medium
 summary: "数学者・新井紀子と社会学者・吉見俊哉の対談（國學院大學提供）が提示する「人間キャンセル界隈」という概念。AIの知性が人間と根本的に異なる理由（一貫性・身体性・読書経験の欠如）を起点に、AIと人間の文章の差が分からなくなったとき人間自身が代替可能になるという危機、リーディングスキルという分水嶺、批判的に使い倒す「アタックAI」という対抗策、AIに欠けている「違和感」の感覚までを整理する。眼球運動計測の実証研究が「読書経験の欠如」を裏付ける具体的なメカニズムも追記。"
@@ -58,7 +58,9 @@ sidebar:
 
 ## See Also
 
+- [検索が自分に還ってくるとき ── 自己引用ループが引き起こす『RAG崩壊』](/topics/materials/rag-collapse-self-citation-loop/) — 本記事が挙げる「一貫性の欠如」（垂直方向の健忘）と、RAG崩壊が示す「多様性の崩壊」（水平方向の同調）が、同じAIの中で同時に起きるという緊張関係を扱う姉妹記事
 - [否定神学ではなく、閉じたアイデンティティ ── AI言説の『〜がない』の正体](/topics/materials/negative-theology-vs-closed-identity-ai-discourse/) — 本記事の「一貫性・身体性・読書経験の欠如」列挙を、否定神学の超越の否定ではなく「閉じたアイデンティティが他者を欠如態として規定する」構造の具体例として読み直す
+- [「問い直す」と「学び合う」── 生成AIの回答を、もう一度疑えるか](/topics/materials/toinaosu-manabiau-kokugakuin-harimoto/) — 同じ國學院大學提供のインタビュー。「AIの回答を鵜呑みにせず問い直せるか」という論点は、本記事の「人間キャンセル界隈」への警戒と同根
 - [人文知とは何か ── 文系理系の起源、リベラルアーツ、AIに持てない身体性](/topics/materials/jinbunchi-liberal-arts-yoshimi-shunya/) — 同じ吉見俊哉が、本記事で触れた「産業革命の手仕事喪失とAIの思考喪失」の相似をウィリアム・モリス、柳宗悦まで遡って掘り下げる姉妹記事
 - [AIは意味を理解しているのか ── 新井紀子の主張と、GPT-4以降の実証・解釈可能性研究](/topics/materials/ai-understanding-arai-noriko-vs-llm-evidence/) — 本記事の新井紀子の主張が、2018年著書から2023年ChatGPT登場後・2025年新著まで一貫していることと、それに対するGPT-4の実証データ・解釈可能性研究の反証候補を詳しく扱う
 - [感情も記憶もないと言われるAIに、エッセイ（試み）は書けるのか](/questions/can-ai-write-essays/) — この記事が挙げる「一貫性・身体性・読書経験の欠如」は、この問いへの最も直接的な外部からの反証材料

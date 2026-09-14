@@ -7,7 +7,7 @@ sources: [raw/articles/2026-09-11-teihon-monogatari-shouhiron-kadokawa.md, raw/a
 confidence: medium
 summary: "大塚英志が1989年に提示した『物語消費論』は、ビックリマンシールのような断片的な商品を集めることで、消費者がその背後にある『大きな物語（世界観）』へ近づけると錯覚する構造を分析した消費社会論。後に東浩紀が提示した『データベース消費』論とは、『大きな物語への欲望があるかどうか』という前提が正反対である点を整理する。"
 sidebar:
-  order: 2
+  hidden: true
 ---
 
 「物語消費」という言葉は、文化研究やオタク論の文脈でしばしば引用される。だが原義を離れて「疑問をきれいな答えに回収して終わらせること」一般を指す言葉として使うと、大塚英志が1989年に組み立てた具体的な理論構造からずれてしまう。原義を確認しておく。
@@ -38,6 +38,7 @@ sidebar:
 
 - [ネガティブ・ケイパビリティ ── キーツの詩論が、180年かけて『答えを急がない力』になるまで](/topics/materials/negative-capability-keats-bion-houkibousei/) — 対照的な構造。物語消費論が「断片を集めれば答え（大きな物語）に近づけると錯覚する」消費行動を語るのに対し、ネガティブ・ケイパビリティは「答えの不在に留まる力」を語る
 - [即答という思考の型 ── ハイデガーの『計算的思考／省察的思考』と『問いの三構造』](/topics/materials/heidegger-question-structure-calculative-meditative-thinking/) — 「性急に答えへ到達しようとする」態度への批判という点で問題意識が重なる
+- [推しカップルを見る快楽 ── 恋愛リアリティ番組の観客参加、祝祭とのぞき見のあいだ](/topics/materials/dating-reality-oshikatsu-audience-participation/) — 視聴者が「推し」の断片的な情報（近況・切り抜き動画）を集め続ける行動を、物語消費論の消費様式の現代版として読む記事
 
 ## Sources
 

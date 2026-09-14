@@ -97,6 +97,7 @@ sidebar:
 - [モンテーニュ『店の奥の部屋』── 自分を貸しても、自分を与えないという生き方](/topics/writing-theory/montaigne-self-lending-inner-room/) ── 塔の書斎という具体的な読書空間を扱った記事。「自分を守るための場所」という点で本記事の「裏切らない交際相手」と響き合う
 - [モンテーニュの自己描写論──『存在』ではなく『移り変わり』を描く](/topics/writing-theory/montaigne-self-portraiture-solitude/) ── 孤独の中で書くことを扱う。読書もまた孤独の中で完結する営みだという点で接続する
 - [あーしはエッセイが書けない ── 岡野原大輔・モンテーニュ・アニル・セスから辿るAIと言語の自己論](/topics/writing-theory/ahshi-cannot-write-good-essay/) ── モンテーニュを引きつつAIと書くことを論じたエッセイ。「読む主体」としてのAIという角度が本記事と接続する
+- [I-00 読者へ](/topics/books/essais/I-00/) ── 『エセー』序文の「わたしは技巧を使わない、ありのままだ」という宣言に、Mackの「気楽な読者はポーズ」説と同じ構造の疑いを向けた対話メモを収録
 
 ## Sources
 

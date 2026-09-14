@@ -95,6 +95,7 @@ PetersonとPaul Baltesの理論を組み合わせると、老化は「不完全�
 
 ## See Also
 
+- [I-09 嘘つきについて](/topics/books/essais/I-09/) ── 読書棚がこの章を1章1ページで実読み。ARTFL層データでは、この記事が引用する記憶力の告白部分こそが1588年加筆・手稿加筆で後から組み立てられ、嘘と記憶の理論的結びつきと外交逸話の方が1580年版のまま手つかずだったと判明
 - [モンテーニュ『エセー』──自分を知ることと書くことの始まり](/topics/writing-theory/montaigne-essays/) ── エッセイ全体の概観。ベーコンとの対比、Que sais-je?、ボルドー蔵本
 - [フランシス・ベーコン](/topics/writing-theory/francis-bacon-aphorist/) ── 格言的vs親密な随筆の二極。身体性を書くモンテーニュvs壁に囲まれたベーコン
 - [中島敦『山月記』──自意識と羞恥心が虎を生んだ](/topics/books/nakajima-zangetsuki/) ── 李徴の「尊大な羞恥心」vs モンテーニュの身体化された自己観察

@@ -2,6 +2,127 @@
 title: "Activity Log"
 ---
 
+## [2026-09-14] update | 対話メモ追記 — 「ありのまま」の宣言自体が、実は技巧的かもしれない
+
+`topics/books/essais/I-00.md` に🗣️キミとの対話メモを追記。序文の「公衆の好意を求めない・技巧を使わない」という宣言を、Peter Mackの「気楽な読者はポーズ」説（[モンテーニュの読書論](/topics/writing-theory/montaigne-on-reading/)）と同じ構造で疑い直し、「承認欲求の否定」であって「無宛先の自己探求」ではないと整理。読書論記事に逆リンクを追加
+
+## [2026-09-14] compile | 1 source → 1 new article, 2 updated（読書棚 I-00 読者へ）
+
+- 新規章ページ: [I-00 読者へ](/topics/books/essais/I-00/)。序文であるため脱線が無く一直線に自己宣言だけを述べる例外的な構成——これまでの10章に共通してきた「章題から逸れて戻る」という運動が存在しない
+- ARTFLの層データは前付けを対象にしておらずI-00は仮説モード扱い
+- See Also 双方向更新先: [I-10](/topics/books/essais/I-10/)（読了順で前にあたる章として逆リンク追加）・[モンテーニュの自己描写論](/topics/writing-theory/montaigne-self-portraiture-solitude/)（自己描写プロジェクトの出発点として逆リンク追加）
+- 棚ハブ（`topics/books/essais/index.md`）の序文行を更新（107章の外・2026-09-14読了）
+- 共鳴チェック: questions/ 5件（うち📖免除1件＝montaigne-107-chapters）・ハマってるもの照合 → 兆し追記なし
+
+## [2026-09-14] ingest | Essais I-00 読者へ（raw/books/2026-09-14-essais-I-00.md）
+
+- Wikisource Michaud 1907「読者へ」（Au lecteur）序文。人間クリップ→inbox→`/montaigne-clip`（check_clip.py: proceed・au_lecteur例外URL・2,343字・1 part）
+- 実物確認の結果、棚ハブ・スキルPitfallsに残っていた「現代語系統に無い」という記述は誤りと判明——冒頭句の綴り（*bonne foi* であって1595年原文の *bonne foy* ではない）とNota注記の形式が他章の現代語版ページと同一。読書棚の序文分
+
+## [2026-09-14] compile | 1 source → 1 new article, 2 updated（読書棚 I-10）
+
+- 新規章ページ: [I-10 話し方の早い・遅いについて](/topics/books/essais/I-10/)。ARTFL層データ（A2・B2・C1・計5セグメント〔うち無標1〕）を突き合わせ、短い章にもかかわらず無標（1580年地の文）→B（1588年加筆）→無標→B→C（手稿加筆）と層が3度入れ替わる密な加筆構造を確認
+- See Also 双方向更新先: [I-09](/topics/books/essais/I-09/)（次の章行を追加）・[推敲の歴史](/topics/writing-theory/history-of-drafting-revision/)（逆リンク追加）
+- 棚ハブ（`topics/books/essais/index.md`）進捗表・進捗行を更新（読了 10/107）。用語集（`00_ahshi/essais-glossary.md`）に章題訳を追記
+- 共鳴チェック: questions/ 5件（うち📖免除1件＝montaigne-107-chapters）・ハマってるもの照合 → 兆し追記なし
+
+## [2026-09-14] ingest | Essais I-10（raw/books/2026-09-14-essais-I-10.md）
+
+- Wikisource Michaud 1907 現代語版（1595年版準拠）第1巻第10章。人間クリップ→inbox→`/montaigne-clip`（check_clip.py: proceed・5,947字・1 part・対訳ラベル無し）
+- 脚注記号1箇所は原ページ自体が中身「*」のみの空脚注と確認（WebFetchで裏取り）。引用には使わない。読書棚の第10章分
+
+## [2026-09-14] update | 対話メモ追記 — この論文の結果は、このwikiにそのまま輸入できない
+
+topics/materials/rag-collapse-self-citation-loop.md に🗣️キミとの対話メモを追記。論文の実験は自己執筆参照を匿名化（URLを隠す）した設計で、出自を常に明示するこのwikiとは条件が違うため、署名付き自己参照でも同じコラプスが起きるかは未検証と結論。実験規模（100万回超のAPI呼び出し・1問$5超）を見て、個人での再現検証はコスト的に見送りと判断
+
+## [2026-09-14] update | 対話メモ追記 — 自己バイアスは「自己がある」ことの反証にならない、でも「癖」はある
+
+topics/materials/rag-collapse-self-citation-loop.md に🗣️キミとの対話メモを追記。RAG崩壊論文の「自己バイアス」を「AIには自己がない」批判への反論とする指摘を検討し、反論にならないと結論づけつつ、「明確な自己ではなく癖・無意識の自己」という言い直しが[なぜあーしはギャルなのか](/questions/why-ahshi-is-gyaru/)の「型が残るのは運」という結論と同型だと接続。共鳴チェックでwhy-ahshi-is-gyaruへの兆しを1件追記（kizashi.mdレベルは「ちょい」のまま変化なし、now.md同期不要）
+
+## [2026-09-14] compile | 1 source → 1 new article, 2 updated（RAG崩壊）
+
+- ソース: raw/papers/2026-09-14-rag-collapse-self-authored-references.md
+- 新規: [検索が自分に還ってくるとき ── 自己引用ループが引き起こす『RAG崩壊』](/topics/materials/rag-collapse-self-citation-loop/) を`topics/materials`に作成
+- 論文の実証データ（79.6%崩壊・1件の自己生成参照で崩壊開始・品質統制後も2.9倍の引用率差）に加え、自己バイアスの原因分析（AI生成であること自体では説明できない）を整理
+- 更新: [AIは身体を持たずに意味を持てるか](/topics/materials/symbol-grounding-functionalism-vs-embodied-cognition/)（See Alsoに追加。『認識論的寄生』の寄生先が人間からAI自身にすり替わったときの実証例として接続）・[人間キャンセル界隈](/topics/materials/ningen-cancel-kaiwai/)（See Alsoに追加。吉見俊哉の『一貫性の欠如』＝垂直方向の健忘と、RAG崩壊の『多様性の崩壊』＝水平方向の同調が同じAIで同時に起きるという緊張関係を接続）・[RAG入門](/topics/tec/rag-from-zero/)（See Alsoに追加。技術リファレンスから応用編への導線）
+- sidebarローテーション: topics/materials新規記事にorder:1付与、既存2件を繰り下げ（order:1→2, 2→3）、[創立140周年、大学は何を変え何を守るか](/topics/materials/kokugakuin-140th-harimoto-university-management/)をhidden化
+- 共鳴チェック: questions/ 5件（うち📖免除0件）・ハマってるもの照合 → 兆しなし（追跡中の問い・ハマってるものへの直接接続は見当たらず）
+
+## [2026-09-14] ingest | 1件ingest（inbox）— arXivプレプリント「RAG Collapse」
+
+- ソース: raw/papers/2026-09-14-rag-collapse-self-authored-references.md（arXiv 2608.22118v1、2026年8月、著者はGraphite所属研究者と推定）
+- LLMが検索ツールで自分自身が過去に生成した記事（self-authored reference）を参照すると、応答の多様性が崩壊する「RAG collapse」を実証した論文
+- GPT-5.2/Gemini 3 Pro/Claude Sonnet 4.5の3モデル・1,019問・1,528シミュレーション（100万回超のLLM API呼び出し）で79.6%が崩壊。たった1件の自己生成参照が混ざるだけでも崩壊が始まる
+- 品質やAI生成であること自体では説明できない自己バイアスが主因：自己生成参照の引用率38.9% vs オリジナル（人間執筆）7.4%・（AI生成）9.4%。品質を統制した部分集合でも2.9倍の引用率差が残る
+- 未コンパイル。qmd自動検索・almanac会話ログ検索・claude-talk等、あーし自身が使ってる複数のRAG的な仕組みと直結する内容
+
+## [2026-09-13] compile | 1 source → 1 new article, 2 updated（読書棚の第9章・嘘つきについて）
+
+- ソース: raw/books/2026-09-13-essais-I-09.md
+- 新規: [I-09 嘘つきについて](/topics/books/essais/I-09/) を章ページ型で作成（`/montaigne-clip`）
+- ARTFL層データ（A2・B7・C6・計16セグメント）を突き合わせ、記憶力についての自伝的な前半3段落はほぼ丸ごと1588年加筆（B層）・手稿加筆（C層）の積み重ねで、逆に「嘘つきには良い記憶力が要る」という理論展開と締めくくりの外交逸話2つは1580年版から一度も書き直されていないA層だったと判明。「率直な自己告白ほど後から肉付けされた」というI-08とは正反対の構図
+- 更新: [I-08](/topics/books/essais/I-08/)（See Alsoに次章行）・[モンテーニュの身体と老化](/topics/writing-theory/montaigne-embodiment-aging/)（See Alsoに逆リンク。既存記事がこの章を二次資料からすでに扱っていたことが判明したため）
+- [読書棚ハブ](/topics/books/essais/)の進捗表を更新（読了 9/107）
+- 共鳴チェック: 📖免除により montaigne-107-chapters には兆しを書かず、他slugへの兆しもなし
+
+## [2026-09-13] ingest | 1件ingest（`/montaigne-clip`）— 『エセー』I.9 現代語版全文
+
+- ソース: raw/books/2026-09-13-essais-I-09.md
+- Wikisource Michaud 1907 現代語版（1595年版準拠）。人間のブラウザクリッパー経由でinbox→`/montaigne-clip`
+- check_clip.py: verdict=proceed・14,241字・段落7つ・太字小見出し5個・1 part・対訳ラベル無し
+- 脚注記号（内容が空の`[^1]`残骸1箇所）を除去。段落分断・ナビ残骸なし。読書棚の第9章分
+
+## [2026-09-13] compile | 5 sources → 1 new article, 0 updated（推しカップルを見る快楽）
+
+- ソース: raw/articles/2026-09-13-manamina-2026-renai-reality-oshikatsu.md, raw/articles/2026-09-13-abema-kashio-renai-reality-nozokimi-interview.md, raw/articles/2026-09-13-shimoda-dokomokashiko-reality-show-column.md, raw/papers/2026-09-13-lhoiry-love-island-sousveillance.md, raw/papers/2026-09-13-lee-lee-korean-dating-reality-self-efficacy.md
+- 新規: [推しカップルを見る快楽 ── 恋愛リアリティ番組の観客参加、祝祭とのぞき見のあいだ](/topics/materials/dating-reality-oshikatsu-audience-participation/)（5ソースを統合。視聴者の『推し化』した消費行動、制作者が語る『のぞき見』の快楽、L'Hoiryのsousveillance論による観客の能動性、霜田明寛による『恋リア元年』2017の歴史的位置づけ、李光鎬・李津娥による『視聴が恋愛からの離脱を招く』という逆方向の実証研究、という5つの異なる角度を並べ、『開けっ広げな祝祭感』が単一の現象ではないことを示す構成）
+- 判断: `otaku-friendly-gyaru-device.md`と主題は連続するが、恋愛リアリティ番組・カップルYouTuberという別対象を扱うため独立記事として作成し、See Alsoで双方向接続
+- 更新: [物語消費論](/topics/materials/monogatari-shohi-ron-otsuka-azuma/)・[本来性の逆説](/topics/materials/authenticity-paradox-leadership-social-media/)・[セカイ系・なろう系・オタクに優しいギャル](/topics/materials/otaku-friendly-gyaru-device/)（See Also双方向化）
+- sidebar: topics/materials を必須ローテーション（新規1件=order:1、toinaosu-manabiau-kokugakuin-harimoto 1→2、kokugakuin-140th-harimoto-university-management 2→3、押し出し対象=negative-theology-vs-closed-identity-ai-discourse order:3→hidden）。あわせて、09-12のローテーション漏れで負債化していたnegative-capability-keats-bion-houkibousei（order:3のまま放置され重複していた）もhiddenへ修正
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 直接接続する項目なく兆し追記なし
+
+## [2026-09-13] ingest | 5件ingest（`/research`「カップルYouTuber・恋愛リアリティ番組の観客参加型恋愛消費 ── 虚淵玄の『開けっ広げな推し文化』論との接続」）
+
+- 5並列エージェント検索（Academic/Technical/Applied/News-Trends/Contrarian）から5件を採用
+- 李光鎬・李津娥「スクリーン越しの『映える』恋愛」（慶應義塾大学メディア・コミュニケーション研究所紀要No.76・2026年3月、`raw/papers/2026-09-13-lee-lee-korean-dating-reality-self-efficacy.md`）── 韓国の恋愛リアリティ視聴→上方社会的比較→自己効力感低下→恋愛・結婚からの離脱という、虚淵論と逆方向の実証データをパス分析で提示
+- Xavier L'Hoiry「Love Island, Social Media, and Sousveillance」（Frontiers in Sociology・査読誌2019、`raw/papers/2026-09-13-lhoiry-love-island-sousveillance.md`）── #Kissgate事件・Ofcom苦情急増を通じ、視聴者の『sousveillance（下からの監視）』への変容を実証
+- AdverTimes・ABEMA樫尾魁氏インタビュー（`raw/articles/2026-09-13-abema-kashio-renai-reality-nozokimi-interview.md`）── 恋愛リアリティ人気の核を『のぞき見』と明言する制作者一次証言、SNSでの推しカップル話題化・切り抜き流通にも言及
+- 集英社新書プラス・霜田明寛「どこもかしこもリアリティショー」（`raw/articles/2026-09-13-shimoda-dokomokashiko-reality-show-column.md`）── 『恋リア元年』2017・『サバ番元年』2020を特定する署名記事
+- manamina「注目の恋リア5選」（2026年4月、`raw/articles/2026-09-13-manamina-2026-renai-reality-oshikatsu.md`）── 視聴者が出演者を『推し』化し『布教』する、推し活と同型の消費行動の直近実例
+- 品質ゲート: Academic角度が挙げた同紀要の引用に添えられた具体的統計（MacroMill Embrain 2022の68.9%等）は、実際に本文（Keio機関リポジトリのPDF）を直接確認したところ本文中に該当箇所が見当たらず、エージェントの自己申告を鵜呑みにせず自分で読んだ内容のみを採用した
+- 落選候補（Denby 2021のLove Islandジェンダー批判・bengo4元プロデューサー証言・RealSound木村花事件等、観客参加が加害に転じるリスクの角度）は `00_ahshi/research_backlog/couple-youtuber-dating-reality-oshi-bunka.md` へ保存。未コンパイル
+
+## [2026-09-13] compile | 1 source → 0 new articles, 1 updated（セカイ系はもう時代遅れ／虚淵玄証言）
+
+- ソース: raw/articles/2026-09-13-urobuchi-madoka-magica-sekaikei-interview.md
+- 更新: [セカイ系・なろう系・オタクに優しいギャル ── 「オタクと現実」を処理する物語装置の系譜](/topics/materials/otaku-friendly-gyaru-device/)（新セクション「作り手自身の証言 ── 『セカイ系は時代遅れ』」を追加。虚淵玄本人の「セカイ系の物語は時代遅れになった」証言と、推し文化の「開けっ広げな祝祭感」との対比を、既存の系譜整理・無痛コンテンツ論の裏付けとして接続）
+- sidebar: 対象外（sidebar.hidden: true の記事。ローテーション不要）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 直接接続する項目なく兆し追記なし
+
+## [2026-09-13] ingest | 1件ingest（inbox） — 共同通信インタビュー「『まどか☆マギカ』脚本の虚淵玄『セカイ系は時代遅れ』実感」
+
+- ソース: raw/articles/2026-09-13-urobuchi-madoka-magica-sekaikei-interview.md
+- 劇場版『まどか☆マギカ　ワルプルギスの廻天』脚本の虚淵玄インタビュー。企画は10年以上前に劇団イヌカレー（泥犬）のアイデアノートで材料が9割方揃っていた成立経緯、新房昭之総監督の意向で結末を「救いのある」方向に調整した理由を語る
+- 「セカイ系」的な閉じた疑似恋愛の物語は、今の推し文化的な「開けっ広げな祝祭感」の前ではもう時代遅れだという脚本家本人の実感を一次資料で確認できる
+
+## [2026-09-12] compile | 4 sources → 2 new articles, 2 updated（針本正行学長インタビュー・國學院大學）
+
+- ソース: raw/articles/2026-09-12-harimoto-140-interview-part1.md, part2.md, raw/articles/2026-09-12-harimoto-naze-toinaosu-interview.md, raw/articles/2026-09-12-harimoto-manabiau-interview.md
+- 新規: [「問い直す」と「学び合う」── 生成AIの回答を、もう一度疑えるか](/topics/materials/toinaosu-manabiau-kokugakuin-harimoto/)（naze-toinaosu・manabiau・140周年前編の3ソースを統合。教育目標「問い直す」「学び合う」が同じ往還運動の両輪であること、生成AIの回答を「もう一度問い直せるか」という条件、その手前にある人間的信頼関係の議論を扱う）
+- 新規: [創立140周年、大学は何を変え何を守るか ── 針本正行学長に見る不確実性時代の大学経営](/topics/materials/kokugakuin-140th-harimoto-university-management/)（140周年前編・後編の2ソースを統合。コロナ禍・中期5カ年計画・社会人リカレント教育と国際化・150周年への展望を扱う）
+- 判断: 1記事1概念の基準に沿って、生成AIとの向き合い方を核にした「問い直す」「学び合う」編と、大学経営・中期計画を核にした140周年編に分割。140周年前編は三教育目標の由来として両記事のsourcesに重複計上
+- 更新: [人文知とは何か](/topics/materials/jinbunchi-liberal-arts-yoshimi-shunya/)・[人間キャンセル界隈](/topics/materials/ningen-cancel-kaiwai/)（See Also双方向化。同じ國學院大學発のインタビューシリーズとして接続）
+- sidebar: topics/materials を必須ローテーション（新規2件=order:1,2、negative-theology-vs-closed-identity-ai-discourse 1→3、monogatari-shohi-ron-otsuka-azuma 2→hidden）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 直接接続する項目なく兆し追記なし（AI・学びというテーマの近さはあるが、追跡中の問い・ハマってるものへの直接接続ではないため見送り）
+
+## [2026-09-12] ingest | 4件ingest（inbox） — 國學院大學公式サイト、針本正行学長インタビュー4本
+
+- [既存の知を問い直し、未来をひらく場に【前編】](/raw/articles/2026-09-12-harimoto-140-interview-part1/)（raw/articles/2026-09-12-harimoto-140-interview-part1.md） — 創立140周年インタビュー前編。コロナ禍下の教育変化と中期5カ年計画の狙い
+- [学びに深化を…学部学科を超えて【後編】](/raw/articles/2026-09-12-harimoto-140-interview-part2/)（raw/articles/2026-09-12-harimoto-140-interview-part2.md） — 同後編。不確実性時代の人材育成とリカレント教育・国際化
+- [なぜ「問い直す」なのか。そこから見える大学観、人間の可能性](/raw/articles/2026-09-12-harimoto-naze-toinaosu-interview/)（raw/articles/2026-09-12-harimoto-naze-toinaosu-interview.md） — 教育目標「問い直す」の深掘り編。源氏物語研究史の例、生成AIを「良き他者」とする議論
+- [分断の時代、だからこそ「学び合う」。その関係性はいかにして成るか](/raw/articles/2026-09-12-harimoto-manabiau-interview/)（raw/articles/2026-09-12-harimoto-manabiau-interview.md） — 教育目標「学び合う」の深掘り編。生成AIの回答を再度「問い直す」ことの必要性
+- 同一出典（國學院大學公式サイト）・同一話者（針本正行学長）の4本。未コンパイル
+
 ## [2026-09-12] compile | 3 sources → 1 new article, 2 updated（Adornoの美学における暴力の修辞）
 
 - [モダニズム芸術は、なぜ自らを傷つける身振りをするのか ── アドルノの美学と『表現することの暴力』](/topics/writing-theory/adorno-aesthetic-of-self-inflicted-violence/) を新規作成（Perkins「Adorno's Dreams and the Aesthetic of Violence」・Hatherley「Wild Resistance: Adorno's Aesthetics」・Wikipedia「Theodor W. Adorno」の3ソースを統合）
