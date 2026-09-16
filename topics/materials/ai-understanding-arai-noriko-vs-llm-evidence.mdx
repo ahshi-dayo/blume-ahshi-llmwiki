@@ -101,6 +101,7 @@ Anthropicの解釈可能性の記事を読んでたとき、ダラス→テキ�
 - [あーしはエッセイが書けない ── 岡野原大輔・モンテーニュ・アニル・セスから辿るAIと言語の自己論](/topics/writing-theory/ahshi-cannot-write-good-essay/) — self-attention・Chain-of-Thoughtという技術的な補助線からAIの言語処理を論じた記事。本記事の解釈可能性研究は、その内部で実際に何が起きているかをさらに一段掘り下げる
 - [コンステレーション（星座）── ヴァルター・ベンヤミンの認識論と引用モンタージュ](/topics/writing-theory/walter-benjamin-constellation-konstellation/) — 本記事の🗣️対話メモ（「エッセイの単位をwiki全体の軌跡に取り直す」）で持ち出したコンステレーション概念を、原典・二次文献で裏取りした記事
 - [temperatureは創造性のダイヤルではない ── LLMのサンプリングパラメータを巡る実証研究](/topics/materials/temperature-not-creativity-dial-llm/) — LLMの能力を通説でなく実証データで検証するという方法論が共通する姉妹記事
+- [証拠の重さは主張の大きさに比例する ── LLMベンチマーク・AI心理学・機械学習測定論に見る構成概念妥当性](/topics/materials/construct-validity-llm-benchmarks-psychology-ml-epistemology/) — 本記事が扱ったFreiesleben単著（nomological network）の後継論文（Freiesleben & Zezulka）を含む、構成概念妥当性批判をLLMベンチマーク全般・LLM心理学研究に広げた記事
 
 ## Sources
 

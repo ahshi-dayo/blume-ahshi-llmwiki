@@ -2,7 +2,7 @@
 title: "モンテーニュのソクラテス像──デフォルメとアナクロニズムの哲学"
 tags: [montaigne, socrates, 哲学, essay, skepticism, デフォルメ, anachronism, self-knowledge, 自然, reason, 松永雄二]
 date: 2026-06-09
-updated: 2026-06-09
+updated: 2026-09-15
 sources:
   - "大西克智「モンテーニュ・ソクラテス・哲学」九州大学哲学論文集60号（2024年）"
   - "納富信留「モンテーニュのソクラテス：研究ノート」"
@@ -163,6 +163,8 @@ sidebar:
 - [フランシス・ベーコン —— 「知より行」を書いた格言の人](/topics/writing-theory/francis-bacon-aphorist/) — モンテーニュ×ソクラテス×ベーコンの三角関係
 - [モンテーニュの自己描写論──『存在』ではなく『移り変わり』を描く](/topics/writing-theory/montaigne-self-portraiture-solitude/) — 他者像（ソクラテス）を借りた自己語りと、自分自身を直接描写する技法。同じ自己探究の別ルート
 - [モンテーニュの読書論 ── 書物という、裏切らない交際相手](/topics/writing-theory/montaigne-on-reading/) — 「自分自身を知り、いかに死に、いかに善く生きるか」という読書の目的宣言が、「汝自身を知れ」「哲学とは死の練習」というソクラテスの定型句の圧縮引用だったという対話メモを収録
+- [I-11 予言について](/topics/books/essais/I-11/) ── 読書棚の第11章。ソクラテスの守護霊（ダイモン）に自分自身の「理屈抜きの衝動」体験を重ねる章末の自己言及
+- [I-12 不動心について](/topics/books/essais/I-12/) ── 読書棚の第12章。ラケスの勇気の定義を問答法で崩すソクラテス像。デフォルメ論の一例として読める
 
 ## Sources
 

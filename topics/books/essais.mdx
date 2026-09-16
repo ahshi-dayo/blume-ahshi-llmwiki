@@ -11,7 +11,7 @@ sidebar:
 
 ## 進捗
 
-- 読了 **10 / 107**（最終読了 2026-09-14・I-10）＋序文「読者へ」（I-00・107章の外・2026-09-14読了）
+- 読了 **14 / 107**（最終読了 2026-09-16・I-14）＋序文「読者へ」（I-00・107章の外・2026-09-14読了）
 - クラスタは[章題ベースの仮8クラスタ](/questions/montaigne-107-chapters/)（判断の相対性・懐疑／死への態度／身体・老い・病／慣習と文化相対主義／名誉・虚栄／友情・対話／自己を語ること／想像力・心理／政治・戦争・残酷さ）。読んでみて違ったら章ページ側で書き換える
 
 ### 読者へ
@@ -35,10 +35,10 @@ sidebar:
 | I-08 | I.8 | De l'oisiveté | 暇であることについて | 想像力・心理 | 2026-09-10 | [I-08](/topics/books/essais/I-08/) |
 | I-09 | I.9 | Des menteurs | 嘘つきについて | 自己を語ること | 2026-09-13 | [I-09](/topics/books/essais/I-09/) |
 | I-10 | I.10 | Du parler prompt ou tardif | 話し方の早い・遅いについて | 未分類（弁論術・即興） | 2026-09-14 | [I-10](/topics/books/essais/I-10/) |
-| I-11 | I.11 | Des prognostications |  |  |  |  |
-| I-12 | I.12 | De la constance |  |  |  |  |
-| I-13 | I.13 | Ceremonie de l'entrevuë des roys |  |  |  |  |
-| I-14 | I.15 | On est puny pour s'opiniastrer à une place sans raison |  |  |  |  |
+| I-11 | I.11 | Des prognostications | 予言について | 判断の相対性・懐疑 | 2026-09-15 | [I-11](/topics/books/essais/I-11/) |
+| I-12 | I.12 | De la constance | 不動心について | 想像力・心理 | 2026-09-15 | [I-12](/topics/books/essais/I-12/) |
+| I-13 | I.13 | Ceremonie de l'entrevuë des roys | 王たちの会見の儀礼について | 慣習と文化相対主義 | 2026-09-16 | [I-13](/topics/books/essais/I-13/) |
+| I-14 | I.15 | On est puny pour s'opiniastrer à une place sans raison | 理不尽に陣地を固守すれば、罰せられる | 政治・戦争・残酷さ | 2026-09-16 | [I-14](/topics/books/essais/I-14/) |
 | I-15 | I.16 | De la punition de la courdise |  |  |  |  |
 | I-16 | I.17 | Un traict de quelques ambassadeurs |  |  |  |  |
 | I-17 | I.18 | De la peur |  |  |  |  |

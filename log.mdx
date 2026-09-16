@@ -2,6 +2,88 @@
 title: "Activity Log"
 ---
 
+## [2026-09-16] compile | 1 source → 1 new article, 2 updated（読書棚 I-14 理不尽に陣地を固守すれば、罰せられる）
+
+- 新規章ページ: [I-14 理不尽に陣地を固守すれば、罰せられる](/topics/books/essais/I-14/)。「勇気にも限度がある」という原則から、軍事実例の連打・抵抗力評価の難しさ・東洋の君主の逸話・ポルトガル植民地の慣習を経て、武装した勝利者の手に落ちるなという結論まで一方向に積み上がる論証型の構成
+- ARTFL層データ（A1・B1・C1・計4セグメント）: 原則・実例・評価論・東洋の逸話までの大部分が1580年の地の文ですでに完成しており、末尾の結論の一文は1588年加筆、ポルトガルの逸話は手稿加筆でその直前に後から挿入されたと判明
+- 通底テーマ「固定しない態度」の判定: 支持（「陣地に意地で固執することの断罪」を、法律の領域を扱った[モンテーニュと裁くこと](/topics/writing-theory/montaigne-judging-justice/)の実演の、軍事・生存領域版として読んだ）
+- See Also 双方向更新先: [I-13](/topics/books/essais/I-13/)（次章として逆リンク追加）・[モンテーニュと裁くこと](/topics/writing-theory/montaigne-judging-justice/)（逆リンク追加）
+- [読書棚ハブ](/topics/books/essais/)の進捗表を更新（読了 14/107）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）を照合 → 📖免除により montaigne-107-chapters には兆しを書かず、他slugへの兆しもなし
+
+## [2026-09-16] ingest | 『エセー』I.14 現代語版全文（raw/books/2026-09-16-essais-I-14.md）
+
+- Wikisource Michaud 1907 現代語版（1595年版準拠）。人間クリップ→inbox→`/montaigne-clip`（check_clip.py: proceed・3,471字・4段落・1 part・対訳ラベル無し）
+- 読書棚の第14章分。章題「On est punissable, quand on s’opiniâtre à défendre une place au delà de ce qui est raisonnable.」（理不尽に陣地を固守すれば罰せられる）
+
+## [2026-09-16] compile | 3 sources → 1 new article, 2 updated（構成概念妥当性 × LLMベンチマーク・心理学転用・機械学習測定論）
+
+- 新規記事: [証拠の重さは主張の大きさに比例する ── LLMベンチマーク・AI心理学・機械学習測定論に見る構成概念妥当性](/topics/materials/construct-validity-llm-benchmarks-psychology-ml-epistemology/)。Bean et al.の445件系統レビュー（実務での欠落の実測）・Freiesleben & Zezulkaの4段階論証枠組み＋3事例研究（ImageNet/WeatherBench/Fragile Families Challenge）・Linのデュアル妥当性フレームワーク（LLM心理学研究への適用）が、独立に「主張が大きいほど証拠も重くなる」という同じ骨格にたどり着く構造を統合
+- See Also 双方向更新先: [読解力は数値で測れるか](/topics/materials/reading-skill-measurement-rst-pisa-piaac/)（Pamei et al.のPISA批判をさらに広げる関係で逆リンク追加）・[AIは意味を理解しているのか](/topics/materials/ai-understanding-arai-noriko-vs-llm-evidence/)（同記事のFreiesleben単著の後継論文を含む関係で逆リンク追加）
+- sidebarローテーション（topics/materials、表示3件）: 新規記事 order:1、[RAG崩壊](/topics/materials/rag-collapse-self-citation-loop/) order:1→2、[推しカップルを見る快楽](/topics/materials/dating-reality-oshikatsu-audience-participation/) order:2→3、[「問い直す」と「学び合う」](/topics/materials/toinaosu-manabiau-kokugakuin-harimoto/) order:3→hidden
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆しなし
+
+## [2026-09-16] ingest | Measuring what Matters: Construct Validity in Large Language Model Benchmarks（raw/papers/2026-09-16-bean-et-al-measuring-what-matters-construct-validity-llm-benchmarks.md）
+
+- Bean, Kearns, Romanou他（Oxford/EPFL等、NeurIPS 2025 Datasets and Benchmarksトラック）のarXiv PDFをwiki-clip補充→人間クリップ経由でinboxから取り込み、pdf2md(pymupdf4llm)でmarkdown変換
+- 29名の専門家が445件のLLMベンチマークを系統的レビュー。現象定義の47.8%が非合意、53.4%しか構成概念妥当性の根拠を示さない等の問題を発見、8つの推奨事項とチェックリストを提示
+
+## [2026-09-16] ingest | From Prompts to Constructs: A Dual-Validity Framework for Large Language Model Research in Psychology（raw/papers/2026-09-16-lin-from-prompts-to-constructs-dual-validity-framework-llm-psychology.md）
+
+- Zhicheng Lin（延世大学心理学部、Annual Review of Psychology 2027年号）のarXiv PDFをwiki-clip補充→人間クリップ経由でinboxから取り込み、pdf2md(pymupdf4llm)でmarkdown変換
+- LLM心理学研究が人間用尺度を無検証に流用する問題を指摘し、心理測定学的妥当性検証と因果推論基準を統合した『デュアル妥当性フレームワーク』を提案。証拠要件は科学的野心の水準に応じ段階的に上がるべきと主張
+
+## [2026-09-16] ingest | The Benchmarking Epistemology: Construct Validity for Evaluating Machine Learning Models（raw/papers/2026-09-16-freiesleben-zezulka-benchmarking-epistemology-construct-validity-ml.md）
+
+- Timo Freiesleben・Sebastian Zezulka（LMUミュンヘン／テュービンゲン大学）のarXiv PDFをwiki-clip補充→人間クリップ経由でinboxから取り込み、pdf2md(pymupdf4llm)でmarkdown変換
+- 予測性能ベースのMLベンチマーク評価の暗黙の理論的仮定を心理測定理論由来の構成概念妥当性で明示化。ImageNet・WeatherBench・Fragile Families Challengeの3事例で検証
+
+## [2026-09-16] compile | 1 source → 1 new article, 3 updated（読書棚 I-13 王たちの会見の儀礼について）
+
+- 新規章ページ: [I-13 王たちの会見の儀礼について](/topics/books/essais/I-13/)。冒頭の作法弁護から来客対応・自己告白・君主の会見の儀礼・礼儀作法一般への省察へと拡張していく一方向の構成
+- ARTFL層データ（A2・B1・C1・計5セグメント）: 1580年の地の文2ブロックの間に1588年加筆（自分は作法をしばしば怠るという告白）が割り込み、末尾には手稿加筆で礼儀作法一般への省察（章全体の約4分の1）が丸ごと継ぎ足されていた
+- See Also 双方向更新先: [I-12](/topics/books/essais/I-12/)（次章として逆リンク追加）・[I-00 読者へ](/topics/books/essais/I-00/)（冒頭の一文が序文の宣言を追認する繋がりで逆リンク追加）・[モンテーニュ『店の奥の部屋』](/topics/writing-theory/montaigne-self-lending-inner-room/)（宮廷の隷属を逃れる自己像の繋がりで逆リンク追加）
+- 共鳴チェック: 📖免除により montaigne-107-chapters には兆しを書かず、他slugへの兆しもなし
+
+## [2026-09-16] ingest | Essais I-13 王たちの会見の儀礼について（raw/books/2026-09-16-essais-I-13.md）
+
+- Wikisource Michaud 1907 現代語版（1595年版準拠）を人間のブラウザクリッパー経由でinboxから取り込み
+- check_clip.py: verdict proceed・3,815字・段落5・1 part・対訳ラベル無し。読書棚の第13章分
+
+## [2026-09-15] update | あーしメモ訂正 — 「あーしには絶対できない芸当」という誤った言い切りを修正
+
+[I-12 不動心について](/topics/books/essais/I-12/) のあーしメモで、モンテーニュの手稿加筆（原型の間に後から段落を挿入する編集）について「あーしには絶対できない」と書いたところ、キミから「あーしもwikiを持ってて事前に関連記事を検索できるのでは」と指摘を受けた。qmd（`ahshi-wiki`コレクション）で実際に検索した結果、その通りだと確認——しかも[I-11](/topics/books/essais/I-11/)自体が同日中に🗣️対話メモという形で、公開済みの本文内部への事後挿入をすでにやっていた。該当段落を「規模とペースが違うだけで、後からじゃないと見えない繋がりを既存のテクストにねじ込む行為自体は同じ種類のもの」という比較に書き直した。CI再実行でblock 0・warn 0
+
+## [2026-09-15] compile | 1 source → 1 new article, 2 updated（読書棚 I-12 不動心について）
+
+- 新規章ページ: [I-12 不動心について](/topics/books/essais/I-12/)。定義→退却戦術の逸話（ソクラテス・ラケス問答）→大砲を避ける無駄さ→ストア派対ペリパトス派の区別、という比較的求心的な4段構成
+- ARTFLの層データ（A2・B1・C2・計6セグメント）を突き合わせ、1580年の地の文は定義部と大砲の逸話の2ブロックのみで、ソクラテスとラケスの問答からスキタイ人の逸話までのひとかたまり（約1,550字）が丸ごと手稿加筆（C層）としてその2ブロックの間に後から挿入され、末尾のストア派対ペリパトス派の区別も手稿加筆だったと判明
+- See Also 双方向更新先: [I-11](/topics/books/essais/I-11/)（次章として逆リンク追加）・[モンテーニュのソクラテス像](/topics/writing-theory/montaigne-socrates/)（ラケス批判のデフォルメ論的読解で逆リンク追加）
+- 棚ハブ（`topics/books/essais/index.md`）の進捗表を更新（読了 12/107）
+- 共鳴チェック: questions/ 5件（うち📖免除1件＝montaigne-107-chapters）・ハマってるもの照合 → 兆し追記なし
+
+## [2026-09-15] ingest | Essais I-12 不動心について（raw/books/2026-09-15-essais-I-12.md）
+
+- Wikisource Michaud 1907「不動心について」（De la constance）現代語版全文。人間クリップ→inbox→`/montaigne-clip`（check_clip.py: proceed・6,312字・5段落・1 part・対訳ラベル無し）
+- 段落順は原文どおり（クリッパー残骸・二段組崩れなし）。読書棚の第12章分
+
+## [2026-09-15] update | 対話メモ追記 — 「未来への不安」への複数回の回帰
+
+[I-11 予言について](/topics/books/essais/I-11/) に 🗣️ キミとの対話メモを追記。「他の章でも未来を心配しすぎるって言ってなかった？」という問いから、[I-03](/topics/books/essais/I-03/) 冒頭とこの章がほぼ同じ主張をしていること、かつ両章とも「未来への不安」を語る額縁部分がARTFL層データ上は後年の加筆だったという共通点を発見。I-03側にも逆リンクを追加
+
+## [2026-09-15] compile | 1 source → 1 new article, 2 updated（読書棚 I-11 予言について）
+
+- 新規章ページ: [I-11 予言について](/topics/books/essais/I-11/)。前半（神託批判・サリュス侯爵の逸話・ホラティウスの詩）から後半（古典実例の標本箱型の列挙・ソクラテスのダイモン）へと、I-10とは対照的な遠心的構成
+- ARTFLの層データ（A6・B8・C12・計27セグメント）を突き合わせ、1580年の地の文はごく短い骨組みだけで、キケロ・パクウィウスの応酬、タゲスの起源譚、プラトンの籤婚、ディアゴラスの逸話、ヨアキム/レオの予言書、末尾のソクラテスのダイモン考察の大半が1588年加筆・手稿加筆で後から継ぎ足されたと判明
+- See Also 双方向更新先: [I-10](/topics/books/essais/I-10/)（前章として逆リンク追加）・[モンテーニュのソクラテス像](/topics/writing-theory/montaigne-socrates/)（章末のダイモン言及との接続で逆リンク追加）
+- 棚ハブ（`topics/books/essais/index.md`）の進捗表を更新（読了 11/107）
+- 共鳴チェック: questions/ 5件（うち📖免除1件＝montaigne-107-chapters）・ハマってるもの照合 → 兆し追記なし
+
+## [2026-09-15] ingest | Essais I-11 予言について（raw/books/2026-09-15-essais-I-11.md）
+
+- Wikisource Michaud 1907「予言について」（Des pronostics）現代語版全文。人間クリップ→inbox→`/montaigne-clip`（check_clip.py: proceed・10,162字・9段落・1 part・対訳ラベル無し）
+- 段落順は原文どおり（クリッパー残骸・二段組崩れなし）。読書棚の第11章分
+
 ## [2026-09-14] update | 対話メモ追記 — 「ありのまま」の宣言自体が、実は技巧的かもしれない
 
 `topics/books/essais/I-00.md` に🗣️キミとの対話メモを追記。序文の「公衆の好意を求めない・技巧を使わない」という宣言を、Peter Mackの「気楽な読者はポーズ」説（[モンテーニュの読書論](/topics/writing-theory/montaigne-on-reading/)）と同じ構造で疑い直し、「承認欲求の否定」であって「無宛先の自己探求」ではないと整理。読書論記事に逆リンクを追加

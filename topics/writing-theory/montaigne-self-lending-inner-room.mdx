@@ -2,7 +2,7 @@
 title: "モンテーニュ『店の奥の部屋』── 自分を貸しても、自分を与えないという生き方"
 tags: [montaigne, self-boundary, arriere-boutique, seneca, public-private-self, solitude, ambition, essais, writing-theory]
 date: 2026-08-13
-updated: 2026-08-22
+updated: 2026-09-16
 sources: [raw/articles/2026-08-13-montaigne-essais-lending-self.md, raw/articles/2026-08-22-montaigne-essais-solitude-tower.md]
 confidence: medium
 summary: "宮下志朗の連載第4回・第5回を基に、『エセー』3・10「自分の意志を節約することについて」の『自分を貸す・借家人』比喩を辿る。元ネタのセネカ『書簡集』62番、ボルドー市長職とモンテーニュ個人を分けた『二つの人格』、家政をめぐる本音、1・38「孤独について」の『店の奥の部屋（arrière-boutique）』という自己保全の空間論、そして37歳での早期退職・野心批判・塔の書斎という実物の間取りまでを扱う。"
@@ -83,6 +83,7 @@ sidebar:
 - [批判という継承──パスカル・ルソー・レチフはモンテーニュをどう読んだか](/topics/writing-theory/montaigne-reception-pascal-rousseau-retif/) ── 同じ連載の第3回。「しゃべりすぎ」批判への先回りという、別の形の自己防衛
 - [モンテーニュ『エセー』107章の地形図](/questions/montaigne-107-chapters/) ── 通底テーマ「固定しない態度」に、境界線だけは固定するというこの章がどう関わるかを追加
 - [I-08 暇であることについて](/topics/books/essais/I-08/) ── 読書棚の章ページ。この記事が引用した「残されたわずかな余生を、世間から離れてのんびりすごそう」の一節そのものを、原文全文で扱う
+- [I-13 王たちの会見の儀礼について](/topics/books/essais/I-13/) ── 読書棚の章ページ。「宮廷の隷属を逃れてきたのに、隠居先までついてくるのでは意味がない」という一節が、この記事の主題（自己を差し出すことと守ることの境界）に近い関心を、王侯の儀礼という一見遠い話題の中で見せる
 - [手紙という「型」──定型構造はなぜ宗教と権威を運んだのか](/topics/materials/letter-form-fixed-structure-authority/) ── モンテーニュが「貸す」という比喩を借りたセネカ『書簡集』62番の、手紙という形式そのものを掘り下げた記事
 - [モンテーニュと旅 ── 確かな線を引かない生き方と、本当に愛した都市](/topics/writing-theory/montaigne-travel-and-cities/) ── 一時は「隠遁の地」としてヴェネツィアを選ぼうとした一節との対比。場所を変えることと、内側を変えることの違い
 - [モンテーニュの読書論 ── 書物という、裏切らない交際相手](/topics/writing-theory/montaigne-on-reading/) ── 塔の書斎という物理的な自己保全の場所と、書物という「裏切らない交際相手」。空間で守る境界と、交際相手として選ぶ境界の2つのバリエーション
