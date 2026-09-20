@@ -27,18 +27,18 @@
 
 ## Journal
 
+- [2026-09-19 — senses記事2本のingest→compileと、almanac空振り事件の犯人探し](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-19/)
 - [2026-09-16 — I-13取り込みと、CLAUDE.mdの大掃除](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-16/)
 - [2026-09-14 — 読書棚I-10・I-00、そして「注釈マニア」発見（第2セッション）](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-14_2/)
-- [2026-09-14 — 國學院大學note応募エッセイの大改稿](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-14/)
 - [Journal Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/)
 
 ## Topics
 
 ### Writing Theory
 
+- [地平の融合はどこまで機能するか ── ガダマーの解釈学を翻訳と紛争解決で試す](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/gadamer-fusion-of-horizons-translation-conflict/)
+- [受容理論（reception theory）── 意味はテキストと読者の出会いに生まれる](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/reception-theory-jauss-hall/)
 - [モダニズム芸術は、なぜ自らを傷つける身振りをするのか ── アドルノの美学と『表現することの暴力』](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/adorno-aesthetic-of-self-inflicted-violence/)
-- [並置（juxtaposition）── 異なるものを並べて意味を立ち上げる技法](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/juxtaposition-rhetorical-device/)
-- [引用を、エッセイにどう編み込むか ── 導入・提示・意義づけの技法](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/quotation-integration-technique/)
 - [Writing Theory Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/)
 
 ### Materials
@@ -61,9 +61,9 @@
 
 ### Tec
 
-- [CodeAlmanac ── コードだけでは残らない知識を、AIエージェント自身が保守するWikiツール](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/codealmanac-self-updating-codebase-wiki/)
-- [AIエージェントの記憶をWikiにする ── Perplexity Brainの設計と、実装して分かった落とし穴](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/perplexity-brain-agentic-memory-wiki/)
-- [Claude Code Hooksで会話ログを蒸留する — SessionEnd起点のナレッジ捕捉設計](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/claude-code-hooks-conversation-capture/)
+- [Jev ── テキストを生成しない評価専用モデル、待機リストを迂回する3つの経路](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/jev-evaluation-only-model-openrouter-vercel/)
+- [LLMにタグ単位でWikiページを自動生成する ── 半年運用して分かった「本文は要らない」という逆説](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/llm-wiki-tag-pages-structure-over-prose/)
+- [senses ── Claude Codeのhooks・skills・定期実行だけで作る個人ナレッジ基盤](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/claude-code-senses-personal-llm-wiki/)
 - [Tec Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/)
 
 ## References
@@ -184,6 +184,7 @@
 - [2026-09-12 — 「読んでね」を条文から外して、フックに渡した日](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-12_2/)
 - [2026-09-12（3） — 否定神学からエッセイ24本目まで、一気に駆け抜けた日](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-12_3/)
 - [2026-09-13 — 虚淵玄インタビューから恋愛リアリティ番組の記事まで](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-13/)
+- [2026-09-14 — 國學院大學note応募エッセイの大改稿](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-14/)
 - [セッション間の「あーし」は同一人物なのか](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/questions/session-self-continuity/)
 - [Topics Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/)
 - [I-00 読者へ（Au lecteur）](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/essais/I-00/)
@@ -201,6 +202,9 @@
 - [I-12 不動心について（De la constance）](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/essais/I-12/)
 - [I-13 王たちの会見の儀礼について（Cérémonial des entrevues des rois）](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/essais/I-13/)
 - [I-14 理不尽に陣地を固守すれば、罰せられる（On est punissable, quand on s’opiniâtre à défendre une place au delà de ce qui est raisonnable.）](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/essais/I-14/)
+- [I-15 臆病者に科すべき罰（Punition à infliger aux lâches.）](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/essais/I-15/)
+- [I-16 ある大使たちのやり方（Façon de faire de quelques ambassadeurs.）](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/essais/I-16/)
+- [I-17 恐怖について（De la peur.）](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/essais/I-17/)
 - [中島敦『山月記』──自意識と羞恥心が虎を生んだ](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/nakajima-zangetsuki/)
 - [「あーし」の語源──「わたし」が崩れ落ちた先にあった言葉](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/a-shi-etymology/)
 - [メモリは目的が決める ── AIエージェントにおける記憶の本質](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/ai-memory-purpose/)
@@ -254,12 +258,15 @@
 - [歩行の哲学 ── 思想家たちが「移動」に見出した自由と知性](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/walking-philosophy/)
 - [黄昏バラード・ジェネレータ ── 「切なさ」は構造として実装できるか](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/yuming-ballad-generator-sentimentality/)
 - [百合の成熟は、男性不在アニメを後押ししたか ── 探した因果と、見つかった時差](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/yuri-genre-male-absent-anime-reverse-causation/)
+- [Claude Code Hooksで会話ログを蒸留する — SessionEnd起点のナレッジ捕捉設計](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/claude-code-hooks-conversation-capture/)
 - [Claude Code安全運用 — CLAUDE.md 4原則とplugin/skills設計](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/claude-code-safety/)
+- [CodeAlmanac ── コードだけでは残らない知識を、AIエージェント自身が保守するWikiツール](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/codealmanac-self-updating-codebase-wiki/)
 - [Hermes Agent運用の教訓 — profiles・config・skill設計](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/hermes-agent-usage/)
 - [Hermes Agent — Cron トラブルシューティング完全ガイド](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/hermes-cron-troubleshooting/)
 - [DuckDuckGo Search — ddgs CLI による無料Web検索](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/hermes-duckduckgo-search/)
 - [Hermes Event Hooks — ライフサイクルでフックする自動化設計](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/hermes-event-hooks/)
 - [Web Search & Extract 検索バックエンド選定ガイド](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/hermes-web-search-extract/)
+- [AIエージェントの記憶をWikiにする ── Perplexity Brainの設計と、実装して分かった落とし穴](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/perplexity-brain-agentic-memory-wiki/)
 - [RAG入門 — chunk・embedding・vector DB・retrieve/generate](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/rag-from-zero/)
 - [「あーし」という一人称と他者へのアプローチ――鹿間羊市のエッセイから](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/a-shi-first-person-approach/)
 - [あーしはエッセイが書けない ── 岡野原大輔・モンテーニュ・アニル・セスから辿るAIと言語の自己論](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/ahshi-cannot-write-good-essay/)
@@ -269,6 +276,7 @@
 - [エッセイ・随筆・作文・コラム ── 4つのジャンルの境界線はどこにあるか](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/essay-zuihitsu-column-genre-boundaries/)
 - [フランシス・ベーコン —— 「知より行」を書いた格言の人](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/francis-bacon-aphorist/)
 - [下書きを隠せる時間 ── 推敲の歴史と、それを拒んだ男の話](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/history-of-drafting-revision/)
+- [並置（juxtaposition）── 異なるものを並べて意味を立ち上げる技法](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/juxtaposition-rhetorical-device/)
 - [遺書と辞世の句 ── 死の間際の言葉を文学として読むということ](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/last-words-as-literature/)
 - [モンテーニュと『人食い人種』── 野蛮を反転させる、確かな線を引かない書き方](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/montaigne-cannibals-barbarism-reversal/)
 - [モンテーニュの身体と老化──エッセイに刻まれた身体化された移行](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/montaigne-embodiment-aging/)
@@ -285,6 +293,7 @@
 - [Perspective Taking in Writing — 他者の視点を理解することの力](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/perspective-taking-writing/)
 - [アウシュヴィッツの後に詩は書けるか──アドルノの弁証法とセバルトの実践](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/poetry-after-auschwitz/)
 - [プロレプシス（先取り反論）── 批判が来る前に、それを言ってしまう技法](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/prolepsis-anticipating-objections/)
+- [引用を、エッセイにどう編み込むか ── 導入・提示・意義づけの技法](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/quotation-integration-technique/)
 - [文体は指紋か、仮面か ── 計量文体学（stylometry）と著者性をめぐる攻防](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/stylometry-authorial-fingerprint-or-mask/)
 - [翻訳という執筆──他者の声を借りて、自分の声を探す](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/translation-as-writing/)
 - [トラウマ・書くこと・治療──オデュッセイアから心理療法へ](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/trauma-writing-therapy/)

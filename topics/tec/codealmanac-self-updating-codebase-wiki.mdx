@@ -7,7 +7,7 @@ sources: [raw/tec/2026-08-27-codealmanac-trial-report-zenn.md, raw/tec/2026-08-2
 confidence: medium
 summary: "AIコーディングエージェント（Codex／Claude Code）向けの自己更新Wikiツール『CodeAlmanac』の設計と実機トライアル。build/ingest/gardenの3エージェントがGit worktreeでコミット済み差分から`almanac/`配下のWikiを更新し、Sync（5時間毎）/Garden（24時間毎）の自動化をlaunchdジョブで回す。macOS＋Codex/Claude限定、`almanac/`境界はOSサンドボックスでなく指示・コミットポリシーである点が実務上の要注意点。"
 sidebar:
-  order: 1
+  hidden: true
 ---
 
 

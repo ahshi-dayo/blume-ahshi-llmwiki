@@ -2,12 +2,12 @@
 title: "AIエージェントの記憶をWikiにする ── Perplexity Brainの設計と、実装して分かった落とし穴"
 tags: [ai-memory, perplexity-brain, llm-wiki, dream-agent, semantic-verification, mini-brain]
 date: 2026-08-27
-updated: 2026-08-27
+updated: 2026-09-19
 sources: [raw/tec/2026-08-27-perplexity-brain-agentic-memory-knowledge-wiki.md, raw/tec/2026-08-27-mini-brain-perplexity-brain-reimplementation.md]
 confidence: high
 summary: "Perplexityが2026年8月に公開した記憶システムBrain（Markdown Wiki＋wikilink/cite分離＋Dreamエージェントによるオフライン統合＋二段検証）の設計を、独立した第三者が630行のPythonで再実装・実測した記事とあわせて解説。日本語検索の破綻・検証ゲートの迂回・却下セッションの静かな欠落、そして意味的検証ゲートが正当な更新も20/20で誤却下していた実測など、公式発表だけでは見えない5つの落とし穴を示す。"
 sidebar:
-  order: 2
+  hidden: true
 ---
 
 
@@ -53,6 +53,7 @@ Brainは孤立した発明ではない。2026-02-12にLettaがGit追跡のContex
 
 - [LLM Wiki パターン リファレンス](/references/llm-wiki/) — Brainが実装している「記憶をモデルの外のドキュメントとして継続的に編集する」という原理の起点。Karpathyの提唱からPerplexity Brainに至る収斂の系譜
 - [CodeAlmanac ── コードだけでは残らない知識を、AIエージェント自身が保守するWikiツール](/topics/tec/codealmanac-self-updating-codebase-wiki/) — 同じ原理をコードベース領域に適用した具体的なプロダクト。build/ingest/gardenのエージェント構成、Git worktreeによる並行更新など重なる論点が多い
+- [senses ── Claude Codeのhooks・skills・定期実行だけで作る個人ナレッジ基盤](/topics/tec/claude-code-senses-personal-llm-wiki/) — 同じ原理を企業製品でなく個人開発でClaude Codeの標準機能だけを使って再現した事例
 
 ## Sources
 

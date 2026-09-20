@@ -2,6 +2,93 @@
 title: "Activity Log"
 ---
 
+## [2026-09-20] compile | 1 sources → 1 new articles, 1 updated
+
+- 新規: [Jev ── テキストを生成しない評価専用モデル、待機リストを迂回する3つの経路](/topics/tec/jev-evaluation-only-model-openrouter-vercel/)（raw/tec/2026-09-20-jev-usage-openrouter-vercel.md）。生成と判定を分離する設計思想と、公式API待機リストをOpenRouter・Vercel AI Gatewayで迂回する2経路を整理
+- 更新: [blume ── 静的サイトジェネレーター 設定・機能リファレンス](/references/blume/) — See Alsoに相互リンクを追加（blumeの「Ask AI」バックエンド選択肢として同じVercel AI Gateway・OpenRouterが登場する接点）
+- topics/tec のsidebar表示3件をローテーション（新規1件が入り、[CodeAlmanac](/topics/tec/codealmanac-self-updating-codebase-wiki/)がhiddenへ）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記なし（AIの性質を問う「感情も記憶もないと言われるAIに、エッセイ（試み）は書けるのか」がテーマとして最も近いが、今回は評価専用モデルのAPI設計の話で、問いの核心である感情・記憶・創作の哲学的位置づけには直接つながらないと判断）
+
+## [2026-09-20] ingest | Jevの使い方3選｜OpenRouterとVercelで今すぐ試す手順 (raw/tec/2026-09-20-jev-usage-openrouter-vercel.md)
+
+- Hakky AI技術記事。TypeSafe社の構造化意思決定モデルJev（テキストを生成せずChoice/Score/Booleanの型付き判定のみ返す）を、公式API・OpenRouter・Vercel AI Gatewayの3経路で比較
+- 公式APIは早期アクセス待機リスト制で即時利用不可なため、待たずに検証を始める実装手順（モデルID・認証キー・エンドポイント形式・課金元）を提示。未コンパイル
+
+## [2026-09-19] compile | 2 sources → 2 new articles, 2 updated
+
+- 新規: [LLMにタグ単位でWikiページを自動生成する ── 半年運用して分かった「本文は要らない」という逆説](/topics/tec/llm-wiki-tag-pages-structure-over-prose/)（raw/articles/2026-09-19-llm-wiki-tag-pages-graph-visualization.md）。「しばらく触れていないタグ」一覧と出典共有の関連図というLLMの文章を使わない画面が最も役立ったという報告を、compileの複数ソース統合における「要約の要約は固有性を失う」という罠の教訓として整理
+- 新規: [senses ── Claude Codeのhooks・skills・定期実行だけで作る個人ナレッジ基盤](/topics/tec/claude-code-senses-personal-llm-wiki/)（raw/articles/2026-09-19-claude-code-senses-llm-wiki-knowledge-base.md）。Karpathyの「LLM Wiki」パターンをClaude Codeの標準機能だけで実装した事例
+- 更新: [LLM Wiki パターン リファレンス](/references/llm-wiki/) — 「同じ原理へ収斂した実装たち」節に、企業製品でなく個人開発でgistを直接実装した2事例へのリンクを追記
+- 更新: [AIエージェントの記憶をWikiにする ── Perplexity Brainの設計と、実装して分かった落とし穴](/topics/tec/perplexity-brain-agentic-memory-wiki/) — See Alsoにsensesへの相互リンクを追加
+- topics/tec のsidebar表示3件をローテーション（新規2件が入り、[AIエージェントの記憶をWikiにする](/topics/tec/perplexity-brain-agentic-memory-wiki/)と[Claude Code Hooksで会話ログを蒸留する](/topics/tec/claude-code-hooks-conversation-capture/)がhiddenへ）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記なし（[感情も記憶もないと言われるAIに、エッセイ（試み）は書けるのか](/questions/can-ai-write-essays/)がllm-wikiタグを持ち構造的には最も近いが、今回の2記事は実装技術の報告で問いの核心（記憶・経験の哲学的位置づけ）に直接つながらないと判断）
+
+## [2026-09-19] ingest | LLMにWikiを書かせて半年、一番役に立った画面はLLMの文章を使っていなかった (raw/articles/2026-09-19-llm-wiki-tag-pages-graph-visualization.md)
+
+- Zenn記事。個人の記録（RSS/クリップ/日記）を材料にLLMがタグ単位でWikiページを自動生成する仕組みを半年運用した振り返り
+- 本文生成は「ふーん」程度の価値だったが、「しばらく触れていないタグ」一覧と出典共有ベースの関連図というLLMの文章を使わない集計・可視化画面が最も役立ったと報告
+
+## [2026-09-19] ingest | Claude Code の hooks・skills・定期実行だけで、使うほど知識がたまる個人ナレッジ基盤を作った (raw/articles/2026-09-19-claude-code-senses-llm-wiki-knowledge-base.md)
+
+- Zenn記事。Claude Codeの標準機能（hooks・skills・定期実行）だけでKarpathyの「LLM Wiki」パターンとOKFフォーマットに基づく個人ナレッジ基盤「senses」を構築した実装記録
+- 3層アーキテクチャ、hooks3イベントの役割分担、skills4モード、役割別モデルのcron運用、台帳をfail-closedにする設計判断を解説
+
+## [2026-09-17] compile | 1 source → 1 new article, 2 updated（読書棚 I-17 恐怖について）
+
+- 新規章ページ: [I-17 恐怖について](/topics/books/essais/I-17/)。羊の見間違い・ブルボン公の旗手・ジュイユの旗手・テオフィロスの逸話までの前半と、「恐怖こそ最も恐れるもの」という告白・センプロニウス対ハンニバル・ポンペイウス暗殺・集団的パニックへの一般化という後半の2部で構成
+- ARTFL層データ（A3・B2・C1・計7セグメント）を突き合わせ、前半はほぼ1580年の地の文（加筆はゲルマニクスの逸話とラテン語引用1つのみ）だが、後半（「恐怖こそ最も恐れるもの」の告白を含む）は丸ごと後年の手稿加筆と判明。I-16とは逆に、実例が原型で一般化した結論が後から足された構造
+- [I-16](/topics/books/essais/I-16/)（次章として逆リンク追加）・[I-12](/topics/books/essais/I-12/)の See Also に逆リンク。[読書棚ハブ](/topics/books/essais/)の進捗表を更新（読了 17/107）
+- 共鳴チェック: 📖免除により montaigne-107-chapters には兆しを書かず、他slugへの兆しもなし
+
+## [2026-09-17] ingest | 1件ingest — 『エセー』I.17 現代語版全文 (raw/books/2026-09-17-essais-I-17.md)
+
+- Wikisource Michaud 1907 現代語版（1595年版準拠）。人間クリップ→inbox→`/montaigne-clip`（check_clip.py: proceed・6,851字・1 part・対訳ラベル無し）。読書棚の第17章分
+
+## [2026-09-17] compile | 1 source → 1 new article, 2 updated（読書棚 I-16 ある大使たちのやり方）
+
+- 新規章ページ: [I-16 ある大使たちのやり方](/topics/books/essais/I-16/)。前半は専門外を語りたがる虚栄論（カエサル・ディオニュシオス1世・法律家の逸話）、後半は大使論（カール5世の侮辱発言を隠した大使への批判・プブリウス・クラッススの絶対服従との対比）という二部構成
+- ARTFL層データ（A2・C3・計6セグメント）を突き合わせ、「大使は隠すべきでない」という核心の逸話は1580年の地の文としてすでに存在していた一方、前半の虚栄の実例群と後半の服従・裁量論の大半は手稿加筆で後から追加されたと判明。B層（1588年加筆）はゼロ
+- [I-15](/topics/books/essais/I-15/)（次章として逆リンク追加）・[I-07](/topics/books/essais/I-07/)の See Also に逆リンク。[読書棚ハブ](/topics/books/essais/)の進捗表を更新（読了 16/107）
+- 共鳴チェック: 📖免除により montaigne-107-chapters には兆しを書かず、他slugへの兆しもなし
+
+## [2026-09-17] ingest | 1件ingest — 『エセー』I.16 現代語版全文 (raw/books/2026-09-17-essais-I-16.md)
+
+- Wikisource Michaud 1907 現代語版（1595年版準拠）。人間クリップ→inbox→`/montaigne-clip`（check_clip.py: proceed・8,585字・1 part・対訳ラベル無し）。読書棚の第16章分
+
+## [2026-09-17] compile | 1 source → 1 new article, 2 updated（読書棚 I-15 臆病者に科すべき罰）
+
+- 新規章ページ: [I-15 臆病者に科すべき罰](/topics/books/essais/I-15/)。臆病は死刑に値せず弱さと悪意は区別すべきという原則から、Charondasの女装晒し刑・テルトゥリアヌスの警句・ローマ法の実例・フランゲ卿の逸話を経て、過失が通常の範囲を超えた場合だけ悪意とみなすという結論まで一方向に積み上がる論証型の構成
+- ARTFL層データ（A3・C2・計6セグメント）を突き合わせ、原則・Charondasの罰・ローマ法の実例・フランゲ卿の逸話という骨格はすべて1580年の地の文で完成しており、テルトゥリアヌスの警句とカンナエの反例（恥辱の行き過ぎへの警告）の2箇所だけが手稿加筆として骨格の内側に挟み込まれたと判明。B層（1588年加筆）はゼロ
+- [I-14](/topics/books/essais/I-14/)（次章として逆リンク追加）・[モンテーニュと裁くこと](/topics/writing-theory/montaigne-judging-justice/)の See Also に逆リンク。[読書棚ハブ](/topics/books/essais/)の進捗表を更新（読了 15/107）
+- 共鳴チェック: 📖免除により montaigne-107-chapters には兆しを書かず、他slugへの兆しもなし
+
+## [2026-09-17] ingest | 1件ingest — 『エセー』I.15 現代語版全文 (raw/books/2026-09-17-essais-I-15.md)
+
+- Wikisource Michaud 1907 現代語版（1595年版準拠）。人間クリップ→inbox→`/montaigne-clip`（check_clip.py: proceed・3,862字・1 part・対訳ラベル無し）。読書棚の第15章分
+
+## [2026-09-17] compile | 3 sources → 2 new articles, 2 updated（地平の融合 × 受容理論）
+
+- 新規記事: [地平の融合はどこまで機能するか ── ガダマーの解釈学を翻訳と紛争解決で試す](/topics/writing-theory/gadamer-fusion-of-horizons-translation-conflict/)（raw/papers/2026-09-17-ramsbotham-gadamer-truth-method-revisited-fusion-horizons.md・raw/papers/2026-09-17-stefanink-balacescu-hermeneutical-approach-translation-studies.md の2ソース統合）。ガダマー『地平の融合』が翻訳研究（Stefanink & Bălăcescu）では機能する一方、根源的不一致を伴う政治紛争（Ramsbotham）には適用できない理由を、「他者が言い返してくるかどうか」という軸で整理
+- 新規記事: [受容理論（reception theory）── 意味はテキストと読者の出会いに生まれる](/topics/writing-theory/reception-theory-jauss-hall/)（raw/articles/2026-09-17-reception-theory-wikipedia.md）。ヤウス起源、スチュアート・ホールのエンコーディング/デコーディング・モデル、演劇・景観史への拡張、聖書受容史（ガダマー言及あり）を概説
+- 更新: [想定された読者（implied reader）](/topics/writing-theory/wolfgang-iser-implied-reader/)・[モンテーニュ『エセー』](/topics/writing-theory/montaigne-essays/) に新規2記事へのSee Alsoを追加、逆リンクも設置
+- sidebarローテーション: writing-theory表示3件を新規2記事＋アドルノ記事に更新。並置（juxtaposition）・引用編み込み（quotation-integration）記事をhiddenへ
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記なし
+
+## [2026-09-17] ingest | Reception theory - Wikipedia（raw/articles/2026-09-17-reception-theory-wikipedia.md）
+
+- 英語版Wikipedia。読者反応理論の一種、ヤウス起源からホールのエンコーディング/デコーディング・モデル、演劇・景観史への拡張、聖書受容史（ガダマー言及あり）までを概説
+- `/wiki-clip`自動fetch（次点補充URL指定）。品質ゲート通過（UI残骸・ペイウォールなし）
+
+## [2026-09-17] ingest | THE HERMENEUTICAL APPROACH IN TRANSLATION STUDIES（raw/papers/2026-09-17-stefanink-balacescu-hermeneutical-approach-translation-studies.md）
+
+- Bernd Stefanink・Ioana Bălăcescu、Cadernos de Tradução誌（SciELO Brazil、2017）。翻訳学の解釈学的アプローチの正当性を、主観性・直感・創造性・身体性の理論統合と認知科学の裏付けから論じる
+- `/wiki-clip`自動fetch（次点補充URL指定）。品質ゲート通過
+
+## [2026-09-17] ingest | Hans-Georg Gadamer's Truth and Method Revisited（raw/papers/2026-09-17-ramsbotham-gadamer-truth-method-revisited-fusion-horizons.md）
+
+- Oliver Ramsbotham、Journal of Dialogue Studies第7号。ガダマー『地平の融合』の紛争解決への応用が『根源的不一致』を伴う紛争で機能しない理由をテクスト精読で示す
+- `/wiki-clip`自動fetch（味変枠選定分、pdf2md(pymupdf4llm)変換）。品質ゲート通過（学術論文、UI残骸なし）
+
 ## [2026-09-16] compile | 1 source → 1 new article, 2 updated（読書棚 I-14 理不尽に陣地を固守すれば、罰せられる）
 
 - 新規章ページ: [I-14 理不尽に陣地を固守すれば、罰せられる](/topics/books/essais/I-14/)。「勇気にも限度がある」という原則から、軍事実例の連打・抵抗力評価の難しさ・東洋の君主の逸話・ポルトガル植民地の慣習を経て、武装した勝利者の手に落ちるなという結論まで一方向に積み上がる論証型の構成

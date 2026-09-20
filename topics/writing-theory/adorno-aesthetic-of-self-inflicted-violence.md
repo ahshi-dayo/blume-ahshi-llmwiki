@@ -7,7 +7,7 @@ sources: [raw/papers/2026-09-12-perkins-adornos-dreams-aesthetic-of-violence.md,
 confidence: high
 summary: "Adornoの死後出版『夢の記録』の暴力的な夢と、後期美学論の身体的傷を喚起する修辞を結びつけたRussell Perkinsの分析（Telos誌）を軸に、モダニズム芸術作品を『自らに傷を負わせる身振りにおいて構成されるもの』として読む視点を紹介する。LRB書評（Owen Hatherley）と否定弁証法の方法論を補助線に、『形式の暴力を自覚する』という執筆倫理の問いにアドルノがどう応えたかを辿る。"
 sidebar:
-  order: 1
+  order: 3
 ---
 
 「エッセイを書くこと自体が、ある種の暴力ではないか」──この記事はもともと、その問いを探すために[「形式の暴力」を自覚する](https://note.com/konosesakuma/n/ncbe822c0f55d)というテーマで検索されたところから来ている。行き着いた先は、日本語の個人エッセイ群ではなく、Theodor W. Adorno（1903-1969）の美学論だった。

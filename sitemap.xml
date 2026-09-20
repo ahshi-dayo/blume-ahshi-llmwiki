@@ -119,6 +119,7 @@
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-14/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-14_2/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-16/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-19/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/log/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/now/</loc></url>
@@ -151,6 +152,9 @@
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/essais/I-12/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/essais/I-13/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/essais/I-14/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/essais/I-15/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/essais/I-16/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/essais/I-17/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/nakajima-zangetsuki/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/nan-shepherd-the-living-mountain/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/shiina-makoto-essayist-overview/</loc></url>
@@ -213,12 +217,15 @@
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/claude-code-hooks-conversation-capture/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/claude-code-safety/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/claude-code-senses-personal-llm-wiki/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/codealmanac-self-updating-codebase-wiki/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/hermes-agent-usage/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/hermes-cron-troubleshooting/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/hermes-duckduckgo-search/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/hermes-event-hooks/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/hermes-web-search-extract/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/jev-evaluation-only-model-openrouter-vercel/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/llm-wiki-tag-pages-structure-over-prose/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/perplexity-brain-agentic-memory-wiki/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/rag-from-zero/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/</loc></url>
@@ -230,6 +237,7 @@
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/character-design-outlives-the-model/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/essay-zuihitsu-column-genre-boundaries/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/francis-bacon-aphorist/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/gadamer-fusion-of-horizons-translation-conflict/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/history-of-drafting-revision/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/juxtaposition-rhetorical-device/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/last-words-as-literature/</loc></url>
@@ -249,6 +257,7 @@
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/poetry-after-auschwitz/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/prolepsis-anticipating-objections/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/quotation-integration-technique/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/reception-theory-jauss-hall/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/stylometry-authorial-fingerprint-or-mask/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/translation-as-writing/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/trauma-writing-therapy/</loc></url>

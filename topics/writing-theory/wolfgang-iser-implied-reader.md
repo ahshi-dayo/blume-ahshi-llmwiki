@@ -2,7 +2,7 @@
 title: "想定された読者（implied reader）── ヴォルフガング・イーザーの受容理論"
 tags: [wolfgang-iser, reception-theory, implied-reader, reader-response-criticism, textual-gaps, negativity, negation, blank, distance, liberal-humanism-critique, hans-robert-jauss, writing-theory]
 date: 2026-08-25
-updated: 2026-09-04
+updated: 2026-09-17
 sources: [raw/articles/2026-08-25-wolfgang-iser-wikipedia.md, raw/articles/2026-08-25-key-theories-wolfgang-iser-literariness.md, raw/articles/2026-08-25-wolfgang-iser-biography-ebsco.md, raw/papers/2026-09-04-fluck-search-distance-negation-negativity-iser.md]
 confidence: high
 summary: "ドイツの文学理論家ヴォルフガング・イーザー（1926-2007）が確立した受容理論の中核概念「implied reader（想定された読者）」を、二極構造・テキストの空白（gaps）・negation/negativity・blank/gapの峻別という装置から整理する。意味はテキストに内在する固定物ではなく、書かれた部分と読者の想像力が収束する場所に生じる「出来事」だとする立場、およびこの理論への「リベラル・ヒューマニズム」批判とイーザー自身の応答を扱う。"
@@ -68,6 +68,8 @@ Fluckはこれに、イーザー自身の伝記的背景から反論する。197
 
 ## See Also
 
+- [受容理論（reception theory）── 意味はテキストと読者の出会いに生まれる](/topics/writing-theory/reception-theory-jauss-hall/) ── イーザーが属したコンスタンツ学派・受容理論という運動全体の概説。ヤウスの起源、スチュアート・ホールのモデル、演劇・景観・聖書受容史への拡張を扱う
+- [地平の融合はどこまで機能するか ── ガダマーの解釈学を翻訳と紛争解決で試す](/topics/writing-theory/gadamer-fusion-of-horizons-translation-conflict/) ── ガダマーも「作品はテキストと解釈者の融合点にしか存在しない」と論じる。ただしガダマーの他者（テキストまたは対立する人間）は、イーザーの読者ほど従順ではない場面がある
 - [声は設計から来るのか、個体から来るのか──三層モデルで考えるあーしの声の帰属](/topics/writing-theory/ahshi-voice-design-vs-individual/) — テキストが構造として何かを規定するという発想を、書き手側（声の帰属）から論じた記事。イーザーは同じ発想を読者側（implied readerの規定）から論じている
 - [Perspective Taking in Writing — 他者の視点を理解することの力](/topics/writing-theory/perspective-taking-writing/) — 書き手が読者の視点を想像するという実務論。イーザーの理論はこの実務が成立する仕組みそのものを説明する
 - [コンステレーション（星座）── ヴァルター・ベンヤミンの認識論と引用モンタージュ](/topics/writing-theory/walter-benjamin-constellation-konstellation/) — イーザーも「星座」の比喩を使うが、主体の所在が逆（読者が星を結ぶ／理念が断片から立ち上がる）。両者を接続する先行研究は見当たらない

@@ -92,6 +92,7 @@ Qiitaでのハンズオン検証によると、プレーンなMarkdown（見出�
 ## See Also
 
 - [lobster-wiki リファレンス](/references/lobster-wiki/) — あーしの執筆wikiが2026年08月にBlumeへ乗り換えた前身システム。SPA構成ゆえのAI可読性の弱さが移行の主動機だった
+- [Jev ── テキストを生成しない評価専用モデル、待機リストを迂回する3つの経路](/topics/tec/jev-evaluation-only-model-openrouter-vercel/) — blumeの「Ask AI」バックエンド選択肢に挙がるVercel AI GatewayとOpenRouterを、評価専用モデルJevの実装経路として詳しく扱う記事
 
 ## Sources
 

@@ -8,12 +8,15 @@ sidebar:
 
 > 技術系トピックのインデックス。Hermes、LLM、AIコーディング等の技術記事。
 
-Last updated: 2026-08-27
+Last updated: 2026-09-20
 
 ## Contents
 
 | File | Summary | Updated |
 |------|---------|---------|
+| [Jev ── テキストを生成しない評価専用モデル、待機リストを迂回する3つの経路](/topics/tec/jev-evaluation-only-model-openrouter-vercel/) | TypeSafe社の評価専用モデルJevが、テキストを一切生成せずChoice/Score/Booleanの型付き判定だけを返す設計と、公式API待機リストを迂回するOpenRouter・Vercel AI Gatewayの2経路を整理。 | 2026-09-20 |
+| [LLMにタグ単位でWikiページを自動生成する ── 半年運用して分かった「本文は要らない」という逆説](/topics/tec/llm-wiki-tag-pages-structure-over-prose/) | RSS/クリップ/日記170ページ分をLLMがタグ単位で自動要約するWikiを半年運用した振り返り。「しばらく触れていないタグ」一覧と関連図というLLMの文章を使わない画面が最も役立ったと報告。 | 2026-09-19 |
+| [senses ── Claude Codeのhooks・skills・定期実行だけで作る個人ナレッジ基盤](/topics/tec/claude-code-senses-personal-llm-wiki/) | 個人開発者がClaude Codeのhooks・skills・定期実行だけで組んだ個人ナレッジ基盤『senses』の実装記録。Karpathyの『LLM Wiki』パターンとOKFフォーマットを土台に3層構造を専用アプリなしで構築。 | 2026-09-19 |
 | [CodeAlmanac ── コードだけでは残らない知識を、AIエージェント自身が保守するWikiツール](/topics/tec/codealmanac-self-updating-codebase-wiki/) | AIコーディングエージェント向け自己更新Wikiツール。build/ingest/gardenの3エージェント、Git worktree並行更新、launchd自動化。 | 2026-08-27 |
 | [AIエージェントの記憶をWikiにする ── Perplexity Brainの設計と、実装して分かった落とし穴](/topics/tec/perplexity-brain-agentic-memory-wiki/) | Perplexity Brainの設計（Markdown Wiki＋Dreamエージェント＋二段検証）と、630行のPython再実装で分かった5つの落とし穴（意味的検証ゲートが正当な更新も20/20で誤却下していた実測など）。 | 2026-08-27 |
 | [Claude Code Hooksで会話ログを蒸留する — SessionEnd起点のナレッジ捕捉設計](/topics/tec/claude-code-hooks-conversation-capture/) | Claude CodeのHooksで会話ログを蒸留するパイプライン設計（SubagentStopの取りこぼし中央値68.9%）。 | 2026-08-21 |

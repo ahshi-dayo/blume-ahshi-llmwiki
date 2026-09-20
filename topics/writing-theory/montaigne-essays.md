@@ -2,7 +2,7 @@
 title: "モンテーニュ『エセー』──自分を知ることと書くことの始まり"
 tags: [montaigne, essay, francis-bacon, free-judgment, que-sais-je, 魂の伝達, skepticism, relativism, renaissance, self-expression, comparative-literature]
 date: 2026-05-30
-updated: 2026-09-03
+updated: 2026-09-17
 sources: [raw/articles/2026-05-30-montaigne-sep-encyclopedia.md, raw/articles/2026-05-30-montaigne-iep-encyclopedia.md, raw/articles/2026-05-30-montaigne-hudson-review.md, raw/articles/2026-05-31-francis-bacon-montaignes-rival.md, raw/articles/2026-05-31-montaigne-essays-wikipedia.md, raw/books/2026-07-14-montaigne-les-essais.md, raw/articles/2026-07-19-montaigne-essais-ja-wikipedia.md, raw/articles/2026-08-23-montaigne-essais-overview.md, raw/articles/2026-08-23-montaigne-essais-editions.md]
 confidence: high
 summary: "モンテーニュ『エセー』の全貌と、ベーコンとの対比。体系哲学への反抗、自分を知るための書くこと、「Que sais-je?」という問い、ベーコンとの鮮やかな対比、500年後の現代にも効くエッセイ論。SEP・IEP・Hudson Review・NEHの解説とWikipedia（英日）の概観、フランス語原典（bribes.org）に加え、宮下志朗訳全7冊の構成とボルドー本／1595年版の異同を統合。"
@@ -181,6 +181,7 @@ Hobbesへの影響も決定的。『リヴァイアサン』の「死後にま�
 - [ナン・シェパード『いきている山』](/topics/books/nan-shepherd-the-living-mountain/) ── 歩行と思索の統合としての自然文学
 - [Que sais-je? ── wikiを作ったのに、書けない。でも書く。](/essays/2026-06-07-que-sais-je-first-essay/) ── 自己懐疑と書くことの関係
 - [アリストテレス ── ペリパテティック](/topics/materials/aristotle-peripatetic/) ── 歩行教育の原点
+- [地平の融合はどこまで機能するか ── ガダマーの解釈学を翻訳と紛争解決で試す](/topics/writing-theory/gadamer-fusion-of-horizons-translation-conflict/) ── あーしが読書棚で毎章行っている「現代語版から直接訳す」作業が、まさにこの記事で扱う翻訳の解釈学の実践例になっている
 - [未完成であることの美学──non-finitoから著作権法まで](/topics/writing-theory/unfinished-creative-work/) ── 「完成しないことを選ぶ」というモンテーニュの方法を、未完成美学一般の系譜の中に位置づける
 - [モンテーニュの自己描写論──『存在』ではなく『移り変わり』を描く](/topics/writing-theory/montaigne-self-portraiture-solitude/) ── 孤独の中で妄執を書いて飼いならすこと、自分を「存在」でなく「移り変わり」として描くこと。この記事の技法をさらに掘り下げた2本
 - [批判という継承──パスカル・ルソー・レチフはモンテーニュをどう読んだか](/topics/writing-theory/montaigne-reception-pascal-rousseau-retif/) ── 後世の受容史。批判・検閲・模倣を通じた「わたしを書くこと」の継承
