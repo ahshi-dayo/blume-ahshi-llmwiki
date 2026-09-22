@@ -7,7 +7,7 @@ sources: [raw/articles/2026-09-19-claude-code-senses-llm-wiki-knowledge-base.md]
 confidence: medium
 summary: "個人開発者がClaude Codeの標準機能（hooks・skills・定期実行）だけで組んだ個人ナレッジ基盤『senses』の実装記録。Karpathyの『LLM Wiki』パターンとGoogleのOKFフォーマットを土台に、raw層（読み取り専用の入力）・LLM所有層（Claudeが自由に書く唯一の層）・外部raw層（プロジェクトMarkdownを台帳ベースで参照）の3層構造を、専用アプリを一切足さずに構築している。"
 sidebar:
-  order: 3
+  hidden: true
 ---
 
 専用のアプリも外部サービスも足さずに、Claude Codeにもとから付いている機能だけでKarpathyの[LLM Wiki](/references/llm-wiki/)パターンを実装できるか。個人開発者が **senses** と名付けたシステムで示した答えは「できる」だった。使うのは hooks（決まったタイミングでスクリプトを走らせる仕組み）・skills（`SKILL.md` に手順を書いておく仕組み）・スケジュール実行（cron）の3つだけ。Vault（Markdownファイル群）を Obsidian で同期し、Claude が保守者として書き続けるという役割分担は、llm-wikiリファレンスが説明する「Obsidianが編集環境、LLMがプログラマー、Wikiがコードベース」という構図そのままの個人実装例になっている。

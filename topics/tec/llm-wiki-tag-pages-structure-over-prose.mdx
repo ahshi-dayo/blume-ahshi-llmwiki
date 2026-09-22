@@ -7,7 +7,7 @@ sources: [raw/articles/2026-09-19-llm-wiki-tag-pages-graph-visualization.md]
 confidence: medium
 summary: "RSSリーダー・Webクリップ・バレットジャーナルの記録170ページ分をLLMがタグ単位で自動要約するWikiを半年運用した振り返り。本文（LLMが書いた要約の要約）は「ふーん」程度の価値しかなかった一方、『しばらく触れていないタグ』一覧と出典共有ベースの関連図というLLMの文章を一切使わない集計・可視化画面が最も役立ったと報告し、『分類・構造化させること』と『文章を書かせること』の価値の違いを指摘する。"
 sidebar:
-  order: 2
+  order: 3
 ---
 
 

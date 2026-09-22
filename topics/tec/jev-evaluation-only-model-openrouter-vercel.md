@@ -7,7 +7,7 @@ sources: [raw/tec/2026-09-20-jev-usage-openrouter-vercel.md]
 confidence: medium
 summary: "TypeSafe社の『Jev』は、テキストを一切生成せずChoice/Score/Booleanの型付き判定だけを返す評価専用モデル。公式APIは早期アクセス待機リスト制で申し込んでも即座には使えないが、OpenRouterの専用alphaエンドポイントとVercel AI Gatewayの実験的evaluate APIという2つの迂回路が待機リストなしで存在する。3経路のモデルID・認証・エンドポイント形式の違いと、生成と判定を分離するという設計思想を整理する。"
 sidebar:
-  order: 1
+  order: 2
 ---
 
 

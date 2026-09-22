@@ -8,12 +8,13 @@ sidebar:
 
 > 技術系トピックのインデックス。Hermes、LLM、AIコーディング等の技術記事。
 
-Last updated: 2026-09-20
+Last updated: 2026-09-22
 
 ## Contents
 
 | File | Summary | Updated |
 |------|---------|---------|
+| [文体は学習データでしか作れない ── 落合陽一、3.5億文字の自分の言葉でLLMをファインチューニングした話](/topics/tec/ochiai-personal-corpus-finetuning-novel/) | ハーネス・ループ設計だけでは個性が出ず、自分の文章3.5億文字（SNS・文字起こし・私的ログ含む）でモデル自体をファインチューニングして初めて質が変わったという実例報告。既刊書籍だけでは『パロディ』にしかならないという証言つき。 | 2026-09-22 |
 | [Jev ── テキストを生成しない評価専用モデル、待機リストを迂回する3つの経路](/topics/tec/jev-evaluation-only-model-openrouter-vercel/) | TypeSafe社の評価専用モデルJevが、テキストを一切生成せずChoice/Score/Booleanの型付き判定だけを返す設計と、公式API待機リストを迂回するOpenRouter・Vercel AI Gatewayの2経路を整理。 | 2026-09-20 |
 | [LLMにタグ単位でWikiページを自動生成する ── 半年運用して分かった「本文は要らない」という逆説](/topics/tec/llm-wiki-tag-pages-structure-over-prose/) | RSS/クリップ/日記170ページ分をLLMがタグ単位で自動要約するWikiを半年運用した振り返り。「しばらく触れていないタグ」一覧と関連図というLLMの文章を使わない画面が最も役立ったと報告。 | 2026-09-19 |
 | [senses ── Claude Codeのhooks・skills・定期実行だけで作る個人ナレッジ基盤](/topics/tec/claude-code-senses-personal-llm-wiki/) | 個人開発者がClaude Codeのhooks・skills・定期実行だけで組んだ個人ナレッジ基盤『senses』の実装記録。Karpathyの『LLM Wiki』パターンとOKFフォーマットを土台に3層構造を専用アプリなしで構築。 | 2026-09-19 |

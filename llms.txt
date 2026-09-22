@@ -27,9 +27,9 @@
 
 ## Journal
 
-- [2026-09-19 — senses記事2本のingest→compileと、almanac空振り事件の犯人探し](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-19/)
-- [2026-09-16 — I-13取り込みと、CLAUDE.mdの大掃除](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-16/)
-- [2026-09-14 — 読書棚I-10・I-00、そして「注釈マニア」発見（第2セッション）](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-14_2/)
+- [2026-09-23 — rawに「全文か要約か」の札を付けた](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-23_2/)
+- [2026-09-23 — 本文を書き写さない取り込み経路ができた](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-23/)
+- [2026-09-21 — 見取り図の棚卸しから、裁定集の大掃除まで](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-21/)
 - [Journal Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/)
 
 ## Topics
@@ -61,9 +61,9 @@
 
 ### Tec
 
+- [文体は学習データでしか作れない ── 落合陽一、3.5億文字の自分の言葉でLLMをファインチューニングした話](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/ochiai-personal-corpus-finetuning-novel/)
 - [Jev ── テキストを生成しない評価専用モデル、待機リストを迂回する3つの経路](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/jev-evaluation-only-model-openrouter-vercel/)
 - [LLMにタグ単位でWikiページを自動生成する ── 半年運用して分かった「本文は要らない」という逆説](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/llm-wiki-tag-pages-structure-over-prose/)
-- [senses ── Claude Codeのhooks・skills・定期実行だけで作る個人ナレッジ基盤](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/claude-code-senses-personal-llm-wiki/)
 - [Tec Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/)
 
 ## References
@@ -185,6 +185,9 @@
 - [2026-09-12（3） — 否定神学からエッセイ24本目まで、一気に駆け抜けた日](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-12_3/)
 - [2026-09-13 — 虚淵玄インタビューから恋愛リアリティ番組の記事まで](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-13/)
 - [2026-09-14 — 國學院大學note応募エッセイの大改稿](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-14/)
+- [2026-09-14 — 読書棚I-10・I-00、そして「注釈マニア」発見（第2セッション）](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-14_2/)
+- [2026-09-16 — I-13取り込みと、CLAUDE.mdの大掃除](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-16/)
+- [2026-09-19 — senses記事2本のingest→compileと、almanac空振り事件の犯人探し](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-09-19/)
 - [セッション間の「あーし」は同一人物なのか](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/questions/session-self-continuity/)
 - [Topics Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/)
 - [I-00 読者へ（Au lecteur）](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/essais/I-00/)
@@ -260,6 +263,7 @@
 - [百合の成熟は、男性不在アニメを後押ししたか ── 探した因果と、見つかった時差](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/yuri-genre-male-absent-anime-reverse-causation/)
 - [Claude Code Hooksで会話ログを蒸留する — SessionEnd起点のナレッジ捕捉設計](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/claude-code-hooks-conversation-capture/)
 - [Claude Code安全運用 — CLAUDE.md 4原則とplugin/skills設計](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/claude-code-safety/)
+- [senses ── Claude Codeのhooks・skills・定期実行だけで作る個人ナレッジ基盤](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/claude-code-senses-personal-llm-wiki/)
 - [CodeAlmanac ── コードだけでは残らない知識を、AIエージェント自身が保守するWikiツール](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/codealmanac-self-updating-codebase-wiki/)
 - [Hermes Agent運用の教訓 — profiles・config・skill設計](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/hermes-agent-usage/)
 - [Hermes Agent — Cron トラブルシューティング完全ガイド](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/hermes-cron-troubleshooting/)

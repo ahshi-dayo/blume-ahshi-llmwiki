@@ -2,6 +2,26 @@
 title: "Activity Log"
 ---
 
+## [2026-09-23] ingest | 落合陽一インタビューのraw差し替え (raw/articles/2026-09-22-ochiai-yoichi-ai-novel-subete-keisan-interview.md)
+
+- 新設した機械移送スクリプト（inbox→raw）の初運転。09-21のブラウザクリップから全文版（本文5,474字）を生成し、旧rawを上書き。wiki記事側は無変更
+- 整形は画像行8・広告iframe5の除去のみ。raw/articles/_index と raw/_index の行を置換（統計は据え置き）
+
+## [2026-09-22] compile | 1 sources → 1 new articles, 3 updated
+
+- 新規: [文体は学習データでしか作れない ── 落合陽一、3.5億文字の自分の言葉でLLMをファインチューニングした話](/topics/tec/ochiai-personal-corpus-finetuning-novel/)（raw/articles/2026-09-22-ochiai-yoichi-ai-novel-subete-keisan-interview.md）。ハーネス・ループ設計だけでは個性が出ず、自分の文章3.5億文字でモデル自体をファインチューニングして初めて質が変わったという実例、「既刊書籍だけではパロディにしかならない」という証言を整理
+- 更新: [文体は指紋か、仮面か ── 計量文体学（stylometry）と著者性をめぐる攻防](/topics/writing-theory/stylometry-authorial-fingerprint-or-mask/) — See Alsoに相互リンクを追加（「意識して選ばない部分に個性が宿る」計量文体学と「整形前の生ログに個性が宿る」落合の証言は裏表の関係）
+- 更新: [声は設計から来るのか、個体から来るのか](/topics/writing-theory/ahshi-voice-design-vs-individual/) — See Alsoに相互リンクを追加（本記事が保留にした「型」の層を、人間が実際にファインチューニングで動かした実例として接続）
+- 更新: [AIの創作は量で方向修正する ── コーパス単位の推敲という方法](/topics/writing-theory/ai-creation-corpus-correction/) — See Alsoに相互リンクを追加（コーパス単位の方向修正という同じ発想を、モデルの重みそのものを差し替えるレイヤーで実行した実例）
+- questions/[感情も記憶もないと言われるAIに、エッセイ（試み）は書けるのか](/questions/can-ai-write-essays/) の「問いの現在地」に追記、関連素材にもリンク追加。「個性の源泉はAIではなく生きられた経験」という、AI創作の現場から届いた最も直接的な反証材料
+- topics/tec のsidebar表示3件をローテーション（新規1件が入り、[senses](/topics/tec/claude-code-senses-personal-llm-wiki/)がhiddenへ）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記あり【can-ai-write-essays】（落合の「個性はAIでなく生きた経験から来る」という主張が、この問いへの最も具体的な反証材料として直撃したため）
+
+## [2026-09-22] ingest | 落合陽一インタビュー「すべては計算でできている」執筆過程 (raw/articles/2026-09-22-ochiai-yoichi-ai-novel-subete-keisan-interview.md)
+
+- リアルサウンド（水野広介、2026年9月）。落合陽一が初小説『すべては計算でできている』の執筆過程を語るインタビュー。全文をLLMに書かせ自身は一文字も書いていないと明言、自分の文章3.5億文字（SNS投稿・文字起こし・私的ログ含む）を学習データにモデル自体を追加学習した経緯を詳述
+- ハーネス／ループ設計と「人間が直接なおさない」というルールの徹底、既刊書籍だけでは「パロディー」にしかならずパーソナルな文章・話し言葉が個性の鍵だったという主張、「人生に色々な味わいがないと個性が出ない」という結論。著作権配慮のため全文転載でなく構造化要約で保存（未コンパイル）
+
 ## [2026-09-20] compile | 1 sources → 1 new articles, 1 updated
 
 - 新規: [Jev ── テキストを生成しない評価専用モデル、待機リストを迂回する3つの経路](/topics/tec/jev-evaluation-only-model-openrouter-vercel/)（raw/tec/2026-09-20-jev-usage-openrouter-vercel.md）。生成と判定を分離する設計思想と、公式API待機リストをOpenRouter・Vercel AI Gatewayで迂回する2経路を整理
