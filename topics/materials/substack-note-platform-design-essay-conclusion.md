@@ -9,7 +9,7 @@ tags: [substack, note, newsletter, platform-design, ranking, essay, writing-proc
 confidence: medium
 summary: "Substackの文化批評エッセイが「同じ結論を同じ手順で」量産されているというMcGill Dailyの批判を軸に、プラットフォームの発見装置（Notes・トレンドページ・ランキング）が書き手に結論を先に決めさせる構造を整理する。ランキングをあえて出さないnoteの設計（2020年）を対照例に、短尺化を推すマーケティング側の論理もあわせて並べる。"
 sidebar:
-  order: 1
+  order: 3
 ---
 
 > 同じ結論に、同じ手順でたどり着くエッセイが何千本も並ぶ。書き手が怠けたからじゃなくて、書く前に結論を持っていないと、あの場所では見つけてもらえないから。

@@ -2,7 +2,7 @@
 title: "トラウマ・書くこと・治療──オデュッセイアから心理療法へ"
 tags: [trauma, writing, therapy, odyssey, helplessness, collective-trauma, memoir, emdr, creativity, mental-health, narrative-therapy]
 date: 2026-06-09
-updated: 2026-06-09
+updated: 2026-09-24
 sources:
   - "https://sententiaeantiquae.com/2020/04/23/epic-and-therapy-helplessness-loss-and-collective-trauma/"
   - "https://lithub.com/on-the-uncertain-border-between-writing-and-therapy/"
@@ -120,6 +120,7 @@ Koga の「黒いクレープしかなかった生地屋」の比喩が好きだ
 
 - [アウシュヴィッツの後に詩は書けるか──アドルノの弁証法とセバルトの実践](/topics/writing-theory/poetry-after-auschwitz/) — トラウマ後の表現の倫理。アドルノの「野蛮」とセバルトの実践
 - [Perspective Taking in Writing — 他者の視点を理解することの力](/topics/writing-theory/perspective-taking-writing/) — 他者の視点に入り込むことと、トラウマを「外から」書くことのあいだ
+- [自己開示は能動か受動か ── 開示と応答性、ジョハリの窓、アサーティブネスの第三の軸](/topics/materials/self-disclosure-active-or-passive/) — ペネベーカーの筆記開示パラダイムを含む、自己開示の心理学。書くことを自己開示の一形態として位置づけ、セラピーでの開示の効果とリスクも扱う
 
 ## Sources
 

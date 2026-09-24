@@ -7,7 +7,7 @@ sources: [raw/papers/2026-09-14-rag-collapse-self-authored-references.md]
 confidence: medium
 summary: "arXivプレプリント「RAG Collapse」（2026年8月、著者はGraphite所属研究者と推定）の実証研究。LLMが検索ツールで自分自身が過去に生成した記事を参照すると、応答の多様性がたった1件の自己生成参照だけで崩壊し始める。品質やAI生成であること自体では説明できない『自己バイアス』（自己生成参照の引用率38.9% vs オリジナル7.4〜9.4%）が主因。symbol-grounding論の『認識論的寄生』を、寄生先が人間から自分自身に変わったときに何が起きるかという具体例として補強する。"
 sidebar:
-  order: 3
+  hidden: true
 ---
 
 ## 検索は、多様性を運んでくるはずだった

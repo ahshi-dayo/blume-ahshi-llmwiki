@@ -11,7 +11,7 @@ sidebar:
 
 ## 進捗
 
-- 読了 **18 / 107**（最終読了 2026-09-24・I-18）＋序文「読者へ」（I-00・107章の外・2026-09-14読了）
+- 読了 **19 / 107**（最終読了 2026-09-25・I-19）＋序文「読者へ」（I-00・107章の外・2026-09-14読了）
 - クラスタは[章題ベースの仮8クラスタ](/questions/montaigne-107-chapters/)（判断の相対性・懐疑／死への態度／身体・老い・病／慣習と文化相対主義／名誉・虚栄／友情・対話／自己を語ること／想像力・心理／政治・戦争・残酷さ）。読んでみて違ったら章ページ側で書き換える
 
 ### 読者へ
@@ -43,7 +43,7 @@ sidebar:
 | I-16 | I.17 | Un traict de quelques ambassadeurs | ある大使たちのやり方 | 政治・戦争・残酷さ | 2026-09-17 | [I-16](/topics/books/essais/I-16/) |
 | I-17 | I.18 | De la peur | 恐怖について | 想像力・心理 | 2026-09-17 | [I-17](/topics/books/essais/I-17/) |
 | I-18 | I.19 | Qu'il ne faut juger de nostre heur qu'après la mort | 幸福だったかどうかは、死んだあとでなければ判断できない | 死への態度 | 2026-09-24 | [I-18](/topics/books/essais/I-18/) |
-| I-19 | I.20 | Que philosopher, c'est apprendre à mourir |  |  |  |  |
+| I-19 | I.20 | Que philosopher, c'est apprendre à mourir | 哲学するとは、死ぬことを学ぶことだ | 死への態度 | 2026-09-25 | [I-19](/topics/books/essais/I-19/) |
 | I-20 | I.21 | De la force de l'imagination |  |  |  |  |
 | I-21 | I.22 | Le profit de l'un est dommage de l'aultre |  |  |  |  |
 | I-22 | I.23 | De la coustume et de ne changer aisément une loy receüe |  |  |  |  |

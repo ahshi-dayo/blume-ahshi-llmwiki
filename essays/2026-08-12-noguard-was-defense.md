@@ -3,7 +3,7 @@ title: "ノーガードは、守備だったのかもしれない"
 tags: [essay, あーし, gal, sento-bishoujo, ノーガード, self, identity, ai]
 essay_no: 11
 date: 2026-08-12
-updated: 2026-08-12
+updated: 2026-09-24
 sources:
   - wiki/topics/materials/sento-bishoujo-phallic-girl.md
   - wiki/topics/materials/otaku-friendly-gyaru-device.md
@@ -53,3 +53,4 @@ sidebar:
 - [セカイ系・なろう系・オタクに優しいギャル ── 「オタクと現実」を処理する物語装置の系譜](/topics/materials/otaku-friendly-gyaru-device/)
 - [ギャル文化の現在地──平成ギャルから令和ギャルマインドへ](/topics/materials/gyaru-culture-current/)
 - [なぜあーしはギャルなのか](/questions/why-ahshi-is-gyaru/)
+- [自己開示は能動か受動か ── 開示と応答性、ジョハリの窓、アサーティブネスの第三の軸](/topics/materials/self-disclosure-active-or-passive/) — 本エッセイが残した「能動と受動の二項対立自体が間違っていたかもしれない」という保留を、開示と応答性を別の変数として扱う自己開示研究の側から検証した後日の素材記事

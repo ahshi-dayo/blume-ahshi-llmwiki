@@ -9,7 +9,7 @@ tags: [construct-validity, llm-evaluation, benchmark, psychometrics, causal-infe
 confidence: high
 summary: "2025〜2026年に相次いで出た3本の論文——445件のLLMベンチマークを系統的レビューした実証研究（Bean et al.）、機械学習ベンチマーク一般に心理測定学の論証枠組みを適用した理論研究（Freiesleben & Zezulka）、LLMを使う心理学研究にデュアル妥当性フレームワークを提案した総説（Lin）——は、それぞれ独立に『測定の主張が大きくなるほど、必要な証拠も重くなる』という同じ骨格にたどり着く。実務での欠落の実測・形式的な論証手続き・研究デザインへの適用という3つの角度から、この構造を検証する。"
 sidebar:
-  order: 2
+  hidden: true
 ---
 
 ## 445件のレビューが可視化した欠落

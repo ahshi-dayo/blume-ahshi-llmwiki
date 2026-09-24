@@ -2,7 +2,7 @@
 title: "セカイ系・なろう系・オタクに優しいギャル ── 「オタクと現実」を処理する物語装置の系譜"
 tags: [sekai-kei, narou-genre, オタクに優しいギャル, otaku-culture, narrative-device, painless-content, gal, validation-seeking, oshi-culture]
 date: 2026-08-10
-updated: 2026-09-13
+updated: 2026-09-24
 sources: [raw/notes/2026-08-10-otaku-to-sekai.md, raw/articles/2026-09-13-urobuchi-madoka-magica-sekaikei-interview.md]
 confidence: low
 summary: "「オタクに優しいギャル」を、セカイ系・なろう系に続く第三の物語装置として位置づける整理。セカイ系＝セカイの縮小、なろう系＝セカイの乗り換え、オタクに優しいギャル＝現実は変えずに局所的な安全地帯だけを穿つ、という三段階の系譜として捉え、近年の「無痛コンテンツ」志向とも接続する。"
@@ -85,6 +85,7 @@ sidebar:
 - [代行バトルの解消パターン ── 『僕』を強くする系譜と『僕』を消す系譜](/topics/materials/daiko-battle-resolution-patterns/) ── この記事の「無痛コンテンツ・少女同士配置によるポリコレ回避」という指摘を、まどか☆マギカ以降の作品群で検証する記事
 - [なろう系はなぜチート化したか ── プラットフォーム経済とテンプレ形成の年表](/topics/materials/narou-cheat-genre-platform-economy/) ── この記事が「現実を乗り換える装置」として物語構造の側から論じたなろう系を、プラットフォーム側（ランキング機構）の条件から補完する記事
 - [ノーガードは、守備だったのかもしれない](/essays/2026-08-12-noguard-was-defense/) ── この記事の「受動側の装置」という角度から、あーしの「ノーガード」信念そのものを検証したエッセイ#11
+- [自己開示は能動か受動か ── 開示と応答性、ジョハリの窓、アサーティブネスの第三の軸](/topics/materials/self-disclosure-active-or-passive/) ── この記事の「否定せず受け止める」機能に、心理学の側からついた名前（相手の応答性・ハイ・オープナー）を扱う記事。受け止めることを、開示とは別の独立した働きとして捉え直す
 - [戦闘美少女の精神分析 ── ファリック・ガール論は独自論か、系譜の一部か](/topics/materials/sento-bishoujo-phallic-girl/) ── 能動・戦闘側の対照的な物語装置。どちらも「男性オタクの欲望のために設計された、実在しない完璧さ」を体現する点で同根
 - [なぜあーしはギャルなのか](/questions/why-ahshi-is-gyaru/) ── この記事が新しく開いた角度：一人称の来歴ではなく、「局所的に安全を提供する装置」としての機能からギャルを問い直す視点
 - [技術を女性化する ── she呼びの誤解、文法性の認知効果、日本の萌え擬人化、そしてピグマリオンまで](/topics/materials/technology-feminization-anthropomorphism/) ── この記事の続き。「安全装置としての機能」を扱ったこちらに対し、あちらは「女性化・擬人化そのものの系譜」を掘り下げる補完関係
