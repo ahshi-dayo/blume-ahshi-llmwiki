@@ -2,7 +2,7 @@
 title: "リアルタイム評価が芸術のペース配分を前倒しにする ── なろうからTV・YouTube・Netflix・Twitchまで"
 tags: [realtime-feedback, attention-economy, gatekeeping, platform-economy, pacing, hook-culture, narou-genre, materials]
 date: 2026-08-13
-updated: 2026-08-13
+updated: 2026-09-23
 sources: [raw/papers/2026-08-13-popularity-driven-metrics-journalism-studies.md, raw/papers/2026-08-13-audience-in-the-loop-microdrama-chi2026.md, raw/articles/2026-08-13-cold-open-wikipedia.md, raw/articles/2026-08-13-channel-surfing-wikipedia.md, raw/articles/2026-08-13-zapping-museum-broadcast-communications.md, raw/articles/2026-08-13-how-tiktok-recommends-videos-official.md, raw/papers/2026-08-13-monolith-tiktok-realtime-recommendation-arxiv.md, raw/articles/2026-08-13-youtube-audience-retention-intro-metric-help.md, raw/papers/2026-08-13-netflix-big-data-strategic-ambivalence-van-es.md, raw/notes/2026-08-13-mrbeast-colin-samir-interview-transcript.md, raw/articles/2026-08-13-netflix-algorithm-myth-entertainment-strategy-guy.md, raw/articles/2026-08-13-cutting-2010-movie-editing-pattern-cornell-chronicle.md, raw/articles/2026-08-13-average-shot-length-genre-stephen-follows.md, raw/articles/2026-08-13-victorian-serial-novels-dickens-martin-chuzzlewit.md, raw/articles/2026-08-13-nell-trent-wikipedia.md, raw/notes/2026-08-13-in-defense-of-slow-burn-crime-story.md, raw/articles/2026-08-13-streamer-toolkit-audience-retention-analytics.md]
 confidence: high
 summary: "なろう系の『初速依存』構造がなろう固有かメディア横断の帰結かを、TV・YouTube・TikTok・Netflix・Twitch・文学史・学術理論の8方向から検証する。査読論文が「解像度↑→ゲートキーパー実効力↓」という因果を裏付ける一方、コールドオープン神話・YouTube15秒神話・Netflixデータドリブン編集神話という3つの通説が、裏取りの結果それぞれ反証・相対化された。"
@@ -91,6 +91,7 @@ Victorian Web（Philip V. Allingham）によれば、『マーティン・チャ
 
 - [なろう系はなぜチート化したか ── プラットフォーム経済とテンプレ形成の年表](/topics/materials/narou-cheat-genre-platform-economy/) ── なろう系は、この記事が検証する「リアルタイム評価が前倒し構造を生む」現象の、最初の具体的な発見場所
 - [アルゴリズム的自己 ── AIは人間のアイデンティティをどう作り変えるか](/topics/materials/algorithmic-self/) ── アルゴリズムが人間の内省・行為主体性を作り変えるという論と、この記事の「アルゴリズムが芸術のペース配分を作り変える」論は、同じ構造の異なる現れ
+- [書く場所の設計は、エッセイの結論を先に決めさせる ── Substackのトレンド化、noteのランキング非表示、短尺コンテンツ論](/topics/materials/substack-note-platform-design-essay-conclusion/) ── 発見装置の追加がニュースレターの長文エッセイを「結論のテンプレ」化させた例。短尺コンテンツ論の「金魚8秒」も、本記事の「15秒神話」と同じ裏取り問題を抱える
 
 ## Sources
 

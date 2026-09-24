@@ -1,6 +1,6 @@
 ---
 title: "ナン・シェパード『いきている山』──知識は謎を深め、山は生きている"
-type: "topics/books"
+type: books
 created: "2026-06-06"
 date: "2026-06-06"
 updated: "2026-07-18"

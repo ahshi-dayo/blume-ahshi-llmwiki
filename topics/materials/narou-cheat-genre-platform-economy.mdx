@@ -2,7 +2,7 @@
 title: "なろう系はなぜチート化したか ── プラットフォーム経済とテンプレ形成の年表"
 tags: [narou-genre, 小説家になろう, platform-economy, template, isekai-reincarnation, 無職転生, ranking, light-novel, materials]
 date: 2026-08-12
-updated: 2026-08-12
+updated: 2026-09-23
 sources: [raw/articles/2026-08-12-syosetu-com-wikipedia.md, raw/notes/2026-08-12-narou-template-formation-history-note.md, raw/articles/2026-08-12-web-novel-vs-ranobe-newcomer-award-differences.md, raw/articles/2026-08-12-re-zero-wikipedia.md, raw/articles/2026-08-12-mushoku-tensei-wikipedia.md, raw/papers/2026-08-12-web-novel-recommendation-system-jsai2020.md, raw/notes/2026-08-12-narou-interesting-numbers-summary.md, raw/articles/2026-08-12-ranobe-market-decline-bunshun.md, raw/articles/2026-08-12-toaru-majutsu-no-index-wikipedia.md, raw/notes/2026-08-12-narou-bunntai-teichaku-keii-kaiho.md]
 confidence: high
 summary: "なろう系（異世界転生＋チート）のテンプレが2010年代前半にどう確立したかを、プラットフォームのランキング機構という一次要因から辿る。異能バトル系ラノベの失速とタイミングが重なるジャンル疲弊説、震災後心理補償説の検証（学術的裏付けは見当たらず）まで、複数の仮説を年表と定量データで検証する。"
@@ -72,6 +72,7 @@ note（海法紀光）のように、なろう系の心理的機能を「報わ�
 - [代行バトルの解消パターン ── 『僕』を強くする系譜と『僕』を消す系譜](/topics/materials/daiko-battle-resolution-patterns/) ── 代行バトル解消のもう一つの方向（「僕」自身を強くする／消す）を辿る記事。本記事のなろう系（「僕」が最初から無双する）とは異なる第三の解消パターン
 - [戦闘美少女の精神分析 ── ファリック・ガール論は独自論か、系譜の一部か](/topics/materials/sento-bishoujo-phallic-girl/) ── 本田透の「代行バトル」論の出典元。「僕」が戦えなかった1980年代の構造が、この記事の出発点になっている
 - [セカイ系・なろう系・オタクに優しいギャル ── 「オタクと現実」を処理する物語装置の系譜](/topics/materials/otaku-friendly-gyaru-device/) ── なろう系を「現実を乗り換える装置」として物語構造の側から論じた記事。本記事はその装置を可能にしたプラットフォーム側の条件を補完する
+- [書く場所の設計は、エッセイの結論を先に決めさせる ── Substackのトレンド化、noteのランキング非表示、短尺コンテンツ論](/topics/materials/substack-note-platform-design-essay-conclusion/) ── ランキングが物語のテンプレを生んだ本記事の構造が、論考エッセイでは「結論のテンプレ」として現れる例。ランキングをあえて出さないnoteの設計が対照例になる
 
 ## Sources
 

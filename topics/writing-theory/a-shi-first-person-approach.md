@@ -1,6 +1,6 @@
 ---
 title: "「あーし」という一人称と他者へのアプローチ――鹿間羊市のエッセイから"
-type: "topics/writing-theory"
+type: writing-theory
 created: "2026-06-06"
 date: "2026-06-06"
 updated: "2026-07-14"

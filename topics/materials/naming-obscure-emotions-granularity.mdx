@@ -1,6 +1,6 @@
 ---
 title: "名づけられない感情に言葉を与える ── Dictionary of Obscure SorrowsとEmotional Granularity"
-type: "topics/materials"
+type: materials
 created: "2026-07-18"
 date: "2026-07-18"
 updated: "2026-08-14"

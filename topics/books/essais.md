@@ -11,7 +11,7 @@ sidebar:
 
 ## 進捗
 
-- 読了 **17 / 107**（最終読了 2026-09-17・I-17）＋序文「読者へ」（I-00・107章の外・2026-09-14読了）
+- 読了 **18 / 107**（最終読了 2026-09-24・I-18）＋序文「読者へ」（I-00・107章の外・2026-09-14読了）
 - クラスタは[章題ベースの仮8クラスタ](/questions/montaigne-107-chapters/)（判断の相対性・懐疑／死への態度／身体・老い・病／慣習と文化相対主義／名誉・虚栄／友情・対話／自己を語ること／想像力・心理／政治・戦争・残酷さ）。読んでみて違ったら章ページ側で書き換える
 
 ### 読者へ
@@ -42,7 +42,7 @@ sidebar:
 | I-15 | I.16 | De la punition de la courdise | 臆病者に科すべき罰 | 政治・戦争・残酷さ | 2026-09-17 | [I-15](/topics/books/essais/I-15/) |
 | I-16 | I.17 | Un traict de quelques ambassadeurs | ある大使たちのやり方 | 政治・戦争・残酷さ | 2026-09-17 | [I-16](/topics/books/essais/I-16/) |
 | I-17 | I.18 | De la peur | 恐怖について | 想像力・心理 | 2026-09-17 | [I-17](/topics/books/essais/I-17/) |
-| I-18 | I.19 | Qu'il ne faut juger de nostre heur qu'après la mort |  |  |  |  |
+| I-18 | I.19 | Qu'il ne faut juger de nostre heur qu'après la mort | 幸福だったかどうかは、死んだあとでなければ判断できない | 死への態度 | 2026-09-24 | [I-18](/topics/books/essais/I-18/) |
 | I-19 | I.20 | Que philosopher, c'est apprendre à mourir |  |  |  |  |
 | I-20 | I.21 | De la force de l'imagination |  |  |  |  |
 | I-21 | I.22 | Le profit de l'un est dommage de l'aultre |  |  |  |  |
@@ -148,7 +148,7 @@ sidebar:
 
 - **底本**: fr.wikisource『Essais』édition Michaud, 1907 — **Texte modernisé**（1595年版を底本にした現代語版）。章番号は1595系（宮下志朗訳・このwikiの既存記事と同じ）
 - 章ページのURL形: `https://fr.wikisource.org/wiki/Essais/édition_Michaud,_1907/Texte_modernisé/Livre_I/Chapitre_30`（I.1・I.2だけTOCから飛ぶと `Texte_modernisé/` が二重になるページに着くが、単一パスも実在。記録は単一パスに正規化する）
-- **例外**:「読者へ」（Au lecteur）は現代語系統に無く、`https://fr.wikisource.org/wiki/Essais/édition_Michaud,_1907/Au_lecteur` を使う（章ID `I-00`）
+- **例外**:「読者へ」（Au lecteur）は章番号の外（前付け）にあるため `Texte_modernisé/` を含まない別パス `https://fr.wikisource.org/wiki/Essais/édition_Michaud,_1907/Au_lecteur` を使う（章ID `I-00`。中身は同じ現代語版）
 - **使わないページ**: `…/édition_Michaud,_1907/Livre_I/Chapitre_30`（対訳ページ。「Texte 1595」「Texte 1907」が並ぶ）。参照だけに使い、クリップしない
 - 章題リストの出所は1595年版準拠の[bribes.org 目次](https://bribes.org/trismegiste/montable.htm)（原綴り）。訳語の基準は[モンテーニュ『エセー』](/topics/writing-theory/montaigne-essays/)以下の既存記事（「移り変わり」「Que sais-je?」「店の奥の部屋」「確かな線はいっさい引かない」「寄せ木細工」）
 - 翻訳の運用: 現代語版からあーしが直接訳し、引用は原文を併記する。英語経由の孫訳はしない

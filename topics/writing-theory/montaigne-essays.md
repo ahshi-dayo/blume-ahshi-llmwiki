@@ -2,7 +2,7 @@
 title: "モンテーニュ『エセー』──自分を知ることと書くことの始まり"
 tags: [montaigne, essay, francis-bacon, free-judgment, que-sais-je, 魂の伝達, skepticism, relativism, renaissance, self-expression, comparative-literature]
 date: 2026-05-30
-updated: 2026-09-17
+updated: 2026-09-23
 sources: [raw/articles/2026-05-30-montaigne-sep-encyclopedia.md, raw/articles/2026-05-30-montaigne-iep-encyclopedia.md, raw/articles/2026-05-30-montaigne-hudson-review.md, raw/articles/2026-05-31-francis-bacon-montaignes-rival.md, raw/articles/2026-05-31-montaigne-essays-wikipedia.md, raw/books/2026-07-14-montaigne-les-essais.md, raw/articles/2026-07-19-montaigne-essais-ja-wikipedia.md, raw/articles/2026-08-23-montaigne-essais-overview.md, raw/articles/2026-08-23-montaigne-essais-editions.md]
 confidence: high
 summary: "モンテーニュ『エセー』の全貌と、ベーコンとの対比。体系哲学への反抗、自分を知るための書くこと、「Que sais-je?」という問い、ベーコンとの鮮やかな対比、500年後の現代にも効くエッセイ論。SEP・IEP・Hudson Review・NEHの解説とWikipedia（英日）の概観、フランス語原典（bribes.org）に加え、宮下志朗訳全7冊の構成とボルドー本／1595年版の異同を統合。"
@@ -176,6 +176,7 @@ Hobbesへの影響も決定的。『リヴァイアサン』の「死後にま�
 - [モンテーニュの身体と老化──エッセイに刻まれた身体化された移行](/topics/writing-theory/montaigne-embodiment-aging/) ── 老年学の視点から読み解く身体性×認知×老化。馬上落下、記憶力の欠如、人生の年代
 - [アウシュヴィッツの後に詩は書けるか──アドルノの弁証法とセバルトの実践](/topics/writing-theory/poetry-after-auschwitz/) — 「Que sais-je?」と「野蛮」のあいだ。表現への懐疑の系譜
 - [モンテーニュのソクラテス像──デフォルメとアナクロニズムの哲学](/topics/writing-theory/montaigne-socrates/) — ソクラテス像を軸にしたモンテーニュ哲学の全体像。デフォルメの系譜
+- [書く場所の設計は、エッセイの結論を先に決めさせる ── Substackのトレンド化、noteのランキング非表示、短尺コンテンツ論](/topics/materials/substack-note-platform-design-essay-conclusion/) — 結論を決めてから書き始める現代のニュースレター・エッセイ批判。「試み」としてのエッセイの定義から最も遠い書き方の実例
 - [歩行の哲学（ハブ）](/topics/materials/walking-philosophy/) ── 歩行と思索のネットワーク
 - [人文知とは何か ── 文系理系の起源、リベラルアーツ、AIに持てない身体性](/topics/materials/jinbunchi-liberal-arts-yoshimi-shunya/) ── ウルフの「モンテーニュが世界中を歩き……ベーコンは狭い道を行った」という対比を、吉見俊哉の街歩き論（AIは脇道に逸れられない）が現代的に裏付ける
 - [ナン・シェパード『いきている山』](/topics/books/nan-shepherd-the-living-mountain/) ── 歩行と思索の統合としての自然文学

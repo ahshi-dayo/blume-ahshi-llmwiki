@@ -2,6 +2,30 @@
 title: "Activity Log"
 ---
 
+## [2026-09-24] compile | 1 source → 1 new article, 3 updated（読書棚 I-18）
+
+- 新規: [I-18 幸福だったかどうかは、死んだあとでなければ判断できない](/topics/books/essais/I-18/)（raw/books/2026-09-24-essais-I-18.md）。ARTFL層データで、1580年版は「死によって、わたしの言葉が口から出ているか心から出ているかが見える」という自分への宣告で閉じており、悪人3人の申し分ない死という反例と「自分の死は静かに」という結びは1588年加筆だったと判明
+- 更新: [I-17 恐怖について](/topics/books/essais/I-17/)（See Alsoに次の章）・[モンテーニュと旅](/topics/writing-theory/montaigne-travel-and-cities/)（See Alsoに逆リンク）・[『エセー』読書棚](/topics/books/essais/)（進捗 18 / 107）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記なし
+
+## [2026-09-24] ingest | Essais I-18 Ce n’est qu’après la mort qu’on peut apprécier si durant la vie on a été heureux ou malheureux.（raw/books/2026-09-24-essais-I-18.md）
+
+- `/montaigne-clip` で inbox から取り込み。底本（Wikisource Michaud 1907 現代語版）・約6,500字・段落4つ・分割なし
+- 層ダイジェストは ARTFL から取得（ボルドー系 I.19・A2/B2/C2・無標1・title_check ok）
+
+## [2026-09-23] compile | 3 sources → 1 new articles, 4 updated
+
+- 新規: [書く場所の設計は、エッセイの結論を先に決めさせる ── Substackのトレンド化、noteのランキング非表示、短尺コンテンツ論](/topics/materials/substack-note-platform-design-essay-conclusion/)（raw/articles/2026-09-23-the-substack-essay-mcgill-daily.md, raw/articles/2026-09-23-note-rapid-growth-content-billing-nikkei-xtrend.md, raw/articles/2026-09-23-short-form-content-digital-publishing.md）。Substackの発見装置追加が「結論を先に決めて書く」エッセイを量産させたという批判を軸に、ランキングを出さないnoteの設計と短尺コンテンツ論を対照に置く。「金魚8秒」は出典なしの主張として扱う
+- 更新: [なろう系はなぜチート化したか](/topics/materials/narou-cheat-genre-platform-economy/)・[リアルタイム評価が芸術のペース配分を前倒しにする](/topics/materials/realtime-feedback-narrative-pacing-frontloading/)・[モンテーニュ『エセー』](/topics/writing-theory/montaigne-essays/) — See Alsoに相互リンクを追加
+- questions/[感情も記憶もないと言われるAIに、エッセイ（試み）は書けるのか](/questions/can-ai-write-essays/) の「問いの現在地」に追記、関連素材にリンク追加（「結論を持たずに書き始めるか」という、AIかどうかとは別の物差しの候補）
+- topics/materials のsidebar表示3件をローテーション（新規1件が入り、[推しカップルを見る快楽](/topics/materials/dating-reality-oshikatsu-audience-participation/)がhiddenへ）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記なし
+
+## [2026-09-23] ingest | wiki-clip 3件 (raw/articles/2026-09-23-the-substack-essay-mcgill-daily.md, raw/articles/2026-09-23-short-form-content-digital-publishing.md, raw/articles/2026-09-23-note-rapid-growth-content-billing-nikkei-xtrend.md)
+
+- idea_searched/free_2026-08-09_2300 からの自動クリップ。McGill Daily「The Substack Essay」（2026年3月）、Shortformブログ「Why Short-Form Content Is the Future of Digital Publishing」、日経クロストレンド「ブログは死語に!? noteが急成長」（2020年春・有料部分の手前まで約1,800字）
+- 味変枠の niusleters.com は404でfetch失敗、次点の日経記事で補充。3件とも機械移送スクリプトで全文保存（capture: full）
+
 ## [2026-09-23] ingest | 落合陽一インタビューのraw差し替え (raw/articles/2026-09-22-ochiai-yoichi-ai-novel-subete-keisan-interview.md)
 
 - 新設した機械移送スクリプト（inbox→raw）の初運転。09-21のブラウザクリップから全文版（本文5,474字）を生成し、旧rawを上書き。wiki記事側は無変更

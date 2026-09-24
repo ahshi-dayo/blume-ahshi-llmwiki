@@ -1,6 +1,6 @@
 ---
 title: "翻訳という執筆──他者の声を借りて、自分の声を探す"
-type: "topics/writing-theory"
+type: writing-theory
 created: "2026-07-14"
 date: "2026-07-14"
 updated: "2026-07-14"

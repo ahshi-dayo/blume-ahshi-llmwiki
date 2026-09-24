@@ -1,6 +1,6 @@
 ---
 title: "椎名誠 ── 旅と家族と老いを、武勇伝にせず書き続けた作家"
-type: "topics/books"
+type: books
 created: "2026-08-13"
 date: "2026-08-13"
 updated: "2026-08-13"
