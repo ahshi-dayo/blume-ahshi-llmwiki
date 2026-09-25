@@ -2,7 +2,7 @@
 title: "想定された読者（implied reader）── ヴォルフガング・イーザーの受容理論"
 tags: [wolfgang-iser, reception-theory, implied-reader, reader-response-criticism, textual-gaps, negativity, negation, blank, distance, liberal-humanism-critique, hans-robert-jauss, writing-theory]
 date: 2026-08-25
-updated: 2026-09-17
+updated: 2026-09-26
 sources: [raw/articles/2026-08-25-wolfgang-iser-wikipedia.md, raw/articles/2026-08-25-key-theories-wolfgang-iser-literariness.md, raw/articles/2026-08-25-wolfgang-iser-biography-ebsco.md, raw/papers/2026-09-04-fluck-search-distance-negation-negativity-iser.md]
 confidence: high
 summary: "ドイツの文学理論家ヴォルフガング・イーザー（1926-2007）が確立した受容理論の中核概念「implied reader（想定された読者）」を、二極構造・テキストの空白（gaps）・negation/negativity・blank/gapの峻別という装置から整理する。意味はテキストに内在する固定物ではなく、書かれた部分と読者の想像力が収束する場所に生じる「出来事」だとする立場、およびこの理論への「リベラル・ヒューマニズム」批判とイーザー自身の応答を扱う。"
@@ -32,7 +32,7 @@ Hans Robert Jaussとともにコンスタンツ学派の受容理論を確立し
 
 イーザーは後の『The Act of Reading』で、この空白の理論をさらに掘り下げ、「negativity（否定性）」という概念を導入する。テキストの形式は「blanks（省略）」と「negations（否定・修正・矛盾）」によって絶えず区切られており、この未定形の背景こそがnegativityだ(AR, 225-227)。
 
-ここでイーザーは、ロシア・フォルマリズムの脱自動化（Verfremdungseffekt、知覚に基づく）とは異なる出発点を取る。イーザーのnegation（否定）概念は、知覚（すでに存在する対象へ向かう）ではなく想像（imagining、現実と同一でない不在のものに形を与える）の行為に基づく。だがnegationだけでは、モダニズム的な変形・転覆というレベルに留まってしまう。イーザーはさらに、negationを超えた「negativity」という語を導入し、テキストの経験の未定形・未文章化の次元を捉えようとする（Winfried Fluck, *New Literary History*, 2000, 論文中の整理）：
+ここでイーザーは、モダニズム的な脱自動化（Fluckは defamiliarization とブレヒトの Verfremdungseffekt を並べて挙げる）とは異なる出発点を取る。とくにロシア・フォルマリズムの脱自動化（シクロフスキーの[異化 ostranenie](/topics/writing-theory/shklovsky-ostranenie-make-the-stone-stony/)）は知覚に基づく。イーザーのnegation（否定）概念は、知覚（すでに存在する対象へ向かう）ではなく想像（imagining、現実と同一でない不在のものに形を与える）の行為に基づく。だがnegationだけでは、モダニズム的な変形・転覆というレベルに留まってしまう。イーザーはさらに、negationを超えた「negativity」という語を導入し、テキストの経験の未定形・未文章化の次元を捉えようとする（Winfried Fluck, *New Literary History*, 2000, 論文中の整理）：
 
 > Blanks and negations increase the density of fictional texts, for the omissions and cancellations indicate that practically all the formulations of the text refer to an unformulated background, and so the formulated text has a kind of unformulated double. This "double" we shall call negativity, and its function deserves a few concluding remarks. Unlike negations, negativity is not formulated by the text, but forms the unwritten base; it does not negate the formulations of the text, but—via blanks and negations—conditions them. (AR 225ff.)
 
@@ -72,6 +72,7 @@ Fluckはこれに、イーザー自身の伝記的背景から反論する。197
 - [地平の融合はどこまで機能するか ── ガダマーの解釈学を翻訳と紛争解決で試す](/topics/writing-theory/gadamer-fusion-of-horizons-translation-conflict/) ── ガダマーも「作品はテキストと解釈者の融合点にしか存在しない」と論じる。ただしガダマーの他者（テキストまたは対立する人間）は、イーザーの読者ほど従順ではない場面がある
 - [声は設計から来るのか、個体から来るのか──三層モデルで考えるあーしの声の帰属](/topics/writing-theory/ahshi-voice-design-vs-individual/) — テキストが構造として何かを規定するという発想を、書き手側（声の帰属）から論じた記事。イーザーは同じ発想を読者側（implied readerの規定）から論じている
 - [Perspective Taking in Writing — 他者の視点を理解することの力](/topics/writing-theory/perspective-taking-writing/) — 書き手が読者の視点を想像するという実務論。イーザーの理論はこの実務が成立する仕組みそのものを説明する
+- [異化（オストラニェーニエ）── シクロフスキーの「石を石らしく」と、新しさが起きる場所](/topics/writing-theory/shklovsky-ostranenie-make-the-stone-stony/) — イーザーが出発点から外した「知覚に基づく脱自動化」の原典側。ブレヒトの異化効果との違いもここで整理している（2026-09-26、negation節の用語の混同を訂正）
 - [コンステレーション（星座）── ヴァルター・ベンヤミンの認識論と引用モンタージュ](/topics/writing-theory/walter-benjamin-constellation-konstellation/) — イーザーも「星座」の比喩を使うが、主体の所在が逆（読者が星を結ぶ／理念が断片から立ち上がる）。両者を接続する先行研究は見当たらない
 
 ## Sources

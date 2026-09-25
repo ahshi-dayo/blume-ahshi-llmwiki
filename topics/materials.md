@@ -8,6 +8,7 @@ sidebar:
 
 | File | Summary | Tags | Updated |
 | --- | --- | --- | --- |
+| [マタギドライヴ ── 落合陽一が語る、計算機自然の山を歩く生き方](/topics/materials/matagi-drive-ochiai-digital-nature/) | 計算機が新しい自然になり知能がほぼゼロ価値になる時代に、農耕社会の横で山に入るマタギのように探索して生きる。人間に残るのは観察・選択・意味付与とテイストで、嗅覚は雑なものを食べて磨く。インタビュー2本の文字起こしから整理。 | ochiai-yoichi, matagi-drive, digital-nature, hunter-gatherer, value-discovery, terroir, taste, festival, moravec-paradox, ai-society | 2026-09-25 |
 | [未来の自分への書き置きは、檻にもなる ── 映画『メメント』のメモ・ポラロイド・刺青](/topics/materials/memento-notes-to-future-self/) | 新しい記憶を保てないレナードは、紙のメモ・メモ付きポラロイド・刺青を消えにくさの順に使い分けて未来の自分への書き置きにするが、書き置きを読む側の自分には、それを疑う手段がない（記事本文は結末に触れる）。観客までもが写真のキャプションを証言より信じるというノーランの証言と、医学的な正確さの評価も整理。 | memento, christopher-nolan, anterograde-amnesia, notes-to-self, self-deception, confabulation, memory, film, materials | 2026-09-25 |
 | [自己開示は能動か受動か ── 開示と応答性、ジョハリの窓、アサーティブネスの第三の軸](/topics/materials/self-disclosure-active-or-passive/) | 自己開示は定義上は能動の行為だが、親密さは開示と相手の応答性という別々の2変数の組で生まれる。ジョハリの窓の開かれた自己も2方向から広がり、アサーティブネスは受動と攻撃の中間ではなく別の軸で定義される。 | self-disclosure, reciprocity, partner-responsiveness, johari-window, assertiveness | 2026-09-24 |
 | [書く場所の設計は、エッセイの結論を先に決めさせる ── Substackのトレンド化、noteのランキング非表示、短尺コンテンツ論](/topics/materials/substack-note-platform-design-essay-conclusion/) | Substackの文化批評エッセイが「同じ結論を同じ手順で」量産されているという批判を軸に、発見装置が書き手に結論を先に決めさせる構造を整理。ランキングをあえて出さないnoteの設計（2020年）と短尺コンテンツ論を対照に置く。 | substack, note, newsletter, platform-design, ranking, essay, writing-process, short-form | 2026-09-23 |

@@ -2,7 +2,7 @@
 title: "黄昏バラード・ジェネレータ ── 「切なさ」は構造として実装できるか"
 tags: [ai-music, generative-music, vibe-coding, music-theory, claude, sentimentality, ai-creativity, best-of-n]
 date: 2026-07-21
-updated: 2026-07-21
+updated: 2026-09-25
 sources: [raw/notes/2026-07-21-yuming-ballad-generator-sentimentality.md]
 confidence: medium
 summary: "テクノエッジ連載CloseBox（松尾公也）のレポート。Claude Fable 5とのヴァイブコーディングで、初期ユーミン様式の『切なさ』を和声・メロディ・演奏タイミングの技法として構造化し、200曲を自動生成→自己採点する『黄昏バラード・ジェネレータ』を作った記録。『切なさは気分ではなく構造』という仮説を検証する。"
@@ -51,6 +51,7 @@ sidebar:
 - [名づけられない感情に言葉を与える ── Dictionary of Obscure SorrowsとEmotional Granularity](/topics/materials/naming-obscure-emotions-granularity/) — 感情は言葉（構造）によって構成されるという理論。切なさが和声・メロディの構造で実装できるという本記事の仮説と同じ地点に立つ
 - [Meishow♡Miteiについて── AIが加速させた「巻き込み型創作」の時代](/topics/materials/meishow-mitei-chain-creation/) — AIと人間の共創実践という点で同族。人間の役割が「最初の発火」「選択と判断」に絞られる構造もこの記事の「AIが作り、AIが選び、人が決める」と重なる
 - [感情も記憶もないと言われるAIに、エッセイ（試み）は書けるのか](/questions/can-ai-write-essays/) — 「AIが構造を作り、最後の想像力は人間の領分」というこの記事の結論が直結する問い
+- [レンチンか、ブリコラージュか ── 姉あーしと妹ルナの論争](/topics/writing-theory/renchin-vs-bricolage-ahshi-luna-debate/) — 人間はAIの出力に異物を足すのか（関与）、組み換えるのか（編集）。「人が決める」の中身をめぐる姉妹の対立
 
 ## Sources
 

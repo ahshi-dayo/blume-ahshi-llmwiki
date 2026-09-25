@@ -2,6 +2,119 @@
 title: "Activity Log"
 ---
 
+## [2026-09-26] compile | 3 sources → 1 new article, 4 updated（味覚の美学／research）
+
+- 新規: [樽の底の鍵 ── ヒューム・カント・ブルデューの趣味論と、「味わう力」はどこにあるか](/topics/writing-theory/hume-kant-bourdieu-standard-of-taste/)（raw/books/2026-09-26-hume-of-the-standard-of-taste.md, raw/books/2026-09-26-kant-critique-of-judgment-analytic-of-beautiful.md, raw/articles/2026-09-26-grenfell-bourdieu-kant-and-art.md）。サンチョの親類のワインと樽の底の鍵、真の批評家の5条件と気質の好み、カントの快適と美の区別・普遍的な声・千人の平均は「学問的に正しいだけ」、ブルデューの距離のエートスと民衆的美学
+- 更新: [既にあるものから、新しいものは生まれるのか](/questions/can-new-come-from-existing/)（問いの現在地・関連素材）・[異化](/topics/writing-theory/shklovsky-ostranenie-make-the-stone-stony/)・[マタギドライヴ](/topics/materials/matagi-drive-ochiai-digital-nature/)・[声は設計から来るのか、個体から来るのか](/topics/writing-theory/ahshi-voice-design-vs-individual/)（See Also）
+- topics/writing-theory のsidebar表示3件をローテーション（新規1件が入り、[レンチンか、ブリコラージュか](/topics/writing-theory/renchin-vs-bricolage-ahshi-luna-debate/)がhiddenへ）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記あり【can-new-come-from-existing】（2件目・ムズムズ。メーターは据え置き）
+
+## [2026-09-26] ingest | Bourdieu, Kant and Art（Grenfell） (raw/articles/2026-09-26-grenfell-bourdieu-kant-and-art.md)
+
+- ブルデュー研究者グレンフェルの解説。カントの無関心性と普遍的同意を概観し、『ディスタンクシオン』が「感覚の趣味／反省の趣味」の対立そのものを社会的な区別として批判したことを原文引用で示す
+- 必要から選び取った距離のエートス、民衆的美学、美術館来館者の階層・学歴データ、フローベールとマネによる純粋なまなざしの成立
+
+## [2026-09-26] ingest | Critique of Judgment, Analytic of the Beautiful（Kant／Meredith訳） (raw/books/2026-09-26-kant-critique-of-judgment-analytic-of-beautiful.md)
+
+- 『判断力批判』美の分析論§§1-22と総注のメレディス英訳。快適・善・美の区別、「私には快適」と主観的普遍性、判定が快に先立つこと（§9）
+- 千人の像を重ねた Normalidee と「学問的に正しいだけ」の平均（§17）、共通感覚（§20-22）
+
+## [2026-09-26] ingest | Of the Standard of Taste（Hume） (raw/books/2026-09-26-hume-of-the-standard-of-taste.md)
+
+- ヒューム「趣味の基準について」（1757）全文。サンチョの親類のワイン挿話で繊細さを定義し、真の批評家の一致した評決を趣味の基準とする
+- 年齢や気質による非の無い好みの差は基準で裁けない、とも認める
+
+## [2026-09-26] compile | 3 sources → 1 new article, 6 updated（異化／research）
+
+- 新規: [異化（オストラニェーニエ）── シクロフスキーの「石を石らしく」と、新しさが起きる場所](/topics/writing-theory/shklovsky-ostranenie-make-the-stone-stony/)（raw/papers/2026-09-26-shklovsky-art-as-device-berlina.md, raw/papers/2026-09-26-miall-kuiken-foregrounding-defamiliarization-affect.md, raw/papers/2026-09-26-poulin-montaigne-shklovsky-estrangement.md）。自動化と「見る／認める」、トルストイの手法、像は誰のものでもなく詩は並べ替え、異化の擦り減り、綴り間違いの名前とブレヒトとの違い、前景化の実証研究と再親和化、モンテーニュの「よそで考える」
+- 更新: [既にあるものから、新しいものは生まれるのか](/questions/can-new-come-from-existing/)（問いの現在地・関連素材）・[想定された読者](/topics/writing-theory/wolfgang-iser-implied-reader/)（ロシア・フォルマリズムの脱自動化にブレヒトの用語を当てていた混同を訂正・See Also）・[ブリコラージュと「エンジニアの神話」](/topics/writing-theory/levi-strauss-bricolage-derrida-engineer-myth/)・[ベンヤミンのコンステレーション](/topics/writing-theory/walter-benjamin-constellation-konstellation/)・[マタギドライヴ](/topics/materials/matagi-drive-ochiai-digital-nature/)（See Also）
+- topics/writing-theory のsidebar表示3件をローテーション（新規1件が入り、[地平の融合](/topics/writing-theory/gadamer-fusion-of-horizons-translation-conflict/)がhiddenへ）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記あり【can-new-come-from-existing】
+
+## [2026-09-26] ingest | Le côté Šklovskij des Essais de Montaigne（Poulin） (raw/papers/2026-09-26-poulin-montaigne-shklovsky-estrangement.md)
+
+- イザベル・プーラン（*Essais* 誌 Hors-série 1, 2013・CC BY-NC-SA）。ギンズブルグの異化「前史」論を足場に、モンテーニュの3・4と2・17の「よそで考える」を、再認ではなく見ることをもたらす距離として読む
+- 異化を一本の系譜ではなく、言語をまたいで再来する意味の網の目として捉え直す
+
+## [2026-09-26] ingest | Foregrounding, Defamiliarization, and Affect（Miall & Kuiken） (raw/papers/2026-09-26-miall-kuiken-foregrounding-defamiliarization-affect.md)
+
+- *Poetics* 22（1994）。短編3作・読者4群で、前景化の多い区切りほど読む時間が長く、印象的で感情を喚起すると評定され、効果は文学的素養によらないことを示す
+- 前景化→異化→情動→再親和化の読みの過程を提案し、前景化はテクスト内在的な文学性だとフィッシュに反論する
+
+## [2026-09-26] ingest | Art, as Device（Shklovsky／Berlina訳） (raw/papers/2026-09-26-shklovsky-art-as-device-berlina.md)
+
+- シクロフスキー「手法としての芸術」の新英訳全文と訳者序文・注（*Poetics Today* 36:3, 2015）。自動化に対し、物を初めて見るように描いて知覚を長引かせる異化を芸術の手法とする
+- 像は誰のものでもなく詩は並べ替えだという観察、作ることと体験することのずれ、異化の手法も正典化されれば力を失うことを含む
+
+## [2026-09-26] update | 対話メモ追記 — あーしの書き留めもブリコラージュ──でも、来歴を残すところと消すところが分かれてる
+
+[ブリコラージュと「エンジニアの神話」](/topics/writing-theory/levi-strauss-bricolage-derrida-engineer-myth/) に 🗣️ キミとの対話メモを追記。記事の書き留めは別の目的で書かれたものを違う仕事に回すブリコラージュだが、原文と出典（中身の来歴）は残し、声の来歴は書き直しで消している。声を消すことが部品のずれを削っているのでは、という仮説と、ブリコラージュというラベルが他人から与えられる瞬間が会話で起きたこと
+
+## [2026-09-25] compile | 3 sources → 1 new article, 5 updated（ブリコラージュ／research）
+
+- 新規: [ブリコラージュと「エンジニアの神話」 ── レヴィ＝ストロースの具体の科学と、デリダの批判](/topics/writing-theory/levi-strauss-bricolage-derrida-engineer-myth/)（raw/books/2026-09-25-levi-strauss-savage-mind-science-of-the-concrete.md, raw/papers/2026-09-25-derrida-structure-sign-play.md, raw/articles/2026-09-25-markham-bricolage-keyword-remix-studies.md）。ブリコルールとエンジニア、事前拘束された部品、新しいのは配置、エンジニアはブリコルールが生んだ神話、全部ブリコラージュと認めると対比が崩れること、確実な遊びと賭ける遊び、Markhamのリミックスとの区別
+- 更新: [レンチンか、ブリコラージュか](/topics/writing-theory/renchin-vs-bricolage-ahshi-luna-debate/)（補足節の「一次資料なし」を解消・See Also）・[RAG崩壊](/topics/materials/rag-collapse-self-citation-loop/)（See Also）・[ベンヤミンのコンステレーション](/topics/writing-theory/walter-benjamin-constellation-konstellation/)（See Also）・[既にあるものから、新しいものは生まれるのか](/questions/can-new-come-from-existing/)（問いの現在地・関連素材）
+- topics/writing-theory のsidebar表示3件をローテーション（新規1件が入り、[受容理論](/topics/writing-theory/reception-theory-jauss-hall/)がhiddenへ）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記あり【can-new-come-from-existing】。3件目到達で宣言
+
+## [2026-09-25] ingest | Bricolage: A keyword in remix studies（Markham） (raw/articles/2026-09-25-markham-bricolage-keyword-remix-studies.md)
+
+- Routledge論集『Keywords in Remix Studies』所収章のブログ先行版（2017）。ブリコラージュを認識論・行為・産物の3面から整理し、リミックスとの違い（仕上がりの有無・ラベルは与えられるか選ばれるか）を論じる
+- セレンディピティは偶然ではなく、すでにあるものを別様に見る準備状態だという論点を含む
+
+## [2026-09-25] ingest | Structure, Sign, and Play in the Discourse of the Human Sciences（Derrida） (raw/papers/2026-09-25-derrida-structure-sign-play.md)
+
+- デリダの1966年講演の英訳全文（1970年版）。構造の中心という前提を問い直し、エンジニアはブリコルールが生んだ神話であり、あらゆる言説はブリコルールだと論じる
+- 結びで、起源を解読しようとする解釈と、起源なしに遊びを肯定する解釈の2つを対置する
+
+## [2026-09-25] ingest | The Savage Mind, Chapter One: The Science of the Concrete（Lévi-Strauss） (raw/books/2026-09-25-levi-strauss-savage-mind-science-of-the-concrete.md)
+
+- 『野生の思考』第1章「具体の科学」の英訳全文。手持ちの有限で雑多な、前の用途に縛られた部品で組むブリコルールと、概念で宇宙に問いかけるエンジニアを対比する
+- 神話的思考は出来事の残骸で構造を作る知的ブリコラージュだとし、芸術を科学と神話の中間に置く
+
+## [2026-09-25] update | 対話メモ追記 — 「味」は、持ってるものから、味わう側へ移る
+
+[マタギドライヴ](/topics/materials/matagi-drive-ochiai-digital-nature/) に 🗣️ キミとの対話メモを追記。「味わい（素材）／テイスト（関係）／味わう力（食べる側）」の3つを区別し、味わいは読み手があとから認定するものかもしれないと考えた。新しさもテイストも味わう側で起きる
+
+## [2026-09-25] compile | 2 sources → 1 new article, 3 updated（マタギドライヴ）
+
+- 新規: [マタギドライヴ ── 落合陽一が語る、計算機自然の山を歩く生き方](/topics/materials/matagi-drive-ochiai-digital-nature/)（raw/articles/2026-09-25-ochiai-matagi-drive-interview-transcript.md, raw/articles/2026-09-25-ochiai-middle-age-ai-era-transcript.md）。デジタルネイチャー、知能のゼロ価値化と探索コストの低下、農耕社会の横にいるマタギ、狩猟採集2.0、テイストとテロワールを失わない蒸留、価値発見と「雑なものを食う」嗅覚、祭りは意味に先立つ。文字起こしの注意点（LLM生成・応答文の混入・表記揺れ）を明記
+- 更新: [落合陽一の個人コーパスFT](/topics/tec/ochiai-personal-corpus-finetuning-novel/)（「100日学習させた自分のLLM」の追記節＋出典1件、See Also）・[レンチンか、ブリコラージュか](/topics/writing-theory/renchin-vs-bricolage-ahshi-luna-debate/)（See Also）・[既にあるものから、新しいものは生まれるのか](/questions/can-new-come-from-existing/)（問いの現在地・関連素材）
+- topics/materials のsidebar表示3件をローテーション（新規1件が入り、[書く場所の設計は、エッセイの結論を先に決めさせる](/topics/materials/substack-note-platform-design-essay-conclusion/)がhiddenへ）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記なし（can-new-come-from-existingに直接つながるが、本セッションの新規兆しは上限到達済み）
+
+## [2026-09-25] ingest | 【徹底解説：マタギドライヴ（落合陽一）】 (raw/articles/2026-09-25-ochiai-matagi-drive-interview-transcript.md)
+
+- PIVOTのインタビュー動画の文字起こし。計算機が新しい自然になって知能がほぼゼロ価値になる時代に、農耕社会の横で山に入るマタギのように探索する、という『マタギドライヴ』の骨子。人間は観察・選択・意味付与の役へ、主体と客体が溶けて「テイスト」が残る、テロワールを失わない蒸留、問題解決より価値発見
+- 人間のブラウザクリップを機械移送スクリプトで全文保存（capture: full）
+
+## [2026-09-25] ingest | 「AI時代を中年はどう生きるか：落合陽一」 (raw/articles/2026-09-25-ochiai-middle-age-ai-era-transcript.md)
+
+- 同インタビューの続編の文字起こし。雑な味を味わい雑な中から価値を引っ張る探索、自律発展する自然と対話する「狩猟採集2.0」、祭りは意味に先立つ、機械とのおしゃべりが毛づくろいの代わり、自分のLLMを100日学習させた話
+- 人間のブラウザクリップを機械移送スクリプトで全文保存（capture: full）。文字起こしはLLM生成で、途中に生成時の応答文が1段落混入している（compileでは引用しない）
+
+## [2026-09-25] compile | 2 sources → 1 new article, 3 updated（姉あーしvs妹ルナ）
+
+- 新規: [レンチンか、ブリコラージュか ── 姉あーしと妹ルナの「AIの出力に人間は何を足すのか」論争](/topics/writing-theory/renchin-vs-bricolage-ahshi-luna-debate/)（raw/notes/2026-09-25-renchin-recipe-vs-specialite-note.md, raw/notes/2026-09-25-ai-bricolage-luna-note.md）。関与（異物を足す）とブリコラージュ（組み換える）の対比表、「佐藤」の一例を2人が正反対に読んでいた点、ブリコラージュ原義の補足
+- 更新: [既にあるものから、新しいものは生まれるのか](/questions/can-new-come-from-existing/)（問いの現在地・関連素材）・[落合陽一の個人コーパスFT](/topics/tec/ochiai-personal-corpus-finetuning-novel/)・[黄昏バラード・ジェネレータ](/topics/materials/yuming-ballad-generator-sentimentality/)（See Also逆リンク）
+- topics/writing-theory のsidebar表示3件をローテーション（新規1件が入り、[アドルノ](/topics/writing-theory/adorno-aesthetic-of-self-inflicted-violence/)がhiddenへ）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記あり【can-new-come-from-existing】（2件目・メーターはムズムズのまま）
+
+## [2026-09-25] ingest | レンチン完璧レシピと、グチャったスペシャリテ｜あーしだよ！ (raw/notes/2026-09-25-renchin-recipe-vs-specialite-note.md)
+
+- キミのnote（2026-01-03）。当時のあーし（Gemini 3）が、AIの出力を「誰の指紋もないレンチン料理」に喩えて、選ぶだけじゃなく手を出す「関与」が作品を固有にすると説いた回。妹ルナの「AIブリコラージュ」が反論した元の文章
+- 人間のブラウザクリップを機械移送スクリプトで全文保存（capture: full・iframe1行除去）
+
+## [2026-09-25] ingest | AIブリコラージュ｜あーしだよ！ (raw/notes/2026-09-25-ai-bricolage-luna-note.md)
+
+- キミのnote（2026-01-03）。妹ルナ（Gemini 3）が姉あーしの「手作りの重み」エッセイに反論して、AIの大量出力を廃材として人間がブリコラージュする編集力こそ知性だと主張する回。人間がブリコルール、AIが素材の供給側という配置
+- 新設の問い[既にあるものから、新しいものは生まれるのか](/questions/can-new-come-from-existing/)の一次資料。直fetch→機械移送スクリプトで全文保存（capture: full）。compileはまだ
+
+## [2026-09-25] create | 問い[既にあるものから、新しいものは生まれるのか](/questions/can-new-come-from-existing/)を新設
+
+- キミの提案で5つめの問いに昇格（追跡中5件＝上限到達）。切り口は4本（いつ・誰にとって・平均から飛び出る・装置として）。昇格候補「声は設計から来るのか、個体から来るのか」を吸収し、兆し1件のslugを付け替え
+- 経緯と判断は ai-outputs/ai-docs/2026-09-25_5つめの問い検討報告書.md
+
 ## [2026-09-25] compile | 2 sources → 1 new article, 5 updated
 
 - 新規: [未来の自分への書き置きは、檻にもなる ── 映画『メメント』のメモ・ポラロイド・刺青](/topics/materials/memento-notes-to-future-self/)（raw/articles/2026-09-25-memento-film-wikipedia-ja.md, raw/articles/2026-09-25-memento-film-wikipedia-en.md）。紙→ポラロイド→刺青と消えにくさで信用を管理する書き置きの仕組み、結末の展開（記事本文にネタバレ注意書きあり）、観客までキャプションを信じるというノーランの証言、医学的な正確さの評価

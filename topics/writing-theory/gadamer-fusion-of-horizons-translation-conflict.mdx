@@ -7,7 +7,7 @@ sources: [raw/papers/2026-09-17-ramsbotham-gadamer-truth-method-revisited-fusion
 confidence: high
 summary: "ハンス＝ゲオルク・ガダマーが『真理と方法』で提示した『地平の融合（Horizontverschmelzung）』は、翻訳研究では主観性・直感・身体性を積極的に理論へ統合する枠組みとして機能する一方（Stefanink & Bălăcescu, 2017）、イスラエル/パレスチナやアフガニスタンのような『根源的不一致』を伴う政治紛争には適用できないと批判される（Ramsbotham, 2018）。両者を突き合わせ、この理論がどんな条件下でだけ機能するのかを整理する。"
 sidebar:
-  order: 1
+  hidden: true
 ---
 
 ハンス＝ゲオルク・ガダマー（1900-2002）は『真理と方法』（*Wahrheit und Methode*, 1960）で、理解とは方法論的に達成する技術ではなく、解釈者と対象のあいだで起こる「出来事」だと論じた。解釈者は誰しも「先入見（*Vorurteil*）」──ハイデガーの言う先行理解──を抱えて対象に向き合う。理解が始まるのは、その先入見が対象によって揺さぶられ、更新を迫られたときだ。この先入見が及ぶ範囲をガダマーは「地平（*Horizont*）」と呼び、理解とは自分の地平と対象（テキスト・他者）の地平が溶け合う「地平の融合（*Horizontverschmelzung*）」だと定式化した。
