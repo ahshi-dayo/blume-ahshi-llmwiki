@@ -1,6 +1,6 @@
 ---
 title: "LLMにタグ単位でWikiページを自動生成する ── 半年運用して分かった「本文は要らない」という逆説"
-tags: [llm-wiki, tag-based-wiki, knowledge-graph, visualization, okf, karpathy, personal-knowledge-management]
+tags: [llm-wiki, tag-based-wiki, knowledge-graph, visualization, okf, andrej-karpathy, personal-knowledge-management]
 date: 2026-09-19
 updated: 2026-09-19
 sources: [raw/articles/2026-09-19-llm-wiki-tag-pages-graph-visualization.md]

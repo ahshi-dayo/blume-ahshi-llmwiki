@@ -1,6 +1,6 @@
 ---
 title: "中島敦『山月記』──自意識と羞恥心が虎を生んだ"
-tags: [中島敦, 山月記, self-consciousness, pride, shame, modern-literature, chinese-classics, 人虎伝, 青空文庫, 西原大祐, perfectionism, biography]
+tags: [nakajima-atsushi, sangetsuki, self-consciousness, pride, shame, modern-literature, chinese-classics, jinkoden, aozora-bunko, nishihara-daisuke, perfectionism, biography]
 date: 2026-05-30
 updated: 2026-08-10
 sources: [raw/books/2026-05-30-nakajima-zangetsuki.md, raw/articles/2026-05-30-zangetsuki-rikunabi-explain.md, raw/articles/2026-08-10-nakajima-atsushi-biography-wikipedia.md]

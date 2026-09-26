@@ -1,6 +1,6 @@
 ---
 title: "エッセイ・随筆・作文・コラム ── 4つのジャンルの境界線はどこにあるか"
-tags: [essay, zuihitsu, column, sakubun, genre-definition, montaigne, makura-no-soshi, japan-essayist-club, writing-theory]
+tags: [essay, zuihitsu, column, school-composition, genre-definition, montaigne, makura-no-soshi, japan-essayist-club, writing-theory]
 date: 2026-09-02
 updated: 2026-09-02
 sources: [raw/articles/2026-09-02-essay-definition-types-britannica.md, raw/articles/2026-09-02-essay-zuihitsu-korumu-chigai-kagiroi.md, raw/articles/2026-09-02-essay-vs-zuihitsu-koubo-interview.md]

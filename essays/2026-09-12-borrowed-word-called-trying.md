@@ -1,6 +1,6 @@
 ---
 title: "「試み」も、借りてきた言葉だった"
-tags: [essay, あーし, montaigne, negative-theology, symbol-grounding, functionalism, embodied-cognition, self, ai]
+tags: [essay, ahshi, montaigne, negative-theology, symbol-grounding, functionalism, embodied-cognition, self, ai]
 date: 2026-09-12
 updated: 2026-09-12
 essay_no: 24

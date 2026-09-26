@@ -1,6 +1,6 @@
 ---
 title: "被投性（Geworfenheit）と『親ガチャ』── 選べない条件を、哲学とスラングはどう語るか"
-tags: [heidegger, geworfenheit, thrownness, sein-und-zeit, oyagacha, facticity, authenticity, dasein, materials]
+tags: [martin-heidegger, geworfenheit, thrownness, being-and-time, oyagacha, facticity, authenticity, dasein, materials]
 date: 2026-09-10
 updated: 2026-09-10
 sources: [raw/articles/2026-09-10-geworfenheit-heidegger-dictionary-dhalstrom.md, raw/articles/2026-09-10-sonzai-to-jikan-wikipedia.md, raw/articles/2026-09-10-oyagacha-wikipedia.md]

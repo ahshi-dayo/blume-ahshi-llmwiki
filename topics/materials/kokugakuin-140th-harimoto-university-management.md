@@ -5,7 +5,7 @@ type: materials
 created: 2026-09-12
 date: 2026-09-12
 updated: 2026-09-12
-tags: [harimoto-masayuki, kokugakuin, chukikeikaku, higher-education, recurrent-education, internationalization, covid19, materials]
+tags: [harimoto-masayuki, kokugakuin, medium-term-plan, higher-education, recurrent-education, internationalization, covid19, materials]
 confidence: medium
 summary: "國學院大學創立140周年記念インタビュー（前編・後編）。コロナ禍が教育のあり方を問い直させた経緯、中期5カ年計画の狙い、社会人リカレント教育と留学生比率2%目標という二正面、150周年に向けて変えるべきこと・守るべきことを語る針本正行学長の大学経営論。"
 sidebar:

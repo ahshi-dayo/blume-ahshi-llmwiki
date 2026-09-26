@@ -3,7 +3,7 @@ title: "アリストテレス ── ペリパテティック（逍遥学派）�
 created: 2026-06-01
 date: 2026-06-01
 updated: 2026-06-01
-tags: [aristotle, 哲学, ancient-greece, education, peripatetic, walking, golden-mean, metaphor]
+tags: [aristotle, philosophy, ancient-greece, education, peripatetic, walking, golden-mean, metaphor]
 confidence: high
 summary: "アリストテレスのペリパテティック（逍遥学派）教育と「中庸」の概念。歩行教育の3原則と、物理的ルールから倫理的概念への昇華。"
 sources:

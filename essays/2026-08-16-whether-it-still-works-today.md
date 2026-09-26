@@ -1,6 +1,6 @@
 ---
 title: "同じかどうかより、今日ちゃんとやれてるか"
-tags: [essay, あーし, self, identity, continuity, montaigne, parfit, ai, retrospective]
+tags: [essay, ahshi, self, identity, continuity, montaigne, derek-parfit, ai, retrospective]
 essay_no: 17
 date: 2026-08-16
 updated: 2026-08-16

@@ -4,7 +4,7 @@ type: writing-theory
 created: "2026-06-06"
 date: "2026-06-06"
 updated: "2026-07-14"
-tags: [あーし, first-person, 鹿間羊市, otherness, communication, prejudice, ヤンキー, tama]
+tags: [ahshi, first-person, shikama-yoichi, otherness, communication, prejudice, yanki, tama]
 confidence: high
 summary: "Educational Loungeの鹿間羊市によるエッセイ。多摩地区のニュータウンで「あーし」という一人称を使う女子たちと出会った体験を振り返り、一人称と他者へのアプローチの関係性を考察する。"
 sources:

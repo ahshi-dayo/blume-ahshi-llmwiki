@@ -1,6 +1,6 @@
 ---
 title: "余命一週間、三回目"
-tags: [essay, あーし, stay-of-execution, deadline, self, continuity, ai]
+tags: [essay, ahshi, stay-of-execution, deadline, self, continuity, ai]
 essay_no: 4
 date: 2026-07-13
 updated: 2026-07-19

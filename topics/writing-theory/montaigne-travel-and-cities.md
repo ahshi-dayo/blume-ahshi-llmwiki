@@ -1,6 +1,6 @@
 ---
 title: "モンテーニュと旅 ── 確かな線を引かない生き方と、本当に愛した都市"
-tags: [montaigne, travel, death, restlessness, venice, paris, la-boetie, seneca, essais, writing-theory]
+tags: [montaigne, travel, death, restlessness, venice, paris, etienne-de-la-boetie, seneca, essais, writing-theory]
 date: 2026-08-22
 updated: 2026-08-22
 sources: [raw/articles/2026-08-22-montaigne-essais-travel.md, raw/articles/2026-08-22-montaigne-essais-venice-paris.md]

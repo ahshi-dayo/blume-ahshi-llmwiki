@@ -1,6 +1,6 @@
 ---
 title: "検索が自分に還ってくるとき ── 自己引用ループが引き起こす『RAG崩壊』"
-tags: [rag, retrieval-augmented-generation, model-collapse, self-bias, epistemic-parasitism, ai-generated-content, citation-bias, llm, materials]
+tags: [rag, model-collapse, self-bias, epistemic-parasitism, ai-generated-content, citation-bias, llm, materials]
 date: 2026-09-14
 updated: 2026-09-25
 sources: [raw/papers/2026-09-14-rag-collapse-self-authored-references.md]

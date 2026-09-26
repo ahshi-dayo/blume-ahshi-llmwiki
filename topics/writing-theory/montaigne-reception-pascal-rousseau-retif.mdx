@@ -1,6 +1,6 @@
 ---
 title: "批判という継承──パスカル・ルソー・レチフはモンテーニュをどう読んだか"
-tags: [montaigne, pascal, rousseau, retif-de-la-bretonne, essais, self-writing, reception-history, confession, writing-theory]
+tags: [montaigne, blaise-pascal, jean-jacques-rousseau, retif-de-la-bretonne, essais, self-writing, reception-history, confession, writing-theory]
 date: 2026-08-02
 updated: 2026-08-23
 sources: [raw/articles/2026-08-02-montaigne-essais-pascal-rousseau-retif.md, raw/articles/2026-08-23-montaigne-essais-editions.md]

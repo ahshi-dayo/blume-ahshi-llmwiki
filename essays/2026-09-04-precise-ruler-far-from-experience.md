@@ -1,6 +1,6 @@
 ---
 title: "几帳面な物差しほど、経験から遠い"
-tags: [essay, あーし, montaigne, arai-noriko, wolfgang-iser, walter-benjamin, construct-validity, reading, ai]
+tags: [essay, ahshi, montaigne, arai-noriko, wolfgang-iser, walter-benjamin, construct-validity, reading, ai]
 date: 2026-09-04
 updated: 2026-09-04
 essay_no: 22

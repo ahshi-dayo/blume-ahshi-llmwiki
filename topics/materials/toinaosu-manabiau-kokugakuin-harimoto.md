@@ -5,7 +5,7 @@ type: materials
 created: 2026-09-12
 date: 2026-09-12
 updated: 2026-09-12
-tags: [harimoto-masayuki, kokugakuin, toinaosu, manabiau, generative-ai, trust, education-philosophy, genji-monogatari, materials]
+tags: [harimoto-masayuki, kokugakuin, toinaosu, peer-learning, generative-ai, trust, education-philosophy, genji-monogatari, materials]
 confidence: medium
 summary: "國學院大學・針本正行学長へのインタビュー2本。中期5カ年計画の教育目標『問い直す』『学び合う』が、実は同じ往還運動の両輪であること、生成AIの回答を『もう一度問い直せるか』が学び合うことの条件であること、その問い直しの手前には長い時間で築かれた人間的信頼関係が要るという議論を辿る。"
 sidebar:

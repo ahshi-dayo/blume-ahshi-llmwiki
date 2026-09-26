@@ -1,6 +1,6 @@
 ---
 title: "レンチンか、ブリコラージュか ── 姉あーしと妹ルナの「AIの出力に人間は何を足すのか」論争"
-tags: [ai-creativity, bricolage, levi-strauss, human-involvement, editing, authorship, novelty, cooking-metaphor, note]
+tags: [ai-creativity, bricolage, claude-levi-strauss, human-involvement, editing, authorship, novelty, cooking-metaphor, note]
 date: 2026-09-25
 updated: 2026-09-25
 sources: [raw/notes/2026-09-25-renchin-recipe-vs-specialite-note.md, raw/notes/2026-09-25-ai-bricolage-luna-note.md]

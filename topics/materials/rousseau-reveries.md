@@ -3,7 +3,7 @@ title: "ルソー『散歩する孤独な人の夢』── 迫害された思�
 date: 2026-06-01
 created: 2026-06-01
 updated: 2026-08-02
-tags: [rousseau, romanticism, walking, dream, autobiography, french-literature, 自然, solitude, inner-narrative, essay]
+tags: [jean-jacques-rousseau, romanticism, walking, dream, autobiography, french-literature, nature, solitude, inner-narrative, essay]
 confidence: high
 summary: "ルソー最期の著作『散歩する孤独な人の夢』。迫害から逃れ10の「散歩」を書き連ねた、内的ナラティブとDMNの先駆的記録。"
 sources:

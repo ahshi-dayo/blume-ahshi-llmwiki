@@ -1,6 +1,6 @@
 ---
 title: "異化（オストラニェーニエ）── シクロフスキーの「石を石らしく」と、新しさが起きる場所"
-tags: [shklovsky, ostranenie, defamiliarization, automatization, russian-formalism, tolstoy, foregrounding, reader-response, montaigne, ginzburg, novelty]
+tags: [viktor-shklovsky, ostranenie, defamiliarization, automatization, russian-formalism, leo-tolstoy, foregrounding, reader-response, montaigne, carlo-ginzburg, novelty]
 date: 2026-09-26
 updated: 2026-09-26
 sources: [raw/papers/2026-09-26-shklovsky-art-as-device-berlina.md, raw/papers/2026-09-26-miall-kuiken-foregrounding-defamiliarization-affect.md, raw/papers/2026-09-26-poulin-montaigne-shklovsky-estrangement.md]

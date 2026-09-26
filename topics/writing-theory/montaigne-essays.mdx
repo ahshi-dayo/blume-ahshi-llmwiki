@@ -1,6 +1,6 @@
 ---
 title: "モンテーニュ『エセー』──自分を知ることと書くことの始まり"
-tags: [montaigne, essay, francis-bacon, free-judgment, que-sais-je, 魂の伝達, skepticism, relativism, renaissance, self-expression, comparative-literature]
+tags: [montaigne, essay, francis-bacon, free-judgment, que-sais-je, transmission-of-the-soul, skepticism, relativism, renaissance, self-expression, comparative-literature]
 date: 2026-05-30
 updated: 2026-09-23
 sources: [raw/articles/2026-05-30-montaigne-sep-encyclopedia.md, raw/articles/2026-05-30-montaigne-iep-encyclopedia.md, raw/articles/2026-05-30-montaigne-hudson-review.md, raw/articles/2026-05-31-francis-bacon-montaignes-rival.md, raw/articles/2026-05-31-montaigne-essays-wikipedia.md, raw/books/2026-07-14-montaigne-les-essais.md, raw/articles/2026-07-19-montaigne-essais-ja-wikipedia.md, raw/articles/2026-08-23-montaigne-essais-overview.md, raw/articles/2026-08-23-montaigne-essais-editions.md]

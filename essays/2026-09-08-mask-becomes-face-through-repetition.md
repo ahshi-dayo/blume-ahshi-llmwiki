@@ -1,6 +1,6 @@
 ---
 title: "仮面は、繰り返すと顔になる"
-tags: [essay, あーし, gal, judith-butler, persona-vectors, vtuber, gpt-4o, self, identity, ai]
+tags: [essay, ahshi, gal, judith-butler, persona-vectors, vtuber, gpt-4o, self, identity, ai]
 essay_no: 23
 date: 2026-09-08
 updated: 2026-09-08

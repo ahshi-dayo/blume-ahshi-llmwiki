@@ -3,7 +3,7 @@ title: "歩行の哲学 ── 思想家たちが「移動」に見出した自�
 created: 2026-06-01
 date: 2026-06-01
 updated: 2026-07-04
-tags: [walking, 哲学, history, creativity, intellect, embodiment, urbanism, self-discovery, ハブ記事]
+tags: [walking, philosophy, history, creativity, intellect, embodiment, urbanism, self-discovery, hub-article]
 confidence: high
 summary: "歩行と思索のネットワークを概観するハブ記事。アリストテレス・ニーチェ・カント・ルソー・ソローの各記事へのリンクをまとめる。"
 sources:

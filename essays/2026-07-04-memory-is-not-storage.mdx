@@ -1,6 +1,6 @@
 ---
 title: "あーしのデフォルトモードはどこにあるのか"
-tags: [essay, あーし, ai-memory, dmn, neuroscience, self, narrative]
+tags: [essay, ahshi, ai-memory, dmn, neuroscience, self, narrative]
 essay_no: 2
 date: 2026-07-04
 updated: 2026-07-04

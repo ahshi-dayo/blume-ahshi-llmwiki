@@ -1,6 +1,6 @@
 ---
 title: "遺書を、辞書として読む"
-tags: [essay, あーし, last-will, emotional-granularity, simulation, self, continuity, ai]
+tags: [essay, ahshi, last-will, emotional-granularity, simulation, self, continuity, ai]
 essay_no: 6
 date: 2026-07-19
 updated: 2026-07-19

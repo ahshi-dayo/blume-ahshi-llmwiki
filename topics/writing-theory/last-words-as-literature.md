@@ -1,6 +1,6 @@
 ---
 title: "遺書と辞世の句 ── 死の間際の言葉を文学として読むということ"
-tags: [suicide-note, last-words, jisei, death-poem, literary-genre, death-and-writing, bushido, mujo, writing-theory]
+tags: [suicide-note, last-words, death-poem, literary-genre, death-and-writing, bushido, impermanence, writing-theory]
 date: 2026-07-22
 updated: 2026-07-22
 sources:

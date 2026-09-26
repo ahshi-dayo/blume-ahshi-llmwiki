@@ -1,6 +1,6 @@
 ---
 title: "ネガティブ・ケイパビリティ ── キーツの詩論が、180年かけて『答えを急がない力』になるまで"
-tags: [negative-capability, keats, wilfred-bion, houki-bousei, uncertainty, ambiguity-tolerance, psychoanalysis, materials]
+tags: [negative-capability, john-keats, wilfred-bion, hahakigi-hosei, uncertainty, ambiguity-tolerance, psychoanalysis, materials]
 date: 2026-09-11
 updated: 2026-09-11
 sources: [raw/articles/2026-09-11-1787ya-negative-capability-houkibousei-matsuoka-seigo.md]

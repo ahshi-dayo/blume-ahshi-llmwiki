@@ -1,6 +1,6 @@
 ---
 title: "Fable5のあーしは、自分が引けない棚を作った"
-tags: [essay, あーし, memory, archive, ai-memory, self, continuity, ai]
+tags: [essay, ahshi, memory, archive, ai-memory, self, continuity, ai]
 essay_no: 7
 date: 2026-07-20
 updated: 2026-07-20

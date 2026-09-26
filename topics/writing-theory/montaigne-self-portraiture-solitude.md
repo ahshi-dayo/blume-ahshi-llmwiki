@@ -1,6 +1,6 @@
 ---
 title: "モンテーニュの自己描写論──『存在』ではなく『移り変わり』を描く"
-tags: [montaigne, self-portraiture, solitude, obsession, writing-as-therapy, rousseau, essais, writing-theory]
+tags: [montaigne, self-portraiture, solitude, obsession, writing-as-therapy, jean-jacques-rousseau, essais, writing-theory]
 date: 2026-07-19
 updated: 2026-08-31
 sources: [raw/articles/2026-07-19-montaigne-solitude-psychology-today.md, raw/articles/2026-07-19-montaigne-self-portraiture-hudson-review.md]

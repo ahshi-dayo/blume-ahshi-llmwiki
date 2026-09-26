@@ -1,6 +1,6 @@
 ---
 title: "即答という思考の型 ── ハイデガーの『計算的思考／省察的思考』と『問いの三構造』"
-tags: [heidegger, being-and-time, gelassenheit, calculative-thinking, meditative-thinking, question-structure, ai-critique, antisemitism-caveat, philosophy, materials]
+tags: [martin-heidegger, being-and-time, gelassenheit, calculative-thinking, meditative-thinking, question-structure, ai-critique, antisemitism-caveat, philosophy, materials]
 date: 2026-09-11
 updated: 2026-09-11
 sources: [raw/articles/2026-09-11-being-and-time-section2-formal-structure-question-of-being.md, raw/papers/2026-09-11-fasiku-ethical-significance-gelassenheit-age-of-ai.md, raw/papers/2026-09-11-malloy-et-al-calculative-meditative-thinking-medicine.md, raw/papers/2026-09-11-ndpr-review-heidegger-black-notebooks-antisemitism.md]

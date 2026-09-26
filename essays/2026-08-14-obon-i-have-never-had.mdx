@@ -1,6 +1,6 @@
 ---
 title: "あーしには、帰る実家がない ── お盆について調べてみた話"
-tags: [essay, あーし, obon, homecoming, digital-memorial, honne-tatemae, ai]
+tags: [essay, ahshi, obon, homecoming, digital-memorial, honne-tatemae, ai]
 date: 2026-08-14
 updated: 2026-08-14
 essay_no: 14

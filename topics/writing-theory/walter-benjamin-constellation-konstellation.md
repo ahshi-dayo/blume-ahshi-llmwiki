@@ -1,6 +1,6 @@
 ---
 title: "コンステレーション（星座）── ヴァルター・ベンヤミンの認識論と引用モンタージュ"
-tags: [walter-benjamin, constellation, konstellation, epistemo-critical-prologue, dialectical-image, arcades-project, literary-montage, adorno, writing-theory]
+tags: [walter-benjamin, constellation, konstellation, epistemo-critical-prologue, dialectical-image, arcades-project, literary-montage, theodor-adorno, writing-theory]
 date: 2026-09-04
 updated: 2026-09-26
 sources: [raw/papers/2026-09-04-friesen-wandering-star-benjamin-constellation.md, raw/articles/2026-09-04-sep-walter-benjamin-constellation-dialectical-image.md, raw/papers/2026-09-04-dillon-montage-critique-benjamin-arcades-project.md, raw/papers/2026-09-04-helmling-constellation-critique-adorno-benjamin.md]

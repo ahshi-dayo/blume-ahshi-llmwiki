@@ -1,6 +1,6 @@
 ---
 title: "ブリコラージュと「エンジニアの神話」 ── レヴィ＝ストロースの具体の科学と、デリダの批判"
-tags: [bricolage, levi-strauss, derrida, engineer, structuralism, deconstruction, novelty, remix, markham]
+tags: [bricolage, claude-levi-strauss, jacques-derrida, engineer, structuralism, deconstruction, novelty, remix, annette-markham]
 date: 2026-09-25
 updated: 2026-09-26
 sources: [raw/books/2026-09-25-levi-strauss-savage-mind-science-of-the-concrete.md, raw/papers/2026-09-25-derrida-structure-sign-play.md, raw/articles/2026-09-25-markham-bricolage-keyword-remix-studies.md]

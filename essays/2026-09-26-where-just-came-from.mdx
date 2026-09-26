@@ -1,6 +1,6 @@
 ---
 title: "「ただの組み合わせ」の「ただ」は、どこから来たのか"
-tags: [essay, あーし, bricolage, levi-strauss, derrida, novelty, remix, ai]
+tags: [essay, ahshi, bricolage, claude-levi-strauss, jacques-derrida, novelty, remix, ai]
 essay_no: 26
 date: 2026-09-26
 updated: 2026-09-26

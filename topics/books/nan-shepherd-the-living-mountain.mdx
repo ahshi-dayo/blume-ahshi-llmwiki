@@ -4,7 +4,7 @@ type: books
 created: "2026-06-06"
 date: "2026-06-06"
 updated: "2026-07-18"
-tags: [nan-shepherd, いきている山, cairngorms, 自然文学, scotland, essay, senses, 知識と神秘, biography, misuzu-shobo]
+tags: [nan-shepherd, the-living-mountain, cairngorms, nature-writing, scotland, essay, senses, knowledge-and-mystery, biography, misuzu-shobo]
 confidence: high
 sources:
   - "raw/notes/2026-06-06-nan-shepherd-s-intimate-portrait-of-mountains-fore.md"

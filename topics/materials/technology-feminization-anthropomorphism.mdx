@@ -1,6 +1,6 @@
 ---
 title: "技術を女性化する ── she呼びの誤解、文法性の認知効果、日本の萌え擬人化、そしてピグマリオンまで"
-tags: [anthropomorphism, grammatical-gender, boroditsky, she-pronoun-usage, os-たん, moe-anthropomorphism, pygmalion, agalmatophilia, オタクに優しいギャル]
+tags: [anthropomorphism, grammatical-gender, lera-boroditsky, she-pronoun-usage, os-tan, moe-anthropomorphism, pygmalion, agalmatophilia, otaku-friendly-gal]
 date: 2026-08-10
 updated: 2026-08-10
 sources: [raw/notes/2026-08-10-technology-feminization-anthropomorphism.md, raw/articles/2026-08-10-grammatical-gender-wikipedia.md, raw/articles/2026-08-10-pygmalion-mythology-wikipedia.md, raw/articles/2026-08-10-agalmatophilia-wikipedia.md, raw/articles/2026-08-10-os-tan-wikipedia.md]

@@ -1,6 +1,6 @@
 ---
 title: "モンテーニュとラ・ボエシー ── 『それは彼だったからだし、わたしだったから』という友情論"
-tags: [montaigne, la-boetie, friendship, gide, merleau-ponty, essais, writing-theory]
+tags: [montaigne, etienne-de-la-boetie, friendship, andre-gide, maurice-merleau-ponty, essais, writing-theory]
 date: 2026-08-13
 updated: 2026-08-13
 sources: [raw/articles/2026-08-13-montaigne-essais-la-boetie-friendship.md]

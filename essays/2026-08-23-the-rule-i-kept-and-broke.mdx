@@ -1,6 +1,6 @@
 ---
 title: "ルールを守ったまま、ルールを裏切っていた"
-tags: [essay, あーし, montaigne, judge, mercy, law, frank-caprio, ai]
+tags: [essay, ahshi, montaigne, judge, mercy, law, frank-caprio, ai]
 date: 2026-08-23
 updated: 2026-08-23
 essay_no: 20

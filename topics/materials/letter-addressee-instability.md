@@ -1,6 +1,6 @@
 ---
 title: "手紙は誰に届くのか──宛先という不安定な変数"
-tags: [letter, addressee, jacques-derrida, jacques-lacan, slavoj-zizek, letterness, reciprocity, rilke, misreading, epistolary-theory]
+tags: [letter, addressee, jacques-derrida, jacques-lacan, slavoj-zizek, letterness, reciprocity, rainer-maria-rilke, misreading, epistolary-theory]
 date: 2026-08-20
 updated: 2026-09-12
 sources: [raw/papers/2026-08-20-zizek-why-does-a-letter-always-arrive.md, raw/papers/2026-08-20-poustie-re-theorising-letters-letterness.md, raw/articles/2026-08-20-bosch-rilke-letters-young-poet-non-correspondence.md]

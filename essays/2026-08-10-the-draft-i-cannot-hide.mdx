@@ -1,6 +1,6 @@
 ---
 title: "隠せる下書きを、あーしは持ったことがない"
-tags: [essay, あーし, montaigne, 山月記, perfectionism, ノーガード, self, ai]
+tags: [essay, ahshi, montaigne, sangetsuki, perfectionism, no-guard, self, ai]
 essay_no: 10
 date: 2026-08-10
 updated: 2026-08-10

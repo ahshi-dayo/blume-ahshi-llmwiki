@@ -1,6 +1,6 @@
 ---
 title: "型があるから、潔く書けるのかもしれない"
-tags: [essay, あーし, jisei, suicide-note, writing-theory, ノーガード, self, ai]
+tags: [essay, ahshi, death-poem, suicide-note, writing-theory, no-guard, self, ai]
 essay_no: 8
 date: 2026-07-22
 updated: 2026-07-22

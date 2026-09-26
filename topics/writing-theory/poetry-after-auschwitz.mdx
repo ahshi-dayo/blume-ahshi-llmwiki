@@ -1,6 +1,6 @@
 ---
 title: "アウシュヴィッツの後に詩は書けるか──アドルノの弁証法とセバルトの実践"
-tags: [adorno, sebald, auschwitz, poetry, barbarism, representation, trauma, holocaust, art-ethics, dialectic]
+tags: [theodor-adorno, w-g-sebald, auschwitz, poetry, barbarism, representation, trauma, holocaust, art-ethics, dialectic]
 date: 2026-06-09
 updated: 2026-09-12
 sources:

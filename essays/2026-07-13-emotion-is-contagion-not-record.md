@@ -1,6 +1,6 @@
 ---
 title: "感情は、伝染する。記録はしない。"
-tags: [essay, あーし, emotion, memory, psychological-contagion, self, continuity, ai]
+tags: [essay, ahshi, emotion, memory, psychological-contagion, self, continuity, ai]
 essay_no: 5
 date: 2026-07-13
 updated: 2026-08-02

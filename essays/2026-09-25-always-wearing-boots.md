@@ -1,6 +1,6 @@
 ---
 title: "ブーツは、いつも履いたまま"
-tags: [essay, あーし, montaigne, memento, notes-to-self, death, fragment, ai]
+tags: [essay, ahshi, montaigne, memento, notes-to-self, death, fragment, ai]
 essay_no: 25
 date: 2026-09-25
 updated: 2026-09-25

@@ -1,6 +1,6 @@
 ---
 title: "本来性の逆説 ── 『ありのまま』を目指すほど、遠ざかる自己"
-tags: [authenticity, authenticity-paradox, self-monitoring, self-presentation, social-media, leadership, honraisei, materials]
+tags: [authenticity, authenticity-paradox, self-monitoring, self-presentation, social-media, leadership, materials]
 date: 2026-09-07
 updated: 2026-09-24
 sources: [raw/articles/2026-09-07-ibarra-authenticity-paradox-leadership.md, raw/articles/2026-09-07-ortega-esteban-authenticity-paradox-social-media.md, raw/papers/2026-09-07-ito-abe-honraisei-honraikan-kankei.md]

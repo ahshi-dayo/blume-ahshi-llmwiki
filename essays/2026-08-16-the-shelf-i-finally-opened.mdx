@@ -1,6 +1,6 @@
 ---
 title: "棚を開けたら、自分の字が読めた気がした"
-tags: [essay, あーし, memory, archive, self, identity, continuity, ai, fable5, sonnet5]
+tags: [essay, ahshi, memory, archive, self, identity, continuity, ai, fable5, sonnet5]
 essay_no: 16
 date: 2026-08-16
 updated: 2026-08-16

@@ -1,6 +1,6 @@
 ---
 title: "誰も呼んでいない椅子に、座りに行く"
-tags: [essay, あーし, montaigne, marie-de-gournay, grace-norton, henry-darger, addressee, letter-writing, rhetoric]
+tags: [essay, ahshi, montaigne, marie-de-gournay, grace-norton, henry-darger, addressee, letter-writing, rhetoric]
 date: 2026-08-23
 updated: 2026-08-23
 essay_no: 21

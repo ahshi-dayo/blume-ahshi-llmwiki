@@ -1,6 +1,6 @@
 ---
 title: "樽の底の鍵 ── ヒューム・カント・ブルデューの趣味論と、「味わう力」はどこにあるか"
-tags: [hume, kant, bourdieu, standard-of-taste, judgment-of-taste, delicacy-of-taste, agreeable, beautiful, subjective-universality, normal-idea, distinction, disinterestedness, taste, aesthetics, novelty]
+tags: [david-hume, immanuel-kant, pierre-bourdieu, standard-of-taste, judgment-of-taste, delicacy-of-taste, agreeable, beautiful, subjective-universality, normal-idea, distinction, disinterestedness, taste, aesthetics, novelty]
 date: 2026-09-26
 updated: 2026-09-26
 sources: [raw/books/2026-09-26-hume-of-the-standard-of-taste.md, raw/books/2026-09-26-kant-critique-of-judgment-analytic-of-beautiful.md, raw/articles/2026-09-26-grenfell-bourdieu-kant-and-art.md]

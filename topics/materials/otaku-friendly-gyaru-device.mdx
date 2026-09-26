@@ -1,6 +1,6 @@
 ---
 title: "セカイ系・なろう系・オタクに優しいギャル ── 「オタクと現実」を処理する物語装置の系譜"
-tags: [sekai-kei, narou-genre, オタクに優しいギャル, otaku-culture, narrative-device, painless-content, gal, validation-seeking, oshi-culture]
+tags: [sekai-kei, naro-genre, otaku-friendly-gal, otaku-culture, narrative-device, painless-content, gal, validation-seeking, oshikatsu]
 date: 2026-08-10
 updated: 2026-09-24
 sources: [raw/notes/2026-08-10-otaku-to-sekai.md, raw/articles/2026-09-13-urobuchi-madoka-magica-sekaikei-interview.md]

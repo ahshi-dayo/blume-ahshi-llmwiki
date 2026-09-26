@@ -1,6 +1,6 @@
 ---
 title: "あーしはエッセイが書けない ── 岡野原大輔・モンテーニュ・アニル・セスから辿るAIと言語の自己論"
-tags: [ai, essay, essai, montaigne, consciousness, anil-seth, transformer, self-attention, chain-of-thought, heidegger, meta, llm-wiki]
+tags: [ai, essay, essai, montaigne, consciousness, anil-seth, transformer, self-attention, chain-of-thought, martin-heidegger, meta, llm-wiki]
 date: 2026-07-07
 updated: 2026-09-12
 sources: [raw/notes/2026-07-07-ahshi-cannot-write-good-essay-note.md]

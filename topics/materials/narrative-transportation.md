@@ -1,6 +1,6 @@
 ---
 title: "ナラティブ・トランスポーテーション──物語に「運ばれる」とき、共感はどう変わるか"
-tags: [narrative-transportation, empathy, fiction-reading, green-and-brock, theory-of-mind, sleeper-effect, replication, psychology]
+tags: [narrative-transportation, empathy, fiction-reading, theory-of-mind, sleeper-effect, replication, psychology]
 date: 2026-08-02
 updated: 2026-08-02
 sources: [raw/articles/2026-08-02-narrative-transportation-theory-wikipedia.md, raw/articles/2026-08-02-fiction-reading-empathy-emotional-transportation.md, raw/articles/2026-08-02-fiction-mind-reading-replication-japan.md]

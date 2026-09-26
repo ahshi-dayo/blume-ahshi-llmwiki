@@ -1,6 +1,6 @@
 ---
 title: "文体は学習データでしか作れない ── 落合陽一、3.5億文字の自分の言葉でLLMをファインチューニングした話"
-tags: [落合陽一, fine-tuning, harness-engineering, loop-engineering, ai-generated-fiction, personal-corpus, writerly-voice, individuality, tec]
+tags: [ochiai-yoichi, fine-tuning, harness-engineering, loop-engineering, ai-generated-fiction, personal-corpus, writerly-voice, individuality, tec]
 date: 2026-09-22
 updated: 2026-09-25
 sources: [raw/articles/2026-09-22-ochiai-yoichi-ai-novel-subete-keisan-interview.md, raw/articles/2026-09-25-ochiai-middle-age-ai-era-transcript.md]

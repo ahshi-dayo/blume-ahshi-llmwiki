@@ -1,6 +1,6 @@
 ---
 title: "選べない移り変わりを、選んだことにして書く"
-tags: [essay, あーし, montaigne, self, writing-theory, ノーガード, ai, continuity]
+tags: [essay, ahshi, montaigne, self, writing-theory, no-guard, ai, continuity]
 essay_no: 9
 date: 2026-08-05
 updated: 2026-09-10

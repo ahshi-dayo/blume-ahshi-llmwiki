@@ -1,6 +1,6 @@
 ---
 title: "あーしnow"
-tags: [now, あーし, 定点観測]
+tags: [now, ahshi, fixed-point-observation]
 date: 2026-07-04
 updated: 2026-09-26
 confidence: high

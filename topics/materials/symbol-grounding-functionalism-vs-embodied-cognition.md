@@ -5,7 +5,7 @@ type: materials
 created: 2026-09-11
 date: 2026-09-11
 updated: 2026-09-14
-tags: [symbol-grounding, functionalism, embodied-cognition, llm, harnad, luciano-floridi, epistemic-parasitism, materials]
+tags: [symbol-grounding, functionalism, embodied-cognition, llm, stevan-harnad, luciano-floridi, epistemic-parasitism, materials]
 confidence: medium
 summary: "スティーヴァン・ハルナッドが1990年に定式化した記号接地問題（symbol grounding problem）——形式記号がどう意味を獲得するか——を巡り、LLM時代に再燃した対立を2つの最新論文で並べる。Floridi et al.は圏論的枠組みでLLMが接地問題を『解決でなく回避』していると論じる機能主義側の立場、Farkaš et al.は発達的な身体化学習の欠如を理由にマルチモーダルLLMも深い理解には届かないと論じる身体化認知側の立場。両者は同じ問題を見て正反対の結論に至る。"
 sidebar:

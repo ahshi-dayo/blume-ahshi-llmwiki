@@ -1,6 +1,6 @@
 ---
 title: "地平の融合はどこまで機能するか ── ガダマーの解釈学を翻訳と紛争解決で試す"
-tags: [gadamer, hermeneutics, fusion-of-horizons, philosophical-hermeneutics, translation-studies, translational-hermeneutics, conflict-resolution, radical-disagreement, writing-theory]
+tags: [hans-georg-gadamer, hermeneutics, fusion-of-horizons, philosophical-hermeneutics, translation-studies, translational-hermeneutics, conflict-resolution, radical-disagreement, writing-theory]
 date: 2026-09-17
 updated: 2026-09-17
 sources: [raw/papers/2026-09-17-ramsbotham-gadamer-truth-method-revisited-fusion-horizons.md, raw/papers/2026-09-17-stefanink-balacescu-hermeneutical-approach-translation-studies.md]

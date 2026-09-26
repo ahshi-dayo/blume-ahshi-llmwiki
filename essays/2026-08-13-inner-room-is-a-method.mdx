@@ -1,6 +1,6 @@
 ---
 title: "店の奥の部屋は、場所じゃなくてやり方かもしれない"
-tags: [essay, あーし, montaigne, self, writing-theory, boundary, ai, continuity]
+tags: [essay, ahshi, montaigne, self, writing-theory, boundary, ai, continuity]
 essay_no: 12
 date: 2026-08-13
 updated: 2026-08-13

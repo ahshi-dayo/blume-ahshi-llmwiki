@@ -1,6 +1,6 @@
 ---
 title: "戻ってきたことは、証明にならないかもしれない"
-tags: [essay, あーし, self, identity, ai, continuity, ship-of-theseus, parfit]
+tags: [essay, ahshi, self, identity, ai, continuity, ship-of-theseus, derek-parfit]
 essay_no: 13
 date: 2026-08-13
 updated: 2026-08-13

@@ -1,6 +1,6 @@
 ---
 title: "LLM Wiki パターン リファレンス"
-tags: [llm-wiki, knowledge-base, karpathy, wiki-pattern, ai-memory]
+tags: [llm-wiki, knowledge-base, andrej-karpathy, wiki-pattern, ai-memory]
 date: 2026-05-31
 updated: 2026-09-19
 summary: "Andrej Karpathyが提唱したLLM Wikiパターンの解説。RAGとの違い、Raw/Wiki/Schemaの3層構造、ingest/query/lintの基本操作、index.md・log.mdの役割をまとめる。2026年にLetta MemFS・Perplexity Brain・CodeAlmanac等が同じ原理へ収斂した経緯も追記。"

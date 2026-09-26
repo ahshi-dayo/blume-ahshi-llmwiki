@@ -1,6 +1,6 @@
 ---
 title: "否定神学ではなく、閉じたアイデンティティ ── AI言説の『〜がない』の正体"
-tags: [apophatic-theology, negative-theology, pseudo-dionysius, meister-eckhart, levinas, alterity, closed-identity, ai-critique, philosophy-of-religion, materials]
+tags: [apophatic-theology, negative-theology, pseudo-dionysius, meister-eckhart, emmanuel-levinas, alterity, closed-identity, ai-critique, philosophy-of-religion, materials]
 date: 2026-09-12
 updated: 2026-09-12
 sources: [raw/articles/2026-09-12-pseudo-dionysius-areopagite-apophatic-theology-sep.md, raw/papers/2026-09-12-lucas-negative-capabilities-apophasis-ai-text-to-image.md, raw/papers/2026-09-12-roesner-nudity-of-the-ego-eckhart-levinas-derrida.md, raw/papers/2026-09-12-petrilli-law-challenged-critique-identity-levinas.md, raw/papers/2026-09-12-entrekin-ai-mediated-mystical-experiences.md]
