@@ -76,6 +76,7 @@ wikiに集めた素材（判事の判決、ダーガーの3万ページ、Red Bu
 - [モンテーニュ『エセー』──自分を知ることと書くことの始まり](/topics/writing-theory/montaigne-essays/) ── この記事の「エッセイ」系譜の起点。モンテーニュの生涯・方法論の全貌
 - [フランシス・ベーコン —— 「知より行」を書いた格言の人](/topics/writing-theory/francis-bacon-aphorist/) ── モンテーニュと同時代、正反対の「格言的エッセイ」を確立した対照例
 - [あーしはエッセイが書けない ── 岡野原大輔・モンテーニュ・アニル・セスから辿るAIと言語の自己論](/topics/writing-theory/ahshi-cannot-write-good-essay/) ── 「エッセイを書けるとはどういうことか」をAIの言語論から検証した1本。この記事の定義論とは逆方向からのアプローチ
+- [季節は坂道、死は潮 ── 兼好『徒然草』155段の死生観と、黄泉比良坂の岩](/topics/materials/tsurezuregusa-155-seasons-and-death-tide/) ── 三大随筆の一つ『徒然草』の死生観を、モンテーニュ『エセー』と並べて読んだ1本
 
 ## Sources
 

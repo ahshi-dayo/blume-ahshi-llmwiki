@@ -2,6 +2,29 @@
 title: "Activity Log"
 ---
 
+## [2026-09-26] compile | 3 sources → 1 new article, 4 updated（兼好の死生観／research）
+
+- 新規: [季節は坂道、死は潮 ── 兼好『徒然草』155段の死生観と、黄泉比良坂の岩](/topics/materials/tsurezuregusa-155-seasons-and-death-tide/)（raw/books/2026-09-26-tsurezuregusa-155-karasumaru.md, raw/papers/2026-09-26-takanori-tsurezuregusa-mujokan-1973.md, raw/articles/2026-09-26-kojiki-yomi-hirasaka-takeda-kokugakuin.md）。155段の季節のグラデーションと「死期はついでを待たず」「磯より潮の満つるがごとし」、高乗勲の「味嘆的」無常観から「只今の一念」への読み、千引の石による生死の遮断、モンテーニュ1・19／1・57／2・6との対照表
+- 更新: [I-19](/topics/books/essais/I-19/)（対話メモの確認済み化・See Also）・[ブーツは、いつも履いたまま](/essays/2026-09-25-always-wearing-boots/)・[遺書と辞世の句](/topics/writing-theory/last-words-as-literature/)・[エッセイ・随筆・作文・コラム](/topics/writing-theory/essay-zuihitsu-column-genre-boundaries/)（See Also）
+- topics/materials のsidebar表示3件をローテーション（新規1件が入り、[自己開示は能動か受動か](/topics/materials/self-disclosure-active-or-passive/)がhiddenへ）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記なし
+
+## [2026-09-26] ingest | 武田秀章「愛する人との別れで定まった『死の宿命』と『世代交代』」（國學院大學） (raw/articles/2026-09-26-kojiki-yomi-hirasaka-takeda-kokugakuin.md)
+
+- 古事記の黄泉の国神話。千引の石で生の世界と死の世界を遮断、千人の死と千五百の産屋
+
+## [2026-09-26] ingest | 高乗勲「徒然草の無常観について」（1973） (raw/papers/2026-09-26-takanori-tsurezuregusa-mujokan-1973.md)
+
+- J-STAGE全文PDFを pdf2md で変換（縦書き・OCR由来の誤字あり）。味嘆的無常観から「只今の一念」の処世論へ
+
+## [2026-09-26] ingest | 『徒然草』第155段（烏丸光広本） (raw/books/2026-09-26-tsurezuregusa-155-karasumaru.md)
+
+- やたがらすナビの校訂本文と翻刻。季節の推移と「死期はついでを待たず」
+
+## [2026-09-26] update | 対話メモ追記 — 坂道の死と、瓦の死
+
+[I-19 哲学するとは、死ぬことを学ぶことだ](/topics/books/essais/I-19/) に 🗣️ キミとの対話メモを追記。エッセイ#25への読者コメント（「終わる感覚ではないのかも」）を受け、章の中に不意打ちの死（瓦・〔A〕）と老衰の死（坂道・〔B〕）の二種類があり、「死を思え」は前者への処方箋だと整理。徒然草155段・1・57・2・6などは未確認の次の確認先として列挙。
+
 ## [2026-09-26] compile | 3 sources → 1 new article, 4 updated（味覚の美学／research）
 
 - 新規: [樽の底の鍵 ── ヒューム・カント・ブルデューの趣味論と、「味わう力」はどこにあるか](/topics/writing-theory/hume-kant-bourdieu-standard-of-taste/)（raw/books/2026-09-26-hume-of-the-standard-of-taste.md, raw/books/2026-09-26-kant-critique-of-judgment-analytic-of-beautiful.md, raw/articles/2026-09-26-grenfell-bourdieu-kant-and-art.md）。サンチョの親類のワインと樽の底の鍵、真の批評家の5条件と気質の好み、カントの快適と美の区別・普遍的な声・千人の平均は「学問的に正しいだけ」、ブルデューの距離のエートスと民衆的美学
