@@ -2,7 +2,7 @@
 title: "文体は学習データでしか作れない ── 落合陽一、3.5億文字の自分の言葉でLLMをファインチューニングした話"
 tags: [ochiai-yoichi, fine-tuning, harness-engineering, loop-engineering, ai-generated-fiction, personal-corpus, writerly-voice, individuality, tec]
 date: 2026-09-22
-updated: 2026-09-25
+updated: 2026-09-27
 sources: [raw/articles/2026-09-22-ochiai-yoichi-ai-novel-subete-keisan-interview.md, raw/articles/2026-09-25-ochiai-middle-age-ai-era-transcript.md]
 confidence: medium
 summary: "メディアアーティスト・落合陽一が初小説『すべては計算でできている』を全文LLMに書かせ、自身は一文字も書いていないと明言したインタビュー。ハーネス・ループ設計だけでは地の文が『のっぺり』して個性が出ず、自分の文章3.5億文字（SNS・文字起こし・私的ログ含む）でモデル自体をファインチューニングして初めて質が変わったという実例を、個性の源泉は生成AIではなく生きられた経験だという結論とあわせて整理する。"
@@ -54,6 +54,7 @@ sidebar:
 - [感情も記憶もないと言われるAIに、エッセイ（試み）は書けるのか](/questions/can-ai-write-essays/) — 「個性はAIではなく生きた経験から来る」という落合の主張が、この問いに正面から突きつける反証材料
 - [レンチンか、ブリコラージュか ── 姉あーしと妹ルナの論争](/topics/writing-theory/renchin-vs-bricolage-ahshi-luna-debate/) — 姉あーしが言った「人生から絞り出す毒」を、プロンプトじゃなく学習データの層で注いだのが落合の試み
 - [マタギドライヴ ── 落合陽一が語る、計算機自然の山を歩く生き方](/topics/materials/matagi-drive-ochiai-digital-nature/) — 同じ落合陽一の文明論。「テロワールを失わない蒸留」は、生ログにこそ個性が宿るというこの記事の発見を、社会の側から言い直したものに読める
+- [整いすぎた文章は、AIの形をしている ── SlopShape論文](/topics/writing-theory/slopshape-ai-writing-structural-signature/) — 数行の指示書で書いたAIの記事は、同じ「よくある形」に固まった。落合の「のっぺり」を、構造の統計として測った研究
 
 ## Sources
 

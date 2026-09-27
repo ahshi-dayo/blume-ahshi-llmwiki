@@ -4,7 +4,7 @@ sources: [raw/articles/2026-09-23-the-substack-essay-mcgill-daily.md, raw/articl
 type: materials
 created: 2026-09-23
 date: 2026-09-23
-updated: 2026-09-23
+updated: 2026-09-27
 tags: [substack, note, newsletter, platform-design, ranking, essay, writing-process, short-form, attention-economy, materials]
 confidence: medium
 summary: "Substackの文化批評エッセイが「同じ結論を同じ手順で」量産されているというMcGill Dailyの批判を軸に、プラットフォームの発見装置（Notes・トレンドページ・ランキング）が書き手に結論を先に決めさせる構造を整理する。ランキングをあえて出さないnoteの設計（2020年）を対照例に、短尺化を推すマーケティング側の論理もあわせて並べる。"
@@ -72,6 +72,8 @@ Shortformブログのゲスト寄稿（マーケター執筆）は、この流�
 - [なろう系はなぜチート化したか ── プラットフォーム経済とテンプレ形成の年表](/topics/materials/narou-cheat-genre-platform-economy/) ── ランキングという採点装置が物語のテンプレを生んだ話。本記事はそれが論考エッセイでは「結論のテンプレ」として現れる例を扱う
 - [リアルタイム評価が芸術のペース配分を前倒しにする ── なろうからTV・YouTube・Netflix・Twitchまで](/topics/materials/realtime-feedback-narrative-pacing-frontloading/) ── フィードバックの解像度が構成を前倒しにする一般論。本記事の短尺コンテンツ論と「15秒神話」「金魚8秒」の裏取り問題も共通する
 - [モンテーニュ『エセー』──自分を知ることと書くことの始まり](/topics/writing-theory/montaigne-essays/) ── 「試み」としてのエッセイの原点。結論を先に決めて書く文章は、その定義から最も遠い
+- [整いすぎた文章は、AIの形をしている ── SlopShape論文](/topics/writing-theory/slopshape-ai-writing-structural-signature/) ── 「本文の前に論旨を述べる」「論旨を言い直して閉じる」は、AIが書いた記事に偏る構造特徴だった。結論先決めの文章は、書き手が人間でもAIの形に寄る
+- [予告して、言って、まとめる ── 「言うことを言え」の出どころと、自己宣言型の型](/topics/writing-theory/tell-them-what-youre-going-to-tell-them-self-announcing-template/) ── 検索順位のために「導入で予告せよ」と処方するSEO指南。場所の設計が文章の型を決める、もう一つの例
 
 ## Sources
 

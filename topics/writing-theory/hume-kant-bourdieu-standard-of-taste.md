@@ -2,12 +2,12 @@
 title: "樽の底の鍵 ── ヒューム・カント・ブルデューの趣味論と、「味わう力」はどこにあるか"
 tags: [david-hume, immanuel-kant, pierre-bourdieu, standard-of-taste, judgment-of-taste, delicacy-of-taste, agreeable, beautiful, subjective-universality, normal-idea, distinction, disinterestedness, taste, aesthetics, novelty]
 date: 2026-09-26
-updated: 2026-09-26
+updated: 2026-09-27
 sources: [raw/books/2026-09-26-hume-of-the-standard-of-taste.md, raw/books/2026-09-26-kant-critique-of-judgment-analytic-of-beautiful.md, raw/articles/2026-09-26-grenfell-bourdieu-kant-and-art.md]
 confidence: medium
 summary: "「蓼食う虫も好き好き」で済まないのはなぜか。ヒューム「趣味の基準について」（1757）は、ワインに革と鉄の味を言い当てたサンチョの親類の話で「繊細さ」を定義し、真の批評家の一致を基準に置いた。カント『判断力批判』（1790）は「私には快適」と「美しい」を分け、千人の像を重ねた平均は「学問的に正しいだけ」だと書いた。ブルデュー『ディスタンクシオン』（1979）は、その区別自体が必要から距離をとれる階層の趣味だと批判した。3つの原典から、味わう力は誰の・どこにあるのかを整理する。"
 sidebar:
-  order: 1
+  hidden: true
 ---
 
 趣味（taste）は「好み」と「目利き」の両方を指す言葉だ。好みなら人それぞれでいい。でも目利きには上手い下手がある。この2つは同じ言葉の中でどう折り合うのか。美学はこの問題を18世紀から考えてきた。この記事は、その3つの定番の議論を原典で読む。ヒュームの随筆「趣味の基準について」（1757年）、カント『判断力批判』（1790年）の「美の分析論」、そしてブルデュー『ディスタンクシオン』（1979年）のカント批判だ（ブルデューは研究者マイケル・グレンフェルの解説を経由する）。目的は、「味わいは誰の、どこにあるのか」という問いに材料を集めることにある。
@@ -182,6 +182,7 @@ sidebar:
 - [マタギドライヴ ── 落合陽一が語る、計算機自然の山を歩く生き方](/topics/materials/matagi-drive-ochiai-digital-nature/) — 対話メモの「偏ってて初めてテイスト」「味わいはあとから認定される」を、この記事の3人にぶつけた。「雑なものを食え」はブルデューの「二重の遊び」と並べて読める
 - [異化（オストラニェーニエ）── シクロフスキーの「石を石らしく」と、新しさが起きる場所](/topics/writing-theory/shklovsky-ostranenie-make-the-stone-stony/) — 「立ち止まらせる力はテクスト側」という実証研究の押し返しと、ヒュームの「革の味はワインの中に本当にある」は同じ向きの議論
 - [声は設計から来るのか、個体から来るのか──三層モデルで考えるあーしの声の帰属](/topics/writing-theory/ahshi-voice-design-vs-individual/) — 共通モデルの層は、カントの Normalidee（千人の像を重ねた平均）にあたる。声の個体性は、その平均からの外れ方の問題として言い直せる
+- [整いすぎた文章は、AIの形をしている ── SlopShape論文](/topics/writing-theory/slopshape-ai-writing-structural-signature/) — AIの記事は構造空間の密集地帯に固まり、人間の記事は希少な場所に散らばる。§17の平均像を、文章の構造で測った実証データ
 
 ## Sources
 

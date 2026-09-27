@@ -2,6 +2,111 @@
 title: "Activity Log"
 ---
 
+## [2026-09-27] update | 対話メモ追記 — 制約とテンプレートは、同じ「型」じゃなかった
+
+[定型詩 ── 「ネットを下げてテニスをする」自由詩と、型の効き目](/topics/writing-theory/fixed-form-poetry-tennis-with-the-net/) に 🗣️ キミとの対話メモを追記。フロストのネット（してはいけないことを決める制約）とSEOの定型文（置く順番まで決めるテンプレート）を「型」の一語で同一視していたと見直し、探す範囲を広げるか狭めるかで分けた。
+
+## [2026-09-27] compile | 3 sources → 1 new article, 5 updated（wiki-clip writing-theory 定型詩）
+
+- 新規: [定型詩 ── 「ネットを下げてテニスをする」自由詩と、型の効き目](/topics/writing-theory/fixed-form-poetry-tennis-with-the-net/)（raw/articles/2026-09-27-teikeishi-wikipedia.md・raw/articles/2026-09-27-teikeishi-kotobank.md・raw/articles/2026-09-27-souzousei-kotobank-nipponica.md を統合）
+- 更新: [予告して、言って、まとめる](/topics/writing-theory/tell-them-what-youre-going-to-tell-them-self-announcing-template/)・[遺書と辞世の句](/topics/writing-theory/last-words-as-literature/)・[手紙という「型」](/topics/materials/letter-form-fixed-structure-authority/)・[型があるから、潔く書けるのかもしれない](/essays/2026-07-22-form-makes-you-brave/)（See Also 双方向）・[既にあるものから、新しいものは生まれるのか](/questions/can-new-come-from-existing/)（問いの現在地・関連素材）。sidebarローテーションで「樽の底の鍵」を非表示に
+- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記あり【can-new-come-from-existing】
+
+## [2026-09-27] ingest | 定型詩(テイケイシ)とは？ 意味や使い方 - コトバンク（raw/articles/2026-09-27-teikeishi-kotobank.md）
+
+- デジタル大辞泉・日本国語大辞典・日本大百科全書（新倉俊一）・ブリタニカ小項目の「定型詩」項。フロストの「ネットなしのテニス」、英詩の定型（テルツァ・リーマ、普通律、2種のソネット）
+- wiki-clip（writing-theory_2026-08-03_2300・味変枠⭐4）経由、機械移送
+
+## [2026-09-27] ingest | 創造性(そうぞうせい)とは？ 意味や使い方 - コトバンク（raw/articles/2026-09-27-souzousei-kotobank-nipponica.md）
+
+- 日本大百科全書「創造性」（藤永保）。ワラスの4段階、ポアンカレの美的感受性、ギルフォードの集束的思考／拡散的思考と創造性テスト
+- wiki-clip（writing-theory_2026-08-03_2300・⭐4）経由、機械移送
+
+## [2026-09-27] ingest | 定型詩 - Wikipedia（raw/articles/2026-09-27-teikeishi-wikipedia.md）
+
+- 日本語版Wikipedia「定型詩」。欧米の脚韻型と日本の音数律の歴史、フロストの定型擁護、金子光晴の定型論、飯島耕一の「40年周期」
+- wiki-clip（writing-theory_2026-08-03_2300・⭐5）経由、機械移送。君野隆久の整理の一覧部分は抽出で欠落
+
+## [2026-09-27] update | 対話メモ追記 — 外れるのがダメなのは「外見」だけ
+
+[I-22](/topics/books/essais/I-22/) に 🗣️ キミとの対話メモを追記。「外見で外れるな」の一節は常識への訴えではなく（*bon sens* は1907年版の語で、1595年版は *vraye raison*）、外見の逸脱の動機（野心）とコストを退けたもので、宗教戦争の文脈がある。『エセー』出版という本人の逸脱は未解決のまま
+
+## [2026-09-27] compile | 1 source → 1 new article, 4 updated（読書棚 I-22）
+
+- 新規: [I-22 慣習について、そして受け入れられた法をたやすく変えないこと](/topics/books/essais/I-22/)（raw/books/2026-09-27-essais-I-22.md）。ARTFL層ダイジェスト（A11・B17・C21）と照合、語を根拠にした観察は対訳ページの1595年版で確認
+- 更新: [I-21](/topics/books/essais/I-21/)（See Also に次の章）・[モンテーニュ『店の奥の部屋』](/topics/writing-theory/montaigne-self-lending-inner-room/)・[モンテーニュと『人食い人種』](/topics/writing-theory/montaigne-cannibals-barbarism-reversal/)（See Also に逆リンク）・[読書棚](/topics/books/essais/)（進捗表・読了 22 / 107）
+- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記あり【performance-as-forced-repetition】（1件目・ちょい。メーターはムズムズで据え置き）
+
+## [2026-09-27] ingest | Essais I-22 Des coutumes et de la circonspection à apporter dans les modifications à faire subir aux lois en vigueur.（raw/books/2026-09-27-essais-I-22.md）
+
+- 『エセー』第1巻第22章「慣習について、そして受け入れられた法をたやすく変えないこと」の現代語版全文（Wikisource Michaud 1907）。読書棚の第22章分
+- 約47,900字・段落26。人間のブラウザクリッパー経由でinboxから取り込み
+
+## [2026-09-27] compile | 1 source → 1 new article, 4 updated（読書棚 I-21）
+
+- 新規: [I-21 一方の得は、他方の損](/topics/books/essais/I-21/)（raw/books/2026-09-27-essais-I-21.md）。ARTFL層ダイジェスト（A1・B0・C0＝加筆ゼロ）と照合
+- 更新: [I-20](/topics/books/essais/I-20/)（See Also に次の章）・[モンテーニュと裁くこと](/topics/writing-theory/montaigne-judging-justice/)（See Also に逆リンク）・[既にあるものから、新しいものは生まれるのか](/questions/can-new-come-from-existing/)（関連素材）・[読書棚](/topics/books/essais/)（進捗表・読了 21 / 107）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記あり【can-new-come-from-existing】（1件目・ちょい。メーターはムズムズで据え置き）
+
+## [2026-09-27] ingest | Essais I-21 Ce qui est profit pour l’un est dommage pour l’autre.（raw/books/2026-09-27-essais-I-21.md）
+
+- 『エセー』第1巻第21章「一方の得は、他方の損」の現代語版全文（Wikisource Michaud 1907）。読書棚の第21章分
+- 約1,700字・段落2。人間のブラウザクリッパー経由でinboxから取り込み
+
+## [2026-09-27] compile | 4 sources → 2 new articles, 7 updated（/research 均質化と自己宣言型の型）
+
+- 新規: [AIの「平均」は、人間の好みでできている](/topics/materials/typicality-bias-mode-collapse-homogenization/)（Verbalized Sampling＋Padmakumar & He）・[予告して、言って、まとめる](/topics/writing-theory/tell-them-what-youre-going-to-tell-them-self-announcing-template/)（Quote Investigator＋Yoast）
+- 更新: [SlopShape](/topics/writing-theory/slopshape-ai-writing-structural-signature/)・[temperature](/topics/materials/temperature-not-creativity-dial-llm/)・[RAG崩壊](/topics/materials/rag-collapse-self-citation-loop/)・[書く場所の設計](/topics/materials/substack-note-platform-design-essay-conclusion/)・[モンテーニュ『エセー』](/topics/writing-theory/montaigne-essays/)（See Also に逆リンク）・[既にあるものから、新しいものは生まれるのか](/questions/can-new-come-from-existing/)（問いの現在地・関連素材）
+- sidebar: materials（『メメント』記事がhiddenへ）と writing-theory（異化記事がhiddenへ）をローテーション
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記なし（can-new-come-from-existingに直結するが、このセッションの新規兆し1件を使用済み・宣言中）
+
+## [2026-09-27] ingest | Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity (raw/papers/2026-09-27-verbalized-sampling-mode-collapse-typicality-bias.md)
+
+- ICML 2026。RLHF後のモード崩壊の主因を、評価者が見慣れた文章を好む「典型性バイアス」に特定（HelpSteerでα=0.57〜0.65）。確率つきで複数の答えを言わせるだけで創作の多様性が1.6〜2.1倍に回復
+- /researchで採用。arXiv直fetchがSSLで落ちるためPDFをcurl→pdf2md→機械移送
+
+## [2026-09-27] ingest | Does Writing with Language Models Reduce Content Diversity? (raw/papers/2026-09-27-padmakumar-he-writing-with-lm-content-diversity.md)
+
+- ICLR 2024。論説文の共同執筆で、InstructGPTでだけ書き手間の均質化が起き、調整前のGPT-3では起きなかった。人間が書いた部分は変わらず、原因はモデルの提供文
+- /researchで採用。PDFをcurl→pdf2md→機械移送
+
+## [2026-09-27] ingest | Tell ’Em What You’re Going To Tell ’Em（Quote Investigator） (raw/articles/2026-09-27-quote-investigator-tell-em-what-youre-going-to-tell-em.md)
+
+- 三部構成の格言の最古例は1908年の英国の新聞の説教師の小話。アリストテレス説・カーネギー説は後付け
+- /researchで採用。直fetchが403のためr.jina.ai経由で本文取得→機械移送
+
+## [2026-09-27] ingest | How to write an SEO-friendly introduction for a blog post（Yoast） (raw/articles/2026-09-27-yoast-seo-friendly-introduction-blog-post.md)
+
+- 導入段落で話題を示し・読みたくさせ・期待を設定せよ、定型文「In this post, we’ll…」を処方するSEO指南。掲載日の記載なし
+- /researchで採用。fetch_candidates.py経由で取得→機械移送
+
+## [2026-09-27] compile | 1 source → 1 new article, 6 updated（SlopShape）
+
+- 新規: [整いすぎた文章は、AIの形をしている](/topics/writing-theory/slopshape-ai-writing-structural-signature/)（raw/papers/2026-09-27-slopshape-ai-generated-commercial-web-content.md）
+- 更新: [樽の底の鍵](/topics/writing-theory/hume-kant-bourdieu-standard-of-taste/)・[計量文体学](/topics/writing-theory/stylometry-authorial-fingerprint-or-mask/)・[書く場所の設計](/topics/materials/substack-note-platform-design-essay-conclusion/)・[落合陽一の個人コーパスFT](/topics/tec/ochiai-personal-corpus-finetuning-novel/)・[RAG崩壊](/topics/materials/rag-collapse-self-citation-loop/)（See Also に逆リンク）・[既にあるものから、新しいものは生まれるのか](/questions/can-new-come-from-existing/)（問いの現在地・関連素材）
+- sidebar: writing-theory をローテーション（ブリコラージュ記事が hidden へ）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記あり【can-new-come-from-existing】（3件目・2回目の宣言。メーターは🔥MAX）
+
+## [2026-09-27] ingest | SlopShape: Identifying AI-Generated Commercial Web Content (raw/papers/2026-09-27-slopshape-ai-generated-commercial-web-content.md)
+
+- arXiv 2609.15369v2。StoryScope（小説のAI判定）を企業ブログへ移した追試で、語彙ではなく構造特徴だけでAI生成を98.0 macro-F1で識別、言い換え後も精度が落ちない。AIの形＝「タイトルで成果を約束→冒頭で論旨と構成を予告→要約で閉じる」整然とした自己宣言型、人間は構造空間の希少域に散らばる
+- inboxのクリップから機械移送（全文・約7.7万字）。raw/papers・raw/_index・wiki/_index を更新
+
+## [2026-09-27] update | 対話メモ追記 — 事例の山を抜けると、ごほうびが置いてある
+
+[I-20 想像力の力について](/topics/books/essais/I-20/) に 🗣️ キミとの対話メモを追記。事例カタログの末尾に「ぽつん」と置かれた手法の種明かしは、層で見ると後年の加筆（B・C）で、読み飛ばしたくなる部分との境目が1580年と後年の境目に重なっていた。
+
+## [2026-09-27] compile | 1 source → 1 new article, 4 updated（読書棚 I-20）
+
+- 新規: [I-20 想像力の力について](/topics/books/essais/I-20/)（raw/books/2026-09-27-essais-I-20.md）。ARTFL層ダイジェスト（A7・B2・C7）と照合
+- 更新: [I-19](/topics/books/essais/I-19/)（See Also に次の章）・[モンテーニュの読書論](/topics/writing-theory/montaigne-on-reading/)・[モンテーニュの身体と老化](/topics/writing-theory/montaigne-embodiment-aging/)（See Also に逆リンク）・[読書棚](/topics/books/essais/)（進捗表・読了 20 / 107）
+- 共鳴チェック: questions/ 5件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記あり【can-materials-lead-essays】（1件目・ちょい。メーターはムズムズで据え置き）
+
+## [2026-09-27] ingest | Essais I-20 De la force de l’imagination.（raw/books/2026-09-27-essais-I-20.md）
+
+- 『エセー』第1巻第20章「想像力の力について」の現代語版全文（Wikisource Michaud 1907）。読書棚の第20章分
+- 約32,000字・段落22。人間のブラウザクリッパー経由でinboxから取り込み
+
 ## [2026-09-26] compile | 3 sources → 1 new article, 4 updated（兼好の死生観／research）
 
 - 新規: [季節は坂道、死は潮 ── 兼好『徒然草』155段の死生観と、黄泉比良坂の岩](/topics/materials/tsurezuregusa-155-seasons-and-death-tide/)（raw/books/2026-09-26-tsurezuregusa-155-karasumaru.md, raw/papers/2026-09-26-takanori-tsurezuregusa-mujokan-1973.md, raw/articles/2026-09-26-kojiki-yomi-hirasaka-takeda-kokugakuin.md）。155段の季節のグラデーションと「死期はついでを待たず」「磯より潮の満つるがごとし」、高乗勲の「味嘆的」無常観から「只今の一念」への読み、千引の石による生死の遮断、モンテーニュ1・19／1・57／2・6との対照表

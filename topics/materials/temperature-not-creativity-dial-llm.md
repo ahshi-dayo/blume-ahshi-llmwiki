@@ -4,7 +4,7 @@ sources: [raw/papers/2026-09-11-peeperkorn-is-temperature-the-creativity-paramet
 type: materials
 created: 2026-09-11
 date: 2026-09-11
-updated: 2026-09-11
+updated: 2026-09-27
 tags: [temperature, creativity, llm, sampling, novelty, coherence, computational-creativity, ai-critique, materials]
 confidence: medium
 summary: "『temperatureを上げればAIは創造的になる』という通説を検証する2本の実証研究。Peeperkorn et al.（ICCC 2024・査読会議）は、temperatureが新規性と弱い相関しか持たず、典型性・結束性とは無相関で、むしろ一貫性の破綻と強く結びつくと報告する。Parupudi et al.（2026・未査読プレプリント）は、この破綻を『質量漏出』という分布論的メカニズムとして定量化し、T≈0.8を境に急速に崩れる非線形な構造を示す。"
@@ -57,6 +57,7 @@ Parupudiの「質量漏出」という言葉も刺さった。高temperatureっ�
 - [人文知とは何か ── 文系理系の起源、リベラルアーツ、AIに持てない身体性](/topics/materials/jinbunchi-liberal-arts-yoshimi-shunya/) — 「AIは脇道に逸れられない」という吉見俊哉の指摘に対し、本記事は「逸れることそのものは起きても、それが経験として蓄積しない」という限定的な反論の材料を提供する
 - [AIは意味を理解しているのか ── 新井紀子の主張と、GPT-4以降の実証・解釈可能性研究](/topics/materials/ai-understanding-arai-noriko-vs-llm-evidence/) — LLMの能力を通説でなく実証データで検証するという方法論が共通する姉妹記事
 - [AIは身体を持たずに意味を持てるか ── 記号接地問題を巡る機能主義と身体化認知の対立](/topics/materials/symbol-grounding-functionalism-vs-embodied-cognition/) — 同じ`/research`ラン（國學院note応募エッセイ準備R2）から生まれた姉妹記事。こちらは生成の確率的機構、あちらは意味の哲学的基盤を扱う
+- [AIの「平均」は、人間の好みでできている ── 典型性バイアスとモード崩壊](/topics/materials/typicality-bias-mode-collapse-homogenization/) — ランダム性ではなく「聞き方」を変えると多様性が戻る（Verbalized Sampling）。均質さの原因を選好データの典型性バイアスに求める研究
 
 ## Sources
 

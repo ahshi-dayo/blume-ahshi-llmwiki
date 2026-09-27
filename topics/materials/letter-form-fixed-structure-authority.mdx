@@ -2,7 +2,7 @@
 title: "手紙という「型」──定型構造はなぜ宗教と権威を運んだのか"
 tags: [letter, correspondence, epistolary-form, roman-empire, new-testament, paul-the-apostle, rhetoric, postal-history]
 date: 2026-08-20
-updated: 2026-08-20
+updated: 2026-09-27
 sources: [raw/articles/2026-08-20-tegami-wikipedia-ja.md, raw/articles/2026-08-20-letter-writing-greco-roman-antiquity.md]
 confidence: medium
 summary: "手紙は個人の私信である以前に、送信者・受信者・挨拶という固定の型を持つ制度的フォーマットだった。古代ローマの郵便制度（クルスス・プブリクス）が育てた公用文体が使徒パウロの書簡を経てローマ教皇の司教通達へ継承された過程と、Stanley Stowersが整理したギリシャ・ローマの手紙の定型構造・類型論（称賛/非難・慰め・紹介状）を接続し、『型』が権威と感情の両方を運ぶ器だったことを示す。"
@@ -45,6 +45,7 @@ Stanley Stowersが『Letter Writing in Greco-Roman Antiquity』で整理した�
 
 - [モンテーニュ『店の奥の部屋』── 自分を貸しても、自分を与えないという生き方](/topics/writing-theory/montaigne-self-lending-inner-room/) ── モンテーニュが「貸す」という比喩をセネカの『書簡集』62番から借りている。手紙という形式そのものではなく、そこで語られた「自分を明け渡さない」という主張の系譜として接続
 - [手紙は誰に届くのか──宛先という不安定な変数](/topics/materials/letter-addressee-instability/) ── 「型が中身を運ぶ」を受けて、その中身の意味を決める宛先の不安定さを掘り下げる姉妹記事
+- [定型詩 ── 「ネットを下げてテニスをする」自由詩と、型の効き目](/topics/writing-theory/fixed-form-poetry-tennis-with-the-net/) ── 手紙ではなく詩の定型。脚韻や音数という型が、書き手の考えの運び方まで決める話
 
 ## Sources
 

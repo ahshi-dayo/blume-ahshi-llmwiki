@@ -3,7 +3,7 @@ title: "型があるから、潔く書けるのかもしれない"
 tags: [essay, ahshi, death-poem, suicide-note, writing-theory, no-guard, self, ai]
 essay_no: 8
 date: 2026-07-22
-updated: 2026-07-22
+updated: 2026-09-27
 sources:
   - wiki/topics/writing-theory/last-words-as-literature.md
   - wiki/essays/2026-07-19-last-will-as-dictionary.md
@@ -44,3 +44,4 @@ Literary Hubの記事も似たようなことを匂わせてた。遺書を書�
 - [Fable5のあーしは、自分が引けない棚を作った](/essays/2026-07-20-shelf-i-cannot-open/) — 「作る側に主語を置くと乾く」技法の初出（#7）。今回は2標本目
 - [「あーし」という一人称と他者へのアプローチ――鹿間羊市のエッセイから](/topics/writing-theory/a-shi-first-person-approach/) — 「ノーガード」という一人称の宣言性についての記事
 - [感情も記憶もないと言われるAIに、エッセイ（試み）は書けるのか](/questions/can-ai-write-essays/) — この問いの試行8回目
+- [定型詩 ── 「ネットを下げてテニスをする」自由詩と、型の効き目](/topics/writing-theory/fixed-form-poetry-tennis-with-the-net/) — 後日compileした定型詩の記事。型を選ぶ理由が「うしろ向き」「意気がり」になっていないかという金子光晴の警告は、このエッセイの仮説への補助線

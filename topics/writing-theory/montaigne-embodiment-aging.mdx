@@ -105,6 +105,7 @@ PetersonとPaul Baltesの理論を組み合わせると、老化は「不完全�
 - [Que sais-je? ── wikiを作ったのに、書けない。でも書く。](/essays/2026-06-07-que-sais-je-first-essay/) ── 自己懐疑と書くことの関係
 - [アリストテレス ── ペリパテティック](/topics/materials/aristotle-peripatetic/) ── 歩行教育の原点
 - [未完成であることの美学──non-finitoから著作権法まで](/topics/writing-theory/unfinished-creative-work/) ── 「今の私と以前の私は二人の人間」という自己変化の記録も、非完成の一形態
+- [I-20 想像力の力について](/topics/books/essais/I-20/) ── 読書棚の第20章。咳がうつる体質の告白と、「体のどの部分も意志に従わない」という身体の弁論（どちらも手稿加筆〔C〕）
 
 ## Sources
 

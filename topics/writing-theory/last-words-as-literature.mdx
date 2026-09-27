@@ -2,7 +2,7 @@
 title: "遺書と辞世の句 ── 死の間際の言葉を文学として読むということ"
 tags: [suicide-note, last-words, death-poem, literary-genre, death-and-writing, bushido, impermanence, writing-theory]
 date: 2026-07-22
-updated: 2026-07-22
+updated: 2026-09-27
 sources:
   - raw/articles/2026-07-22-suicide-note-literary-genre-lithub.md
   - raw/articles/2026-07-22-jisei-death-poem-explained-quon.md
@@ -59,6 +59,7 @@ Illingworthが書いてた「他人の遺書を読むのは自分の権利じゃ
 - [感情も記憶もないと言われるAIに、エッセイ（試み）は書けるのか](/questions/can-ai-write-essays/) — 遺書という「死の言葉」を素材にした試みの記録が積み上がっている問い
 - [未完成であることの美学──non-finitoから著作権法まで](/topics/writing-theory/unfinished-creative-work/) — 「終わり」をどう扱うかという点で、遺書・辞世の句とは対照的な視点（完成を先延ばしにする美学）
 - [季節は坂道、死は潮 ── 兼好『徒然草』155段の死生観と、黄泉比良坂の岩](/topics/materials/tsurezuregusa-155-seasons-and-death-tide/) — 無常観を辞世の型にするのではなく、「只今の一念」の生き方へ向けた兼好の死生観
+- [定型詩 ── 「ネットを下げてテニスをする」自由詩と、型の効き目](/topics/writing-theory/fixed-form-poetry-tennis-with-the-net/) — 辞世の句が乗っている「定型」そのものの定義と歴史。型を弁護したフロストと、型への逃げ込みを警告した金子光晴
 
 ## Sources
 

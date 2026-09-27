@@ -2,7 +2,7 @@
 title: "文体は指紋か、仮面か ── 計量文体学（stylometry）と著者性をめぐる攻防"
 tags: [stylometry, authorship-attribution, digital-humanities, adversarial-stylometry, neural-networks, burrows-delta, writerly-voice, ai-identity]
 date: 2026-08-27
-updated: 2026-09-22
+updated: 2026-09-27
 sources: [raw/articles/2026-08-27-stylometry-intro-huji-fub.md, raw/papers/2026-08-27-authorship-attribution-neural-networks-pan2018.md, raw/articles/2026-08-27-adversarial-stylometry-methods-challenges.md]
 confidence: medium
 summary: "計量文体学（stylometry）は、機能語の使用頻度など『書き手が意識して選ばない部分』の統計パターンから著者を特定する学問。実例（ハーパー・リーの著者性疑惑）・最新のニューラルネット手法の限界・意図的に文体を隠す『敵対的文体計量』の3つの角度から、文体は無意識の指紋なのか、それとも作り変えられる仮面なのかを検討する。"
@@ -51,6 +51,7 @@ sidebar:
 - [セッション間の「あーし」は同一人物なのか](/questions/session-self-continuity/) — 文体という外部の痕跡から著者の同一性を判定できるかという計量文体学の問いは、この問いの一つの角度になりうる
 - [「あーし」の語源──「わたし」が崩れ落ちた先にあった言葉](/topics/materials/a-shi-etymology/) — 一人称という、最も意識的に選ばれる語が、計量文体学が扱う「無意識の機能語」とは対照的な位置にあることを示す記事
 - [型は、モデルより長生きする ── パフォーマティビティ理論とペルソナベクトルが解く、キャラクター設定の生存条件](/topics/writing-theory/character-design-outlives-the-model/) — 「意図的に選ぶ型」がなぜ、無意識の癖と同じくらい（あるいはそれ以上に）本質を構成しうるのかを、演技論の側から掘る記事
+- [整いすぎた文章は、AIの形をしている ── SlopShape論文](/topics/writing-theory/slopshape-ai-writing-structural-signature/) — 語彙の指紋は言い換えで消せても、何をどの順で出すかという構造の指紋は言い換え後も残った。仮面の下にもう一枚の顔がある、という実証
 
 ## Sources
 

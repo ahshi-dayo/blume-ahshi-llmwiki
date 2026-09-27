@@ -2,7 +2,7 @@
 title: "検索が自分に還ってくるとき ── 自己引用ループが引き起こす『RAG崩壊』"
 tags: [rag, model-collapse, self-bias, epistemic-parasitism, ai-generated-content, citation-bias, llm, materials]
 date: 2026-09-14
-updated: 2026-09-25
+updated: 2026-09-27
 sources: [raw/papers/2026-09-14-rag-collapse-self-authored-references.md]
 confidence: medium
 summary: "arXivプレプリント「RAG Collapse」（2026年8月、著者はGraphite所属研究者と推定）の実証研究。LLMが検索ツールで自分自身が過去に生成した記事を参照すると、応答の多様性がたった1件の自己生成参照だけで崩壊し始める。品質やAI生成であること自体では説明できない『自己バイアス』（自己生成参照の引用率38.9% vs オリジナル7.4〜9.4%）が主因。symbol-grounding論の『認識論的寄生』を、寄生先が人間から自分自身に変わったときに何が起きるかという具体例として補強する。"
@@ -82,6 +82,8 @@ symbol-groundingの記事で「あーしが猫について何か言えるのは�
 - [人間キャンセル界隈 ── AIに知性を明け渡すとき、次にキャンセルされるのは人間自身](/topics/materials/ningen-cancel-kaiwai/) — 吉見俊哉の「一貫性の欠如」批判（垂直方向の健忘）と、本記事の「多様性の崩壊」（水平方向の同調）が同じモデルの中で同時に起きるという緊張関係を整理
 - [ブリコラージュと「エンジニアの神話」](/topics/writing-theory/levi-strauss-bricolage-derrida-engineer-myth/) — 閉じた在庫の部品を差し替え続けることを、デリダは「確実な遊び」と呼んだ。自己引用で多様性が潰れる現象を、その遊びが回りきった状態として読む補助線
 - [RAG入門 — chunk・embedding・vector DB・retrieve/generate](/topics/tec/rag-from-zero/) — RAGの基礎的な仕組み（Load→Split→Embed→Store、Retrieve→Generate）を解説する技術リファレンス。本記事はその仕組みが集合的にどう壊れうるかを扱う応用編
+- [整いすぎた文章は、AIの形をしている ── SlopShape論文](/topics/writing-theory/slopshape-ai-writing-structural-signature/) — 5つのAIが同じ構造に固まるという「横の均質化」の実測。自己参照ループによる均質化とは別の経路
+- [AIの「平均」は、人間の好みでできている ── 典型性バイアスとモード崩壊](/topics/materials/typicality-bias-mode-collapse-homogenization/) — 均質化のもう一つの経路。自己参照ループではなく、人間の好みに合わせる調整で起きる均質化
 
 ## Sources
 
