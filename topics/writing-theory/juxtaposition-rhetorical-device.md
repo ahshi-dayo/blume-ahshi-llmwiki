@@ -44,6 +44,7 @@ sidebar:
 
 - [引用を、エッセイにどう編み込むか ── 導入・提示・意義づけの技法](/topics/writing-theory/quotation-integration-technique/) ── 引用は他者の言葉を自分の文脈に置く技法、並置は異質なもの同士を並べて関係を読者に委ねる技法。どちらも「自分の地の文の外から来たものを編み込む」という点で地続き
 - [プロレプシス（先取り反論）── 批判が来る前に、それを言ってしまう技法](/topics/writing-theory/prolepsis-anticipating-objections/) ── 相手の主張を歪めずに自分の文章に組み込む技法として、並置の「印象操作との紙一重さ」と対になる
+- [哲学エッセイ ── 総括の言葉ではなく、個別の言葉で哲学する](/topics/writing-theory/philosophy-essay-individual-language/) ── 天気予報と対話を論理の橋なしに連想で結ぶ永井玲衣の書き方。並置を哲学エッセイで使う実例
 
 ## Sources
 

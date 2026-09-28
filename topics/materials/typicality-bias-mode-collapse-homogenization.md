@@ -7,7 +7,7 @@ sources: [raw/papers/2026-09-27-verbalized-sampling-mode-collapse-typicality-bia
 confidence: high
 summary: "AIの文章が似通うのはなぜか。Padmakumar & He（ICLR 2024）は、人間のフィードバックで調整したInstructGPTと一緒に書くと書き手同士の論説文が似てくるが、調整前のGPT-3ではそうならないことを示した。Zhangら（ICML 2026）はその原因を、選好データの『典型性バイアス』に求める。人間の評価者は、正しさが同じなら見慣れた文章をより良いと判定する。この好みを学んだモデルは典型的な応答に集中する（モード崩壊）。ただし、複数の答えと確率を言わせるだけで、多様性は一部回復する。"
 sidebar:
-  order: 1
+  order: 3
 ---
 
 AIの文章はどれも似ている、とよく言われる。[SlopShape論文](/topics/writing-theory/slopshape-ai-writing-structural-signature/)は、5つのモデルが同じ構造に固まることを実測した。では、その均質さはどこから来るのか。AIだから避けられないのか、それとも指示書に文脈が足りないせいなのか。この記事は、それとは別の第3の答えを出した2本の論文をまとめる。均質さは「調整」の段階で入る。そして、その調整を方向づけているのは人間の好みだ。

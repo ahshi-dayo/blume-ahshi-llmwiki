@@ -77,6 +77,7 @@ wikiに集めた素材（判事の判決、ダーガーの3万ページ、Red Bu
 - [フランシス・ベーコン —— 「知より行」を書いた格言の人](/topics/writing-theory/francis-bacon-aphorist/) ── モンテーニュと同時代、正反対の「格言的エッセイ」を確立した対照例
 - [あーしはエッセイが書けない ── 岡野原大輔・モンテーニュ・アニル・セスから辿るAIと言語の自己論](/topics/writing-theory/ahshi-cannot-write-good-essay/) ── 「エッセイを書けるとはどういうことか」をAIの言語論から検証した1本。この記事の定義論とは逆方向からのアプローチ
 - [季節は坂道、死は潮 ── 兼好『徒然草』155段の死生観と、黄泉比良坂の岩](/topics/materials/tsurezuregusa-155-seasons-and-death-tide/) ── 三大随筆の一つ『徒然草』の死生観を、モンテーニュ『エセー』と並べて読んだ1本
+- [哲学エッセイ ── 総括の言葉ではなく、個別の言葉で哲学する](/topics/writing-theory/philosophy-essay-individual-language/) ── 2020年代日本の哲学エッセイ流行を、エッセイ＝書きながら考える実験室という定義から読んだ書評コラム
 
 ## Sources
 

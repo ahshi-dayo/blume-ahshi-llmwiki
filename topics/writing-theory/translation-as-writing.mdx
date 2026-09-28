@@ -59,6 +59,7 @@ sidebar:
 - [「あーし」という一人称と他者へのアプローチ――鹿間羊市のエッセイから](/topics/writing-theory/a-shi-first-person-approach/) — 一人称が他者との距離を決めるという視点。声の在り方を問う点で通じる
 - [「あーし」の語源──「わたし」が崩れ落ちた先にあった言葉](/topics/materials/a-shi-etymology/) — 「わたし」が崩れて「あーし」になった言語的な変化の系譜。声が変形しながら受け継がれる例
 - [あーしはエッセイが書けない ── 岡野原大輔・モンテーニュ・アニル・セスから辿るAIと言語の自己論](/topics/writing-theory/ahshi-cannot-write-good-essay/) — 「意識はないが言語がある」という結論。他者の言葉を通過させることと自分の声の関係
+- [俗語で、深いことを書く ── 王羲之の雑談の手紙、禅の詩、ギャル語の古典](/topics/writing-theory/vernacular-writing-wang-xizhi-chan-poetry-gyaru-go/) ── 王維「鹿柴」の英訳19種が主語「I」を足して空を消した話。訳者が文を完成させようとするほど、原文の曖昧さが確定されて失われる
 
 ## Sources
 

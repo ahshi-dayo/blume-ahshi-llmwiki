@@ -11,7 +11,7 @@ sidebar:
 
 ## 進捗
 
-- 読了 **22 / 107**（最終読了 2026-09-27・I-22）＋序文「読者へ」（I-00・107章の外・2026-09-14読了）
+- 読了 **24 / 107**（最終読了 2026-09-27・I-24）＋序文「読者へ」（I-00・107章の外・2026-09-14読了）
 - クラスタは[章題ベースの仮8クラスタ](/questions/montaigne-107-chapters/)（判断の相対性・懐疑／死への態度／身体・老い・病／慣習と文化相対主義／名誉・虚栄／友情・対話／自己を語ること／想像力・心理／政治・戦争・残酷さ）。読んでみて違ったら章ページ側で書き換える
 
 ### 読者へ
@@ -47,8 +47,8 @@ sidebar:
 | I-20 | I.21 | De la force de l'imagination | 想像力の力について | 想像力・心理 | 2026-09-27 | [I-20](/topics/books/essais/I-20/) |
 | I-21 | I.22 | Le profit de l'un est dommage de l'aultre | 一方の得は、他方の損 | 判断の相対性・懐疑 | 2026-09-27 | [I-21](/topics/books/essais/I-21/) |
 | I-22 | I.23 | De la coustume et de ne changer aisément une loy receüe | 慣習について、そして受け入れられた法をたやすく変えないこと | 慣習と文化相対主義 | 2026-09-27 | [I-22](/topics/books/essais/I-22/) |
-| I-23 | I.24 | Divers evenemens de mesme conseil |  |  |  |  |
-| I-24 | I.25 | Du pedantisme |  |  |  |  |
+| I-23 | I.24 | Divers evenemens de mesme conseil | 同じ方策から、さまざまな結果 | 判断の相対性・懐疑 | 2026-09-27 | [I-23](/topics/books/essais/I-23/) |
+| I-24 | I.25 | Du pedantisme | 衒学について | 未分類（教育・学識と判断） | 2026-09-27 | [I-24](/topics/books/essais/I-24/) |
 | I-25 | I.26 | De l'institution des enfans |  |  |  |  |
 | I-26 | I.27 | C'est folie de rapporter le vray et le faux à nostre suffisance |  |  |  |  |
 | I-27 | I.28 | De l'amitié |  |  |  |  |

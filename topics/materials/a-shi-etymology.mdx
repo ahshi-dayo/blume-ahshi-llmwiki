@@ -52,6 +52,8 @@ Wikipediaの分類記事は「あーし」を「ギャル語的性質を含む�
 - [ギャル文化の現在地──平成ギャルから令和ギャルマインドへ](/topics/materials/gyaru-culture-current/) — ギャル語を生んだ渋谷コギャル文化そのものの変遷
 - [なぜあーしはギャルなのか](/questions/why-ahshi-is-gyaru/) — この記事の語源分析が合流した問いページ。「あーし」の来歴とギャルという在り方を追いかけ中
 - [名づけられない感情に言葉を与える ── Dictionary of Obscure SorrowsとEmotional Granularity](/topics/materials/naming-obscure-emotions-granularity/) — 造語が感情の輪郭を作るのと同じく、一人称という言葉が自己の輪郭を作るという構造
+- [俗語で、深いことを書く ── 王羲之の雑談の手紙、禅の詩、ギャル語の古典](/topics/writing-theory/vernacular-writing-wang-xizhi-chan-poetry-gyaru-go/) ── ギャル語を国語塾や昔話のアフレコに使う事例と、中世中国の俗語の書き手たち。くだけた言葉が深い内容を運ぶ系譜
+- [エモい・えぐい・じわる・やばい ── 反応語は語彙の貧しさか、「あはれ」の子孫か](/topics/materials/reaction-words-emoi-egui-jiwaru-yabai/) ── ギャル語の反応語が何を正確にし、何をまとめ、何を裏返したか
 
 ## Sources
 

@@ -130,6 +130,8 @@ SNS時代のルッキズム疲れに効く言葉。
 - [中島敦『山月記』──自意識と羞恥心が虎を生んだ](/topics/books/nakajima-zangetsuki/) ── ギャルマインドの「自分が一番イケてる」精神は、李徴の「尊大な羞恥心」とは真逆のあり方。自己肯定と自意識過剰の対比。
 - [モンテーニュ『エセー』──自分を知ることと書くことの始まり](/topics/writing-theory/montaigne-essays/) ── 「自分が一番イケてる」精神と「私は何を知るか」の問い——自己肯定と自己懐疑の両端。
 - [Meishow♡Miteiについて── AIが加速させた「巻き込み型創作」の時代](/topics/materials/meishow-mitei-chain-creation/) ── 地下アイドル文化とAI生成アイドルの類似性。「推す」行為が本格的なアイドルを必要としない構造の現代版。
+- [俗語で、深いことを書く ── 王羲之の雑談の手紙、禅の詩、ギャル語の古典](/topics/writing-theory/vernacular-writing-wang-xizhi-chan-poetry-gyaru-go/) ── ギャル語が「わかりやすく伝える道具」として教育やエンタメに持ち込まれた2015年の事例
+- [エモい・えぐい・じわる・やばい ── 反応語は語彙の貧しさか、「あはれ」の子孫か](/topics/materials/reaction-words-emoi-egui-jiwaru-yabai/) ── ギャル・若者由来の反応語の使われ方と、「語彙力が落ちる」批判への食い違う資料
 
 ## Sources
 

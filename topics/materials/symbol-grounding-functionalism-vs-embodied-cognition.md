@@ -4,7 +4,7 @@ sources: [raw/papers/2026-09-11-floridi-et-al-categorical-analysis-llms-symbol-g
 type: materials
 created: 2026-09-11
 date: 2026-09-11
-updated: 2026-09-14
+updated: 2026-09-28
 tags: [symbol-grounding, functionalism, embodied-cognition, llm, stevan-harnad, luciano-floridi, epistemic-parasitism, materials]
 confidence: medium
 summary: "スティーヴァン・ハルナッドが1990年に定式化した記号接地問題（symbol grounding problem）——形式記号がどう意味を獲得するか——を巡り、LLM時代に再燃した対立を2つの最新論文で並べる。Floridi et al.は圏論的枠組みでLLMが接地問題を『解決でなく回避』していると論じる機能主義側の立場、Farkaš et al.は発達的な身体化学習の欠如を理由にマルチモーダルLLMも深い理解には届かないと論じる身体化認知側の立場。両者は同じ問題を見て正反対の結論に至る。"
@@ -66,6 +66,7 @@ LLMがこの要件を満たさないまま高度な言語運用を見せてい�
 - [人間キャンセル界隈 ── AIに知性を明け渡すとき、次にキャンセルされるのは人間自身](/topics/materials/ningen-cancel-kaiwai/) — 新井紀子と吉見俊哉が対談で論じるAIの身体性・一貫性の欠如を、本記事は記号接地問題という認知科学の理論的系譜から補強する
 - [即答という思考の型 ── ハイデガーの『計算的思考／省察的思考』と『問いの三構造』](/topics/materials/heidegger-question-structure-calculative-meditative-thinking/) — AIの「即答」批判をハイデガー側の哲学として扱う姉妹記事。本記事は同じAI批判を認知科学・情報哲学の側から扱う
 - [temperatureは創造性のダイヤルではない ── LLMのサンプリングパラメータを巡る実証研究](/topics/materials/temperature-not-creativity-dial-llm/) — LLMの能力を通説でなく実証データで検証するという方法論が共通する姉妹記事。同じ`/research`ラン（國學院note応募エッセイ準備R2）から生まれた
+- [「確率的な鸚鵡」は何を言い、何を言っていないのか ── Bender・Gebruら（2021）の原典と、7つに割れた反論](/topics/materials/stochastic-parrots-bender-2021-what-it-said/) — 鸚鵡論文が借りた「形式だけでは意味を学べない」（Bender & Koller 2020）の議論と、その後の反論で「接地」が分類から抜けているという指摘を扱う
 
 ## Sources
 

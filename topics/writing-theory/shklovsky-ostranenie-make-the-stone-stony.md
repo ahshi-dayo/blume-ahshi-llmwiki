@@ -146,6 +146,7 @@ sidebar:
 - [コンステレーション（星座）── ヴァルター・ベンヤミンの認識論と引用モンタージュ](/topics/writing-theory/walter-benjamin-constellation-konstellation/) — Helmlingの言う、見慣れた配置を異化する批評装置としてのコンステレーション。プーランもベンヤミンの「適切な距離」を冒頭に引いている
 - [マタギドライヴ ── 落合陽一が語る、計算機自然の山を歩く生き方](/topics/materials/matagi-drive-ochiai-digital-nature/) — 新しさの賞味期限。異化が正典化されて擦り減る話と、同じ現象を別の側から見ている
 - [樽の底の鍵 ── ヒューム・カント・ブルデューの趣味論と、「味わう力」はどこにあるか](/topics/writing-theory/hume-kant-bourdieu-standard-of-taste/) — ヒュームの「革の味はワインの中に本当にある」は、前景化の実証研究と同じく、力を作品の側に置く議論
+- [俗語で、深いことを書く ── 王羲之の雑談の手紙、禅の詩、ギャル語の古典](/topics/writing-theory/vernacular-writing-wang-xizhi-chan-poetry-gyaru-go/) ── かわいいキャラに「絶対言わないような発言」をさせるギャル語アフレコのギャップを、異化の一種として読める事例
 
 ## Sources
 

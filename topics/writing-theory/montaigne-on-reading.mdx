@@ -2,7 +2,7 @@
 title: "モンテーニュの読書論 ── 書物という、裏切らない交際相手"
 tags: [montaigne, essais, reading, des-livres, trois-commerces, plutarch, seneca, writing-theory]
 date: 2026-09-04
-updated: 2026-09-04
+updated: 2026-09-27
 sources: [raw/books/2026-09-04-montaigne-essais-II-10-on-books.md, raw/papers/2026-09-04-mack-montaigne-on-reading-oxford-handbook.md, raw/articles/2026-09-04-pixy10-dokusho-kokoro-totonoeru-montaigne.md]
 confidence: medium
 summary: "『エセー』2巻10章「書物について」と3巻3章「三つの交際について」から、モンテーニュの読書論を辿る。読書の目的は快楽と自己認識であって学識の誇示ではないという宣言、恋愛・友愛と並ぶ『裏切らない交際相手』としての書物、そして『気楽な拾い読み』という自己像が実際の徹底した学者的読書実践と矛盾する『ポーズ』かもしれないという学術的な指摘までを扱う。"
@@ -100,6 +100,8 @@ sidebar:
 - [I-00 読者へ](/topics/books/essais/I-00/) ── 『エセー』序文の「わたしは技巧を使わない、ありのままだ」という宣言に、Mackの「気楽な読者はポーズ」説と同じ構造の疑いを向けた対話メモを収録
 - [I-19 哲学するとは、死ぬことを学ぶことだ](/topics/books/essais/I-19/) ── 読書棚の第19章。2・10の「いかに死に」が圧縮引用している、死ぬことを学ぶという主題を丸ごと1章で展開した章
 - [I-20 想像力の力について](/topics/books/essais/I-20/) ── 読書棚の第20章。結びの「わたしの考えはわたしのもの、例は誰でも付け足してかまわない」〔B〕〔C〕は、蜜蜂の比喩を書き手の側から言った宣言として読める
+- [I-23 同じ方策から、さまざまな結果](/topics/books/essais/I-23/) ── 読書棚の第23章。運命の一覧のなかに「力のある読者は、作者が入れたのとは別の美点を見つけ、もっと豊かな意味と顔を貸す」という1580年版の一文がある（現代語版は「想像力で付け足す」に言い換え）
+- [I-24 衒学について](/topics/books/essais/I-24/) ── 読書棚の第24章。本からついばんで唇の先にだけ置く衒学者の読み方を批判し、手稿加筆〔C〕で「これはわたしが自分の本でやっていることだ」と自分に向ける
 
 ## Sources
 

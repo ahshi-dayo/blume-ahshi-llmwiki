@@ -2,7 +2,7 @@
 title: "モンテーニュ『店の奥の部屋』── 自分を貸しても、自分を与えないという生き方"
 tags: [montaigne, self-boundary, arriere-boutique, seneca, public-private-self, solitude, ambition, essais, writing-theory]
 date: 2026-08-13
-updated: 2026-09-16
+updated: 2026-09-27
 sources: [raw/articles/2026-08-13-montaigne-essais-lending-self.md, raw/articles/2026-08-22-montaigne-essais-solitude-tower.md]
 confidence: medium
 summary: "宮下志朗の連載第4回・第5回を基に、『エセー』3・10「自分の意志を節約することについて」の『自分を貸す・借家人』比喩を辿る。元ネタのセネカ『書簡集』62番、ボルドー市長職とモンテーニュ個人を分けた『二つの人格』、家政をめぐる本音、1・38「孤独について」の『店の奥の部屋（arrière-boutique）』という自己保全の空間論、そして37歳での早期退職・野心批判・塔の書斎という実物の間取りまでを扱う。"
@@ -88,6 +88,7 @@ sidebar:
 - [モンテーニュと旅 ── 確かな線を引かない生き方と、本当に愛した都市](/topics/writing-theory/montaigne-travel-and-cities/) ── 一時は「隠遁の地」としてヴェネツィアを選ぼうとした一節との対比。場所を変えることと、内側を変えることの違い
 - [モンテーニュの読書論 ── 書物という、裏切らない交際相手](/topics/writing-theory/montaigne-on-reading/) ── 塔の書斎という物理的な自己保全の場所と、書物という「裏切らない交際相手」。空間で守る境界と、交際相手として選ぶ境界の2つのバリエーション
 - [I-22 慣習について、そして受け入れられた法をたやすく変えないこと](/topics/books/essais/I-22/) ── 読書棚の章ページ。「賢者は内では自由に判断し、外では世間の形に従う」という区別が、1580年版の時点で政治と法の場面に出ている
+- [I-23 同じ方策から、さまざまな結果](/topics/books/essais/I-23/) ── 読書棚の章ページ。「力のある読者は、作品にもっと豊かな意味と顔を貸す（*preste*）」という1580年版の一文で、「貸す」が読む側の動詞として出てくる
 
 ## Sources
 
