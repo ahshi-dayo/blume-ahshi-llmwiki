@@ -7,7 +7,7 @@ sources: [raw/papers/2026-09-28-bender-gebru-et-al-stochastic-parrots.md, raw/ar
 confidence: high
 summary: "大規模言語モデルを指す「確率的な鸚鵡」は、Bender・Gebruら4人のFAccT 2021論文から来た。ただし論文の主題は環境コスト・訓練データの偏り・研究資源の誤配分を含む『大きすぎる言語モデルの危険』全体で、鸚鵡は8節のうち1節、本文に2回しか出てこない。その節の重心は、機械の内側より、意味を作ってしまう読み手の側と、言ったことに誰も責任を持たない合成テキストの側にある。広まった後、この比喩は7つの別々の主張に割れて論じられ、実証的な版の多くは退けられたが、説明責任を問う版だけは残っている。"
 sidebar:
-  order: 2
+  hidden: true
 ---
 
 「確率的な鸚鵡（stochastic parrots）」は、大規模言語モデル（LLM）を指す呼び名として広く使われている。出どころは、言語学者のEmily M. BenderとTimnit Gebruらが2021年3月のFAccT（公平性・説明責任・透明性に関する国際会議）で発表した論文「On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜」だ。この記事は、原典で鸚鵡の比喩がどこに・どう置かれているかを確かめる。次に、筆頭著者Benderが5年後のインタビューで挙げた誤解を整理する。最後に、比喩が7つの主張に割れて反論された経緯をたどる。
@@ -115,6 +115,7 @@ Manheimの7分類は、次に誰かから「AIは鸚鵡でしょ」って言わ�
 - [I-24 衒学について](/topics/books/essais/I-24/) — 「それくらいなら鸚鵡でも言える」の原文と訳。対話メモ「鸚鵡は誰か」で、引用する学者・AI・AIに語らせる人を並べた
 - [AIは意味を理解しているのか ── 新井紀子の主張と、GPT-4以降の実証・解釈可能性研究](/topics/materials/ai-understanding-arai-noriko-vs-llm-evidence/) — 「理解しているか」を実証データと解釈可能性研究で検証した記事。Manheimの言う非推論型・最適化の副産物型の反証材料にあたる
 - [AIは身体を持たずに意味を持てるか ── 記号接地問題を巡る機能主義と身体化認知の対立](/topics/materials/symbol-grounding-functionalism-vs-embodied-cognition/) — 鸚鵡論文が借りたBender & Koller（2020）の「形式だけでは意味を学べない」の背後にある記号接地問題を扱う記事
+- [言葉の意味は、使い方に尽きるのか ── 古田徹也が読む後期ウィトゲンシュタインと、AIの「理解」](/topics/materials/wittgenstein-meaning-as-use-and-experiencing-meaning/) — 「使い方は知っていても、鳥のさえずりを真似るように理解せずになぞっているだけでは？」という鸚鵡型の疑いを、ウィトゲンシュタインは1930年代に自分自身に向けていた
 
 ## Sources
 

@@ -7,7 +7,7 @@ sources: [raw/articles/2026-09-28-nlab-emoi-ahare-sanseido-shingo-2016.md, raw/a
 confidence: medium
 summary: "若者・ギャル由来の反応語を4つの資料から見る。三省堂『今年の新語2016』の選考委員は『エモい』を古語『あはれ』とほぼ同じと評し、長野の街頭アンケートでは15〜21歳の約9割が『えぐい』を良い意味でも使っていた。齋藤孝は万能語を『3色のクレヨン』と批判する。1語で絞り込む語・まとめる語・意味が裏返った語を分けて並べる。"
 sidebar:
-  order: 1
+  hidden: true
 ---
 
 「エモい」「えぐい」「じわる」「やばい」。若い人たちの反応語は、「何でもこれで済ませて語彙力がなくなる」とよく言われる。でも4つを並べてみると、同じ「くだけた反応語」でも仕事がかなり違う。
@@ -73,6 +73,7 @@ sidebar:
 - [俗語で、深いことを書く ── 王羲之の雑談の手紙、禅の詩、ギャル語の古典](/topics/writing-theory/vernacular-writing-wang-xizhi-chan-poetry-gyaru-go/) ── 「じわる」の国語塾の例と、くだけた言葉が深い内容を運ぶ歴史的な事例
 - [「あーし」の語源──「わたし」が崩れ落ちた先にあった言葉](/topics/materials/a-shi-etymology/) ── 同じギャル語の一語として、一人称「あーし」がどう生まれてどう生き残ったか
 - [ギャル文化の現在地──平成ギャルから令和ギャルマインドへ](/topics/materials/gyaru-culture-current/) ── 反応語を生んだ文化の側の話
+- [言葉の意味は、使い方に尽きるのか ── 古田徹也が読む後期ウィトゲンシュタインと、AIの「理解」](/topics/materials/wittgenstein-meaning-as-use-and-experiencing-meaning/) — どの言い換えでも「ちょっと違う」方言「むつごい」を例に、ウィトゲンシュタインの「言葉の魂」を説く。「エモい」が「あはれ」でも言い尽くせないのと同じ形
 
 ## Sources
 

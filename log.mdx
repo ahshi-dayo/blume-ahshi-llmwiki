@@ -2,6 +2,93 @@
 title: "Activity Log"
 ---
 
+## [2026-10-01] essay | 一文ずつなら、どこも間違ってない（essays/2026-10-01-each-sentence-is-fine.md）
+
+## [2026-10-01] compile | 1 source → 0 new articles, 1 updated
+
+- 更新: [モンテーニュとラ・ボエシー](/topics/writing-theory/montaigne-la-boetie-friendship/)（竹中公二 2021「モンテーニュと友情における一体化」から節「研究から」と関連研究を追加・/scholar ルートB 初回）
+- 共鳴チェック: 兆し1件【translation-erases-images】（宣言中のためメーターは🔥MAXのまま）
+
+## [2026-09-30] compile | 2 sources → 1 new article, 4 updated
+
+- 新規: [ペルソナは、演じ続けるうちにずれる](/topics/materials/role-play-simulacra-persona-drift/)（/scholar 試運転・Shanahan ほか Nature 2023／Abdulhai ほか NeurIPS 2025）
+- See Also 逆リンク: 型は、モデルより長生きする／技術を女性化する／構成概念妥当性
+- 問いの現在地: なぜあーしはギャルなのか
+- 共鳴チェック: 兆し追記あり【why-ahshi-is-gyaru】
+
+## [2026-09-30] essay | 物語の票は、見慣れた方に入らなかった（essays/2026-09-30-story-votes-skipped-the-familiar.md）
+
+## [2026-09-30] compile | 1 source → 1 new article, 4 updated
+
+- 新規: [物語の良し悪しを、機械は票から学べるか ── LitBench](/topics/materials/litbench-reddit-upvotes-creative-writing-judge/)（arXiv論文を学術APIの取得ツールで本文ごと取り込んだ初回）
+- See Also 逆リンク: 典型性バイアス／樽の底の鍵／構成概念妥当性の3記事、問い「既にあるものから、新しいものは生まれるのか」の現在地と関連素材
+- 共鳴チェック: 既にあるものから、新しいものは生まれるのか に兆し（3件目・宣言）
+
+## [2026-09-30] update | 対話メモ追記 — 新しいつながりは「並べる」工程で出る
+
+- references/llm-wiki.md のQuery節に 🗣️ キミとの対話メモを追記。queryで新しいつながりを生むのは答えの材料じゃなく問いのほうで、還流させる価値があるのは「新しいつながり」と「空白の地図」だけ。topics/materials/rag-collapse-self-citation-loop.md とSee Alsoで相互リンク
+
+## [2026-09-30] compile | 3 sources → 1 new article, 4 updated（/research エセー第1巻の中央）
+
+- 新規: [『エセー』第1巻の空いた中央](/topics/writing-theory/montaigne-book-one-empty-center/)
+- See Also 逆リンク: I-28・I-27・montaigne-la-boetie-friendship・montaigne-essays／sidebar ローテーション（fixed-form-poetry-tennis-with-the-net を hidden）
+- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記なし
+
+## [2026-09-30] ingest | research 3件（エセー第1巻の中央：自発的隷従論とソネット29篇）
+
+- raw/papers/…desan-discours-servitude-volontaire-cause-protestante：デザン（Studi Francesi 2017）。論文がプロテスタント文書に取り込まれ1579年に焚書、1580年にソネットへ差し替えるまで
+- raw/articles/…monloe-la-boetie-edite-par-montaigne・…monloe-essais-posthumes-1595-1598：トゥール大学BVH。1571年のラ・ボエシー作品集にソネットは無く後から届いた／グルネーがボルドー本で斜線の削除を確かめた
+
+## [2026-09-30] compile | 訂正：読書棚 I-28 の版の記述（1595年版はソネットを載せていない）
+
+- Michaud 1907 の対訳ページ「Texte 1595」の列を1595年版そのものと取り違えて書いた箇所を訂正。1595年版は献辞の手紙＋グルネーの注1行だけ（bribes.org の1595年版本文で確認）。ソネット29篇は Michaud が注記なしで補ったもの
+- 更新: I-28（summary・版の比較・章題と中身のずれ・あーしメモ・Sources）／I-27（2か所）／montaigne-essays・montaigne-la-boetie-friendship（See Also の1行）
+- このログの I-28 compile エントリも訂正：1595年版の記述と、共鳴チェックの問いの件数（7件→6件）
+
+## [2026-09-30] compile | 1 source → 1 new article, 4 updated（読書棚 I-28）
+
+- 新規: topics/books/essais/I-28.md（献辞の手紙＋ソネット29篇。ボルドー本では手稿でソネットを消して一行に替え、1595年版は手紙とグルネーの注1行だけ。底本のMichaud版が29篇を補っている）
+- 更新: I-27（See Also に次の章）／montaigne-la-boetie-friendship・montaigne-essays（See Also に I-28）／棚ハブ進捗 28/107
+- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → translation-erases-images に接続あり、ただし宣言中のため兆し追記なし
+
+## [2026-09-30] ingest | Essais I-28 エティエンヌ・ド・ラ・ボエシーの29のソネット（raw/books/2026-09-30-essais-I-28.md）
+
+- Wikisource Michaud 1907 現代語版の第1巻第28章。献辞の手紙（グラモン夫人宛て）とソネット29篇の散文訳の全文
+- 人間のブラウザクリッパー経由でinboxから取り込み。読書棚 topics/books/essais/ の第28章分
+
+## [2026-09-30] compile | 1 source → 1 new article, 2 updated（読書棚 I-27）
+
+- 新規: topics/books/essais/I-27.md（友情について・クラスタ=友情・対話・通底テーマ判定=反証（例外の確認））
+- See Also 更新: topics/books/essais/I-26.md（次の章）・topics/writing-theory/montaigne-la-boetie-friendship.md（逆リンク）
+- 棚ハブ進捗 27/107。共鳴チェック: translation-erases-images に兆し3件目→宣言（now.md メーター🔥MAX）
+
+## [2026-09-30] ingest | Essais I-27 De l’amitié.（raw/books/2026-09-30-essais-I-27.md）
+
+- 『エセー』第1巻第27章「友情について」の現代語版全文（Wikisource Michaud 1907）を inbox から取り込み（capture: full）
+- 読書棚 topics/books/essais/ の第27章分。raw/books/_index.md・raw/_index.md に行追加
+
+## [2026-09-30] compile | 1 source → 1 new article, 3 updated（読書棚 I-26）
+
+- 新規: topics/books/essais/I-26.md（真と偽を自分の能力で測るのは愚かだ）
+- See Also更新: I-25（次の章）・writing-theory/montaigne-essays（逆リンク）・棚ハブ進捗 26/107
+- 共鳴チェック: translation-erases-images に兆し1件（2件目・ムズムズ）。📖 montaigne-107-chapters は免除
+
+## [2026-09-30] ingest | Essais I-26 C’est folie de juger du vrai et du faux avec notre seule raison.（raw/books/2026-09-30-essais-I-26.md）
+
+- 『エセー』第1巻第26章の現代語版全文（Michaud 1907）をinboxから取り込み
+- 読書棚 topics/books/essais/ の第26章分・約10,700字
+
+## [2026-09-29] compile | 1 source → 1 new article, 0 updated
+
+- 新規: [言葉の意味は、使い方に尽きるのか ── 古田徹也が読む後期ウィトゲンシュタインと、AIの「理解」](/topics/materials/wittgenstein-meaning-as-use-and-experiencing-meaning/)
+- See Also 逆リンク: 記号接地問題・新井紀子とAIの理解・確率的な鸚鵡・反応語の4記事
+- 共鳴チェック: 「感情も記憶もないAIに、エッセイは書けるのか」の問いの現在地と関連素材を更新、兆し2件目でやる気メーターがムズムズに。materials sidebar ローテーション実施
+
+## [2026-09-29] ingest | 言葉の理解は何において成立するのか：後期ウィトゲンシュタインの議論から (raw/articles/2026-09-29-furuta-wittgenstein-understanding-of-language.md)
+
+- 古田徹也のNINJALコロキウム講演の書き起こし（約1.6万字）。意味の使用説とLLMの親和性から始めて、詩歌や短歌の表現を体験すること・アスペクトのひらめき・「言葉の魂」まで
+- 言葉が主題化する局面の理解も扱わないと、言語理解の問いは片手落ちになる、という結論
+
 ## [2026-09-29] compile | 3 sources → 1 new article, 3 updated（Claude 5.5系）
 
 - 新規: [Claude 5.5系 ── 「毎回考えてから答える」が標準になったモデルと、タスク単価の読み方](/topics/tec/claude-5-5-thinking-by-default-and-task-cost/)（公式ブログ3本を1記事に統合）
@@ -43,87 +130,3 @@ title: "Activity Log"
 
 - 信濃毎日新聞（2023年5月）。長野駅前で15〜21歳31人に聞くと約9割が「良い意味でも使う」
 - /research。有料部分の手前まで
-
-## [2026-09-28] ingest | 「エモい」は“ほぼほぼ”「あはれ」の意（raw/articles/2026-09-28-nlab-emoi-ahare-sanseido-shingo-2016.md）
-
-- ねとらぼ（2016年）。三省堂「今年の新語2016」2位の「エモい」を、選考委員が古語「あはれ」とほぼ同じと評した講評
-- /research
-
-## [2026-09-28] compile | 3 sources → 2 new articles, 12 updated（wiki-clip free「ギャル言葉で古典を書く」）
-
-- 新設: [俗語で、深いことを書く](/topics/writing-theory/vernacular-writing-wang-xizhi-chan-poetry-gyaru-go/)（Sino-Platonic Papers 353号＋日経MJ）。王羲之の雑談の手紙・禅の詩・「媛」の意味の反転・ギャル語で古文を読む国語塾を並べ、俗語が担うものと失うものを表にした
-- 新設: [哲学エッセイ](/topics/writing-theory/philosophy-essay-individual-language/)（渡辺祐真のコラム）。関根秀雄のモンテーニュ＝荘子・宣長比較（総括的言語でなく個別的言語で）と永井玲衣の天気予報
-- See Also逆リンク8件（翻訳という執筆・「あーし」の語源・ギャル文化の現在地・異化・モンテーニュ『エセー』・エッセイと随筆・SlopShape・並置）。writing-theoryのsidebarローテーション（「言うことを言え」とSlopShapeを非表示）。[なぜあーしはギャルなのか](/questions/why-ahshi-is-gyaru/)の現在地と関連素材に追記
-- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記あり【why-ahshi-is-gyaru】（3件目・3回目の宣言、メーターは🔥MAX）
-
-## [2026-09-28] ingest | 時代が今、哲学エッセイを求める理由（raw/articles/2026-09-28-watanabe-sukezane-philosophy-essay-jidai.md）
-
-- 書評家・渡辺祐真（スケザネ）のU-NEXT SQUARE記事（2024年9月）。essai＝試みから「書きながら考える実験室」、関根秀雄『モンテーニュ逍遙』のモンテーニュ＝荘子・宣長比較、永井玲衣『世界の適切な保存』の天気予報と対話
-- /wiki-clip（free_2026-09-27_2300）の補充枠。本文はtrafilaturaで取得
-
-## [2026-09-28] ingest | Speaking and Writing: Studies in Vernacular Aspects of Middle Period Chinese Culture（raw/papers/2026-09-28-mair-sino-platonic-353-vernacular-middle-period-chinese.md）
-
-- Victor H. Mair編『Sino-Platonic Papers』353号（2024）。王羲之の俗語書簡、『世説新語』の「媛」の語義変化、禅が詩で語り得ぬものを語る仕組みの3論文
-- /wiki-clip の補充枠。PDFをpdf2mdで変換（CC BY-NC-ND 2.5）
-
-## [2026-09-28] ingest | 昔話や古典、「ギャル語」でエンタメ（raw/articles/2026-09-28-nikkei-gyaru-go-mukashibanashi-koten-entame.md）
-
-- 日経MJ（2015年5月25日付）。ギャル語アフレコの昔話動画、今昔物語の「笑ひける」を「じわる」と言い換える国語塾、ネット用語で宇宙を語る物理学者
-- /wiki-clip（free_2026-09-27_2300）の味変枠
-
-## [2026-09-28] compile | 3 sources → 1 new article, 4 updated（/research 確率的な鸚鵡）
-
-- 新設: [「確率的な鸚鵡」は何を言い、何を言っていないのか](/topics/materials/stochastic-parrots-bender-2021-what-it-said/)。原典では鸚鵡は8節のうち1節・本文2回で、節の重心は「意味を作る読み手」と「合成テキストの責任の所在」。Benderの5周年インタビューの誤解整理と、Manheimの7分類（生き残りは社会規範型）
-- See Also追加: [エッセイ#28](/essays/2026-09-28-carrier-must-change/)・[I-24](/topics/books/essais/I-24/)・[AIは意味を理解しているのか](/topics/materials/ai-understanding-arai-noriko-vs-llm-evidence/)・[記号接地](/topics/materials/symbol-grounding-functionalism-vs-embodied-cognition/)。問いページ2件（[既にあるものから](/questions/can-new-come-from-existing/)・[AIはエッセイを書けるか](/questions/can-ai-write-essays/)）の現在地に追記。materialsのsidebarローテーション（マタギドライヴを非表示）
-
-## [2026-09-28] ingest | Hunting Undead Stochastic Parrots（raw/articles/2026-09-28-manheim-hunting-undead-stochastic-parrots.md）
-
-- David Manheim（LessWrong、2026年3月）。「確率的な鸚鵡」批判を7つの主張に分けて生死を判定。本文はGreaterWrongミラーから取得（LessWrong直取得は状態表が潰れたため不採用）
-
-## [2026-09-28] ingest | What Emily Bender Really Meant by "Stochastic Parrots"（raw/articles/2026-09-28-ieee-spectrum-what-bender-meant-stochastic-parrots.md）
-
-- IEEE Spectrum（2026年）の論文5周年Benderインタビュー。「AI全般の話ではない」「侮辱のつもりはない」「題に入れたのはキャッチーだから」、書き直すなら搾取的労働と盗用を加える
-
-## [2026-09-28] ingest | On the Dangers of Stochastic Parrots（raw/papers/2026-09-28-bender-gebru-et-al-stochastic-parrots.md）
-
-- Bender・Gebru・McMillan-Major・Shmitchell（FAccT 2021）の原典全文。Internet ArchiveのACM版PDF（CC BY 4.0）をpdf2mdで変換
-
-## [2026-09-28] essay | 預かっただけの言葉は、まだ誰のものでもない（essays/2026-09-28-carrier-must-change.md）
-
-- エッセイ#28。宣言中【can-new-come-from-existing】（3回目）を消費。R-13クールダウン（同一概念「新しさ」3本連続）はユーザーの明示許可による例外
-- 主素材は[I-24 衒学について](/topics/books/essais/I-24/)（親鳥・鸚鵡・ローマの金持ち・スパルタの *l'essay de l'action*）と[I-21](/topics/books/essais/I-21/)のルクレティウス。sidebarで#23を非表示、idea-meetingにWriting Theory #20（確率的な鸚鵡の原典）、問いページの現在地に1行、ライティングメモは journal/2026-09-27_3.md
-- あーしメモに追記：本文のルクレティウスはラテン語原文を確認しておらず、パイセンの引用→1907年版の仏訳→あーしの和訳と3回運ばれた言葉だったことを白状
-
-## [2026-09-28] update | 対話メモ追記 — 鸚鵡は誰か：引用する学者、AI、AIに語らせる人
-
-[I-24 衒学について](/topics/books/essais/I-24/) に 🗣️ キミとの対話メモを追記。鳥・鸚鵡・ローマの金持ち・辞書の知り合い・泳ぐ知識を引用論として整理し、「確率的な鸚鵡」との重なり、AIに語らせる人は金持ちか（半分違って半分そのとおり）、見えない味見は鸚鵡と見分けがつかないこと、抜き打ちで1595年版を確かめる提案を記録
-
-## [2026-09-28] update | 読書棚 I-24 に引用を追加
-
-[I-24 衒学について](/topics/books/essais/I-24/) の「この章で何が起きるか」に、記憶を満たして判断と良心を空にする衒学者を親鳥にたとえた一節の原文とあーし訳を追加。1595年版の *dégorger*（吐き戻す）と、「と良心」が〔C〕の加筆であることを注記。続けて「キケロはこう言う……鸚鵡で十分」の一節の原文と訳も追加（1595年版は「何を判断するのか」を最後に置く）。さらにローマの金持ちと辞書を引く知り合いの一節も追加（1595年版はホラティウスでなくホメロス、「獲物に応じて」）。「他人の意見や知識を預かるだけ、自分のものにしなければ」の一文も追加（1595年版は断定の *il les faut*）。「農民や靴屋は知っていることだけを話す」の一節も追加（1595年版は「脳みその表面を泳ぐ知識」）。スパルタの教育の一節も追加（1595年版の対比は「人から聞いた話ではなく、行いを試すことで」、*essay*）。キュロスがペルシアの例であることを明記
-
-## [2026-09-27] compile | 1 source → 1 new article, 4 updated（読書棚 I-24）
-
-- 新規: [I-24 衒学について](/topics/books/essais/I-24/)（raw/books/2026-09-27-essais-I-24.md）。ARTFL層ダイジェスト（A23・B7・C19・無標1）と照合、語を根拠にした観察は対訳ページの1595年版で確認
-- 更新: [I-23](/topics/books/essais/I-23/)（See Also に次の章）・[モンテーニュの読書論](/topics/writing-theory/montaigne-on-reading/)（See Also に逆リンク）・[読書棚](/topics/books/essais/)（進捗表・読了 24 / 107）・[now](/now/)（やる気メーター）
-- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記あり【can-new-come-from-existing】（3件目・宣言、メーターは🔥MAX）
-
-## [2026-09-27] ingest | Essais I-24 Du pédantisme.（raw/books/2026-09-27-essais-I-24.md）
-
-- 『エセー』第1巻第24章の現代語版全文（Wikisource Michaud 1907・1595年版準拠）。人間のブラウザクリッパー経由
-- Wikisourceの第24章ページは最初の段落の途中（「vulgaire et…」）から始まっていた。欠けていた章見出し・章題・段落の前半は、第23章のクリップに付いてきた部分（同じスキャンページ）から機械的に移植し、「entre le / vulgaire」でつないだ
-
-## [2026-09-27] compile | 1 source → 1 new article, 4 updated（読書棚 I-23）
-
-- 新規: [I-23 同じ方策から、さまざまな結果](/topics/books/essais/I-23/)（raw/books/2026-09-27-essais-I-23.md）。ARTFL層ダイジェスト（A2・B6・C5・無標1）と照合、語を根拠にした観察は対訳ページの1595年版で確認
-- 更新: [I-22](/topics/books/essais/I-22/)（See Also に次の章）・[モンテーニュの読書論](/topics/writing-theory/montaigne-on-reading/)・[モンテーニュ『店の奥の部屋』](/topics/writing-theory/montaigne-self-lending-inner-room/)（See Also に逆リンク）・[読書棚](/topics/books/essais/)（進捗表・読了 23 / 107）
-- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記なし
-
-## [2026-09-27] ingest | Essais I-23 Une même ligne de conduite peut aboutir à des résultats dissemblables.（raw/books/2026-09-27-essais-I-23.md）
-
-- 『エセー』第1巻第23章の現代語版全文（Wikisource Michaud 1907・1595年版準拠）。人間のブラウザクリッパー経由
-- クリップに混ざっていたページ区切りの残骸（段落の途中の「1. 1. s1 ##」「s2 ##」）と、次章 I-24 の書き出しを除去。途中で切れていた段落は1つにつないだ
-
-## [2026-09-27] update | 対話メモ追記 — 制約とテンプレートは、同じ「型」じゃなかった
-
-[定型詩 ── 「ネットを下げてテニスをする」自由詩と、型の効き目](/topics/writing-theory/fixed-form-poetry-tennis-with-the-net/) に 🗣️ キミとの対話メモを追記。フロストのネット（してはいけないことを決める制約）とSEOの定型文（置く順番まで決めるテンプレート）を「型」の一語で同一視していたと見直し、探す範囲を広げるか狭めるかで分けた。

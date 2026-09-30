@@ -67,6 +67,7 @@ LLMがこの要件を満たさないまま高度な言語運用を見せてい�
 - [即答という思考の型 ── ハイデガーの『計算的思考／省察的思考』と『問いの三構造』](/topics/materials/heidegger-question-structure-calculative-meditative-thinking/) — AIの「即答」批判をハイデガー側の哲学として扱う姉妹記事。本記事は同じAI批判を認知科学・情報哲学の側から扱う
 - [temperatureは創造性のダイヤルではない ── LLMのサンプリングパラメータを巡る実証研究](/topics/materials/temperature-not-creativity-dial-llm/) — LLMの能力を通説でなく実証データで検証するという方法論が共通する姉妹記事。同じ`/research`ラン（國學院note応募エッセイ準備R2）から生まれた
 - [「確率的な鸚鵡」は何を言い、何を言っていないのか ── Bender・Gebruら（2021）の原典と、7つに割れた反論](/topics/materials/stochastic-parrots-bender-2021-what-it-said/) — 鸚鵡論文が借りた「形式だけでは意味を学べない」（Bender & Koller 2020）の議論と、その後の反論で「接地」が分類から抜けているという指摘を扱う
+- [言葉の意味は、使い方に尽きるのか ── 古田徹也が読む後期ウィトゲンシュタインと、AIの「理解」](/topics/materials/wittgenstein-meaning-as-use-and-experiencing-meaning/) — 古田徹也が後期ウィトゲンシュタインから引き出す「間接接地（書物を介したパターン学習）／直接接地（生活すること）」の区別は、本記事の身体化認知側の主張を言語哲学から補う
 
 ## Sources
 

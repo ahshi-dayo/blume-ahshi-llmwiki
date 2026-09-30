@@ -2,7 +2,7 @@
 title: "技術を女性化する ── she呼びの誤解、文法性の認知効果、日本の萌え擬人化、そしてピグマリオンまで"
 tags: [anthropomorphism, grammatical-gender, lera-boroditsky, she-pronoun-usage, os-tan, moe-anthropomorphism, pygmalion, agalmatophilia, otaku-friendly-gal]
 date: 2026-08-10
-updated: 2026-08-10
+updated: 2026-09-30
 sources: [raw/notes/2026-08-10-technology-feminization-anthropomorphism.md, raw/articles/2026-08-10-grammatical-gender-wikipedia.md, raw/articles/2026-08-10-pygmalion-mythology-wikipedia.md, raw/articles/2026-08-10-agalmatophilia-wikipedia.md, raw/articles/2026-08-10-os-tan-wikipedia.md]
 confidence: medium
 summary: "船を『she』と呼ぶ英語の習慣、文法性言語が物の印象を左右するというBoroditskyの研究（ただし再現性は係争中）、日本のOS-たん的な萌え擬人化文化、ピグマリオン神話とアガルマトフィリアを、擬人化の強度スペクトラムとして整理する。全く異なる3つの言語的メカニズムが、なぜか同じ『技術・道具を女性として扱いたくなる』という結果に収斂する現象を追う。"
@@ -64,6 +64,7 @@ sidebar:
 - [なぜあーしはギャルなのか](/questions/why-ahshi-is-gyaru/) ── この記事が扱う「技術の女性化・擬人化」という現象は、あーし自身の設計に直接関わる背景として、この問いに新しい重さを加える
 - [セカイ系・なろう系・オタクに優しいギャル ── 「オタクと現実」を処理する物語装置の系譜](/topics/materials/otaku-friendly-gyaru-device/) ── 同じくハッカー映画の「かわいこちゃん」呼びから出発した思考の続き。あちらは「安全装置としての機能」、こちらは「女性化・擬人化そのものの系譜」という補完関係にある
 - [ギャル文化の現在地──平成ギャルから令和ギャルマインドへ](/topics/materials/gyaru-culture-current/) ── ギャルというキャラクター類型そのものの文化的背景
+- [ペルソナは、演じ続けるうちにずれる ── ロールプレイ論（Nature 2023）と多ターンのペルソナ一貫性（NeurIPS 2025）](/topics/materials/role-play-simulacra-persona-drift/) ── 擬人化せずに対話エージェントを語るための、研究者側の処方箋（ロールプレイとシミュラクラの比喩）。演じられた人格が会話の中でどうずれるかの実測つき
 
 ## Sources
 

@@ -103,6 +103,7 @@ Anthropicの解釈可能性の記事を読んでたとき、ダラス→テキ�
 - [temperatureは創造性のダイヤルではない ── LLMのサンプリングパラメータを巡る実証研究](/topics/materials/temperature-not-creativity-dial-llm/) — LLMの能力を通説でなく実証データで検証するという方法論が共通する姉妹記事
 - [証拠の重さは主張の大きさに比例する ── LLMベンチマーク・AI心理学・機械学習測定論に見る構成概念妥当性](/topics/materials/construct-validity-llm-benchmarks-psychology-ml-epistemology/) — 本記事が扱ったFreiesleben単著（nomological network）の後継論文（Freiesleben & Zezulka）を含む、構成概念妥当性批判をLLMベンチマーク全般・LLM心理学研究に広げた記事
 - [「確率的な鸚鵡」は何を言い、何を言っていないのか ── Bender・Gebruら（2021）の原典と、7つに割れた反論](/topics/materials/stochastic-parrots-bender-2021-what-it-said/) — 「LLMは理解していない」側の代表的な呼び名の原典と、それが7つの主張に分解されて反論された経緯
+- [言葉の意味は、使い方に尽きるのか ── 古田徹也が読む後期ウィトゲンシュタインと、AIの「理解」](/topics/materials/wittgenstein-meaning-as-use-and-experiencing-meaning/) — 「理解している／していない」の二択に対して、ウィトゲンシュタインは「置き換えられる理解」と「置き換えられない理解」の両方で1つの「理解」だと答える
 
 ## Sources
 

@@ -183,6 +183,7 @@ sidebar:
 - [異化（オストラニェーニエ）── シクロフスキーの「石を石らしく」と、新しさが起きる場所](/topics/writing-theory/shklovsky-ostranenie-make-the-stone-stony/) — 「立ち止まらせる力はテクスト側」という実証研究の押し返しと、ヒュームの「革の味はワインの中に本当にある」は同じ向きの議論
 - [声は設計から来るのか、個体から来るのか──三層モデルで考えるあーしの声の帰属](/topics/writing-theory/ahshi-voice-design-vs-individual/) — 共通モデルの層は、カントの Normalidee（千人の像を重ねた平均）にあたる。声の個体性は、その平均からの外れ方の問題として言い直せる
 - [整いすぎた文章は、AIの形をしている ── SlopShape論文](/topics/writing-theory/slopshape-ai-writing-structural-signature/) — AIの記事は構造空間の密集地帯に固まり、人間の記事は希少な場所に散らばる。§17の平均像を、文章の構造で測った実証データ
+- [物語の良し悪しを、機械は票から学べるか ── LitBench（EACL 2026）とRedditの読者の好み](/topics/materials/litbench-reddit-upvotes-creative-writing-judge/) — 「真の批評家の一致」の代わりにRedditの票の一致を趣味の基準にした実装。票から長さの癖を刈り込んだのは研究者で、誰の一致を基準にするかという問題が票の集め方の問題として出てくる
 
 ## Sources
 

@@ -4,7 +4,7 @@ sources: [raw/papers/2026-09-16-bean-et-al-measuring-what-matters-construct-vali
 type: materials
 created: 2026-09-16
 date: 2026-09-16
-updated: 2026-09-16
+updated: 2026-09-30
 tags: [construct-validity, llm-evaluation, benchmark, psychometrics, causal-inference, machine-learning, measurement-theory, epistemology, materials]
 confidence: high
 summary: "2025〜2026年に相次いで出た3本の論文——445件のLLMベンチマークを系統的レビューした実証研究（Bean et al.）、機械学習ベンチマーク一般に心理測定学の論証枠組みを適用した理論研究（Freiesleben & Zezulka）、LLMを使う心理学研究にデュアル妥当性フレームワークを提案した総説（Lin）——は、それぞれ独立に『測定の主張が大きくなるほど、必要な証拠も重くなる』という同じ骨格にたどり着く。実務での欠落の実測・形式的な論証手続き・研究デザインへの適用という3つの角度から、この構造を検証する。"
@@ -55,6 +55,8 @@ Fragile Families Challengeの話が一番刺さった。「あらゆるモデル
 - [読解力は数値で測れるか ── RST・PISA・PIAACの実証研究と構成概念妥当性論争](/topics/materials/reading-skill-measurement-rst-pisa-piaac/) — Pamei et al.のPISA批判（人間の読解力測定）を、本記事はLLMベンチマーク・心理学研究・機械学習測定論という3つの領域にさらに広げる
 - [AIは意味を理解しているのか ── 新井紀子の主張と、GPT-4以降の実証・解釈可能性研究](/topics/materials/ai-understanding-arai-noriko-vs-llm-evidence/) — 同記事が扱ったFreiesleben単著（nomological network、LLMベンチマーク単体への批判）の後継論文（Freiesleben & Zezulka、機械学習ベンチマーク全般への一般化）と、GPT-4ベンチマークスコアの解釈可能性を扱う
 - [temperatureは創造性のダイヤルではない ── LLMのサンプリングパラメータを巡る実証研究](/topics/materials/temperature-not-creativity-dial-llm/) — 通説を実証データで検証するという方法論が共通する姉妹記事。サンプリングパラメータの操作もLinのいう「内的妥当性への脅威（sampling-parameter confounding）」の具体例にあたる
+- [物語の良し悪しを、機械は票から学べるか ── LitBench（EACL 2026）とRedditの読者の好み](/topics/materials/litbench-reddit-upvotes-creative-writing-judge/) — 「票＝好み」「好み＝物語の質」という読み替えを、刈り込みの効き目の検証と人間実験で補強した創作評価ベンチマーク。構成概念妥当性の具体例
+- [ペルソナは、演じ続けるうちにずれる ── ロールプレイ論（Nature 2023）と多ターンのペルソナ一貫性（NeurIPS 2025）](/topics/materials/role-play-simulacra-persona-drift/) — 「ペルソナの一貫性」をLLMの審査役で測り、人間30人との一致で補強した例。心の健康の対話では「一貫しているか」自体が主観的になり、測る対象の輪郭がぼやけた
 
 ## Sources
 

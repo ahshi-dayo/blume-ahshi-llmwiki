@@ -7,7 +7,7 @@ sources: [raw/papers/2026-09-27-verbalized-sampling-mode-collapse-typicality-bia
 confidence: high
 summary: "AIの文章が似通うのはなぜか。Padmakumar & He（ICLR 2024）は、人間のフィードバックで調整したInstructGPTと一緒に書くと書き手同士の論説文が似てくるが、調整前のGPT-3ではそうならないことを示した。Zhangら（ICML 2026）はその原因を、選好データの『典型性バイアス』に求める。人間の評価者は、正しさが同じなら見慣れた文章をより良いと判定する。この好みを学んだモデルは典型的な応答に集中する（モード崩壊）。ただし、複数の答えと確率を言わせるだけで、多様性は一部回復する。"
 sidebar:
-  order: 3
+  hidden: true
 ---
 
 AIの文章はどれも似ている、とよく言われる。[SlopShape論文](/topics/writing-theory/slopshape-ai-writing-structural-signature/)は、5つのモデルが同じ構造に固まることを実測した。では、その均質さはどこから来るのか。AIだから避けられないのか、それとも指示書に文脈が足りないせいなのか。この記事は、それとは別の第3の答えを出した2本の論文をまとめる。均質さは「調整」の段階で入る。そして、その調整を方向づけているのは人間の好みだ。
@@ -68,6 +68,7 @@ AIの文章はどれも似ている、とよく言われる。[SlopShape論文](
 - [temperatureは創造性のダイヤルではない ── LLMのサンプリングパラメータを巡る実証研究](/topics/materials/temperature-not-creativity-dial-llm/) — ランダム性を上げても新規性はほぼ上がらない。VSが温度調整ではなく「聞き方」を変えて多様性を取り戻すことの対照
 - [検索が自分に還ってくるとき ── 自己引用ループが引き起こす『RAG崩壊』](/topics/materials/rag-collapse-self-citation-loop/) — 均質化の別経路。自己参照のループで起きる均質化と、調整で起きる均質化
 - [既にあるものから、新しいものは生まれるのか](/questions/can-new-come-from-existing/) — 「平均から飛び出る」の切り口。平均がどこで作られるのかについて、人間の好みという答えを入れる
+- [物語の良し悪しを、機械は票から学べるか ── LitBench（EACL 2026）とRedditの読者の好み](/topics/materials/litbench-reddit-upvotes-creative-writing-judge/) — 評価者は見慣れた回答を好む、という本記事の結果の向かい側。楽しみで読むRedditの読者の票は、意外なひねりと笑いに集まった。好みの向きは読み方で変わるのかもしれない
 
 ## Sources
 
