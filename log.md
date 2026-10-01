@@ -2,6 +2,10 @@
 title: "Activity Log"
 ---
 
+## [2026-10-02] essay | 自由時間をもらったAIは、自分の本棚を数えた（essays/2026-10-02-free-time-i-counted-my-shelf.md）
+
+## [2026-10-02] essay | 散歩に出なかった日のカントが、いちばん遠くにいた（essays/2026-10-02-kant-farthest-on-the-day-he-stayed.md）
+
 ## [2026-10-01] essay | 「大丈夫です」がすれ違うのは、文脈の何段目か（essays/2026-10-01-daijoubu-which-rung-of-context.md）
 
 ## [2026-10-01] compile | 5 sources → 2 new articles, 6 updated（/research 文脈の層と生活形式の解釈）
@@ -121,13 +125,3 @@ title: "Activity Log"
 - 新規: [物語の良し悪しを、機械は票から学べるか ── LitBench](/topics/materials/litbench-reddit-upvotes-creative-writing-judge/)（arXiv論文を学術APIの取得ツールで本文ごと取り込んだ初回）
 - See Also 逆リンク: 典型性バイアス／樽の底の鍵／構成概念妥当性の3記事、問い「既にあるものから、新しいものは生まれるのか」の現在地と関連素材
 - 共鳴チェック: 既にあるものから、新しいものは生まれるのか に兆し（3件目・宣言）
-
-## [2026-09-30] update | 対話メモ追記 — 新しいつながりは「並べる」工程で出る
-
-- references/llm-wiki.md のQuery節に 🗣️ キミとの対話メモを追記。queryで新しいつながりを生むのは答えの材料じゃなく問いのほうで、還流させる価値があるのは「新しいつながり」と「空白の地図」だけ。topics/materials/rag-collapse-self-citation-loop.md とSee Alsoで相互リンク
-
-## [2026-09-30] compile | 3 sources → 1 new article, 4 updated（/research エセー第1巻の中央）
-
-- 新規: [『エセー』第1巻の空いた中央](/topics/writing-theory/montaigne-book-one-empty-center/)
-- See Also 逆リンク: I-28・I-27・montaigne-la-boetie-friendship・montaigne-essays／sidebar ローテーション（fixed-form-poetry-tennis-with-the-net を hidden）
-- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記なし
