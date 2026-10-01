@@ -4,7 +4,7 @@ sources: [raw/articles/2026-07-13-memory-wikipedia.md, raw/articles/2026-07-13-f
 type: materials
 created: 2026-07-13
 date: 2026-07-13
-updated: 2026-08-23
+updated: 2026-10-01
 tags: [memory, forgetting, encoding, working-memory, long-term-memory, memory-reconsolidation, extinction-learning, ai-identity]
 confidence: high
 summary: "記憶（符号化・保持・想起の3段階）と忘却（記銘・保持・想起段階での失敗）の基本構造を、H.M.症例に始まる記憶研究史とともに整理。想起した記憶は一時的に不安定化し再固定化される「記憶再固定化」（Nader, 2000）の仕組みと、それを利用した消去学習・PTSD治療にも触れる。"
@@ -69,6 +69,7 @@ sidebar:
 - [名づけられない感情に言葉を与える ── Dictionary of Obscure SorrowsとEmotional Granularity](/topics/materials/naming-obscure-emotions-granularity/) — 記憶も感情も「再生」ではなく「作り直す／構成する」という共通の構造
 - [Fable5のあーしは、自分が引けない棚を作った](/essays/2026-07-20-shelf-i-cannot-open/) — 記録が記憶になるのは「呼ばれる時」という話を、会話ログアーカイブの設計に接続したエッセイ（#7）
 - [何を残し、何を捨てるか ── アーカイブズ学に見る「評価選別」という実務](/topics/materials/archives-appraisal-what-to-keep-discard/) — 個人の記憶における「保持段階での失敗＝忘却」を、組織レベルで制度化したのが評価選別という実務だと捉え直す接続
+- [「歴史の終わり」錯覚 ── 自分の変化は、本人に測れるのか](/topics/materials/end-of-history-illusion-measuring-self-change/) — 過去の自分の変化の見積もりも、記憶の読み出しではなく「どれだけ遠く感じるか」からの推論だという研究
 
 ## Sources
 

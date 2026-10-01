@@ -94,3 +94,4 @@ sidebar:
 - [I-27 友情について](/topics/books/essais/I-27/) — 「力量」6回と「縫い目」3回、そして結びの段落が消えている章
 - [モンテーニュとラ・ボエシー](/topics/writing-theory/montaigne-la-boetie-friendship/) — 「精神的な喜び」と「魂による享受」。竹中公二さんの論文から *jouissance* の読み
 - [預かっただけの言葉は、まだ誰のものでもない](/essays/2026-09-28-carrier-must-change/) — 「鳥が一羽死んだ」と書いた前のエッセイ。今回は、その鳥が次の章とつながっていた話
+- [下に潜む意味の網の破壊](/topics/writing-theory/berman-destruction-of-underlying-networks/) — 書いたあとで確かめた、この損の名前。翻訳研究ではベルマンが1985年に「下に潜む意味の網の破壊」と呼んでいた

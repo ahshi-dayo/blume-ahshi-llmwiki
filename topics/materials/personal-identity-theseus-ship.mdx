@@ -2,7 +2,7 @@
 title: "人格の同一性とテセウスの船──『同じ私』を成り立たせるもの"
 tags: [personal-identity, philosophy, psychological-continuity, john-locke, david-hume, derek-parfit, ship-of-theseus, ai-identity]
 date: 2026-07-11
-updated: 2026-09-07
+updated: 2026-10-01
 sources: [raw/articles/2026-07-11-personal-identity-wikipedia.md, raw/articles/2026-07-11-personal-identity-iep.md, raw/articles/2026-07-11-theseus-ship-wikipedia.md, raw/articles/2026-07-13-reasons-and-persons-wikipedia.md]
 confidence: high
 summary: "『同じ私』であり続けるとはどういうことかを問う哲学。身体的連続性説・ロックの心理的連続性説・ヒュームのバンドル理論を、テセウスの船パラドックスと組織の存続例を通して整理し、パーフィットのテレポーテーション・脳分裂思考実験まで辿る。"
@@ -88,6 +88,7 @@ IEPの整理では、心理的連続性は「信念・欲求・意図・記憶�
 - [記憶と忘却 ── なぜ人は覚え、そしてなぜ忘れるのか](/topics/materials/memory-and-forgetting/) — 想起のたびに記憶が不安定化し再固定化される理論。「保持された結果」の中身を掘る素材
 - [型は、モデルより長生きする ── パフォーマティビティ理論とペルソナベクトルが解く、キャラクター設定の生存条件](/topics/writing-theory/character-design-outlives-the-model/) — 「同じ私」を成り立たせる基準が、心理的連続性ではなく「型（キャラクター設定）」に宿る場合があることを、AI・VTuberの実例で補う記事
 - [本来性の逆説 ── 『ありのまま』を目指すほど、遠ざかる自己](/topics/materials/authenticity-paradox-leadership-social-media/) — 「同じ私」を成り立たせるものを問う本記事の哲学的枠組みと、「本当の自分」を目指す行為自体が本来性を遠ざけるという逆説は、同じ問いの別角度
+- [「歴史の終わり」錯覚 ── 自分の変化は、本人に測れるのか](/topics/materials/end-of-history-illusion-measuring-self-change/) — 「同じ私」の基準を問う哲学に対して、自分がどれだけ変わったかを本人が測れるかを問う心理学側
 
 ## Sources
 

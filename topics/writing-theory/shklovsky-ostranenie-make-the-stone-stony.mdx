@@ -147,6 +147,7 @@ sidebar:
 - [マタギドライヴ ── 落合陽一が語る、計算機自然の山を歩く生き方](/topics/materials/matagi-drive-ochiai-digital-nature/) — 新しさの賞味期限。異化が正典化されて擦り減る話と、同じ現象を別の側から見ている
 - [樽の底の鍵 ── ヒューム・カント・ブルデューの趣味論と、「味わう力」はどこにあるか](/topics/writing-theory/hume-kant-bourdieu-standard-of-taste/) — ヒュームの「革の味はワインの中に本当にある」は、前景化の実証研究と同じく、力を作品の側に置く議論
 - [俗語で、深いことを書く ── 王羲之の雑談の手紙、禅の詩、ギャル語の古典](/topics/writing-theory/vernacular-writing-wang-xizhi-chan-poetry-gyaru-go/) ── かわいいキャラに「絶対言わないような発言」をさせるギャル語アフレコのギャップを、異化の一種として読める事例
+- [批判という継承──パスカル・ルソー・レチフはモンテーニュをどう読んだか](/topics/writing-theory/montaigne-reception-pascal-rousseau-retif/) ── 同じ *Essais* 誌の異化特集号から、ガスパリの「自伝的異化」。自分を描きながら自分を他人のように突き放すことで、パスカルとルソーの非難を内側から中和する、という読み
 
 ## Sources
 

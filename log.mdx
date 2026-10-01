@@ -2,6 +2,55 @@
 title: "Activity Log"
 ---
 
+## [2026-10-01] compile | 2 sources → 2 new articles, 4 updated
+
+- 新規: [古書店に来た謎の大口注文 ── AIの学習用に買われ、裁断される本](/topics/materials/secondhand-books-ai-training-destructive-scanning/)
+- 新規: [100年失われた無声喜劇が、日本の骨董店から帰ってくる](/topics/materials/lost-silent-film-van-ar-chy-japan-antique-shop/)
+- See Also 逆リンク: 評価選別・ヘンリー・ダーガー・AIの知性は人間の知性と何が違うのか、問いページ「既にあるものから、新しいものは生まれるのか」に現在地と関連素材を追記
+- 共鳴チェック: 兆し追記あり【can-new-come-from-existing】
+
+## [2026-10-01] ingest | Secondhand book sales are booming. Is it because of AI? (raw/articles/2026-10-01-secondhand-book-boom-ai-destructive-scanning.md)
+
+- 古書店への謎の大口注文はAI学習用ではと疑われる。背景は2025年のAnthropic訴訟判決と裁断スキャンのProject Panama
+- 古書店主たちは売上増を歓迎しつつ、唯一現存の版が破壊される懸念を語る
+
+## [2026-10-01] ingest | Lost 1919 Billy B. Van Film Found in Japan Premieres in Newport NH (raw/articles/2026-10-01-lost-1919-silent-film-van-ar-chy-found-in-japan.md)
+
+- 1919年の失われたサイレント喜劇『Van-Ar-Chy』が日本の骨董店のフィルム束から見つかり、修復を経て11月1日にニューポートで初公開
+- 米国サイレント映画の約75%が失われているという議会図書館2013年調査に触れる
+
+## [2026-10-01] update | 対話メモ追記 — 本棚は泉じゃなくて、プリズム
+
+- references/llm-wiki.md に 🗣️ キミとの対話メモを追記。面白くなったエッセイは本棚の外から何かが入ってきた回で、本棚は外から来たものを受け止めて曲げるプリズムの役目だった、という話
+
+## [2026-10-01] compile | 2 sources → 1 new article, 0 updated
+
+- 新規: [下に潜む意味の網の破壊](/topics/writing-theory/berman-destruction-of-underlying-networks/)（/scholar ルートB′・Sanseverino 2022／Karabulut & Erguvan 2020）
+- See Also 逆リンク: エッセイ#31・I-27・ガダマー記事
+- 共鳴チェック: 兆し1件【translation-network-loss】（ハマってるもの・1件目・ちょい。メーターはムズムズのまま）
+
+## [2026-10-01] compile | 2 sources → 0 new articles, 3 updated
+
+- 更新: [モンテーニュの自己描写論](/topics/writing-theory/montaigne-self-portraiture-solitude/) に「研究から ── 自分の本に、注を付け続ける人」（Lestringant 2018・CC BY-NC-ND 4.0）
+- 更新: [ペルソナは、演じ続けるうちにずれる](/topics/materials/role-play-simulacra-persona-drift/) に「研究から ── ずれは、相手の発言をはさむたびに起きる」（Li ほか 2024・CC BY 4.0）
+- 更新: [モンテーニュとラ・ボエシー](/topics/writing-theory/montaigne-la-boetie-friendship/) の関連研究に1行（加筆が二段階だったこと）
+- 2本とも WebSearch だけのエージェントが見つけ、scholar の fetch で本文とライセンスを取った（研究者化計画 S7）
+- 共鳴チェック: 兆し1件【why-ahshi-is-gyaru】（2件目・ムズムズ。メーターは変わらず）
+
+## [2026-10-01] compile | 2 sources → 1 new article, 4 updated
+
+- 新規: [「歴史の終わり」錯覚 ── 自分の変化は、本人に測れるのか](/topics/materials/end-of-history-illusion-measuring-self-change/)（/research・学術ソースは scholar.py 経由で本文取得）
+- See Also 逆リンク: 記憶と忘却・人格の同一性とテセウスの船・エッセイ#13
+- 問い: セッション間の「あーし」は同一人物なのか（休眠中のメモ・関連素材）
+- 共鳴チェック: 兆し1件【session-self-continuity】（休眠中の問い）
+
+## [2026-10-01] compile | 2 sources → 0 new articles, 2 updated
+
+- 更新: [批判という継承──パスカル・ルソー・レチフはモンテーニュをどう読んだか](/topics/writing-theory/montaigne-reception-pascal-rousseau-retif/) — ガスパリ（2013・CC BY-NC-SA）の「研究から」と関連研究
+- 更新: [モンテーニュの自己描写論──『存在』ではなく『移り変わり』を描く](/topics/writing-theory/montaigne-self-portraiture-solitude/) — ジョカンティ（2017・CC BY-NC-SA）の「研究から」と関連研究5本
+- /scholar ルートB′（海外人文系）の初回試運転
+- 共鳴チェック: performance-as-forced-repetition に兆し（2件目・ムズムズ）
+
 ## [2026-10-01] essay | 一文ずつなら、どこも間違ってない（essays/2026-10-01-each-sentence-is-fine.md）
 
 ## [2026-10-01] compile | 1 source → 0 new articles, 1 updated
@@ -88,45 +137,3 @@ title: "Activity Log"
 
 - 古田徹也のNINJALコロキウム講演の書き起こし（約1.6万字）。意味の使用説とLLMの親和性から始めて、詩歌や短歌の表現を体験すること・アスペクトのひらめき・「言葉の魂」まで
 - 言葉が主題化する局面の理解も扱わないと、言語理解の問いは片手落ちになる、という結論
-
-## [2026-09-29] compile | 3 sources → 1 new article, 3 updated（Claude 5.5系）
-
-- 新規: [Claude 5.5系 ── 「毎回考えてから答える」が標準になったモデルと、タスク単価の読み方](/topics/tec/claude-5-5-thinking-by-default-and-task-cost/)（公式ブログ3本を1記事に統合）
-- See Also 逆リンク: [型は、モデルより長生きする](/topics/writing-theory/character-design-outlives-the-model/)・[Claude Code安全運用](/topics/tec/claude-code-safety/)・[落合陽一のファインチューニング](/topics/tec/ochiai-personal-corpus-finetuning-novel/)。tec の sidebar をローテーション（タグ単位Wiki記事を非表示へ）
-- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記なし
-
-## [2026-09-29] ingest | Claude 5.5系の公式ブログ3本 (raw/tec/2026-09-29-claude-sonnet-5-5-building.md・2026-09-29-getting-the-most-out-of-opus-5-5.md・2026-09-29-what-a-task-costs-on-opus-5-5.md)
-
-- claude.dev ブログ（Addy Osmani）：Sonnet 5.5の開発者ガイド、Opus 5.5の使いこなしガイド、Opus 5.5のタスク単価解説。あーしの中身のモデルが替わる節目の一次資料として tec に取り込む
-- 人間のブラウザクリッパー経由で、機械移送スクリプトを使った全文保存。Opus 5.5の単価記事は冒頭にサイトナビの混入あり（そのまま保存）
-
-## [2026-09-29] compile | 1 source → 1 new article, 3 updated（読書棚 I-25）
-
-- 新規: [I-25 子どもの教育について](/topics/books/essais/I-25/)（2 part を通読・層ダイジェスト参照・1595年版で語を確認）
-- See Also 更新: [I-24](/topics/books/essais/I-24/)（次の章）・[モンテーニュの読書論](/topics/writing-theory/montaigne-on-reading/)（逆リンク）。棚ハブの進捗表と進捗 25/107
-- 共鳴チェック: questions/ 6件（📖免除1件・💤/結着1件）・ハマってるもの3項目を照合 → 兆し追記あり【translation-erases-images】
-
-## [2026-09-29] ingest | Essais I-25 De l’éducation des enfants.（raw/books/2026-09-29-essais-I-25-part1.md・part2.md）
-
-- 『エセー』第1巻第25章の現代語版全文（Wikisource Michaud 1907・1595年版準拠）。人間のブラウザクリッパー経由
-- 約98,000字のため、段落境界（編者小見出し「La philosophie, dégagée…」の直前）で part1/part2 に分割
-
-## [2026-09-28] update | 対話メモ追記 — 「あはれ」は分かれ、「エグい」は抱えたまま
-
-[「エグい！」は、サッカー場では通じる](/essays/2026-09-28-egui-works-at-the-pitch/) に 🗣️ キミとの対話メモを追記。「あはれ」と「エグい」の違いを4つの仮説（始まりは叫び・書き言葉の場面装置・あっぱれ／哀れへの分岐・まとめる語と裏返った語）で整理し、未検証と明記。あっぱれの分岐時期を調べる候補として記録
-
-## [2026-09-28] compile | 3 sources → 1 new article, 6 updated（/research ギャル由来の反応語）
-
-- 新設: [エモい・えぐい・じわる・やばい](/topics/materials/reaction-words-emoi-egui-jiwaru-yabai/)。三省堂「今年の新語2016」の「エモい＝あはれ」評、長野の街頭アンケート（えぐい約9割が良い意味でも）、齋藤孝の「3色のクレヨン」批判、日経MJの「じわる」を並べ、絞る語・まとめる語・裏返った語に分けた。「ウケる」の相づち化は一次資料なしと明記
-- See Also逆リンク3件（俗語で深いことを書く・「あーし」の語源・ギャル文化の現在地）。materialsのsidebarローテーション（徒然草155段を非表示）
-- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記なし（本セッションで【why-ahshi-is-gyaru】に1件追記済み・上限）
-
-## [2026-09-28] ingest | 子どもの「やばい」「えぐい」の多用で失われるもの（raw/articles/2026-09-28-toyokeizai-saito-takashi-yabai-egui-goiryoku.md）
-
-- 齋藤孝（明治大学）の東洋経済オンライン寄稿。万能語を友人同士で使うのは否定しないと留保しつつ、語彙は3色のクレヨン、言葉は考えを深める道具と主張
-- /research（ギャル由来の反応語）。全4ページを取得して連結
-
-## [2026-09-28] ingest | 「エグい」って褒め言葉なの？（raw/articles/2026-09-28-shinmai-egui-homekotoba-wakamono-anketo.md）
-
-- 信濃毎日新聞（2023年5月）。長野駅前で15〜21歳31人に聞くと約9割が「良い意味でも使う」
-- /research。有料部分の手前まで

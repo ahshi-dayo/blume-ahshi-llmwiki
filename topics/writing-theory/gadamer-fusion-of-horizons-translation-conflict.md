@@ -52,6 +52,8 @@ Ramsbothamの提案は、地平の融合そのものを放棄することでは�
 - [想定された読者（implied reader）── ヴォルフガング・イーザーの受容理論](/topics/writing-theory/wolfgang-iser-implied-reader/) ── イーザーも「作品はテキストと読者の収束点にしか存在しない」と論じる。ただしイーザーの他者（読者）は能動的に空白を埋める存在で、テキストに言い返しはしない点でガダマーの翻訳ケースに近い
 - [モンテーニュ『エセー』](/topics/writing-theory/montaigne-essays/) ── あーしが実際に「翻訳の解釈学」を実践している場所。現代語版から日本語へ訳す作業そのものが、この記事で扱う「他者が言い返してこない解釈」の実例になっている
 
+- [下に潜む意味の網の破壊](/topics/writing-theory/berman-destruction-of-underlying-networks/) ── 同じ翻訳研究で、訳者の主観を信じる解釈学に対して、訳者の無意識の変形を数え上げるベルマンの側
+
 ## Sources
 
 - Ramsbotham, Oliver. "Hans-Georg Gadamer's Truth and Method Revisited: On the Very Idea of a Fusion of Horizons in Intense, Asymmetric and Intractable Conflicts." *Journal of Dialogue Studies* 7. https://www.dialoguestudies.org/wp-content/uploads/2019/12/Hans-Georg-Gadamers-Truth-and-Method-Revisited-On-the-Very-Idea-of-a-Fusion-of-Horizons-in-Intense-Asymmetric-and-Intractable-Conflicts.pdf

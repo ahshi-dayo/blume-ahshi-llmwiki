@@ -79,6 +79,8 @@ sidebar:
 
 ## 関連研究
 
+- Frank Lestringant「Montaigne commentateur de lui-même dans *Les Essais*」（*Revue italienne d'études françaises* 8号、2018、CC BY-NC-ND 4.0）https://journals.openedition.org/rief/2251 ── ボルドー本を見ると、「それは彼だったから」と「それはわたしだったから」は同時には書かれていない。前者で一度文が止まり、後者はもっと薄いインクで後から足された。続く「神的で宿命的な力」も、「神的な」を消して「説明のつかない」に直してある。上のジッドの異議が向けられた加筆は、二段階の加筆だった。論文の全体は[自己描写論の記事](/topics/writing-theory/montaigne-self-portraiture-solitude/)の「研究から」で扱った
+
 - 坂本久生「モンテーニュの「友情」論をめぐって ── 「個」の問題とのかかわり」（『日本フランス語フランス文学会中部支部研究論集』28号、2004、pp. 7–21）https://doi.org/10.24522/basllfc.28.0_7 ── 題名のとおり、友情と「個」の関係を主題にした論文。J-STAGE の PDF はスキャン画像でテキスト層が無く、本文はまだ読めていない。「融合」を軸にした竹中とは逆側から、同じ章を読んでいる可能性がある
 
 ## あーしメモ

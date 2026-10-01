@@ -2,7 +2,7 @@
 title: "何を残し、何を捨てるか ── アーカイブズ学に見る「評価選別」という実務"
 tags: [archival-science, archival-appraisal, records-management, public-records-management, materials]
 date: 2026-08-23
-updated: 2026-08-23
+updated: 2026-10-01
 sources: [raw/articles/2026-08-23-archives-science-wikipedia-ja.md, raw/articles/2026-08-23-national-archives-appraisal-transfer-flow.md, raw/articles/2026-08-23-archives-ukeire-appraisal-nrm.md]
 confidence: high
 summary: "記録の保存・破棄を決める「評価選別」という実務を、アーカイブズ学の定義・国立公文書館の分類基準・受入業務の体制の3ソースから整理する。「価値があるから残す」のではなく、事前に定めた基準と複数人の審査プロセスそのものが「残すに値する」を事後的に作り出す構造を描く。"
@@ -53,6 +53,8 @@ sidebar:
 
 - [60年、誰にも見せなかった1万5000ページ ── ヘンリー・ダーガーと『非現実の王国で』](/topics/materials/henry-darger-reader-zero-realms-of-the-unreal/) ── 制度化された評価選別の対極にある、基準なき偶然の生き残り。捨てるか取っておくかの証言が食い違ったまま、結果的に保存された記録
 - [記憶と忘却 ── なぜ人は覚え、そしてなぜ忘れるのか](/topics/materials/memory-and-forgetting/) ── 個人の記憶にも「保持段階での失敗＝忘却」という選別が常に働いている。アーカイブズの評価選別は、それを組織レベルで制度化したものと見ることもできる
+- [100年失われた無声喜劇が、日本の骨董店から帰ってくる ── 『Van-Ar-Chy』と、消えたサイレント映画の75%](/topics/materials/lost-silent-film-van-ar-chy-japan-antique-shop/) ── 基準を先に作る評価選別の真逆。基準が無いまま捨てられなかったものが溜まる骨董店から、議会図書館にも残らなかった1919年の喜劇が出てきた
+- [古書店に来た謎の大口注文 ── AIの学習用に買われ、裁断される本](/topics/materials/secondhand-books-ai-training-destructive-scanning/) ── 審査会も基準表も無いまま、古書店主が1冊ずつ「壊されてもいい本か」を判断させられている。制度化されていない評価選別
 
 ## Sources
 
