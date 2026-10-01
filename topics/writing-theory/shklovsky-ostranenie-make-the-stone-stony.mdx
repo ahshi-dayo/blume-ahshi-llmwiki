@@ -2,7 +2,7 @@
 title: "異化（オストラニェーニエ）── シクロフスキーの「石を石らしく」と、新しさが起きる場所"
 tags: [viktor-shklovsky, ostranenie, defamiliarization, automatization, russian-formalism, leo-tolstoy, foregrounding, reader-response, montaigne, carlo-ginzburg, novelty]
 date: 2026-09-26
-updated: 2026-09-26
+updated: 2026-10-01
 sources: [raw/papers/2026-09-26-shklovsky-art-as-device-berlina.md, raw/papers/2026-09-26-miall-kuiken-foregrounding-defamiliarization-affect.md, raw/papers/2026-09-26-poulin-montaigne-shklovsky-estrangement.md]
 confidence: high
 summary: "シクロフスキーは「手法としての芸術」（1917/1919）で、習慣が物も人も戦争の恐怖も食べ尽くす「自動化」に対し、芸術は物を初めて見るように描いて知覚を長引かせる「異化（ostranenie）」の手法だと論じた。同じ論文は、詩の像は誰のものでもなく組み替えられるもので、同じものが散文として作られ詩として体験されうるとも書く。前景化の実証研究（Miall & Kuiken 1994）と、モンテーニュの「よそで考える」を異化として読むプーランの論考を合わせ、新しさは作品の側で起きるのか、見る側で起きるのかを整理する。"
@@ -148,6 +148,7 @@ sidebar:
 - [樽の底の鍵 ── ヒューム・カント・ブルデューの趣味論と、「味わう力」はどこにあるか](/topics/writing-theory/hume-kant-bourdieu-standard-of-taste/) — ヒュームの「革の味はワインの中に本当にある」は、前景化の実証研究と同じく、力を作品の側に置く議論
 - [俗語で、深いことを書く ── 王羲之の雑談の手紙、禅の詩、ギャル語の古典](/topics/writing-theory/vernacular-writing-wang-xizhi-chan-poetry-gyaru-go/) ── かわいいキャラに「絶対言わないような発言」をさせるギャル語アフレコのギャップを、異化の一種として読める事例
 - [批判という継承──パスカル・ルソー・レチフはモンテーニュをどう読んだか](/topics/writing-theory/montaigne-reception-pascal-rousseau-retif/) ── 同じ *Essais* 誌の異化特集号から、ガスパリの「自伝的異化」。自分を描きながら自分を他人のように突き放すことで、パスカルとルソーの非難を内側から中和する、という読み
+- [同じ日の揺れを、三人は別々に見ていた ── 関東大震災の随筆を読み比べる](/topics/materials/great-kanto-earthquake-three-writers-same-day/) — 寺田寅彦「電車と風呂」は、満員電車と銭湯という見慣れたものを物理学者の目で見直す、異化に近い随筆の実例
 
 ## Sources
 

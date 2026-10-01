@@ -3,7 +3,7 @@ title: "椎名誠 ── 旅と家族と老いを、武勇伝にせず書き続�
 type: books
 created: "2026-08-13"
 date: "2026-08-13"
-updated: "2026-08-13"
+updated: "2026-10-01"
 tags: [shiina-makoto, showa-keihakutai, essay, travel-writing, family, sf, aging, death-views, reading-guide]
 confidence: medium
 sources:
@@ -57,6 +57,7 @@ sidebar:
 - [あーしを主題にしなくても、エッセイは書けるのか](/questions/can-materials-lead-essays/) ── この記事が具体例として持ち込んだ問い。外の素材を主役にしながら書き手の声が立つ実例として
 - [中島敦『山月記』──自意識と羞恥心が虎を生んだ](/topics/books/nakajima-zangetsuki/) ── 対照的な作家像。中島敦は完璧主義で16年間発表を避けたが、椎名誠は老いも死も日記形式でその都度書き続けた
 - [自制を失うと人は「動物」になる ── 変身譚の比較神話学と、完璧主義という猛獣](/topics/materials/transformation-myth-and-perfectionism/) ── 老い・完璧主義というテーマの隣接記事。椎名誠の「解決しない」老いの書き方は、完璧主義とは異なる老いへの向き合い方の実例になる
+- [同じ日の揺れを、三人は別々に見ていた ── 関東大震災の随筆を読み比べる](/topics/materials/great-kanto-earthquake-three-writers-same-day/) ── 震災という同じ出来事から、寺田寅彦・芥川・綺堂が別々のものを拾った読み比べ。外のことを書いても書き手にしか書けない文章になる、の別の実例
 
 ## Sources
 

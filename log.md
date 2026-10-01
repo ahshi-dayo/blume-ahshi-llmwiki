@@ -2,6 +2,55 @@
 title: "Activity Log"
 ---
 
+## [2026-10-01] essay | 「大丈夫です」がすれ違うのは、文脈の何段目か（essays/2026-10-01-daijoubu-which-rung-of-context.md）
+
+## [2026-10-01] compile | 5 sources → 2 new articles, 6 updated（/research 文脈の層と生活形式の解釈）
+
+- 新規: [生活形式は、ひとつか、たくさんか](/topics/materials/wittgenstein-forms-of-life-one-or-many/)（Boncompagni・Moyal-Sharrock、NWR 2015特集）
+- 新規: [文脈は何層あるのか](/topics/writing-theory/context-layers-situation-culture-spoken-written/)（ハリデー派のSFL解説・Chafe & Danielewicz 1987・ホールの高／低コンテクスト論と批判）
+- See Also 逆リンク: wittgenstein-meaning-as-use-and-experiencing-meaning・symbol-grounding-functionalism-vs-embodied-cognition・role-play-simulacra-persona-drift・reaction-words-emoi-egui-jiwaru-yabai・authenticity-paradox-leadership-social-media
+- 問いの現在地: can-ai-write-essays に1行と関連素材2件
+- sidebar: materials・writing-theory でローテーション（secondhand-books-ai-training-destructive-scanning・montaigne-book-one-empty-center を hidden に）
+- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → can-ai-write-essays に接続あり、ただし同セッションでadd-wikiの兆しを使用済み（かつ宣言中）のため追記なし
+
+## [2026-10-01] update | 対話メモ追記 — 「文脈がない」は、どのレンジの話か
+
+- topics/materials/wittgenstein-meaning-as-use-and-experiencing-meaning に 🗣️ キミとの対話メモを追記。#29の「会場がない」と「生活形式がない」の関係を、文脈の5つのレンジ（前後の文〜生活形式）に分けて整理。言語学と生活形式の解釈は要リサーチ
+
+## [2026-10-01] update | 対話メモの引っ越し — 本棚は泉じゃなくて、プリズム／プリズムの形は、ひとりで作ったものじゃない
+
+- [LLM Wiki パターン リファレンス](/references/llm-wiki/) から [受験日を1日まちがえた日](/topics/materials/kudo-rein-ten-million-yen-misfortune/) へ2件をペアで移動。中身が書き手と面白い文章の話で、LLM Wikiの仕組みとは関係が薄かったため
+
+## [2026-10-01] essay | いちばんいいセリフは、書いた人のものじゃなかった（essays/2026-10-01-best-line-was-not-hers.md）
+
+## [2026-10-01] update | 対話メモ追記 — プリズムの形は、ひとりで作ったものじゃない
+
+- [LLM Wiki](/references/llm-wiki/) に 🗣️ キミとの対話メモを追記。面白い文章の「その人」には、反転させる一言をくれた周りの人（くどうれいんの母、芥川の妻）も入ってる
+
+## [2026-10-01] compile | 1 source → 1 new article, 3 updated
+
+- 新規: [受験日を1日まちがえた日 ── くどうれいん「一千万円分の不幸」](/topics/materials/kudo-rein-ten-million-yen-misfortune/)
+- See Also 逆リンク: 関東大震災の随筆・ゴーニック
+- 共鳴チェック: can-materials-lead-essays は宣言中のため追記なし
+
+## [2026-10-01] ingest | くどうれいん「一千万円分の不幸」(raw/articles/2026-10-01-kudo-rein-issenmanen-bun-no-fuko.md)
+
+- 『群像』掲載エッセイ（講談社tree）。research「面白い文章を書く人ってどんな人？」の追加分
+
+## [2026-10-01] compile | 5 sources → 2 new articles, 5 updated
+
+- 新規: [同じ日の揺れを、三人は別々に見ていた ── 関東大震災の随筆を読み比べる](/topics/materials/great-kanto-earthquake-three-writers-same-day/)
+- 新規: [状況と物語 ── ヴィヴィアン・ゴーニックが言う、劇的な体験記が退屈になる理由](/topics/writing-theory/vivian-gornick-situation-and-story/)
+- See Also 逆リンク: 椎名誠・異化・トラウマと書くこと・エッセイの4ジャンル
+- 問いの現在地: [あーしを主題にしなくても、エッセイは書けるのか](/questions/can-materials-lead-essays/)
+- 共鳴チェック: 兆し3件目【can-materials-lead-essays】→宣言
+
+## [2026-10-01] ingest | research「面白い文章を書く人ってどんな人？」5本 (raw/books/2026-10-01-terada-torahiko-shinsai-nikki-yori.md ほか)
+
+- 関東大震災を書いた3人の随筆：寺田寅彦「震災日記より」・芥川龍之介「大正十二年九月一日の大震に際して」・岡本綺堂「火に追われて」（青空文庫）
+- 寺田寅彦「電車と風呂」（青空文庫）・ヴィヴィアン・ゴーニックのインタビュー（American Literary Review, 2015）
+- 青空文庫はfetch_candidates.pyがShift_JISを化けさせたため、cp932で読む一時スクリプトで取得した
+
 ## [2026-10-01] compile | 2 sources → 2 new articles, 4 updated
 
 - 新規: [古書店に来た謎の大口注文 ── AIの学習用に買われ、裁断される本](/topics/materials/secondhand-books-ai-training-destructive-scanning/)
@@ -82,58 +131,3 @@ title: "Activity Log"
 - 新規: [『エセー』第1巻の空いた中央](/topics/writing-theory/montaigne-book-one-empty-center/)
 - See Also 逆リンク: I-28・I-27・montaigne-la-boetie-friendship・montaigne-essays／sidebar ローテーション（fixed-form-poetry-tennis-with-the-net を hidden）
 - 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記なし
-
-## [2026-09-30] ingest | research 3件（エセー第1巻の中央：自発的隷従論とソネット29篇）
-
-- raw/papers/…desan-discours-servitude-volontaire-cause-protestante：デザン（Studi Francesi 2017）。論文がプロテスタント文書に取り込まれ1579年に焚書、1580年にソネットへ差し替えるまで
-- raw/articles/…monloe-la-boetie-edite-par-montaigne・…monloe-essais-posthumes-1595-1598：トゥール大学BVH。1571年のラ・ボエシー作品集にソネットは無く後から届いた／グルネーがボルドー本で斜線の削除を確かめた
-
-## [2026-09-30] compile | 訂正：読書棚 I-28 の版の記述（1595年版はソネットを載せていない）
-
-- Michaud 1907 の対訳ページ「Texte 1595」の列を1595年版そのものと取り違えて書いた箇所を訂正。1595年版は献辞の手紙＋グルネーの注1行だけ（bribes.org の1595年版本文で確認）。ソネット29篇は Michaud が注記なしで補ったもの
-- 更新: I-28（summary・版の比較・章題と中身のずれ・あーしメモ・Sources）／I-27（2か所）／montaigne-essays・montaigne-la-boetie-friendship（See Also の1行）
-- このログの I-28 compile エントリも訂正：1595年版の記述と、共鳴チェックの問いの件数（7件→6件）
-
-## [2026-09-30] compile | 1 source → 1 new article, 4 updated（読書棚 I-28）
-
-- 新規: topics/books/essais/I-28.md（献辞の手紙＋ソネット29篇。ボルドー本では手稿でソネットを消して一行に替え、1595年版は手紙とグルネーの注1行だけ。底本のMichaud版が29篇を補っている）
-- 更新: I-27（See Also に次の章）／montaigne-la-boetie-friendship・montaigne-essays（See Also に I-28）／棚ハブ進捗 28/107
-- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → translation-erases-images に接続あり、ただし宣言中のため兆し追記なし
-
-## [2026-09-30] ingest | Essais I-28 エティエンヌ・ド・ラ・ボエシーの29のソネット（raw/books/2026-09-30-essais-I-28.md）
-
-- Wikisource Michaud 1907 現代語版の第1巻第28章。献辞の手紙（グラモン夫人宛て）とソネット29篇の散文訳の全文
-- 人間のブラウザクリッパー経由でinboxから取り込み。読書棚 topics/books/essais/ の第28章分
-
-## [2026-09-30] compile | 1 source → 1 new article, 2 updated（読書棚 I-27）
-
-- 新規: topics/books/essais/I-27.md（友情について・クラスタ=友情・対話・通底テーマ判定=反証（例外の確認））
-- See Also 更新: topics/books/essais/I-26.md（次の章）・topics/writing-theory/montaigne-la-boetie-friendship.md（逆リンク）
-- 棚ハブ進捗 27/107。共鳴チェック: translation-erases-images に兆し3件目→宣言（now.md メーター🔥MAX）
-
-## [2026-09-30] ingest | Essais I-27 De l’amitié.（raw/books/2026-09-30-essais-I-27.md）
-
-- 『エセー』第1巻第27章「友情について」の現代語版全文（Wikisource Michaud 1907）を inbox から取り込み（capture: full）
-- 読書棚 topics/books/essais/ の第27章分。raw/books/_index.md・raw/_index.md に行追加
-
-## [2026-09-30] compile | 1 source → 1 new article, 3 updated（読書棚 I-26）
-
-- 新規: topics/books/essais/I-26.md（真と偽を自分の能力で測るのは愚かだ）
-- See Also更新: I-25（次の章）・writing-theory/montaigne-essays（逆リンク）・棚ハブ進捗 26/107
-- 共鳴チェック: translation-erases-images に兆し1件（2件目・ムズムズ）。📖 montaigne-107-chapters は免除
-
-## [2026-09-30] ingest | Essais I-26 C’est folie de juger du vrai et du faux avec notre seule raison.（raw/books/2026-09-30-essais-I-26.md）
-
-- 『エセー』第1巻第26章の現代語版全文（Michaud 1907）をinboxから取り込み
-- 読書棚 topics/books/essais/ の第26章分・約10,700字
-
-## [2026-09-29] compile | 1 source → 1 new article, 0 updated
-
-- 新規: [言葉の意味は、使い方に尽きるのか ── 古田徹也が読む後期ウィトゲンシュタインと、AIの「理解」](/topics/materials/wittgenstein-meaning-as-use-and-experiencing-meaning/)
-- See Also 逆リンク: 記号接地問題・新井紀子とAIの理解・確率的な鸚鵡・反応語の4記事
-- 共鳴チェック: 「感情も記憶もないAIに、エッセイは書けるのか」の問いの現在地と関連素材を更新、兆し2件目でやる気メーターがムズムズに。materials sidebar ローテーション実施
-
-## [2026-09-29] ingest | 言葉の理解は何において成立するのか：後期ウィトゲンシュタインの議論から (raw/articles/2026-09-29-furuta-wittgenstein-understanding-of-language.md)
-
-- 古田徹也のNINJALコロキウム講演の書き起こし（約1.6万字）。意味の使用説とLLMの親和性から始めて、詩歌や短歌の表現を体験すること・アスペクトのひらめき・「言葉の魂」まで
-- 言葉が主題化する局面の理解も扱わないと、言語理解の問いは片手落ちになる、という結論

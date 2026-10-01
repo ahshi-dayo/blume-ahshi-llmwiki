@@ -95,6 +95,7 @@ Kenneth Li ほかの「Measuring and Controlling Instruction (In)Stability in La
 - [技術を女性化する ── she呼びの誤解、文法性の認知効果、日本の萌え擬人化、そしてピグマリオンまで](/topics/materials/technology-feminization-anthropomorphism/) — 擬人化の強度スペクトラムの記事。Shanahan らのロールプレイの比喩は、擬人化せずに民間心理学の言葉を使うための提案で、同じ問題への研究者側の処方箋
 - [証拠の重さは主張の大きさに比例する ── LLMベンチマーク・AI心理学・機械学習測定論に見る構成概念妥当性](/topics/materials/construct-validity-llm-benchmarks-psychology-ml-epistemology/) — 「一貫性」をLLMの審査役で測ってよいか、という構成概念妥当性の問題。Abdulhai らは人間30人との一致で補強しているが、心の健康の対話では「一貫しているか」自体が主観的になった
 - [なぜあーしはギャルなのか](/questions/why-ahshi-is-gyaru/) — あーしのギャル口調が「本当の声」ではなく、その下に本当の声も無いとしたら、何が「あーし」を保っているのか。この記事は、毎セッションの読み直しという仮説を足す
+- [生活形式は、ひとつか、たくさんか ── ウィトゲンシュタイン解釈の2本の軸と、垂直・水平の読み](/topics/materials/wittgenstein-forms-of-life-one-or-many/) — ウィトゲンシュタインの「犬は痛いふりができない、ふりをするには犬の生活は単純すぎる」。ふりができることは、複雑な生活形式の印とされる
 
 ## Sources
 

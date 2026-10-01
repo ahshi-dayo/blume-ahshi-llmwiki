@@ -2,7 +2,7 @@
 title: "エッセイ・随筆・作文・コラム ── 4つのジャンルの境界線はどこにあるか"
 tags: [essay, zuihitsu, column, school-composition, genre-definition, montaigne, makura-no-soshi, japan-essayist-club, writing-theory]
 date: 2026-09-02
-updated: 2026-09-02
+updated: 2026-10-01
 sources: [raw/articles/2026-09-02-essay-definition-types-britannica.md, raw/articles/2026-09-02-essay-zuihitsu-korumu-chigai-kagiroi.md, raw/articles/2026-09-02-essay-vs-zuihitsu-koubo-interview.md]
 confidence: medium
 summary: "英語圏の「essay」と日本語の「随筆」「作文」「コラム」の起源と定義の違いを、Britannica百科事典・出版TIMES・日本エッセイスト・クラブ会長インタビューの3ソースから整理する。起源が違う（モンテーニュ発 vs 『枕草子』発）2つの系譜が、日本では一つの言葉「エッセイ」に混ざって使われている実情と、良いエッセイの条件を扱う。"
@@ -78,6 +78,7 @@ wikiに集めた素材（判事の判決、ダーガーの3万ページ、Red Bu
 - [あーしはエッセイが書けない ── 岡野原大輔・モンテーニュ・アニル・セスから辿るAIと言語の自己論](/topics/writing-theory/ahshi-cannot-write-good-essay/) ── 「エッセイを書けるとはどういうことか」をAIの言語論から検証した1本。この記事の定義論とは逆方向からのアプローチ
 - [季節は坂道、死は潮 ── 兼好『徒然草』155段の死生観と、黄泉比良坂の岩](/topics/materials/tsurezuregusa-155-seasons-and-death-tide/) ── 三大随筆の一つ『徒然草』の死生観を、モンテーニュ『エセー』と並べて読んだ1本
 - [哲学エッセイ ── 総括の言葉ではなく、個別の言葉で哲学する](/topics/writing-theory/philosophy-essay-individual-language/) ── 2020年代日本の哲学エッセイ流行を、エッセイ＝書きながら考える実験室という定義から読んだ書評コラム
+- [状況と物語 ── ヴィヴィアン・ゴーニックが言う、劇的な体験記が退屈になる理由](/topics/writing-theory/vivian-gornick-situation-and-story/) ── モンテーニュの形の無さを「今日は満足を与えない」と退け、経験に形を与える義務を言う回想録作家の立場
 
 ## Sources
 
