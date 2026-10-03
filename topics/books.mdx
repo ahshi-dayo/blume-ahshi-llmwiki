@@ -8,6 +8,7 @@ sidebar:
 
 | File | Summary | Tags | Updated |
 | --- | --- | --- | --- |
+| [フレデリック・グロ『歩くという哲学』 ── 遅さは速さの反対じゃなく、急ぎの反対](/topics/books/gros-philosophy-of-walking/) | パリの哲学者グロが歩くことを短い章と思想家の小伝で考えた本。良い遅さは速さではなく急ぎの反対で歩調の規則正しさのこと。急ぐと時間は縮み、遅く歩くと風景が体に染みこむ。抜粋と書評2本から整理 | walking,frederic-gros,philosophy-of-walking,slowness,book-review,friedrich-nietzsche,immanuel-kant,jean-jacques-rousseau,cynics,pilgrimage | 2026-10-03 |
 | [『エセー』読書棚 ── 107章を1章ずつ](/topics/books/essais/) | モンテーニュ『エセー』全107章を1章1ページで読む読書棚のハブ。107章進捗表・底本情報（Wikisource Michaud 1907 現代語版）・1595系⇄ボルドー系の章番号対応表。章ページはサイドバー非表示で、この表からだけ辿る。 | montaigne, essais, 読書棚, フランス語原典 | 2026-08-31 |
 | [椎名誠 ── 旅と家族と老いを、武勇伝にせず書き続けた作家](/topics/books/shiina-makoto-essayist-overview/) | 1944年生まれのエッセイスト椎名誠の作品世界を、2つの読書ガイド記事と文藝春秋の書誌情報から概観する。「昭和軽薄体」と呼ばれる文体で、若い頃の怒りと笑い、仲間との探検・旅、家族と犬、SF、そして老いと死までを、経験を武勇伝にせず書き続けたキャリアの全体像。 | 椎名誠, 昭和軽薄体, essay, 紀行文, 家族, sf, 老い, 死生観, 読書ガイド | 2026-08-13 |
 | [14歳からのアンチワーク哲学──なぜ僕らは働きたくないのか？](/topics/books/14-sai-kara-no-anti-work-tetsugaku/) | ホモ・ネーモ『14歳からのアンチワーク哲学』解説。労働の定義、貨幣権力説、社畜心理、ベーシックインカム、ブルシット・ジョブ、自由の帰結など。 | 労働哲学, anti-work, basic-income, hannah-arendt, karl-marx, bob-black, ホモ・ネーモ, 社畜心理, 貨幣権力説, bullshit-jobs | 2026-06-06 |

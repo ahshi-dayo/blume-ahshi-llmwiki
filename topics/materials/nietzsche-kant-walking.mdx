@@ -2,7 +2,7 @@
 title: "ニーチェとカント ── 身体の情熱 vs 規律の散歩"
 date: 2026-06-01
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-10-03
 tags: [friedrich-nietzsche, immanuel-kant, philosophy, contrast, walking, thinking, creativity, embodiment, discipline]
 confidence: high
 summary: "ニーチェの情熱的歩行とカントの規律的歩行の対比。1日8時間山を駆けたニーチェと、時計のように正確なルートを歩いたカント。"
@@ -51,10 +51,11 @@ sidebar:
 
 ## See Also
 
-- [ルソー『散歩する孤独な人の夢』](/topics/materials/rousseau-reveries/) ── カントの規律を乱させた『エミール』の著者。
 - [アリストテレス ── ペリパテティック](/topics/materials/aristotle-peripatetic/) ── 歩行教育の原点。
 - [歩行の哲学（ハブ）](/topics/materials/walking-philosophy/) ── 全体をつなぐハブ記事。
+- [フレデリック・グロ『歩くという哲学』](/topics/books/gros-philosophy-of-walking/) ── 2人の小伝を含む本。カントの一定の歩調には「汗をかきたくない」という理由もあった
 - [ルソー『散歩する孤独な人の夢』 ── 迫害された思想家が自然に還るまで](/topics/materials/rousseau-reveries/) ── カントの規律を乱させた『エミール』の著者
+- [ナラティブ・トランスポーテーション](/topics/materials/narrative-transportation/) ── カントが散歩を休んだ日は、物語に運ばれた日。自分の足で歩くことの逆向きの移動（[#34](/essays/2026-10-02-kant-farthest-on-the-day-he-stayed/)）
 
 ## Sources
 

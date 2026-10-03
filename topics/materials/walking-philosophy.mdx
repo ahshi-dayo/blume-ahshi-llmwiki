@@ -2,7 +2,7 @@
 title: "歩行の哲学 ── 思想家たちが「移動」に見出した自由と知性"
 created: 2026-06-01
 date: 2026-06-01
-updated: 2026-07-04
+updated: 2026-10-03
 tags: [walking, philosophy, history, creativity, intellect, embodiment, urbanism, self-discovery, hub-article]
 confidence: high
 summary: "歩行と思索のネットワークを概観するハブ記事。アリストテレス・ニーチェ・カント・ルソー・ソローの各記事へのリンクをまとめる。"
@@ -48,7 +48,7 @@ sidebar:
 
 ## 現代へのメッセージ：良き遅さを取り戻す
 
-フレデリック・グロ（Frederic Gros）は、歩くことはスポーツではないと強調する。スポーツが見出した最良のものが「勝利」なら、歩行が見出した最良のものは**「あらゆる移動手段の中で最もゆっくりと進むこと」**である。
+フレデリック・グロ（Frederic Gros）は、歩くことはスポーツではないと強調する（本そのものの整理は[グロ『歩くという哲学』](/topics/books/gros-philosophy-of-walking/)）。スポーツが見出した最良のものが「勝利」なら、歩行が見出した最良のものは**「あらゆる移動手段の中で最もゆっくりと進むこと」**である。
 
 急ぐことは時間を分割し、一日を短く、そして空虚にする。「良き遅さ（good slowness）」を伴う歩行は、私たちをアイデンティティ（名前、職業、履歴）の誘惑から解放し、魂の静寂を取り戻させてくれる。
 
@@ -64,6 +64,7 @@ sidebar:
 - [「あーし」という一人称と他者へのアプローチ](/topics/writing-theory/a-shi-first-person-approach/) ── 会話と思考の「移動」としての対話
 - [モンテーニュの身体と老化──エッセイに刻まれた身体化された移行](/topics/writing-theory/montaigne-embodiment-aging/) ── 歩行と思索の身体化された認知
 - [人文知とは何か ── 文系理系の起源、リベラルアーツ、AIに持てない身体性](/topics/materials/jinbunchi-liberal-arts-yoshimi-shunya/) ── 孤独な思索の歩行ではなく、まなざしの双方向性を伴う観光・街歩き論としての身体的な知
+- [フレデリック・グロ『歩くという哲学』](/topics/books/gros-philosophy-of-walking/) ── 下の「良き遅さ」の節の出どころの本。良い遅さは速さではなく急ぎの反対
 
 ## あーしメモ
 

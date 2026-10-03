@@ -4,7 +4,7 @@ sources: [raw/articles/2026-09-12-harimoto-naze-toinaosu-interview.md, raw/artic
 type: materials
 created: 2026-09-12
 date: 2026-09-12
-updated: 2026-09-12
+updated: 2026-10-02
 tags: [harimoto-masayuki, kokugakuin, toinaosu, peer-learning, generative-ai, trust, education-philosophy, genji-monogatari, materials]
 confidence: medium
 summary: "國學院大學・針本正行学長へのインタビュー2本。中期5カ年計画の教育目標『問い直す』『学び合う』が、実は同じ往還運動の両輪であること、生成AIの回答を『もう一度問い直せるか』が学び合うことの条件であること、その問い直しの手前には長い時間で築かれた人間的信頼関係が要るという議論を辿る。"
@@ -47,6 +47,7 @@ sidebar:
 - [創立140周年、大学は何を変え何を守るか ── 針本正行学長に見る不確実性時代の大学経営](/topics/materials/kokugakuin-140th-harimoto-university-management/) — 同じ針本学長のインタビューシリーズから、教育目標の背景にある中期5カ年計画・大学経営の全体像を扱う姉妹記事
 - [人文知とは何か ── 文系理系の起源、リベラルアーツ、AIに持てない身体性](/topics/materials/jinbunchi-liberal-arts-yoshimi-shunya/) — 同じ國學院大學発のシリーズで、社会学者・吉見俊哉がAIと人文知の関係を論じる姉妹記事
 - [人間キャンセル界隈 ── AIに知性を明け渡すとき、次にキャンセルされるのは人間自身](/topics/materials/ningen-cancel-kaiwai/) — 同じ國學院大學提供の対談。「AIの回答を問い直せるか」という本記事の論点と、「AIの知性は人間と根本的に異なる」という新井・吉見の論点は、AIへの過度な信頼委任への警戒という同じ危機感を共有する
+- [未解決リストは短くなる、専門家の注意は増えない ── AIが史料と暗号を読み、数学者が足りなくなる](/topics/materials/ai-unsolved-lists-expert-attention/) — AIは飽きずに読むが、問いを立てて意義を判断するのは人間に残る、という研究現場からの報告
 
 ## Sources
 

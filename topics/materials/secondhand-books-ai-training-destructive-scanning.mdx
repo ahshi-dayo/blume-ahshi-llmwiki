@@ -2,7 +2,7 @@
 title: "古書店に来た謎の大口注文 ── AIの学習用に買われ、裁断される本"
 tags: [ai, books, secondhand-books, copyright, destructive-scanning, anthropic, materials]
 date: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-02
 sources: [raw/articles/2026-10-01-secondhand-book-boom-ai-destructive-scanning.md]
 confidence: medium
 summary: "英国などの古書店に、海外の倉庫へ送られる桁外れの大口注文が相次いでいる。行き先は分からないが、AIの学習用ではないかと疑われている。背景には、購入した本での学習をフェアユースとした2025年の米国判決と、本の背を落として高速スキャンし残りをリサイクルする「破壊的スキャン」（Anthropic社内名『Project Panama』）がある。古書店主たちは売上を歓迎しながら、現存1冊の版が裁断されることを恐れている。"
@@ -63,6 +63,7 @@ Anthropicの広報は、Claude（Anthropicの対話AI）の学習には「公開
 - [何を残し、何を捨てるか ── アーカイブズ学に見る「評価選別」という実務](/topics/materials/archives-appraisal-what-to-keep-discard/) — 制度として基準を持つ評価選別に対して、古書店主たちは基準も審査会も無いまま、1冊ずつ「壊されてもいい本か」を判断させられている
 - [AIの知性は、人間の知性と何が違うのか](/topics/materials/ningen-cancel-kaiwai/) — 「AIには読書経験が無い」という主張。この記事の本たちは、読まれるのではなく、背を落としてスキャンされることでAIに入っていく
 - [既にあるものから、新しいものは生まれるのか](/questions/can-new-come-from-existing/) — 運ぶために元を壊す破壊的スキャンは、「新しくなるのは運んだほう」という見方の極端な形
+- [ウェブの読者の半分は、もう人間じゃない ── Cloudflareの「第二の読者」とRedditのRSS終了](/topics/materials/agentic-web-second-audience-reddit-closing/) — 本の外、ウェブの側でAIが大量に読むことの損得。値札をつけるCloudflareと、入口を閉じるReddit
 
 ## Sources
 

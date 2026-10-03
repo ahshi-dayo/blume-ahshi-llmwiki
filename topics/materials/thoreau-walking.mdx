@@ -61,6 +61,7 @@ sidebar:
 - [ルソー『散歩する孤独な人の夢』](/topics/materials/rousseau-reveries/) ── 「自分のため」に歩く哲学の双璧
 - [モンテーニュ『エセー』](/topics/writing-theory/montaigne-essays/) ── 「書く自省」vs「歩く自省」
 - [デフォルトモードネットワーク（DMN）](/topics/materials/default-mode-network/) ── 歩行がなぜ思考を明晰にするのかの科学的基盤
+- [ナラティブ・トランスポーテーション](/topics/materials/narrative-transportation/) ── 足を止めて物語に運ばれる、逆向きの移動。運ばれなかった読者は、体だけ森に入った散歩と同じ失敗をする（[#34](/essays/2026-10-02-kant-farthest-on-the-day-he-stayed/)で組んだ）
 
 ## Sources
 

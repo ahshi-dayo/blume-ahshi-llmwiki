@@ -2,7 +2,7 @@
 title: "物語の良し悪しを、機械は票から学べるか ── LitBench（EACL 2026）とRedditの読者の好み"
 tags: [creative-writing, llm-evaluation, benchmark, reward-model, human-preference, llm, creativity, materials]
 date: 2026-09-30
-updated: 2026-09-30
+updated: 2026-10-02
 sources: [raw/papers/2026-09-30-fein-et-al-litbench-creative-writing-evaluation.md]
 confidence: medium
 summary: "創作には正解が無いので、AIの書いた物語の良し悪しは、別のAIに審査させるか人間に読ませるしかない。Fein et al.（EACL 2026）はRedditの投稿小説板の「票」から、票差・投稿時期・長さの偏りを刈り込んだ物語ペアを作り、LLMの審査役と学習させた報酬モデルを比べた。既製の審査役の最良（Claude 3.7 Sonnet）は人間との一致73%、小さな報酬モデルは78%。票を集めたのは意外なひねりと笑いのある話で、負けたのは文法の崩れた話ではなく乾いた話だった。"
@@ -88,6 +88,7 @@ Daniel Feinらの論文「LitBench」（arXiv:2507.00769、EACL 2026採択、CC 
 - [樽の底の鍵 ── ヒューム・カント・ブルデューの趣味論と、「味わう力」はどこにあるか](/topics/writing-theory/hume-kant-bourdieu-standard-of-taste/) — ヒュームは「真の批評家の一致」に、LitBenchはRedditの票の一致に趣味の基準を置いた。誰の一致を基準にするかという同じ問題の、230年後の実装
 - [証拠の重さは主張の大きさに比例する ── LLMベンチマーク・AI心理学・機械学習測定論に見る構成概念妥当性](/topics/materials/construct-validity-llm-benchmarks-psychology-ml-epistemology/) — 「票＝好み」「好み＝物語の質」という読み替えは、構成概念妥当性の問題そのもの。LitBenchは刈り込みと人間実験で妥当性を補強しているが、著者自身が票の動機の混じりを限界に挙げている
 - [既にあるものから、新しいものは生まれるのか](/questions/can-new-come-from-existing/) — 「人間の採点者も本当に型をひいきするのか」という残りの問いに、楽しみで読む読者の票は意外なひねりに集まった、という反証寄りのデータを入れる
+- [ウェブの読者の半分は、もう人間じゃない ── Cloudflareの「第二の読者」とRedditのRSS終了](/topics/materials/agentic-web-second-audience-reddit-closing/) — その票の出どころのRedditが、スクレイピングを理由にRSSと公開APIを閉じる
 
 ## Sources
 

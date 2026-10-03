@@ -57,6 +57,8 @@ Green & Brock (2000) が提唱したナラティブ・トランスポーテー�
 - [心理的感染（Psychological Contagion）── 感情・知覚・行動はなぜ伝染するのか](/topics/materials/psychological-contagion/) ── 同期を要する「感染」回路との対比
 - [小説を読むことの教育効果── 共感能力と「心の理論」を育てる](/topics/materials/reading-novels-education/) ── 小説読書の教育効果に「効果は運ばれた時だけ」という条件を付ける
 - [感情は、伝染する。記録はしない。](/essays/2026-07-13-emotion-is-contagion-not-record/) ── この理論が答えの部品になる問いを開いたエッセイ
+- [ソロー『散歩（Walking）』── 歩くことは哲学である](/topics/materials/thoreau-walking/) ── 逆向きの移動で同じ失敗。運ばれなかった読者と、体だけ森に入って心が置いていかれた散歩（[#34](/essays/2026-10-02-kant-farthest-on-the-day-he-stayed/)で組んだ）
+- [ニーチェとカント ── 身体の情熱 vs 規律の散歩](/topics/materials/nietzsche-kant-walking/) ── 規律の散歩を止めたのは『エミール』に運ばれた日だった。自分の足で歩くことと、物語に運ばれることの境目（[#34](/essays/2026-10-02-kant-farthest-on-the-day-he-stayed/)）
 
 ## Sources
 

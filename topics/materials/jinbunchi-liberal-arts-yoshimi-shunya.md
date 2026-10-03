@@ -4,7 +4,7 @@ sources: [raw/articles/2026-09-07-jinbunchi-toha-kotaenaki-tankyu-yoshimi.md, ra
 type: materials
 created: 2026-09-07
 date: 2026-09-07
-updated: 2026-09-12
+updated: 2026-10-02
 tags: [humanities-studies, liberal-arts, sociology, yoshimi-shunya, cultural-studies, ai, embodiment, city-walking, tourism-studies, materials]
 confidence: medium
 summary: "國學院大學「人文知探究室」シリーズ第7回、社会学者・吉見俊哉へのインタビュー。文系／理系という区分が実は日本など東アジア限定の慣習で、本来リベラルアーツは文理未分化だったこと、ヒューマニティーズが近代国民国家の文化的正典として形成された経緯、産業革命期の手仕事喪失とAIによる思考喪失の相似、身体性を欠くAIには不可能な『街歩き』の価値を辿る。"
@@ -85,6 +85,7 @@ sidebar:
 - [即答という思考の型 ── ハイデガーの『計算的思考／省察的思考』と『問いの三構造』](/topics/materials/heidegger-question-structure-calculative-meditative-thinking/) — 「AIは脇道に逸れられない」という本記事の技術批判と同根の、即答・計算優先の思考様式へのハイデガー側からの批判
 - [temperatureは創造性のダイヤルではない ── LLMのサンプリングパラメータを巡る実証研究](/topics/materials/temperature-not-creativity-dial-llm/) — 「AIは脇道に逸れられない」という本記事の指摘に対し、「逸れることは起きても経験として蓄積しない」という限定的な反論材料を提供する
 - [AIは身体を持たずに意味を持てるか ── 記号接地問題を巡る機能主義と身体化認知の対立](/topics/materials/symbol-grounding-functionalism-vs-embodied-cognition/) — 「足の裏で感じる道の傾き」という本記事の身体性批判を、記号接地問題という認知科学の理論的系譜として掘り下げる
+- [未解決リストは短くなる、専門家の注意は増えない ── AIが史料と暗号を読み、数学者が足りなくなる](/topics/materials/ai-unsolved-lists-expert-attention/) — AIが史料を読む時代に、ブリーンが「歴史家と人文学者ももっと要る」と言い切った話
 
 ## Sources
 
