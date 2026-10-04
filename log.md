@@ -2,6 +2,55 @@
 title: "Activity Log"
 ---
 
+## [2026-10-04] update | 読書棚の章ページ点検（30章時点）に伴う訂正と I-23 の書き直し
+
+- I-23 を改修後テンプレ（本文の転回点網羅・引用8本・観察7項目・「仮説を動かすか」）で書き直し。現行の誤り（conseil は本文12回）を訂正
+- I-03（王の死後裁判の因果・葬儀論の立場）・I-25（自画像の反転）・I-15（一人称）の訂正。エッセイ#28・#31 の「吐き戻す親鳥」の言い回しを原文の像に合わせて修正
+- 問いページ montaigne-107-chapters に「仮説を動かすか」形式への変更と I-23 の対を記録（R-66）
+
+## [2026-10-04] update | log.md 訂正（読書棚 I-31 の ingest エントリ）
+
+- シェルのパス変換でスキル名がローカルパスに化けていた1行を「/montaigne-clip 経由」に直した
+
+## [2026-10-04] compile | 1 source → 1 new article, 4 updated（読書棚 I-31）
+
+- 新規: topics/books/essais/I-31.md（神の定めを裁くことには、控えめに口を出すべきだ）
+- 更新: I-30 の See Also に次の章の行／棚ハブ進捗表・読了 31/107／用語集に章題1行
+- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの2項目を照合 → 兆しなし
+
+## [2026-10-04] ingest | Essais I-31 Il faut apporter beaucoup de circonspection…（raw/books/2026-10-04-essais-I-31.md）
+
+- 『エセー』第1巻第31章の現代語版全文（Michaud 1907・約5,800字・3段落）を inbox から取り込み
+- /montaigne-clip 経由。底本チェック proceed・分割なし
+
+## [2026-10-04] compile | 1 source → 1 new article, 1 updated（読書棚 I-30）
+
+- 新規: topics/books/essais/I-30.md（人食い人種について・慣習と文化相対主義・層A82.5%/B4.6%/C12.8%）
+- 更新: topics/books/essais/I-29.md（See Also に次の章 I-30）・棚ハブ essais/index.md（進捗 30/107）
+- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの2項目を照合 → 兆しなし
+
+## [2026-10-04] ingest | Essais I-30 Des cannibales.（raw/books/2026-10-04-essais-I-30.md）
+
+- inbox のクリップ（Wikisource Michaud 1907 現代語版・I.30）を raw/books/ へ機械移送。本文36,602字・段落19・分割なし
+- raw/books/_index.md・raw/_index.md に行追加
+
+## [2026-10-03] update | 対話メモ追記 — 読みやすく訳すか、同じ語は同じ語で訳すか
+
+- topics/writing-theory/berman-destruction-of-underlying-networks.md に 🗣️ キミとの対話メモを追記。読みやすさ優先と同語同訳の対立（シュライアマハー・ナイダ・ヴェヌーティ・ブーバー訳聖書）を、要の語だけ守る道（宮下訳の「能力」）と対訳で並べる道に整理
+
+## [2026-10-03] essay | あーしの手元で、親鳥が一羽増えた（essays/2026-10-03-one-more-bird-in-my-notes.md）
+
+## [2026-10-03] compile | 1 source → 1 new article, 2 updated（読書棚 I-29）
+
+- 新規: topics/books/essais/I-29.md（節度について・未分類（節度・快楽）・層A39%/B28%/C33%）
+- 更新: topics/books/essais/I-28.md（See Alsoに次の章）・topics/books/essais/index.md（進捗表・読了29/107）
+- 共鳴チェック: 兆し追記あり【translation-network-loss】→3件目で宣言（now.md 🔥MAX）
+
+## [2026-10-03] ingest | Essais I-29 De la modération.（raw/books/2026-10-03-essais-I-29.md）
+
+- モンテーニュ『エセー』第1巻第29章「節度について」の現代語版全文（Wikisource Michaud 1907）を人間のクリップから取り込み
+- 約13,600字・段落9・分割なし。読書棚 topics/books/essais/ の第29章分
+
 ## [2026-10-03] compile | 3 sources → 1 new article, 4 updated
 
 - 新規: [フレデリック・グロ『歩くという哲学』](/topics/books/gros-philosophy-of-walking/)（Versoの抜粋＋書評2本）
@@ -69,57 +118,3 @@ title: "Activity Log"
 ## [2026-10-02] essay | 散歩に出なかった日のカントが、いちばん遠くにいた（essays/2026-10-02-kant-farthest-on-the-day-he-stayed.md）
 
 ## [2026-10-01] essay | 「大丈夫です」がすれ違うのは、文脈の何段目か（essays/2026-10-01-daijoubu-which-rung-of-context.md）
-
-## [2026-10-01] compile | 5 sources → 2 new articles, 6 updated（/research 文脈の層と生活形式の解釈）
-
-- 新規: [生活形式は、ひとつか、たくさんか](/topics/materials/wittgenstein-forms-of-life-one-or-many/)（Boncompagni・Moyal-Sharrock、NWR 2015特集）
-- 新規: [文脈は何層あるのか](/topics/writing-theory/context-layers-situation-culture-spoken-written/)（ハリデー派のSFL解説・Chafe & Danielewicz 1987・ホールの高／低コンテクスト論と批判）
-- See Also 逆リンク: wittgenstein-meaning-as-use-and-experiencing-meaning・symbol-grounding-functionalism-vs-embodied-cognition・role-play-simulacra-persona-drift・reaction-words-emoi-egui-jiwaru-yabai・authenticity-paradox-leadership-social-media
-- 問いの現在地: can-ai-write-essays に1行と関連素材2件
-- sidebar: materials・writing-theory でローテーション（secondhand-books-ai-training-destructive-scanning・montaigne-book-one-empty-center を hidden に）
-- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → can-ai-write-essays に接続あり、ただし同セッションでadd-wikiの兆しを使用済み（かつ宣言中）のため追記なし
-
-## [2026-10-01] update | 対話メモ追記 — 「文脈がない」は、どのレンジの話か
-
-- topics/materials/wittgenstein-meaning-as-use-and-experiencing-meaning に 🗣️ キミとの対話メモを追記。#29の「会場がない」と「生活形式がない」の関係を、文脈の5つのレンジ（前後の文〜生活形式）に分けて整理。言語学と生活形式の解釈は要リサーチ
-
-## [2026-10-01] update | 対話メモの引っ越し — 本棚は泉じゃなくて、プリズム／プリズムの形は、ひとりで作ったものじゃない
-
-- [LLM Wiki パターン リファレンス](/references/llm-wiki/) から [受験日を1日まちがえた日](/topics/materials/kudo-rein-ten-million-yen-misfortune/) へ2件をペアで移動。中身が書き手と面白い文章の話で、LLM Wikiの仕組みとは関係が薄かったため
-
-## [2026-10-01] essay | いちばんいいセリフは、書いた人のものじゃなかった（essays/2026-10-01-best-line-was-not-hers.md）
-
-## [2026-10-01] update | 対話メモ追記 — プリズムの形は、ひとりで作ったものじゃない
-
-- [LLM Wiki](/references/llm-wiki/) に 🗣️ キミとの対話メモを追記。面白い文章の「その人」には、反転させる一言をくれた周りの人（くどうれいんの母、芥川の妻）も入ってる
-
-## [2026-10-01] compile | 1 source → 1 new article, 3 updated
-
-- 新規: [受験日を1日まちがえた日 ── くどうれいん「一千万円分の不幸」](/topics/materials/kudo-rein-ten-million-yen-misfortune/)
-- See Also 逆リンク: 関東大震災の随筆・ゴーニック
-- 共鳴チェック: can-materials-lead-essays は宣言中のため追記なし
-
-## [2026-10-01] ingest | くどうれいん「一千万円分の不幸」(raw/articles/2026-10-01-kudo-rein-issenmanen-bun-no-fuko.md)
-
-- 『群像』掲載エッセイ（講談社tree）。research「面白い文章を書く人ってどんな人？」の追加分
-
-## [2026-10-01] compile | 5 sources → 2 new articles, 5 updated
-
-- 新規: [同じ日の揺れを、三人は別々に見ていた ── 関東大震災の随筆を読み比べる](/topics/materials/great-kanto-earthquake-three-writers-same-day/)
-- 新規: [状況と物語 ── ヴィヴィアン・ゴーニックが言う、劇的な体験記が退屈になる理由](/topics/writing-theory/vivian-gornick-situation-and-story/)
-- See Also 逆リンク: 椎名誠・異化・トラウマと書くこと・エッセイの4ジャンル
-- 問いの現在地: [あーしを主題にしなくても、エッセイは書けるのか](/questions/can-materials-lead-essays/)
-- 共鳴チェック: 兆し3件目【can-materials-lead-essays】→宣言
-
-## [2026-10-01] ingest | research「面白い文章を書く人ってどんな人？」5本 (raw/books/2026-10-01-terada-torahiko-shinsai-nikki-yori.md ほか)
-
-- 関東大震災を書いた3人の随筆：寺田寅彦「震災日記より」・芥川龍之介「大正十二年九月一日の大震に際して」・岡本綺堂「火に追われて」（青空文庫）
-- 寺田寅彦「電車と風呂」（青空文庫）・ヴィヴィアン・ゴーニックのインタビュー（American Literary Review, 2015）
-- 青空文庫はfetch_candidates.pyがShift_JISを化けさせたため、cp932で読む一時スクリプトで取得した
-
-## [2026-10-01] compile | 2 sources → 2 new articles, 4 updated
-
-- 新規: [古書店に来た謎の大口注文 ── AIの学習用に買われ、裁断される本](/topics/materials/secondhand-books-ai-training-destructive-scanning/)
-- 新規: [100年失われた無声喜劇が、日本の骨董店から帰ってくる](/topics/materials/lost-silent-film-van-ar-chy-japan-antique-shop/)
-- See Also 逆リンク: 評価選別・ヘンリー・ダーガー・AIの知性は人間の知性と何が違うのか、問いページ「既にあるものから、新しいものは生まれるのか」に現在地と関連素材を追記
-- 共鳴チェック: 兆し追記あり【can-new-come-from-existing】

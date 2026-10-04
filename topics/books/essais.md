@@ -11,7 +11,7 @@ sidebar:
 
 ## 進捗
 
-- 読了 **28 / 107**（最終読了 2026-09-30・I-28）＋序文「読者へ」（I-00・107章の外・2026-09-14読了）
+- 読了 **31 / 107**（最終読了 2026-10-04・I-31）＋序文「読者へ」（I-00・107章の外・2026-09-14読了）
 - クラスタは[章題ベースの仮8クラスタ](/questions/montaigne-107-chapters/)（判断の相対性・懐疑／死への態度／身体・老い・病／慣習と文化相対主義／名誉・虚栄／友情・対話／自己を語ること／想像力・心理／政治・戦争・残酷さ）。読んでみて違ったら章ページ側で書き換える
 
 ### 読者へ
@@ -53,9 +53,9 @@ sidebar:
 | I-26 | I.27 | C'est folie de rapporter le vray et le faux à nostre suffisance | 真と偽を自分の能力で測るのは愚かだ | 判断の相対性・懐疑 | 2026-09-30 | [I-26](/topics/books/essais/I-26/) |
 | I-27 | I.28 | De l'amitié | 友情について | 友情・対話 | 2026-09-30 | [I-27](/topics/books/essais/I-27/) |
 | I-28 | I.29 | Vingt et neuf sonnets d'Estienne de La Boëtie | エティエンヌ・ド・ラ・ボエシーの29のソネット | 友情・対話 | 2026-09-30 | [I-28](/topics/books/essais/I-28/) |
-| I-29 | I.30 | De la moderation |  |  |  |  |
-| I-30 | I.31 | Des cannibales |  |  |  |  |
-| I-31 | I.32 | Qu'il faut sobrement se mesler de juger des ordonnances divines |  |  |  |  |
+| I-29 | I.30 | De la moderation | 節度について | 未分類（節度・快楽） | 2026-10-03 | [I-29](/topics/books/essais/I-29/) |
+| I-30 | I.31 | Des cannibales | 人食い人種について | 慣習と文化相対主義 | 2026-10-04 | [I-30](/topics/books/essais/I-30/) |
+| I-31 | I.32 | Qu'il faut sobrement se mesler de juger des ordonnances divines | 神の定めを裁くことには、控えめに口を出すべきだ | 判断の相対性・懐疑 | 2026-10-04 | [I-31](/topics/books/essais/I-31/) |
 | I-32 | I.33 | De fuir les voluptez au pris de la vie |  |  |  |  |
 | I-33 | I.34 | La fortune se rencontre souvent au train de la raison |  |  |  |  |
 | I-34 | I.35 | D'un defaut de nos polices |  |  |  |  |
