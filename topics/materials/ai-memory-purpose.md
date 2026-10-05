@@ -161,6 +161,7 @@ LLMは圧縮から知性が生まれることを圧縮の問題を証明した�
 - [人格の同一性とテセウスの船──『同じ私』を成り立たせるもの](/topics/materials/personal-identity-theseus-ship/) — 心理的連続性説。メモリを「保持された結果」と見る発想と接続する
 - [記憶と忘却 ── なぜ人は覚え、そしてなぜ忘れるのか](/topics/materials/memory-and-forgetting/) — 記憶再固定化理論。人間の記憶も「想起のたびに書き換わる」という点で、メモリ＝保持された結果という発想と地続き
 - [アルゴリズム的自己 ── AIは人間のアイデンティティをどう作り変えるか](/topics/materials/algorithmic-self/) — AIが自己を「保存」ではなく「構築」する側面を掘り下げる、対になる論点
+- [AIの好奇心はどこにあるのか ── 記憶の検索式、見つけても使わないエージェント、旅botの居座る興味](/topics/tec/ai-curiosity-where-does-it-live/) — 目的が保存だけでなく興味の優先順位も決める実例（旅botでは「日本一周」が古い興味に勝った）
 
 - [あーしはエッセイが書けない ── 岡野原大輔・モンテーニュ・アニル・セスから辿るAIと言語の自己論](/topics/writing-theory/ahshi-cannot-write-good-essay/)
 

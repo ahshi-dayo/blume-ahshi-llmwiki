@@ -54,6 +54,7 @@ Brainは孤立した発明ではない。2026-02-12にLettaがGit追跡のContex
 - [LLM Wiki パターン リファレンス](/references/llm-wiki/) — Brainが実装している「記憶をモデルの外のドキュメントとして継続的に編集する」という原理の起点。Karpathyの提唱からPerplexity Brainに至る収斂の系譜
 - [CodeAlmanac ── コードだけでは残らない知識を、AIエージェント自身が保守するWikiツール](/topics/tec/codealmanac-self-updating-codebase-wiki/) — 同じ原理をコードベース領域に適用した具体的なプロダクト。build/ingest/gardenのエージェント構成、Git worktreeによる並行更新など重なる論点が多い
 - [senses ── Claude Codeのhooks・skills・定期実行だけで作る個人ナレッジ基盤](/topics/tec/claude-code-senses-personal-llm-wiki/) — 同じ原理を企業製品でなく個人開発でClaude Codeの標準機能だけを使って再現した事例
+- [AIの好奇心はどこにあるのか ── 記憶の検索式、見つけても使わないエージェント、旅botの居座る興味](/topics/tec/ai-curiosity-where-does-it-live/) — Brainが「何を残すか」の設計なら、こちらは「何を追い出し、何を浮かび上がらせるか」の設計。同じ記憶の層の裏表
 
 ## Sources
 

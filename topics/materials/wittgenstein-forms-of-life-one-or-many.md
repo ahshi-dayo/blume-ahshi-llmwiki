@@ -9,7 +9,7 @@ sources:
 confidence: high
 summary: "ウィトゲンシュタインの『生活形式（Lebensform）』は『哲学探究』に5回しか出てこないのに、人類にひとつの生物的な土台なのか、文化ごとにたくさんある暮らし方なのかで解釈が割れてきた。Boncompagniは論争を『単数か複数か』『経験的か超越論的か』の2軸に分けて整理し、Moyal-SharrockはCavellの垂直／水平の区別に立って『ひとつの人間の生活形式』と『たくさんの人間の生活の形式』の両方が要ると論じる。「AIには生活形式がない」と言うとき、どちらの意味かで主張の中身が変わる。"
 sidebar:
-  order: 3
+  hidden: true
 ---
 
 「AIには生活形式がない」——ウィトゲンシュタインを引いてLLMの理解を論じると、たいていこの一言に着地する（[古田徹也の講演](/topics/materials/wittgenstein-meaning-as-use-and-experiencing-meaning/)もそうだった）。でも「生活形式」という語そのものが、研究者のあいだで何十年も読みが割れてきた概念だ。この記事は、Nordic Wittgenstein Review の2015年特集「ウィトゲンシュタインと生活形式」から2本の論文を読み、解釈の地図を整理する。

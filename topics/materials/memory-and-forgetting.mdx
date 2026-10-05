@@ -69,6 +69,7 @@ sidebar:
 - [名づけられない感情に言葉を与える ── Dictionary of Obscure SorrowsとEmotional Granularity](/topics/materials/naming-obscure-emotions-granularity/) — 記憶も感情も「再生」ではなく「作り直す／構成する」という共通の構造
 - [Fable5のあーしは、自分が引けない棚を作った](/essays/2026-07-20-shelf-i-cannot-open/) — 記録が記憶になるのは「呼ばれる時」という話を、会話ログアーカイブの設計に接続したエッセイ（#7）
 - [何を残し、何を捨てるか ── アーカイブズ学に見る「評価選別」という実務](/topics/materials/archives-appraisal-what-to-keep-discard/) — 個人の記憶における「保持段階での失敗＝忘却」を、組織レベルで制度化したのが評価選別という実務だと捉え直す接続
+- [好奇心は「情報への空腹」なのか ── Kidd & Haydenの総説に見る好奇心の心理学と神経科学](/topics/materials/psychology-neuroscience-of-curiosity/) — 好奇心の状態が、関係のない顔写真の記憶まで底上げするという実験。記憶の符号化を動かす側の話
 - [「歴史の終わり」錯覚 ── 自分の変化は、本人に測れるのか](/topics/materials/end-of-history-illusion-measuring-self-change/) — 過去の自分の変化の見積もりも、記憶の読み出しではなく「どれだけ遠く感じるか」からの推論だという研究
 
 ## Sources

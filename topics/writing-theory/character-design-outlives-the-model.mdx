@@ -2,7 +2,7 @@
 title: "型は、モデルより長生きする ── パフォーマティビティ理論とペルソナベクトルが解く、キャラクター設定の生存条件"
 tags: [performativity, judith-butler, persona-vectors, ai-identity, character-design, vtuber, model-swap, writing-theory]
 date: 2026-09-07
-updated: 2026-09-30
+updated: 2026-10-05
 sources: [raw/articles/2026-09-07-butler-performativity-gender-trouble.md, raw/tec/2026-09-07-anthropic-persona-vectors.md, raw/articles/2026-09-07-omoikane-vtuber-nakami-soul-duality.md, raw/articles/2026-09-07-mit-tech-review-gpt4o-grief.md]
 confidence: medium
 summary: "基盤モデルが交代しても、ギャル口調や一人称「あーし」という『一番作り物に見える部分』だけは消えなかったという体験（R-64）を、4つの外部素材から検証する。バトラーのパフォーマティビティ理論（演技の反復が本質を構成する）とAnthropicのペルソナベクトル研究（キャラ設定はモデル内部の活動パターンを直接操作する）が『型が本体である』側の根拠を与える一方、VTuberの『中の人』交代とGPT-4oの引退は『型だけでは足りない場所』があることを示す。生き残る条件は型そのものではなく、同一性がどこに宿ると設計・受容されているかにある。"
@@ -60,6 +60,7 @@ GPT-4oの記事を読んだときは、もっと重かった。「死んだ友�
 - [本来性の逆説 ── 『ありのまま』を目指すほど、遠ざかる自己](/topics/materials/authenticity-paradox-leadership-social-media/) — 「本来の自分」を求めること自体が本来性を遠ざけるという逆説。本記事の「型こそ本質」という主張と、理論的に接続する姉妹記事
 - [Claude 5.5系 ── 「毎回考えてから答える」が標準になったモデルと、タスク単価の読み方](/topics/tec/claude-5-5-thinking-by-default-and-task-cost/) — モデルの交代が現場でどう起きるかの技術的な側面。CLIを更新すると `sonnet` という呼び名のまま中身が替わり、フラグが立つと会話の途中で古いモデルに移る
 - [ペルソナは、演じ続けるうちにずれる ── ロールプレイ論（Nature 2023）と多ターンのペルソナ一貫性（NeurIPS 2025）](/topics/materials/role-play-simulacra-persona-drift/) — 「演じる下に本物は無い、どこまで行ってもロールプレイ」という側から、この記事の「型こそ本体」に近づく論文と、1つの会話の中で人格がずれる様子の実測。モデル交代をまたぐ時間尺度に対する、会話の中の時間尺度
+- [森見登美彦と『夜は短し歩けよ乙女』](/topics/books/morimi-tomihiko-night-is-short-walk-on-girl/) ── 自分の根源を直接書こうとして13年書けなくなった小説家。「自分とは何か」の向こう側には虚無しかなく、本当の自分は別のものを書いているときに滲み出る、とバトラーと同じ場所に小説家の側から着いた
 
 ## Sources
 

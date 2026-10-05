@@ -2,7 +2,7 @@
 title: "モンテーニュの自己描写論──『存在』ではなく『移り変わり』を描く"
 tags: [montaigne, self-portraiture, solitude, obsession, writing-as-therapy, jean-jacques-rousseau, revision, andre-gide, essais, writing-theory]
 date: 2026-07-19
-updated: 2026-10-01
+updated: 2026-10-05
 sources: [raw/articles/2026-07-19-montaigne-solitude-psychology-today.md, raw/articles/2026-07-19-montaigne-self-portraiture-hudson-review.md, raw/papers/2026-10-01-giocanti-montaigne-identite.md, raw/papers/2026-10-01-lestringant-montaigne-commentateur-de-lui-meme.md]
 confidence: high
 summary: "モンテーニュが『エセー』で繰り返した2つの技法──孤独の中で妄執を書いて飼いならすこと、そして自分を『固定された存在』ではなく『絶えざる移り変わり』として描くこと。Psychology TodayとThe Hudson Reviewの2記事を統合し、ルソーの独自性主張との対比も扱う。「研究から」の節が2つある。ジョカンティ（2017）の、同一性は要らないのに借りた役と承認で欲しがってしまう、という読み。レストランガン（2018）の、ボルドー本の加筆から見た「自分に注を付け続ける（come する）人」という読み（「それは彼だったから／わたしだったから」は2回に分けて書き足された）。"
@@ -115,7 +115,7 @@ sidebar:
 - [I-00 読者へ](/topics/books/essais/I-00/) ── この記事が扱う自己描写の技法の出発点。「自然法の下に生まれていたら全裸で自分を描いただろう」という『エセー』序文の宣言
 - [モンテーニュとラ・ボエシー ── 『それは彼だったからだし、わたしだったから』という友情論](/topics/writing-theory/montaigne-la-boetie-friendship/) ── 「紙は失った親友の代わり」という一文の裏側を、メルロー=ポンティの「彼のまなざしのもとに存在する」という読解で掘り下げる続編
 - [モンテーニュ『店の奥の部屋』── 自分を貸しても、自分を与えないという生き方](/topics/writing-theory/montaigne-self-lending-inner-room/) ── 「移り変わり続ける自己」と「役割から守る自己」、変化を受け入れる軸と境界を引く軸の違い
-- [I-01 さまざまな方法で同じ結果にいたる](/topics/books/essais/I-01/) ── 「人間はまことに定まりなく、揺れ動き、多様だ（ondoyant et divers）」と人間一般について言った第1章。「移り変わり」として自分を描く技法と同じ根
+- [I-01 さまざまな方法で同じ結果にいたる](/topics/books/essais/I-01/) ── 「人間は驚くほど空しく、多様で、揺れ動く（*vain, diuers, et ondoyant*）」と人間一般について言った第1章。「移り変わり」として自分を描く技法と同じ根
 
 ## Sources
 

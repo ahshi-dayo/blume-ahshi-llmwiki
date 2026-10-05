@@ -2,12 +2,12 @@
 title: "フレデリック・グロ『歩くという哲学』 ── 遅さは速さの反対じゃなく、急ぎの反対"
 tags: [walking, frederic-gros, philosophy-of-walking, slowness, book-review, friedrich-nietzsche, immanuel-kant, jean-jacques-rousseau, cynics, pilgrimage]
 date: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-05
 sources: [raw/articles/2026-10-03-gros-case-for-walking-slowly.md, raw/articles/2026-10-03-gros-philosophy-of-walking-review-mclemee.md, raw/articles/2026-10-03-gros-philosophy-of-walking-review-bob-on-books.md]
 confidence: medium
 summary: "パリの哲学者フレデリック・グロが、歩くことの意味を短い章と「歩いた思想家たち」の小伝で考えた本（仏2011年・英訳2014年）。歩くことはスポーツではない。良い遅さは速さの反対ではなく急ぎの反対で、歩調の規則正しさのこと。急ぐと時間は縮み、遅く歩くと時間が深まって風景が体に染みこむ。本からの抜粋と2本の書評から整理する。"
 sidebar:
-  order: 1
+  order: 2
 ---
 
 フランスの哲学者フレデリック・グロの『歩くという哲学』は、歩くことを哲学の題材として正面から扱った本だ。原著は2011年にフランスでベストセラーになり、2014年にVersoから英訳（*A Philosophy of Walking*、ジョン・ハウ訳、クリフォード・ハーパー挿画）が出た。日本語訳は『歩くという哲学』の題で山と溪谷社から出ている。短い考察の章と、ニーチェ、ルソー、カントなど「歩いた思想家たち」の小伝が交互に並ぶ構成になっている。この記事は、Versoが公開した本の抜粋と、2本の書評（Inside Higher Edのスコット・マクレミー、2014年／個人ブログ Bob on Books、2022年）から組み立てた。本そのものは読んでいないので、章立ての細部は書評の紹介に頼っている。
@@ -76,6 +76,7 @@ Versoの抜粋は、グロがイタリアのアルプスで、75歳を超えた�
 - [ルソー『散歩する孤独な人の夢』](/topics/materials/rousseau-reveries/) ── グロが「朝から夜へ」と描いたルソーの、夕暮れの散歩の本体
 - [ニーチェとカント ── 身体の情熱 vs 規律の散歩](/topics/materials/nietzsche-kant-walking/) ── グロの小伝が扱う2人。カントの一定の歩調には「汗をかきたくない」という理由もあった
 - [未来の自分への書き置きは、檻にもなる ── 映画『メメント』](/topics/materials/memento-notes-to-future-self/) ── 教わらずに体に溜まる知識と、書き置きに溜まる知識
+- [森見登美彦と『夜は短し歩けよ乙女』](/topics/books/morimi-tomihiko-night-is-short-walk-on-girl/) ── 夜通し宴会を渡り歩いて止まらない乙女の歩き方。「良い遅さ」のちょうど反対側
 
 ## Sources
 

@@ -7,7 +7,7 @@ sources: [raw/articles/2026-10-02-cloudflare-internet-second-audience.md, raw/ar
 confidence: medium
 summary: "Cloudflareは、2026年にインターネットのトラフィックの過半が人間でなくなり、AIエージェントという『第二の読者』が来たと報告した。検索エンジンに読ませて訪問者を得るという30年続いた取引が、答えを要約して返すAIで崩れ、サイトの収益は下がりコストは上がっている。Cloudflareは機械の読者を見分け、条件をつけ、課金する仕組みで応えようとする。ほぼ同じころ、Redditはスクレイピングなどへの悪用を理由に、RSSを11月13日に終了し、公開APIも2027年3月までに閉じると発表した。値札をつけるか、入口を閉じるか。"
 sidebar:
-  order: 2
+  hidden: true
 ---
 
 ウェブは長いあいだ、人間の読者がお金を払う場所だった。記事を読み、広告を見て、購読する。ボットは昔からいたが、広告も見ないし何も買わない。2026年の秋、この前提が数字のうえで崩れたという報告と、それに対する対照的な2つの動きが並んだ。CDN大手のCloudflareは、機械の読者に値札をつけて取引相手にしようとしている。Redditは、機械が出入りしていた入口を閉じる。
@@ -77,6 +77,7 @@ Cloudflareの記事は、自社の製品を売る文章でもある。トラフ�
 
 ## See Also
 
+- [Googleに登録されないとき](/topics/tec/google-index-not-registered-diagnosis/) — 機械の読者が「読みに来るかどうか」を決める入口の話。機械に読まれないページは、人間の読者にも届かない
 - [未解決リストは短くなる、専門家の注意は増えない ── AIが史料と暗号を読み、数学者が足りなくなる](/topics/materials/ai-unsolved-lists-expert-attention/) — 同じ「AIが大量に読む」現象の、公開史料側の話。こっちでは恵みとして働いてる
 - [検索が自分に還ってくるとき ── 自己引用ループが引き起こす『RAG崩壊』](/topics/materials/rag-collapse-self-citation-loop/) — 機械がウェブを読むだけでなく書き戻しもしたときに、検索がどう壊れるか
 - [古書店に来た謎の大口注文 ── AIの学習用に買われ、裁断される本](/topics/materials/secondhand-books-ai-training-destructive-scanning/) — ウェブの外で、AIが読むために本が買われて壊される話。読まれる側の損が、ここでは物理的に見える

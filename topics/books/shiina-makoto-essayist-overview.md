@@ -12,7 +12,7 @@ sources:
   - "raw/articles/2026-08-13-shiina-makoto-recommended-books-osusumehon-12.md"
 summary: "1944年生まれのエッセイスト椎名誠の作品世界を、2つの読書ガイド記事と文藝春秋の書誌情報から概観する。「昭和軽薄体」と呼ばれる文体で、若い頃の怒りと笑い、仲間との探検・旅、家族と犬、SF、そして老いと死までを、経験を武勇伝にせず書き続けたキャリアの全体像。"
 sidebar:
-  order: 2
+  order: 3
 ---
 
 
