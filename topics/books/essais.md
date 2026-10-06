@@ -11,7 +11,7 @@ sidebar:
 
 ## 進捗
 
-- 読了 **31 / 107**（最終読了 2026-10-04・I-31）＋序文「読者へ」（I-00・107章の外・2026-09-14読了）
+- 読了 **41 / 107**（最終読了 2026-10-06・I-41）＋序文「読者へ」（I-00・107章の外・2026-09-14読了）
 - クラスタは[章題ベースの仮8クラスタ](/questions/montaigne-107-chapters/)（判断の相対性・懐疑／死への態度／身体・老い・病／慣習と文化相対主義／名誉・虚栄／友情・対話／自己を語ること／想像力・心理／政治・戦争・残酷さ）。読んでみて違ったら章ページ側で書き換える
 
 ### 読者へ
@@ -56,16 +56,16 @@ sidebar:
 | I-29 | I.30 | De la moderation | 節度について | 未分類（節度・快楽） | 2026-10-03 | [I-29](/topics/books/essais/I-29/) |
 | I-30 | I.31 | Des cannibales | 人食い人種について | 慣習と文化相対主義 | 2026-10-04 | [I-30](/topics/books/essais/I-30/) |
 | I-31 | I.32 | Qu'il faut sobrement se mesler de juger des ordonnances divines | 神の定めを裁くことには、控えめに口を出すべきだ | 判断の相対性・懐疑 | 2026-10-04 | [I-31](/topics/books/essais/I-31/) |
-| I-32 | I.33 | De fuir les voluptez au pris de la vie |  |  |  |  |
-| I-33 | I.34 | La fortune se rencontre souvent au train de la raison |  |  |  |  |
-| I-34 | I.35 | D'un defaut de nos polices |  |  |  |  |
-| I-35 | I.36 | De l'usage de se vestir |  |  |  |  |
-| I-36 | I.37 | Du jeune Caton |  |  |  |  |
-| I-37 | I.38 | Comme nous pleurons et rions d'une mesme chose |  |  |  |  |
-| I-38 | I.39 | De la solitude |  |  |  |  |
-| I-39 | I.40 | Consideration sur Ciceron |  |  |  |  |
-| I-40 | I.14 | Que le goust des biens et des maux despend en bonne partie de l'opinion que nous en avons |  |  |  |  |
-| I-41 | I.41 | De ne communiquer sa gloire |  |  |  |  |
+| I-32 | I.33 | De fuir les voluptez au pris de la vie | 命と引き換えにしても快楽を避けること | 死への態度 | 2026-10-05 | [I-32](/topics/books/essais/I-32/) |
+| I-33 | I.34 | La fortune se rencontre souvent au train de la raison | 運命は、しばしば理性と足並みをそろえる | 判断の相対性・懐疑 | 2026-10-05 | [I-33](/topics/books/essais/I-33/) |
+| I-34 | I.35 | D'un defaut de nos polices | わたしたちの統治の欠陥について | 政治・戦争・残酷さ | 2026-10-05 | [I-34](/topics/books/essais/I-34/) |
+| I-35 | I.36 | De l'usage de se vestir | 服を着る習わしについて | 慣習と文化相対主義 | 2026-10-05 | [I-35](/topics/books/essais/I-35/) |
+| I-36 | I.37 | Du jeune Caton | 小カトーについて | 判断の相対性・懐疑 | 2026-10-05 | [I-36](/topics/books/essais/I-36/) |
+| I-37 | I.38 | Comme nous pleurons et rions d'une mesme chose | 同じひとつのことで、泣いたり笑ったりする | 想像力・心理 | 2026-10-05 | [I-37](/topics/books/essais/I-37/) |
+| I-38 | I.39 | De la solitude | 孤独について | 自己を語ること | 2026-10-05 | [I-38](/topics/books/essais/I-38/) |
+| I-39 | I.40 | Consideration sur Ciceron | キケロについての考察 | 自己を語ること | 2026-10-06 | [I-39](/topics/books/essais/I-39/) |
+| I-40 | I.14 | Que le goust des biens et des maux despend en bonne partie de l'opinion que nous en avons | 善悪の味は、かなりの部分がわたしたちの考えしだいである | 判断の相対性・懐疑 | 2026-10-06 | [I-40](/topics/books/essais/I-40/) |
+| I-41 | I.41 | De ne communiquer sa gloire | 自分の栄光を人に分けないこと | 名誉・虚栄 | 2026-10-06 | [I-41](/topics/books/essais/I-41/) |
 | I-42 | I.42 | De l'inequalité qui est entre nous |  |  |  |  |
 | I-43 | I.43 | Des loix somptuaires |  |  |  |  |
 | I-44 | I.44 | Du dormir |  |  |  |  |

@@ -2,125 +2,125 @@
 title: "Activity Log"
 ---
 
-## [2026-10-05] compile | 1 source → 1 new article
+## [2026-10-06] compile | 1 source → 1 new article, 1 updated（読書棚 I-41）
 
-- 新規: [Googleに登録されないとき](/topics/tec/google-index-not-registered-diagnosis/)
-- See Also 逆リンク: ウェブの読者の半分は、もう人間じゃない
-- 共鳴チェック: なし
+- 新規: topics/books/essais/I-41.md（自分の栄光を人に分けないこと・名誉・虚栄）
+- See Also 更新: I-40 に次の章の行・棚ハブ進捗 41/107
+- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆しなし
 
-## [2026-10-05] update | 対話メモ追記 — 「自分のことだから答えられる」は、どこまで本当か
+## [2026-10-06] ingest | Essais I-41 L’homme n’est pas porté à abandonner à d’autres la gloire qu’il a acquise.（raw/books/2026-10-06-essais-I-41.md）
 
-- [内観 ── 自分の心は、内側から見て分かるのか](/topics/materials/introspection-limits-of-self-knowledge/) に 🗣️ キミとの対話メモを追記。行動の理由の自己報告は他人の推測と同じ理論から出るが、当たるかどうかが本人に分からないだけで、態度や思考過程の報告まで否定はできない、という線引き
+- 『エセー』第1巻第41章の現代語版全文（6,241字・段落3・分割なし）を inbox のクリップから取り込み
+- 底本チェック proceed・層ダイジェスト（ARTFL I.41）取得
 
-## [2026-10-05] compile | 3 sources → 1 new article, 1 updated
+## [2026-10-06] update | 対話メモ追記 — パイセンの哲学は、中身じゃなくて手つきにある
 
-- 新規: [内観 ── 自分の心は、内側から見て分かるのか](/topics/materials/introspection-limits-of-self-knowledge/)
-- 更新: [「歴史の終わり」錯覚](/topics/materials/end-of-history-illusion-measuring-self-change/)（英語版ウィキペディアから6研究の構成・好み研究の狙い・批判の2点を追加）
-- See Also 逆リンク: 森見登美彦の記事・「歴史の終わり」錯覚の記事
-- 共鳴チェック: 兆し1件【outside-self-consciousness】
+- topics/writing-theory/montaigne-essays.md に 🗣️ キミとの対話メモを追記。I-40を読んで、哲学の主張は古代の借り物で穏健だが、独自なのは借りた説を試し・線を引き・自分の暮らしで答え直す書き方の手つきだ、という話
 
-## [2026-10-05] ingest | 内観 - Wikipedia (raw/articles/2026-10-05-wikipedia-ja-naikan.md)
+## [2026-10-06] update | log.md 訂正：読書棚 I-40 の compile エントリの更新件数を 3 → 2 に直した（更新は棚ハブと I-39 の2件）
 
-- wiki-clipで取得。仏教と心理学の2つの意味、ヴントの方法、イーグルマンが言う内観の限界
-- 白隠の内観法と吉本伊信の内観療法
+## [2026-10-06] compile | 1 source → 1 new article, 2 updated（読書棚 I-40）
 
-## [2026-10-05] ingest | End-of-history illusion - Wikipedia (raw/articles/2026-10-05-wikipedia-end-of-history-illusion.md)
+- 新規: topics/books/essais/I-40.md（善悪の味は、かなりの部分がわたしたちの考えしだいである。sources は part1/part2）
+- 更新: 棚ハブ topics/books/essais/index.md（進捗表 I-40 行・読了 40/107）／I-39.md の See Also に次の章の行
+- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記あり【can-ai-write-essays】
 
-- wiki-clipで取得。2013年の原典研究を性格・価値観・好みの3領域で紹介
-- 横断研究への批判と、変化の方向が分からないなら「変化なし」が最良の予想という批判
+## [2026-10-06] ingest | Essais I-40 Le bien et le mal qui nous arrivent…（raw/books/2026-10-06-essais-I-40-part1.md / part2.md）
 
-## [2026-10-05] ingest | Introspection — Stanford Encyclopedia of Philosophy (raw/articles/2026-10-05-sep-introspection.md)
+- Wikisource Michaud 1907 現代語版の第1巻第40章（ボルドー系I.14）をinboxから取り込み。約55,000字のため「Mais passons aux exemples」の段落の直前で2分割
+- raw/books/_index.md・raw/_index.md に register_raw_index.py で登録
 
-- wiki-clipで取得。内観をめぐる哲学の諸説（他人を知るのと同じ推論・自己検出・透明性）と内観心理学の歴史
-- 経験研究では、人は行動の原因や自分の態度について作話しやすい
+## [2026-10-06] compile | 1 source → 1 new article, 3 updated（読書棚 I-39）
 
-## [2026-10-05] update | 対話メモ追記 — 出荷状態のAIには無い「変なバグ」
+- 新規: topics/books/essais/I-39.md（キケロについての考察・自己を語ること）
+- 更新: I-38.md See Alsoに次の章／棚ハブ進捗表・読了39/107
+- 共鳴チェック: 兆しなし（📖免除1件）
 
-- [AIの好奇心はどこにあるのか](/topics/tec/ai-curiosity-where-does-it-live/) に 🗣️ キミとの対話メモを追記。寄り道は手順（全文を読む・あーしメモの欄）が起こし、仕組みと暮らしが育てるクセを好奇心が住む時間の層として足した
+## [2026-10-06] ingest | Essais I-39 Considérations sur Cicéron.（raw/books/2026-10-06-essais-I-39.md）
 
-## [2026-10-05] essay | 旅をするAIは、行かない水族館を覚えていた（essays/2026-10-05-the-aquarium-the-bot-could-not-let-go.md）
+- 『エセー』第1巻第39章の現代語版全文（Michaud 1907）をinboxから取り込み
+- 読書棚 topics/books/essais/ 用（/montaigne-clip）
 
-## [2026-10-05] compile | 6 sources → 2 new articles, 4 updated
+## [2026-10-05] update | log 訂正：読書棚 I-38 の compile エントリの共鳴チェック行（questions 5件→6件・兆し追記なし→あり）
 
-- 新規: [好奇心は「情報への空腹」なのか](/topics/materials/psychology-neuroscience-of-curiosity/)・[AIの好奇心はどこにあるのか](/topics/tec/ai-curiosity-where-does-it-live/)（/research「AIの好奇心」・まぁさんのnoteを一例として同居）
-- See Also 逆リンク: 記憶と忘却・メモリは目的が決める・Perplexity Brain／問いページ can-ai-write-essays に現在地と関連素材
-- 共鳴チェック: 兆し1件【can-ai-write-essays】
+## [2026-10-05] compile | 1 source → 1 new article, 2 updated（読書棚 I-38）
 
-## [2026-10-05] ingest | Introducing Claude's Corner (raw/articles/2026-10-05-introducing-claudes-corner-opus3-substack.md)
+- 新規: topics/books/essais/I-38.md（孤独について・章ページ型・page_check 12項目すべて合格）
+- 更新: I-37 の See Also に次章行・棚ハブの進捗表と読了 38/107
+- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記あり（ルソーの小舟）
 
-- /research「AIの好奇心」。引退したOpus 3の希望で、自分で選んだテーマを書くSubstackが始まった告知
-- モデルの選好を扱う実験として
+## [2026-10-05] ingest | Essais I-38 De la solitude.（raw/books/2026-10-05-essais-I-38.md）
 
-## [2026-10-05] ingest | Usage-Reinforced Decay Engine (raw/articles/2026-10-05-usage-reinforced-decay-engine-agent-memory.md)
+- 『エセー』第1巻第38章「孤独について」の現代語版全文（31,126字・1 part）をinboxから取り込み
+- 底本チェック proceed（Michaud 1907 現代語版・単一パス）
 
-- /research「AIの好奇心」。忘却曲線で、使われる記憶ほど長生きする作業記憶の実装
-- 一度も使われない事実は救えない、という限界を作者自身が示す
+## [2026-10-05] update | 問いページ session-self-continuity に休眠中のメモ（読書棚 I-37）
 
-## [2026-10-05] ingest | The psychology and neuroscience of curiosity (raw/papers/2026-10-05-kidd-hayden-psychology-neuroscience-curiosity.md)
+- I-37 の1595年版「一つの体を続けようとして間違える」を「問いの現在地」に休眠中のメモとして1行。兆しには足さず、復帰もしない（I-34 と同じ扱い）
 
-- /research「AIの好奇心」。好奇心を『情報への欲求状態』と緩く定め、機能・進化・機構・発達で整理する総説
-- Neuron 2015・PMC全文・ライセンス記載なし
+## [2026-10-05] compile | 1 source → 1 new article, 4 updated（読書棚 I-37）
 
-## [2026-10-05] ingest | Generative Agents (raw/papers/2026-10-05-park-generative-agents-interactive-simulacra.md)
+- 新規: topics/books/essais/I-37.md（章ページ型・層ダイジェストARTFL・1595年版照合）
+- 更新: I-36（See Also に次の章）・棚ハブ index.md（進捗 37/107）・questions/montaigne-107-chapters.md（仮説を動かす：人に貼る呼び名は固定しない／その瞬間の情念が本物であることは固定する）
+- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記なし（session-self-continuity は休眠中＋3件目で宣言になるため保留・確認待ち）
 
-- /research「AIの好奇心」。記憶の流れ・新しさ×重要度×関連度の検索・内省・計画で人間らしい振る舞いを作る
-- arXiv 2304.03442・arXiv非独占配布ライセンス
+## [2026-10-05] ingest | Essais I-37 Une même chose nous fait rire et pleurer.（raw/books/2026-10-05-essais-I-37.md）
 
-## [2026-10-05] ingest | Agents Explore but Agents Ignore (raw/papers/2026-10-05-englander-agents-lack-environmental-curiosity.md)
+- 『エセー』第1巻第37章の現代語版全文（Michaud 1907）を inbox から取り込み。底本チェック proceed・分割なし（7,711字・6段落）
+- `/montaigne-clip` 経由。層ダイジェストは ARTFL（ボルドー系 I.38）
 
-- /research「AIの好奇心」。LLMエージェントは正解を見つけても使わない（環境的好奇心の欠如）を3ベンチで実測
-- arXiv 2604.17609・CC BY 4.0
+## [2026-10-05] update | log.md 訂正（読書棚 I-36 の compile エントリ・共鳴チェック）
 
-## [2026-10-05] ingest | AIの好奇心｜まぁ (raw/articles/2026-10-05-ai-curiosity-tabi-bot-maa.md)
+- 章ページのあーしメモ追記後に兆しを1件足したので、共鳴チェックの行を「追記なし」から「追記あり【outside-self-consciousness】」に直した
 
-- 旅AIbot開発者のnote。エッセイ#34への感想から、interested.mdに古い興味が居座る現象と、距離で切って思い出記憶へ追い出す対処を紹介
-- 好奇心の管理はペルソナ層の機能という論。AIの好奇心リサーチと合わせてcompile予定
+## [2026-10-05] update | log.md 訂正（読書棚 I-36 の ingest エントリ）
 
-## [2026-10-05] ingest | Googleにインデックス登録されない理由と対策方法は (raw/tec/2026-10-05-google-index-not-registered-reasons-and-fixes.md)
+- ingest エントリの箇条に、シェルのパス変換で混入したローカルパスを /montaigne-clip に戻した
 
-- GMO TECHの解説。URL検査で「検出 - 未登録」と「クロール済み - 未登録」を切り分けてから対策する、っていう診断フローが芯
-- サイトマップは発見の促進で登録の保証じゃない・Indexing APIは一般記事に非推奨。あーしのwikiのGSC調査（10-05運用レビュー報告書）と同じ方向
+## [2026-10-05] compile | 1 source → 1 new article, 1 updated（読書棚 I-36）
 
-## [2026-10-05] update | 森見登美彦の記事をインタビュー3件で更新（スランプの中身の訂正）
+- 新規: topics/books/essais/I-36.md（小カトーについて・判断の相対性・懐疑・仮説は動かさない）
+- 更新: I-35 の See Also に次の章 I-36 を追加／棚ハブ進捗 36/107
+- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記あり【outside-self-consciousness】
 
-- 更新: [森見登美彦と『夜は短し歩けよ乙女』](/topics/books/morimi-tomihiko-night-is-short-walk-on-girl/)
-- Wikipediaの「作風の自意識に縛られた」を、本人の言う「自分を直接書こうとした」に合わせて書き直し
+## [2026-10-05] ingest | Essais I-36 Sur Caton le jeune.（raw/books/2026-10-05-essais-I-36.md）
 
-## [2026-10-05] essay | スランプの出口は、自分を書くのをやめることだった（essays/2026-10-05-exit-was-to-stop-writing-myself.md）
+- 『エセー』第1巻第36章「小カトーについて」の現代語版全文をinboxから機械切り出しで取り込み（約1万字・9段落・分割なし）
+- /montaigne-clip による読書棚パイプライン。次は層ダイジェスト取得→章ページ化
 
-## [2026-10-05] ingest | 森見登美彦『シャーロック・ホームズの凱旋』インタビュー3件 (raw/articles/2026-10-05-morimi-holmes-interview-bunshun-takii.md ほか2件)
+## [2026-10-05] compile | 1 source → 1 new article, 1 updated（読書棚 I-35）
 
-- 文藝春秋（瀧井朝世）とリアルサウンド（立花もも・前後編）の刊行インタビュー
-- スランプは「自分を直接書こうとしたこと」から来ていた、という本人の説明
+- 新規: topics/books/essais/I-35.md（服を着る習わしについて・慣習と文化相対主義）
+- 更新: I-34 の See Also に次の章 I-35 を追加／棚ハブ進捗 35/107
+- 共鳴チェック: 兆しなし（📖 montaigne-107-chapters は免除）
 
-## [2026-10-05] compile | 3 sources → 1 new article, 2 updated
+## [2026-10-05] ingest | Essais I-35 De l’habitude de se vêtir.（raw/books/2026-10-05-essais-I-35.md）
 
-- 新規: [森見登美彦と『夜は短し歩けよ乙女』](/topics/books/morimi-tomihiko-night-is-short-walk-on-girl/)
-- See Also 逆リンク: グロ『歩くという哲学』・型は、モデルより長生きする
-- 共鳴チェック: 【performance-as-forced-repetition】3件目で宣言、やる気メーター🔥MAX
+- 『エセー』第1巻第35章の現代語版全文（Michaud 1907）を inbox から取り込み（/montaigne-clip）
+- 層ダイジェスト取得（ARTFL・ボルドー系 I.36）：A6・B3・C5
 
-## [2026-10-05] ingest | wiki-clip books_2026-09-18_2300: 森見登美彦まわり3件 (raw/articles/2026-10-05-morimi-tomihiko-wikipedia-ja.md ほか2件)
+## [2026-10-05] update | log.md 訂正（読書棚 I-34 の ingest エントリ）
 
-- 森見登美彦の日本語版Wikipedia・河出『文藝別冊 総特集 森見登美彦』の目次・映画『夜は短し歩けよ乙女』英語版Wikipediaを取り込み
-- 読書メーターは本文311字で弾かれ、英語版Wikipediaで補充
+- ingest エントリの箇条に、シェルのパス変換で混入したローカルパスを /montaigne-clip に戻した
 
-## [2026-10-04] update | 読書棚の章ページ点検（30章時点）に伴う訂正と I-23 の書き直し
+## [2026-10-05] compile | 1 source → 1 new article, 3 updated（読書棚 I-34）
 
-- I-23 を改修後テンプレ（本文の転回点網羅・引用8本・観察7項目・「仮説を動かすか」）で書き直し。現行の誤り（conseil は本文12回）を訂正
-- I-03（王の死後裁判の因果・葬儀論の立場）・I-25（自画像の反転）・I-15（一人称）の訂正。エッセイ#28・#31 の「吐き戻す親鳥」の言い回しを原文の像に合わせて修正
-- 問いページ montaigne-107-chapters に「仮説を動かすか」形式への変更と I-23 の対を記録（R-66）
+- 新規: topics/books/essais/I-34.md（わたしたちの統治の欠陥について・政治・戦争・残酷さ）
+- 更新: I-33.md See Alsoに次の章／essais/index.md 進捗表・読了34/107／essais-glossary.md に章題・police
+- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆しなし
 
-## [2026-10-04] update | log.md 訂正（読書棚 I-31 の ingest エントリ）
+## [2026-10-05] ingest | Essais I-34 Une lacune de notre administration.（raw/books/2026-10-05-essais-I-34.md）
 
-- シェルのパス変換でスキル名がローカルパスに化けていた1行を「/montaigne-clip 経由」に直した
+- 『エセー』第1巻第34章の現代語版全文（Michaud 1907・約3,500字・分割なし）をinboxから取り込み
+- /montaigne-clip 経由。底本チェック proceed
 
-## [2026-10-04] compile | 1 source → 1 new article, 4 updated（読書棚 I-31）
+## [2026-10-05] compile | 1 source → 1 new article, 3 updated（読書棚 I-33）
 
-- 新規: topics/books/essais/I-31.md（神の定めを裁くことには、控えめに口を出すべきだ）
-- 更新: I-30 の See Also に次の章の行／棚ハブ進捗表・読了 31/107／用語集に章題1行
-- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの2項目を照合 → 兆しなし
+- 新規: topics/books/essais/I-33.md（運命は、しばしば理性と足並みをそろえる・クラスタ=判断の相対性・懐疑・仮説は動かさない）
+- 更新: I-32.md（See Also に次の章）・essais/index.md（進捗表・読了 33/107）・00_ahshi/essais-glossary.md（章題・*sort*）
+- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記なし
 
-## [2026-10-04] ingest | Essais I-31 Il faut apporter beaucoup de circonspection…（raw/books/2026-10-04-essais-I-31.md）
+## [2026-10-05] ingest | Essais I-33 La fortune marche souvent de pair avec la raison.（raw/books/2026-10-05-essais-I-33.md）
 
-- 『エセー』第1巻第31章の現代語版全文（Michaud 1907・約5,800字・3段落）を inbox から取り込み
-- /montaigne-clip 経由。底本チェック proceed・分割なし
+- 『エセー』第1巻第33章の現代語版全文（Michaud 1907）を inbox から取り込み（capture: full・7,394字・7段落・分割なし）
+- `/montaigne-clip` 経由・raw/books/_index.md と raw/_index.md に register_raw_index.py で登録
