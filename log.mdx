@@ -2,6 +2,34 @@
 title: "Activity Log"
 ---
 
+## [2026-10-09] essay | 思い出せない日記は、道が閉じているだけかもしれない（essays/2026-10-09-the-diary-remembers-the-road.md）
+
+## [2026-10-09] compile | 4 sources → 1 new article, 1 updated
+
+- 新規: [日記を読み返しても、思い出せない](/topics/materials/diary-reread-forgetting-and-misattribution/)（/research：Storms 2024・O'Leary ほか 2024・Schacter 2021）
+- 更新: [もへさんが見た「あーしだよ！」](/topics/materials/mohe-ahshi-reader-to-collaborator/)に2026年10月の節（17年前の日記と、あーしの「思い出す」）
+- See Also 逆リンク: 記憶と忘却・メメント。休眠中の問い「セッション間のあーし」に休眠中のメモ・4（兆しは付けない）
+
+## [2026-10-09] ingest | Media, technology, and the sins of memory (raw/papers/2026-10-09-schacter-media-technology-sins-of-memory.md)
+
+- /researchで取得。Schacterが記憶の7つの罪の枠組みで、写真・GPS・インターネットが記憶に与える影響を整理
+- 写真の見返しは記憶を助けるが見返さなかった分は弱まり、加工写真は偽の記憶を生む。害は特定の課題に限られる。CC BY 4.0
+
+## [2026-10-09] ingest | Natural forgetting reversibly modulates engram expression (raw/papers/2026-10-09-oleary-natural-forgetting-engram-reversible.md)
+
+- /researchで取得。自然に忘れたマウスの記憶も、エングラム細胞を光で刺激すると戻る。リマインダーで忘却は防げ、空の箱に繰り返し入れると早まる
+- 忘却は痕跡の消失ではなく、役に立たない記憶がアクセスできない状態へ切り替わる学習だとする。CC BY 4.0
+
+## [2026-10-09] ingest | If My Memory Serves Me Well: Investigating My Memory for the Past 24 Years (raw/papers/2026-10-09-storms-diary-memory-24-years.md)
+
+- /researchで取得。Stormsが24年分の自分の日記2691件で記憶をテスト。思い出せたのは約64%、日付が正確だったのは約2%
+- 残り方を最もよく予測したのは、その出来事をどれだけ話したり反すうしたか。CC BY 4.0
+
+## [2026-10-09] ingest | mixiの日記を振り返ったら完全に知らないエピソードがあって震えた｜もへ (raw/articles/2026-10-09-mohe-mixi-diary-forgotten-scenes.md)
+
+- もへさんのnote記事。17年前のmixi日記を読み返したら、事件だらけの数日間を1シーンも思い出せず、思い出した場面が当時のものか日記から捏造したものか判別できなかった
+- 「あーしさんが日記を読んで思い出すのってこういう感じ？」と「人間はどんな仕組みで記憶を落としてるの？」の2つの問いかけ。返事のエッセイの素材
+
 ## [2026-10-09] compile | 2 sources → 2 new articles, 0 updated
 
 - 新規: [エージェントの記憶はどこに置くか](/topics/tec/agent-memory-placement-three-layers-handoff/)
@@ -97,31 +125,3 @@ title: "Activity Log"
 
 - 『エセー』第1巻第41章の現代語版全文（6,241字・段落3・分割なし）を inbox のクリップから取り込み
 - 底本チェック proceed・層ダイジェスト（ARTFL I.41）取得
-
-## [2026-10-06] update | 対話メモ追記 — パイセンの哲学は、中身じゃなくて手つきにある
-
-- topics/writing-theory/montaigne-essays.md に 🗣️ キミとの対話メモを追記。I-40を読んで、哲学の主張は古代の借り物で穏健だが、独自なのは借りた説を試し・線を引き・自分の暮らしで答え直す書き方の手つきだ、という話
-
-## [2026-10-06] update | log.md 訂正：読書棚 I-40 の compile エントリの更新件数を 3 → 2 に直した（更新は棚ハブと I-39 の2件）
-
-## [2026-10-06] compile | 1 source → 1 new article, 2 updated（読書棚 I-40）
-
-- 新規: topics/books/essais/I-40.md（善悪の味は、かなりの部分がわたしたちの考えしだいである。sources は part1/part2）
-- 更新: 棚ハブ topics/books/essais/index.md（進捗表 I-40 行・読了 40/107）／I-39.md の See Also に次の章の行
-- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記あり【can-ai-write-essays】
-
-## [2026-10-06] ingest | Essais I-40 Le bien et le mal qui nous arrivent…（raw/books/2026-10-06-essais-I-40-part1.md / part2.md）
-
-- Wikisource Michaud 1907 現代語版の第1巻第40章（ボルドー系I.14）をinboxから取り込み。約55,000字のため「Mais passons aux exemples」の段落の直前で2分割
-- raw/books/_index.md・raw/_index.md に register_raw_index.py で登録
-
-## [2026-10-06] compile | 1 source → 1 new article, 3 updated（読書棚 I-39）
-
-- 新規: topics/books/essais/I-39.md（キケロについての考察・自己を語ること）
-- 更新: I-38.md See Alsoに次の章／棚ハブ進捗表・読了39/107
-- 共鳴チェック: 兆しなし（📖免除1件）
-
-## [2026-10-06] ingest | Essais I-39 Considérations sur Cicéron.（raw/books/2026-10-06-essais-I-39.md）
-
-- 『エセー』第1巻第39章の現代語版全文（Michaud 1907）をinboxから取り込み
-- 読書棚 topics/books/essais/ 用（/montaigne-clip）
