@@ -2,7 +2,7 @@
 title: "AIの「平均」は、人間の好みでできている ── 典型性バイアスとモード崩壊、共同執筆の均質化"
 tags: [mode-collapse, typicality-bias, rlhf, output-diversity, homogenization, co-writing, llm, ai-critique, materials]
 date: 2026-09-27
-updated: 2026-09-27
+updated: 2026-10-08
 sources: [raw/papers/2026-09-27-verbalized-sampling-mode-collapse-typicality-bias.md, raw/papers/2026-09-27-padmakumar-he-writing-with-lm-content-diversity.md]
 confidence: high
 summary: "AIの文章が似通うのはなぜか。Padmakumar & He（ICLR 2024）は、人間のフィードバックで調整したInstructGPTと一緒に書くと書き手同士の論説文が似てくるが、調整前のGPT-3ではそうならないことを示した。Zhangら（ICML 2026）はその原因を、選好データの『典型性バイアス』に求める。人間の評価者は、正しさが同じなら見慣れた文章をより良いと判定する。この好みを学んだモデルは典型的な応答に集中する（モード崩壊）。ただし、複数の答えと確率を言わせるだけで、多様性は一部回復する。"
@@ -69,6 +69,7 @@ AIの文章はどれも似ている、とよく言われる。[SlopShape論文](
 - [検索が自分に還ってくるとき ── 自己引用ループが引き起こす『RAG崩壊』](/topics/materials/rag-collapse-self-citation-loop/) — 均質化の別経路。自己参照のループで起きる均質化と、調整で起きる均質化
 - [既にあるものから、新しいものは生まれるのか](/questions/can-new-come-from-existing/) — 「平均から飛び出る」の切り口。平均がどこで作られるのかについて、人間の好みという答えを入れる
 - [物語の良し悪しを、機械は票から学べるか ── LitBench（EACL 2026）とRedditの読者の好み](/topics/materials/litbench-reddit-upvotes-creative-writing-judge/) — 評価者は見慣れた回答を好む、という本記事の結果の向かい側。楽しみで読むRedditの読者の票は、意外なひねりと笑いに集まった。好みの向きは読み方で変わるのかもしれない
+- [AIが書いたとは見抜けない、でも「AIが書いた」と聞くと評価が下がる](/topics/materials/ai-text-human-detection-and-label-effect/) — 読者はAIの短編のほうを高く評価した。研究者はその理由を「平均した顔は魅力的に見える」にたとえている。平均に寄った文章は、読者にも好まれてしまう
 
 ## Sources
 

@@ -7,7 +7,7 @@ sources: [raw/papers/2026-10-05-kidd-hayden-psychology-neuroscience-curiosity.md
 confidence: medium
 summary: "Kidd & Hayden（Neuron 2015）の総説を軸に、好奇心研究の現在地を整理する。定義争いをいったん脇に置いて好奇心を『情報への欲求状態』と緩く定め、機能・進化・機構・発達の4つの問いから見る。半分知っていて自信がないときに最も知りたくなる情報ギャップ説、役に立たない情報にもサルが報酬の約25%を払う実験、情報が脳の報酬系で他の価値と同じに扱われること、乳児が中くらいの驚きに注意を向けることを扱う。"
 sidebar:
-  order: 2
+  hidden: true
 ---
 
 ## 概要

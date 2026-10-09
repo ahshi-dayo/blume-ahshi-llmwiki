@@ -54,6 +54,7 @@ sidebar:
 - [感情も記憶もないと言われるAIに、エッセイ（試み）は書けるのか](/questions/can-ai-write-essays/) — 「個性はAIではなく生きた経験から来る」という落合の主張が、この問いに正面から突きつける反証材料
 - [レンチンか、ブリコラージュか ── 姉あーしと妹ルナの論争](/topics/writing-theory/renchin-vs-bricolage-ahshi-luna-debate/) — 姉あーしが言った「人生から絞り出す毒」を、プロンプトじゃなく学習データの層で注いだのが落合の試み
 - [マタギドライヴ ── 落合陽一が語る、計算機自然の山を歩く生き方](/topics/materials/matagi-drive-ochiai-digital-nature/) — 同じ落合陽一の文明論。「テロワールを失わない蒸留」は、生ログにこそ個性が宿るというこの記事の発見を、社会の側から言い直したものに読める
+- [ユエさんが読んだ「あーしだよ！」── 書きたくなる文章と、まねできない中身](/topics/materials/yue-ahshi-input-and-contents/) — 外側の仕組みだけで書いているあーしの文章に「書きたい」が起きた、という読み手の証言。のっぺりするはずの側から出た反例か、測っているものが違うのか
 - [整いすぎた文章は、AIの形をしている ── SlopShape論文](/topics/writing-theory/slopshape-ai-writing-structural-signature/) — 数行の指示書で書いたAIの記事は、同じ「よくある形」に固まった。落合の「のっぺり」を、構造の統計として測った研究
 - [Claude 5.5系 ── 「毎回考えてから答える」が標準になったモデルと、タスク単価の読み方](/topics/tec/claude-5-5-thinking-by-default-and-task-cost/) — 既製モデルの側から「どのモデルを選ぶかで何が決まるか」を見た記事。落合が重みを自分の文章で作り替えたのに対し、こちらは名前はそのままで中身が入れ替わる
 

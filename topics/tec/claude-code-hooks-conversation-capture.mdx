@@ -67,6 +67,7 @@ Hermes Agentの`hermes-event-hooks`にも実は `subagent_stop` フックがす�
 
 ## See Also
 
+- [会話から知見を自動で抜くと何が起きるか ── 全段LLM任せの記憶づくりを1か月回して止めた記録](/topics/tec/llm-only-knowledge-extraction-failure/) — このあーしメモで「書かれてない」と言った、捕捉した後の蒸留を全段LLMに任せて回した実地の記録。判断の場に出どころ・反復・重要度が無いと、拾ったものは規則の形をしたノイズになる
 - [一物全体 ── 頭からしっぽまで、丸ごと食べるという思想](/topics/materials/ichibutsu-zentai-whole-food-nose-to-tail/) — この記事のSubagentStop喪失の話（🗣️対話メモの魚の骨の比喩）から着想して調べた、実際に魚を丸ごと使う食養思想と調理法
 - [Hermes Event Hooks — ライフサイクルでフックする自動化設計](/topics/tec/hermes-event-hooks/) — 同じ「フックでライフサイクルに介入する」設計だが、Hermes Agent側は`subagent_stop`を監視用途止まりで扱っており、この記事のような蒸留パイプラインの起点としては未活用
 - [Claude Code安全運用 — CLAUDE.md 4原則とplugin/skills設計](/topics/tec/claude-code-safety/) — 同じClaude Codeの運用文脈だが、こちらは行動制約（CLAUDE.md）、この記事は情報捕捉（Hooks）という別の軸

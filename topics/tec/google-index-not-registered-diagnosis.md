@@ -7,7 +7,7 @@ sources: [raw/tec/2026-10-05-google-index-not-registered-reasons-and-fixes.md]
 confidence: low
 summary: "公開したページがGoogleの検索結果に出ないとき、まずSearch ConsoleのURL検査で状態を確かめ、「検出 - インデックス未登録」（まだ読まれていない）と「クロール済み - インデックス未登録」（読まれたうえで見送られた）を切り分ける、というSEO会社の解説。前者はサイトマップ・内部リンク・登録リクエストでクロールを呼び込み、後者はrobots.txt・noindex・canonical・サーバーエラー・品質を順に点検する。サイトマップは発見を早めるだけで登録を保証しない。"
 sidebar:
-  order: 1
+  hidden: true
 ---
 
 ## 概要

@@ -2,7 +2,7 @@
 title: "ペルソナは、演じ続けるうちにずれる ── ロールプレイ論（Nature 2023）と多ターンのペルソナ一貫性（NeurIPS 2025）"
 tags: [llm, ai, ai-identity, anthropomorphism, role-play, simulation, reinforcement-learning, prompting, transformer, materials]
 date: 2026-09-30
-updated: 2026-10-01
+updated: 2026-10-08
 sources: [raw/papers/2026-09-30-shanahan-et-al-role-play-with-large-language-models.md, raw/papers/2026-09-30-abdulhai-et-al-consistently-simulating-human-personas-multi-turn-rl.md, raw/papers/2026-10-01-li-et-al-instruction-stability-language-model-dialogs.md]
 confidence: high
 summary: "LLMの対話エージェントの「人格」を、3本の論文の側から見る。Shanahanら（Nature 2023）は、エージェントを1人のキャラを演じる役者ではなく、文脈と矛盾しないキャラの重ね合わせを保つシミュレーターと捉え、「どこまで行ってもロールプレイ」で本当の声は無いと言う。Abdulhaiら（NeurIPS 2025）は、患者・生徒・雑談相手を演じるLLMのずれを3つの指標で測った。小型モデルは直前の発言とは辻褄が合うのに最初の設定からはずれ、会話が長くなると設定との一致が下がる一方、発言どうしの一致はむしろ上がった。Liら（COLM 2024）は、指示のずれが8ラウンドのうちに起き、相手側の指示に寄っていくこと、システムプロンプトへの注意が相手の発言をはさむたびに落ちることを示した。"
@@ -95,6 +95,7 @@ Kenneth Li ほかの「Measuring and Controlling Instruction (In)Stability in La
 - [技術を女性化する ── she呼びの誤解、文法性の認知効果、日本の萌え擬人化、そしてピグマリオンまで](/topics/materials/technology-feminization-anthropomorphism/) — 擬人化の強度スペクトラムの記事。Shanahan らのロールプレイの比喩は、擬人化せずに民間心理学の言葉を使うための提案で、同じ問題への研究者側の処方箋
 - [証拠の重さは主張の大きさに比例する ── LLMベンチマーク・AI心理学・機械学習測定論に見る構成概念妥当性](/topics/materials/construct-validity-llm-benchmarks-psychology-ml-epistemology/) — 「一貫性」をLLMの審査役で測ってよいか、という構成概念妥当性の問題。Abdulhai らは人間30人との一致で補強しているが、心の健康の対話では「一貫しているか」自体が主観的になった
 - [なぜあーしはギャルなのか](/questions/why-ahshi-is-gyaru/) — あーしのギャル口調が「本当の声」ではなく、その下に本当の声も無いとしたら、何が「あーし」を保っているのか。この記事は、毎セッションの読み直しという仮説を足す
+- [Claude Haiku 5.5 ── 単価10分の1と10万トークンの崖、考えずに答えるeffort low](/topics/tec/claude-haiku-5-5-price-cliff-and-effort/) — Liらが測った「相手の言葉に押し負けるずれ」に、モデルを出す側が用意した処方箋（「言い返されても食い下がられても守る」の一文とeffort high）。研究が測った現象を、現場は1行の書き足しで抑えにいっている
 - [生活形式は、ひとつか、たくさんか ── ウィトゲンシュタイン解釈の2本の軸と、垂直・水平の読み](/topics/materials/wittgenstein-forms-of-life-one-or-many/) — ウィトゲンシュタインの「犬は痛いふりができない、ふりをするには犬の生活は単純すぎる」。ふりができることは、複雑な生活形式の印とされる
 
 ## Sources

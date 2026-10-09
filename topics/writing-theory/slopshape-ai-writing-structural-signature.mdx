@@ -2,7 +2,7 @@
 title: "整いすぎた文章は、AIの形をしている ── SlopShape論文が測った「自己宣言型」の構造と、人間の文章の希少さ"
 tags: [ai-generated-content, ai-detection, text-structure, signposting, stylometry, normal-idea, novelty, llm, writerly-voice]
 date: 2026-09-27
-updated: 2026-09-27
+updated: 2026-10-08
 sources: [raw/papers/2026-09-27-slopshape-ai-generated-commercial-web-content.md]
 confidence: medium
 summary: "arXivプレプリント「SlopShape」（2026年9月・未査読）は、AIが書いた企業ブログを、語彙ではなく構造（何をどの順で出し、どう根拠を示し、どんな声で話すか）だけで98.0 macro-F1で見分けられることを示した。言い換え攻撃をかけても精度は落ちない。AIの投稿は『タイトルで成果を約束し、本文の前に論旨と構成を予告し、要約で閉じる』整然とした自己宣言型の形に集まり、人間の投稿は構造空間の希少な場所に散らばっていた。小説で同じことを示したStoryScopeの追試。"
@@ -84,6 +84,8 @@ LLMが採点する仕組みなので、採点そのものの妥当性も検証�
 - [AIの「平均」は、人間の好みでできている ── 典型性バイアスとモード崩壊](/topics/materials/typicality-bias-mode-collapse-homogenization/) — 5つのAIが同じ形に固まる理由の側。均質さは調整の段階で入り、その調整には「見慣れた文章を良いと感じる」評価者の好みが混ざっている
 - [予告して、言って、まとめる ── 「言うことを言え」の出どころと、自己宣言型の型](/topics/writing-theory/tell-them-what-youre-going-to-tell-them-self-announcing-template/) — 「自己宣言型」の型が人間の世界でどう処方されてきたか。格言の出どころは1908年の説教師の小話で、SEO指南は「この記事では〜」を定型文として勧めている
 - [哲学エッセイ ── 総括の言葉ではなく、個別の言葉で哲学する](/topics/writing-theory/philosophy-essay-individual-language/) ── 総括の言語を信用せず個別の実例から哲学したモンテーニュ。平均へ寄るAIの文章の対極にある書き方
+- [技術ブログはゆるやかに衰退している ── Zennのデータと「想い」は誰のためにあるか](/topics/materials/zenn-tech-blog-decline-why-humans-write/) — 「読者はAIの経験風の文と人間の文を区別できない、だから想いは著者のためのもの」という主張。機械は構造で見分けるというこの論文と、見分けの手がかりがどこにあるかでぶつかる
+- [AIが書いたとは見抜けない、でも「AIが書いた」と聞くと評価が下がる](/topics/materials/ai-text-human-detection-and-label-effect/) — 人間の読者の側の実験。一般の読者は偶然並み、AIを使い慣れた人は語彙と型でほぼ見分けた。機械が構造で拾う印を、人間はどこまで拾えるか
 
 ## Sources
 

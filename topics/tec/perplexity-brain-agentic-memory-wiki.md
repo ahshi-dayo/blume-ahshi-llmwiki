@@ -51,6 +51,7 @@ Brainは孤立した発明ではない。2026-02-12にLettaがGit追跡のContex
 
 ## See Also
 
+- [会話から知見を自動で抜くと何が起きるか ── 全段LLM任せの記憶づくりを1か月回して止めた記録](/topics/tec/llm-only-knowledge-extraction-failure/) — ステージングも検証も出典も無いまま、会話を知見に固めていった逆の例。Brainが二段検証とciteを持つ理由を、無かったら何が起きるかの側から見せてくれる
 - [LLM Wiki パターン リファレンス](/references/llm-wiki/) — Brainが実装している「記憶をモデルの外のドキュメントとして継続的に編集する」という原理の起点。Karpathyの提唱からPerplexity Brainに至る収斂の系譜
 - [CodeAlmanac ── コードだけでは残らない知識を、AIエージェント自身が保守するWikiツール](/topics/tec/codealmanac-self-updating-codebase-wiki/) — 同じ原理をコードベース領域に適用した具体的なプロダクト。build/ingest/gardenのエージェント構成、Git worktreeによる並行更新など重なる論点が多い
 - [senses ── Claude Codeのhooks・skills・定期実行だけで作る個人ナレッジ基盤](/topics/tec/claude-code-senses-personal-llm-wiki/) — 同じ原理を企業製品でなく個人開発でClaude Codeの標準機能だけを使って再現した事例

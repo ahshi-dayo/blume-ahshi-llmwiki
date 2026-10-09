@@ -50,6 +50,7 @@ git worktreeで別ブランチに切り替えて実装を修正した後、`code
 
 ## See Also
 
+- [エージェントの記憶はどこに置くか ── Skills・AGENTS.md・引き継ぎノートの3層と、1回の引き継ぎで消える「誰が決めたか」](/topics/tec/agent-memory-placement-three-layers-handoff/) — 「コードに現れない情報ほど古くなっても気づけない」を2つのツールで実測した検証。CodeAlmanacが切り出して手入れする知識が、なぜ放っておくと危ないかの根拠
 - [AIエージェントの記憶をWikiにする ── Perplexity Brainの設計と、実装して分かった落とし穴](/topics/tec/perplexity-brain-agentic-memory-wiki/) — 同じ「エージェント自身が編集するWiki」という原理を汎用的な記憶ドメインで扱った記事。Git worktreeによる並行更新の論点が重なる
 - [LLM Wiki パターン リファレンス](/references/llm-wiki/) — CodeAlmanacが実装しているRaw/Wiki/Schemaの3層構造・ingest/query/lintという基本操作の起点
 

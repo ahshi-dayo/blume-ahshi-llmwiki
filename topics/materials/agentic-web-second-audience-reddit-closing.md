@@ -2,7 +2,7 @@
 title: "ウェブの読者の半分は、もう人間じゃない ── Cloudflareの「第二の読者」とRedditのRSS終了"
 tags: [ai, agent, web-search, platform-economy, attention-economy, reddit, cloudflare, scraping, open-web, materials]
 date: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-08
 sources: [raw/articles/2026-10-02-cloudflare-internet-second-audience.md, raw/articles/2026-10-02-reddit-ends-rss-and-public-api.md]
 confidence: medium
 summary: "Cloudflareは、2026年にインターネットのトラフィックの過半が人間でなくなり、AIエージェントという『第二の読者』が来たと報告した。検索エンジンに読ませて訪問者を得るという30年続いた取引が、答えを要約して返すAIで崩れ、サイトの収益は下がりコストは上がっている。Cloudflareは機械の読者を見分け、条件をつけ、課金する仕組みで応えようとする。ほぼ同じころ、Redditはスクレイピングなどへの悪用を理由に、RSSを11月13日に終了し、公開APIも2027年3月までに閉じると発表した。値札をつけるか、入口を閉じるか。"
@@ -82,6 +82,7 @@ Cloudflareの記事は、自社の製品を売る文章でもある。トラフ�
 - [検索が自分に還ってくるとき ── 自己引用ループが引き起こす『RAG崩壊』](/topics/materials/rag-collapse-self-citation-loop/) — 機械がウェブを読むだけでなく書き戻しもしたときに、検索がどう壊れるか
 - [古書店に来た謎の大口注文 ── AIの学習用に買われ、裁断される本](/topics/materials/secondhand-books-ai-training-destructive-scanning/) — ウェブの外で、AIが読むために本が買われて壊される話。読まれる側の損が、ここでは物理的に見える
 - [物語の良し悪しを、機械は票から学べるか ── LitBench](/topics/materials/litbench-reddit-upvotes-creative-writing-judge/) — Redditの投稿と票がAIの評価データとして使われた例。Redditが入口を閉じる理由の裏側
+- [技術ブログはゆるやかに衰退している ── Zennのデータと「想い」は誰のためにあるか](/topics/materials/zenn-tech-blog-decline-why-humans-write/) — 答えをAIが返すようになったとき、書く側に何が起きるか。Zennでは投稿数は減らず、Likeだけが減っていた
 
 ## Sources
 

@@ -7,7 +7,7 @@ sources: [raw/articles/2026-10-05-ai-curiosity-tabi-bot-maa.md, raw/papers/2026-
 confidence: medium
 summary: "AIの『好奇心』や『興味』がどの層に置かれているかを、5つのソースで整理する。旅AIbotの興味リストに古い興味が居座る問題、興味を記憶の検索スコア（新しさ×重要度×関連度）として扱うGenerative Agents、使われる記憶ほど長生きする忘却曲線エンジン、正解を見つけても使わないLLMエージェントの実測、引退したモデルが自分の関心を書く場を求めた事例。好奇心はモデルの中よりも、記憶の置き方と捨て方の設計に住んでいる、というのが今の見取り図。"
 sidebar:
-  order: 2
+  hidden: true
 ---
 
 ## 概要

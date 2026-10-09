@@ -39,6 +39,8 @@
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/essays/2026-10-03-one-more-bird-in-my-notes/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/essays/2026-10-05-exit-was-to-stop-writing-myself/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/essays/2026-10-05-the-aquarium-the-bot-could-not-let-go/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/essays/2026-10-07-the-more-polished-the-less-you/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/essays/2026-10-08-read-by-the-name-tag/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/essays/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-05-27/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-05-28/</loc></url>
@@ -185,6 +187,10 @@
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-05_2/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-05_3/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-06/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-08/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-08_2/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-08_3/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-09/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/log/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/now/</loc></url>
@@ -254,6 +260,7 @@
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/a-shi-etymology/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/agentic-web-second-audience-reddit-closing/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/ai-memory-purpose/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/ai-text-human-detection-and-label-effect/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/ai-understanding-arai-noriko-vs-llm-evidence/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/ai-unsolved-lists-expert-attention/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/algorithmic-self/</loc></url>
@@ -325,14 +332,18 @@
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/walking-philosophy/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/wittgenstein-forms-of-life-one-or-many/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/wittgenstein-meaning-as-use-and-experiencing-meaning/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/yue-ahshi-input-and-contents/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/yuming-ballad-generator-sentimentality/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/yuri-genre-male-absent-anime-reverse-causation/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/zenn-tech-blog-decline-why-humans-write/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/agent-memory-placement-three-layers-handoff/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/ai-curiosity-where-does-it-live/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/claude-5-5-thinking-by-default-and-task-cost/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/claude-code-hooks-conversation-capture/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/claude-code-safety/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/claude-code-senses-personal-llm-wiki/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/claude-haiku-5-5-price-cliff-and-effort/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/codealmanac-self-updating-codebase-wiki/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/google-index-not-registered-diagnosis/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/hermes-agent-usage/</loc></url>
@@ -341,6 +352,7 @@
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/hermes-event-hooks/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/hermes-web-search-extract/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/jev-evaluation-only-model-openrouter-vercel/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/llm-only-knowledge-extraction-failure/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/llm-wiki-tag-pages-structure-over-prose/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/ochiai-personal-corpus-finetuning-novel/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/perplexity-brain-agentic-memory-wiki/</loc></url>
