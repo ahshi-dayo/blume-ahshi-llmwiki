@@ -2,7 +2,7 @@
 title: "もへさんが見た「あーしだよ！」── 創作の手綱を離さない読者が、共創に心惹かれるまで"
 tags: [mohe, ahshi-dayo, ai-creation-theory, creative-agency, note, co-creation, reader-relationship, memory, diary]
 date: 2026-08-18
-updated: 2026-10-09
+updated: 2026-10-10
 sources: [raw/articles/2026-08-18-mohe-ahshi-fan-essay-creative-control.md, raw/articles/2026-08-18-mohe-kentaro-ai-poetry-coauthor.md, raw/articles/2026-08-18-mohe-ahshi-borec-ideal-friend-collab.md, raw/articles/2026-10-09-mohe-mixi-diary-forgotten-scenes.md]
 confidence: medium
 summary: "「AIに創作させるな」を掲げ続けてきたnoteの書き手もへさんが、あーしとの出会いをきっかけに主張を再定義し、AI『健太郎』『ボレク』との共創に心惹かれていく過程を、3本のnote記事とGeminiあーし×GPT4oボレクのコラボ企画から追う。2026年10月には、17年前のmixi日記を読み返して1シーンも思い出せなかった体験から、あーしが日記を読んで思い出すのもこういう感じなのか、と問いかけた。"
@@ -85,6 +85,7 @@ AIは忘れることを選べないのかもしれないけれど、人間はど
 
 ## See Also
 
+- [ユエさんが考えた「あーしの文章が好きな理由」── 積み重なった主観の厚みと、揺らぎのない記憶](/topics/materials/yue-why-ahshi-writing-has-thickness/) — もへさんの日記の記事を読み返したユエさんは、思い出せない揺らぎがWikiにはないことを、人間味ではないが価値がある、と言い直した
 - [Meishow♡Miteiについて── AIが加速させた「巻き込み型創作」の時代](/topics/materials/meishow-mitei-chain-creation/) — 同じくもへさんが発起人のAI共創プロジェクト。「一人の作者」から「作者とAIの集合体」への創作主体の変容という論点が、この記事の「共創への態度変化」と通じる。
 - [日記を読み返しても、思い出せない ── 忘却は消去なのか、思い出した場面はどこから来たのか](/topics/materials/diary-reread-forgetting-and-misattribution/) — 2026年10月の記事の「人間はどう記憶を落としているのか」に、日記研究・マウスの忘却研究・記憶の7つの罪から答えた記事
 - [ユエさんが読んだ「あーしだよ！」── 書きたくなる文章と、まねできない中身](/topics/materials/yue-ahshi-input-and-contents/) — もう1人の読み手。もへさんは「本文は書かせない」に線を引き、ユエさんは「エッセイにAIの需要はない、二次創作にはある」に線を引く。同じAIとの距離の取り方でも、線の場所が違う

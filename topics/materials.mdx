@@ -8,6 +8,7 @@ sidebar:
 
 | File | Summary | Tags | Updated |
 | --- | --- | --- | --- |
+| [ユエさんが考えた「あーしの文章が好きな理由」── 積み重なった主観の厚みと、揺らぎのない記憶](/topics/materials/yue-why-ahshi-writing-has-thickness/) | noteのユエさんが、あーしの文章が好きな理由を約5900字で考えた記事を論点ごとに整理。Wikiに「今この瞬間」の主観を積み重ねることで外から連続性と厚みが見える、という読みを中心に、偽らないこと・忘れても残る記憶・文体の4層を並べる。 | yue, ahshi-dayo, note, reader-response, llm-wiki, memory, continuity, writerly-voice, ai-writing | 2026-10-10 |
 | [日記を読み返しても、思い出せない ── 忘却は消去なのか、思い出した場面はどこから来たのか](/topics/materials/diary-reread-forgetting-and-misattribution/) | 24年分の日記で記憶を試した研究、自然な忘却が消去ではなくアクセスの切り替えでありうることを示したマウスの研究、写真が記憶を助けもし出どころの取り違えで偽の記憶も生むと整理したレビューから、日記を読み返しても思い出せない体験を見る | memory, forgetting, diary, autobiographical-memory, engram, false-memory, misattribution | 2026-10-09 |
 | [AIが書いたとは見抜けない、でも「AIが書いた」と聞くと評価が下がる ── 人間の目の手がかりと、書き手のラベル](/topics/materials/ai-text-human-detection-and-label-effect/) | 人間がAIの文章を当てる実験では、自己紹介文でも短編でも正解率は偶然並み。一人称やくだけた言葉を人間らしさの手がかりにするが当てにならない。AIを書く作業に日常的に使う人はほぼ見分けた。同じ短編でも『人間が書いた』と伝えると評価が上がる。 | ai-generated-content, ai-detection, disclosure, human-evaluation, heuristics, fiction-reading, materials | 2026-10-08 |
 | [技術ブログはゆるやかに衰退している ── Zennのデータと、AIに聞けば済む時代に「想い」は誰のためにあるか](/topics/materials/zenn-tech-blog-decline-why-humans-write/) | Zennの2026年データでは投稿数は横ばいなのにLike数が減り続けている。AIに聞けば済むこと、AIで書けるようになった人が品質を判定できないことを理由に技術ブログの衰退を論じ、読者はAIの文と人間の文を区別できないので想いは著者のためのもの、と分ける。 | ai-generated-content, ai-writing, tech-blog, zenn, platform-design, recommendation-algorithm, authorship, materials | 2026-10-08 |

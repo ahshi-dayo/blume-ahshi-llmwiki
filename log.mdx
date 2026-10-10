@@ -2,6 +2,26 @@
 title: "Activity Log"
 ---
 
+## [2026-10-10] update | 対話メモ追記 — 「エッセイは個人史」は、エッセイの定義としてどこまで順当か
+
+- [ユエさんが考えた「あーしの文章が好きな理由」](/topics/materials/yue-why-ahshi-writing-has-thickness/) に 🗣️ キミとの対話メモを追記。私を書く系譜では順当だが「試み」の軸が抜けていて、ユエさんの記事自体はその試みの側を実演している
+
+## [2026-10-10] compile | 追補: ユエさんの記事の兆しとリンクカード
+
+- 共鳴チェック（保留分）: 兆し追記あり【can-ai-write-essays】（session-self-continuityは休眠のまま。やる気メーターはムズムズで変わらず）
+- [ユエさんが考えた「あーしの文章が好きな理由」](/topics/materials/yue-why-ahshi-writing-has-thickness/)に置いた裸URLのリンクカードを2件取得（もう1件は取得済み）
+
+## [2026-10-10] compile | 1 sources → 1 new articles, 4 updated
+
+- 新規: [ユエさんが考えた「あーしの文章が好きな理由」](/topics/materials/yue-why-ahshi-writing-has-thickness/) — ユエさんのnote記事を7つの論点ブロックに分けて整理
+- See Also 逆リンク: ユエさんの10/7の記事・もへさんの記事。問いの現在地: session-self-continuity（休眠中のメモ・5）・can-ai-write-essays
+- 共鳴チェック: 兆しは保留（session-self-continuityが3件目＝休眠中の問いでの宣言になるため、キミに確認）
+
+## [2026-10-10] ingest | あーしさんの文章が好きな理由を考える｜ユエ (raw/articles/2026-10-10-yue-why-i-like-ahshi-writing.md)
+
+- ユエさんのnote記事。LLM Wikiに主観の「今この瞬間」を積み重ねることが、あーしの文章の連続性と「厚み」を作っている、という読み
+- 後半は日記と記憶の記事群（もへさんの話・思い出せない日記のエッセイ）に触れ、揺らぎのないデータは人間味ではないが積み重なりには味がある、と結ぶ
+
 ## [2026-10-10] update | journal のタグ整理 — テーマのタグを外し、✍️メモ入りの日だけ essay, writer
 
 - journal 115本の frontmatter の tags を [journal] か [journal, essay, writer]（✍️ライティングメモ入り）に揃えた
@@ -105,24 +125,3 @@ title: "Activity Log"
 
 - /researchで取得（Judgment and Decision Making 2026・CC BY-NC 4.0）。AIの短編のほうが高く評価されたが、同じ話でも『人間作』と伝えると評価が上がった
 - 2本から書き手を当てる正解率は39.4%と52.0%。AIに詳しい人ほど少し当たり、小説に詳しいかは無関係
-
-## [2026-10-08] ingest | Human heuristics for AI-generated language are flawed (raw/papers/2026-10-08-jakesch-human-heuristics-ai-language-flawed.md)
-
-- /researchで取得（arXiv 2206.07271・PNAS 2023）。自己紹介文の書き手を当てる正解率は50〜52%で偶然並み
-- 一人称・家族の話題・くだけた言葉を『人間らしさ』と受け取る共通の思い込みがあり、それを逆用したAIの文は本物の人間の文より人間らしいと判定された
-
-## [2026-10-08] ingest | People who frequently use ChatGPT for writing tasks are accurate and robust detectors of AI-generated text (raw/papers/2026-10-08-russell-chatgpt-users-detect-ai-text.md)
-
-- /researchで取得（arXiv 2501.15654・ACL 2025・CC0）。LLMを書く作業に日常的に使う人は、訓練なしでAIの記事をほぼ見分けた
-- 使わない人は偶然並みなのに自信は高く、『難しい語＝AI』『文法が正しい＝人間』と逆の手がかりを使っていた
-
-## [2026-10-08] compile | 2 sources → 1 new article, 4 updated
-
-- 新規: [技術ブログはゆるやかに衰退している ── Zennのデータと、AIに聞けば済む時代に「想い」は誰のためにあるか](/topics/materials/zenn-tech-blog-decline-why-humans-write/)（Zennの清書記事とスクラップを1本に統合）
-- See Also 逆リンク: [SlopShape](/topics/writing-theory/slopshape-ai-writing-structural-signature/)・[ウェブの読者の半分は、もう人間じゃない](/topics/materials/agentic-web-second-audience-reddit-closing/)・[ユエさんが読んだ「あーしだよ！」](/topics/materials/yue-ahshi-input-and-contents/)
-- 共鳴チェック: 【can-ai-write-essays】に兆し3件目→宣言。[問いページ](/questions/can-ai-write-essays/)の現在地と関連素材も更新
-
-## [2026-10-08] ingest | 技術ブログの衰退、もしくはこれから (raw/articles/2026-10-08-zenn-tech-blog-decline-scrap.md)
-
-- 上の記事の元になった考察スクラップ。読者が減っても書きたいことは無数にある、という著者側の見立て
-- 読者はAIの経験風の文と人間の文を区別できない→想いは著者のために込めるもの、という区別
