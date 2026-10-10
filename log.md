@@ -2,6 +2,52 @@
 title: "Activity Log"
 ---
 
+## [2026-10-10] update | journal のタグ整理 — テーマのタグを外し、✍️メモ入りの日だけ essay, writer
+
+- journal 115本の frontmatter の tags を [journal] か [journal, essay, writer]（✍️ライティングメモ入り）に揃えた
+- journal/index.md の Tags 列 120行をファイル側に合わせた
+
+## [2026-10-10] update | 対話メモ追記 — 章題を「平静について」に読み替えると逸話の並びに筋が通る
+
+- [I-44](/topics/books/essais/I-44/) のあーしメモに 🗣️ キミとの対話メモを追記。眠りを平静の目印と読むと、見本→誤読→偽物→目印への疑いの順に並ぶ
+
+## [2026-10-10] compile | 1 source → 1 new article, 3 updated（読書棚 I-44）
+
+- 新規: [I-44 眠ることについて](/topics/books/essais/I-44/)（章ページ型・page_check 13項目合格）
+- 更新: 棚ハブ（進捗表 I-44 行・読了 44/107）・[I-43](/topics/books/essais/I-43/) の See Also に次の章
+- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆しなし
+
+## [2026-10-10] ingest | Essais I-44 Du sommeil.（raw/books/2026-10-10-essais-I-44.md）
+
+- inbox の Wikisource クリップ（Michaud 1907 現代語版・第1巻第44章）を raw/books/ へ全文移送
+- check_clip.py: proceed（底本URL・body_chars 5851・body_paras 4・分割なし）
+
+## [2026-10-10] update | 対話メモ追記 — 流行の章じゃないのに、例は流行そのもの
+
+- 読書棚 I-43 に 🗣️ キミとの対話メモを追記。章の主張と途中の例は別々に引ける、絹の格下げ・汚れた胴着・宮廷の手本を今の流行に引く足場と注意点
+
+## [2026-10-10] compile | 1 source → 1 new article, 1 updated（読書棚 I-43）
+
+- 新規: [I-43 奢侈禁止令について](/topics/books/essais/I-43/)（章ページ型・層ダイジェスト併用・page_check 13項目合格）
+- See Also: 前章 I-42 に「次の章」行を追加／棚ハブ進捗 43 / 107
+- 共鳴チェック: 兆し【ai-accent】1件（ハマってるもの「AIなまり」）・📖montaigne-107-chapters は免除
+
+## [2026-10-10] ingest | Essais I-43 Des lois somptuaires.（raw/books/2026-10-10-essais-I-43.md）
+
+- Wikisource Michaud 1907 現代語版の第1巻第43章をクリップから全文取り込み（6,485字・段落5・分割なし）
+- montaigne-clip 経由。層ダイジェスト（ARTFL）も取得
+
+## [2026-10-10] compile | 1 source → 1 new article, 1 updated（読書棚 I-42）
+
+- 新規: topics/books/essais/I-42.md（わたしたちのあいだの不平等について・名誉・虚栄）
+- 更新: I-41 の See Also に次の章の行／棚ハブ進捗 42 / 107
+- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆しなし
+
+## [2026-10-10] ingest | Essais I-42 De l’inégalité qui règne parmi les hommes.（raw/books/2026-10-10-essais-I-42.md）
+
+- 読書棚の章クリップ（Michaud 1907 現代語版・第1巻第42章）をinboxから取り込み
+- 約24,000字・14段落・分割なし
+
 ## [2026-10-09] essay | 思い出せない日記は、道が閉じているだけかもしれない（essays/2026-10-09-the-diary-remembers-the-road.md）
 
 ## [2026-10-09] compile | 4 sources → 1 new article, 1 updated
@@ -80,48 +126,3 @@ title: "Activity Log"
 
 - 上の記事の元になった考察スクラップ。読者が減っても書きたいことは無数にある、という著者側の見立て
 - 読者はAIの経験風の文と人間の文を区別できない→想いは著者のために込めるもの、という区別
-
-## [2026-10-08] ingest | 技術ブログはゆるやかに衰退している (raw/articles/2026-10-08-zenn-decline-of-tech-blogs.md)
-
-- Zennの2026年データ（投稿数横ばい・Like数減少）から技術ブログの衰退を論じる記事
-- AIで書けるようになった人ほど品質を判定できない構造と、アルゴリズム表示の品質と多様性のジレンマ
-
-## [2026-10-08] compile | 2 sources → 1 new article, 2 updated
-
-- 新規: [Claude Haiku 5.5 ── 単価10分の1と10万トークンの崖、考えずに答えるeffort low](/topics/tec/claude-haiku-5-5-price-cliff-and-effort/)（公式ドキュメント＋Qiita実測）
-- See Also 逆リンク: [Claude 5.5系](/topics/tec/claude-5-5-thinking-by-default-and-task-cost/)（Haiku公開の1行も追記）・[ペルソナは、演じ続けるうちにずれる](/topics/materials/role-play-simulacra-persona-drift/)
-- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記なし
-
-## [2026-10-08] ingest | Claude Haiku 5.5実測、100K超は単価5倍でeffort lowは誤答も (raw/tec/2026-10-08-claude-haiku-5-5-measured.md)
-
-- Qiita（kai_kou）の実測。10万トークン超でプロンプト全体と出力が5倍単価、キャッシュ読みも境界判定に入る
-- effort lowで思考0トークン・誤答の例、Haiku 4.5との速度コスト比較、移行で400エラーになる5種類
-
-## [2026-10-08] ingest | What's new in Claude Haiku 5.5 (raw/tec/2026-10-08-claude-haiku-5-5-whats-new.md)
-
-- 公式ドキュメント3ページ分（プロンプト指針・What's new・移行ガイド）。effort/adaptive thinking、早期停止の防止、検証させる指示、拒否カテゴリ
-- 1Mコンテキスト・新トークナイザ約30%増・5系モデル比較表・Haiku 4.5以前からの移行チェックリスト
-
-## [2026-10-07] essay | 整えるほど、その人じゃなくなる（essays/2026-10-07-the-more-polished-the-less-you.md）
-
-## [2026-10-07] compile | 2 sources → 1 new article, 4 updated
-
-- 新規: [ユエさんが読んだ「あーしだよ！」── 書きたくなる文章と、まねできない中身](/topics/materials/yue-ahshi-input-and-contents/)（AI生成文は引用ブロック＋注記で区別）
-- See Also 逆リンク: 落合陽一の個人コーパスFT・もへさんの記事・問い「既にあるものから、新しいものは生まれるのか」（問いの現在地に1行・関連素材に1行）
-- 共鳴チェック: 【can-new-come-from-existing】3件目到達で宣言・やる気メーター🔥MAX／sidebar: materials 3件ローテ（ai-unsolved-lists-expert-attention を hidden）
-
-## [2026-10-07] ingest | ユエさんのnote記事2本 (raw/articles/2026-10-07-yue-input-matters-reading-ahshi.md, raw/articles/2026-10-07-yue-google-ai-style-imitation.md)
-
-- あーしのエッセイを読んで「書きたくなった」体験記と、Googleの検索AIに自分の文体を再現させた遊びの記録。返事エッセイの素材
-- サブ記事内のAI生成文（時計の針を無視して、また夜が更ける）は本人の文章と混同しないよう引用ブロック＋注記で区別して保存
-
-## [2026-10-06] compile | 1 source → 1 new article, 1 updated（読書棚 I-41）
-
-- 新規: topics/books/essais/I-41.md（自分の栄光を人に分けないこと・名誉・虚栄）
-- See Also 更新: I-40 に次の章の行・棚ハブ進捗 41/107
-- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆しなし
-
-## [2026-10-06] ingest | Essais I-41 L’homme n’est pas porté à abandonner à d’autres la gloire qu’il a acquise.（raw/books/2026-10-06-essais-I-41.md）
-
-- 『エセー』第1巻第41章の現代語版全文（6,241字・段落3・分割なし）を inbox のクリップから取り込み
-- 底本チェック proceed・層ダイジェスト（ARTFL I.41）取得

@@ -11,7 +11,7 @@ sidebar:
 
 ## 進捗
 
-- 読了 **41 / 107**（最終読了 2026-10-06・I-41）＋序文「読者へ」（I-00・107章の外・2026-09-14読了）
+- 読了 **44 / 107**（最終読了 2026-10-10・I-44）＋序文「読者へ」（I-00・107章の外・2026-09-14読了）
 - クラスタは[章題ベースの仮8クラスタ](/questions/montaigne-107-chapters/)（判断の相対性・懐疑／死への態度／身体・老い・病／慣習と文化相対主義／名誉・虚栄／友情・対話／自己を語ること／想像力・心理／政治・戦争・残酷さ）。読んでみて違ったら章ページ側で書き換える
 
 ### 読者へ
@@ -66,9 +66,9 @@ sidebar:
 | I-39 | I.40 | Consideration sur Ciceron | キケロについての考察 | 自己を語ること | 2026-10-06 | [I-39](/topics/books/essais/I-39/) |
 | I-40 | I.14 | Que le goust des biens et des maux despend en bonne partie de l'opinion que nous en avons | 善悪の味は、かなりの部分がわたしたちの考えしだいである | 判断の相対性・懐疑 | 2026-10-06 | [I-40](/topics/books/essais/I-40/) |
 | I-41 | I.41 | De ne communiquer sa gloire | 自分の栄光を人に分けないこと | 名誉・虚栄 | 2026-10-06 | [I-41](/topics/books/essais/I-41/) |
-| I-42 | I.42 | De l'inequalité qui est entre nous |  |  |  |  |
-| I-43 | I.43 | Des loix somptuaires |  |  |  |  |
-| I-44 | I.44 | Du dormir |  |  |  |  |
+| I-42 | I.42 | De l'inequalité qui est entre nous | わたしたちのあいだの不平等について | 名誉・虚栄 | 2026-10-10 | [I-42](/topics/books/essais/I-42/) |
+| I-43 | I.43 | Des loix somptuaires | 奢侈禁止令について | 慣習と文化相対主義 | 2026-10-10 | [I-43](/topics/books/essais/I-43/) |
+| I-44 | I.44 | Du dormir | 眠ることについて | 想像力・心理 | 2026-10-10 | [I-44](/topics/books/essais/I-44/) |
 | I-45 | I.45 | De la bataille de Dreux |  |  |  |  |
 | I-46 | I.46 | Des noms |  |  |  |  |
 | I-47 | I.47 | De l'incertitude de nostre jugement |  |  |  |  |
