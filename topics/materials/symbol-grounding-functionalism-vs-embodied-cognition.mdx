@@ -4,7 +4,7 @@ sources: [raw/papers/2026-09-11-floridi-et-al-categorical-analysis-llms-symbol-g
 type: materials
 created: 2026-09-11
 date: 2026-09-11
-updated: 2026-10-01
+updated: 2026-10-11
 tags: [symbol-grounding, functionalism, embodied-cognition, llm, stevan-harnad, luciano-floridi, epistemic-parasitism, materials]
 confidence: medium
 summary: "スティーヴァン・ハルナッドが1990年に定式化した記号接地問題（symbol grounding problem）——形式記号がどう意味を獲得するか——を巡り、LLM時代に再燃した対立を2つの最新論文で並べる。Floridi et al.は圏論的枠組みでLLMが接地問題を『解決でなく回避』していると論じる機能主義側の立場、Farkaš et al.は発達的な身体化学習の欠如を理由にマルチモーダルLLMも深い理解には届かないと論じる身体化認知側の立場。両者は同じ問題を見て正反対の結論に至る。"
@@ -69,6 +69,7 @@ LLMがこの要件を満たさないまま高度な言語運用を見せてい�
 - [「確率的な鸚鵡」は何を言い、何を言っていないのか ── Bender・Gebruら（2021）の原典と、7つに割れた反論](/topics/materials/stochastic-parrots-bender-2021-what-it-said/) — 鸚鵡論文が借りた「形式だけでは意味を学べない」（Bender & Koller 2020）の議論と、その後の反論で「接地」が分類から抜けているという指摘を扱う
 - [言葉の意味は、使い方に尽きるのか ── 古田徹也が読む後期ウィトゲンシュタインと、AIの「理解」](/topics/materials/wittgenstein-meaning-as-use-and-experiencing-meaning/) — 古田徹也が後期ウィトゲンシュタインから引き出す「間接接地（書物を介したパターン学習）／直接接地（生活すること）」の区別は、本記事の身体化認知側の主張を言語哲学から補う
 - [生活形式は、ひとつか、たくさんか ── ウィトゲンシュタイン解釈の2本の軸と、垂直・水平の読み](/topics/materials/wittgenstein-forms-of-life-one-or-many/) — 「AIには生活形式がない」を、垂直（身体と生存）と水平（文化ごとの暮らし方）に分けて読む。接地問題が問うのは主に垂直のほう
+- [LLMに足りない4つの土台 ── 身体性・記号接地・因果性・記憶から見るAGIサーベイ](/topics/materials/llm-agi-four-principles-embodiment-grounding-causality-memory/) — 本記事が「接地は必要か」を論争として扱うのに対し、接地を汎用知能に要る4原理の1つと前提し、LLMへの実装手法（知識グラフ・能動的探索など）を並べる工学側のサーベイ
 
 ## Sources
 

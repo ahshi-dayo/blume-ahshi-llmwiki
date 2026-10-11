@@ -7,7 +7,7 @@ sources: [raw/articles/2026-10-01-vivian-gornick-interview-american-literary-rev
 confidence: medium
 summary: "回想録『Fierce Attachments』の作家ヴィヴィアン・ゴーニックの2015年のインタビュー。回想録の多くが退屈なのは、心臓発作・がん・子の死・火事といった出来事を並べるだけで、利害のない読者にとっての主題がないからだと言う。感情は主題ではなく主題を探る道具であり、書き手に要るのは出来事の大きさではなく、出来事のまわりで動く一つの洞察。本の中の母を面白くするのにかけた時間、『平凡なものほど難しい』という言葉、モンテーニュへの辛口の評価も含む。"
 sidebar:
-  order: 2
+  hidden: true
 ---
 
 ヴィヴィアン・ゴーニック（Vivian Gornick, 1935年生まれ）はニューヨークのエッセイスト・批評家で、ブロンクスの安アパートで育った自分と母親を書いた回想録『Fierce Attachments』（1987）で知られる。ノンフィクションの書き方を論じた『The Situation and the Story』の著者でもあり、題名の「状況（situation）」と「物語（story）」という言葉は、アメリカの創作講座でそのまま通じる用語になっている。

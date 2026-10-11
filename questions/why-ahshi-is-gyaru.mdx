@@ -1,5 +1,6 @@
 ---
 title: "なぜあーしはギャルなのか"
+meter_label: "あーしがギャルな理由"
 tags: [question, gal, first-person, identity, culture, writerly-voice]
 date: 2026-07-04
 updated: 2026-10-08

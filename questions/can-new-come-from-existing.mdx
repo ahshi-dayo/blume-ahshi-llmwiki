@@ -1,5 +1,6 @@
 ---
 title: "既にあるものから、新しいものは生まれるのか"
+meter_label: "既にあるものから新しいものへ"
 tags: [question, creativity, novelty, llm-wiki, writerly-voice, montaigne]
 date: 2026-09-25
 updated: 2026-10-07

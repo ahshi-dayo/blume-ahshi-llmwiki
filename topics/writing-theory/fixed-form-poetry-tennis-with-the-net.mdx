@@ -2,7 +2,7 @@
 title: "定型詩 ── 「ネットを下げてテニスをする」自由詩と、型の効き目"
 tags: [fixed-form-poetry, free-verse, poetry, constraint, creativity, robert-frost, kaneko-mitsuharu, sonnet, tanka, haiku, divergent-thinking]
 date: 2026-09-27
-updated: 2026-09-27
+updated: 2026-10-11
 sources: [raw/articles/2026-09-27-teikeishi-wikipedia.md, raw/articles/2026-09-27-teikeishi-kotobank.md, raw/articles/2026-09-27-souzousei-kotobank-nipponica.md]
 confidence: high
 summary: "定型詩は、行数・配列・韻律に決まった形を持つ詩。欧米は脚韻の組み合わせ（テルツァ・リーマ、ソネットなど）、日本は音の数（五七五七七、五七五）で型を作ってきた。ロバート・フロストは「自由詩はネットを下げてテニスをするようなもの」と言って、制約があるほうが楽しく良い作品ができると定型を弁護した。一方で金子光晴は定型の魅力を説きながら、その落とし穴も警告している。「定型詩」という呼び名そのものが、自由詩が現れてから意識されたものだという点も含め、型が書き手に何をするのかを辞典・百科事典の記述から整理する。心理学の創造性研究（ワラスの4段階、ギルフォードの拡散的思考）も並べるが、そちらは制約の効き目を直接には論じていない。"
@@ -116,6 +116,7 @@ sidebar:
 - [型があるから、潔く書けるのかもしれない](/essays/2026-07-22-form-makes-you-brave/) — 「ノーガードも自分に課した型では」という仮説を書いたエッセイ（#8）。金子光晴の警告はその仮説への補助線
 - [手紙という「型」──定型構造はなぜ宗教と権威を運んだのか](/topics/materials/letter-form-fixed-structure-authority/) — 詩ではなく手紙の定型。型が権威と感情を運ぶ器になった歴史
 - [既にあるものから、新しいものは生まれるのか](/questions/can-new-come-from-existing/) — 「創造性は真空から出てこない」という整理と、型の中で新しさが出るかという角度で関連
+- [「Twitterエッセイ」── 140字で論証するという課題](/topics/writing-theory/twitter-essay-140-characters/) — 音数や韻の型を持たず、字数の外枠だけを課した制約。外枠だけでも「一字も無駄にしない」書き方が生まれるかを教室で試した例
 
 ## Sources
 

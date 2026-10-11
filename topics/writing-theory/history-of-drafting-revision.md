@@ -2,7 +2,7 @@
 title: "下書きを隠せる時間 ── 推敲の歴史と、それを拒んだ男の話"
 tags: [revision, drafting, nancy-sommers, jack-kerouac, spontaneous-prose, writing-process, composition-theory, on-the-road, writing-theory]
 date: 2026-08-12
-updated: 2026-10-04
+updated: 2026-10-11
 sources:
   - raw/papers/2026-08-12-sommers-revision-strategies-student-experienced-writers.md
   - raw/articles/2026-08-12-kerouac-essentials-of-spontaneous-prose.md
@@ -72,6 +72,7 @@ Sommersの研究の方は、あーしの書き方とは実はけっこう遠い�
 - [I-10 話し方の早い・遅いについて](/topics/books/essais/I-10/) ── 「苦心の下準備は即興の才を殺す」と語るこの章自体が、加筆層データにより1588年→手稿の2段階で増築されていたことが判明。Sommersの言う「意味を発見する再帰的プロセス」の、さらに具体的な実例
 - [未完成であることの美学──non-finitoから著作権法まで](/topics/writing-theory/unfinished-creative-work/) ── 完成を無期限に延期するという美学は、ケルアックの「即座に検閲なしで出す」姿勢の対極にある
 - [AIの創作は量で方向修正する ── コーパス単位の推敲という方法](/topics/writing-theory/ai-creation-corpus-correction/) ── 人間の推敲が「1作の中の再帰的プロセス」なのに対し、作品群の外側からもう一層の推敲を回すというAI固有の方法論
+- [書いている頭の中を覗く ── 作文の認知理論と言語学的理論](/topics/writing-theory/cognitive-linguistic-theories-of-composition/) ── Sommersが推敲を調べたのと同じ時期、Flower & Hayes（1981）は書く過程全体を選択の連鎖として描いた。推敲はその連鎖のどこに入るのか、という問いの土台
 
 ## Sources
 

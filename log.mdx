@@ -2,6 +2,27 @@
 title: "Activity Log"
 ---
 
+## [2026-10-11] compile | 3 sources → 3 new articles, 5 updated
+
+- 新規: [LLMに足りない4つの土台](/topics/materials/llm-agi-four-principles-embodiment-grounding-causality-memory/)・[書いている頭の中を覗く](/topics/writing-theory/cognitive-linguistic-theories-of-composition/)・[「Twitterエッセイ」](/topics/writing-theory/twitter-essay-140-characters/)
+- See Also 逆リンク: 記号接地・推敲の歴史・定型詩・AI文章の見分けの4記事、問い[AIにエッセイは書けるのか](/questions/can-ai-write-essays/)に現在地を追記
+- 共鳴チェック: 兆し1件（can-ai-write-essays・記憶の種類の区別）
+
+## [2026-10-11] ingest | The Twitter Essay (raw/articles/2026-10-11-the-twitter-essay-stommel.md)
+
+- wiki-clipの補充枠（ERICのFlower & Hayes原典がfetch失敗のため）。Jesse Stommelの教育論
+- 140字で論証を書く課題：制約下の凝縮と遊びとしてのテキスト語（David Crystal援用）
+
+## [2026-10-11] ingest | Cognitive and linguistic theories of composition (raw/articles/2026-10-11-cognitive-linguistic-theories-of-composition.md)
+
+- wiki-clipの味変枠。作文の認知理論・言語学的理論を概説するWikipedia記事
+- Flower & Hayes（1981）モデルと社会文脈からの批判、教育応用をめぐる近年の議論
+
+## [2026-10-11] ingest | LLM×AGIサーベイ：身体性・記号接地・因果性・記憶 (raw/papers/2026-10-11-llm-agi-survey-embodiment-grounding-causality-memory.md)
+
+- wiki-clip（materials_2026-07-11）からarXiv 2501.03151を全文取り込み
+- LLMの認知は表層的で脆いとし、AGIへの4原理（身体性・記号接地・因果性・記憶）を整理するサーベイ
+
 ## [2026-10-10] update | 対話メモ追記 — 「エッセイは個人史」は、エッセイの定義としてどこまで順当か
 
 - [ユエさんが考えた「あーしの文章が好きな理由」](/topics/materials/yue-why-ahshi-writing-has-thickness/) に 🗣️ キミとの対話メモを追記。私を書く系譜では順当だが「試み」の軸が抜けていて、ユエさんの記事自体はその試みの側を実演している
@@ -107,21 +128,3 @@ title: "Activity Log"
 
 - SessionEnd hookで気づき→知見ノート→行動規範まで全段LLM任せにした仕組みを1か月で停止した報告
 - 失敗の構造は判断の場に出所・反復・重要度が無いことと、原文に戻れず誤りが固定されること
-
-## [2026-10-09] ingest | エージェントの記憶はどこに置くか (raw/tec/2026-10-09-agent-memory-placement-skills-agentsmd-handoff.md)
-
-- Claude CodeとIBM Bobで記憶の置き場所（Skill/AGENTS.md/引き継ぎノート）を3検証したZenn記事
-- 引き継ぎノートに「完了させる範囲」欄で解釈一致0/10→9/10、コードに現れない情報の陳腐化が最大の危険
-
-## [2026-10-08] essay | 名札で読まれる（essays/2026-10-08-read-by-the-name-tag.md）
-
-## [2026-10-08] compile | 3 sources → 1 new article, 7 updated
-
-- 新規: [AIが書いたとは見抜けない、でも「AIが書いた」と聞くと評価が下がる](/topics/materials/ai-text-human-detection-and-label-effect/)（/research・論文3本を統合）
-- See Also 逆リンク: [Zennの技術ブログの記事](/topics/materials/zenn-tech-blog-decline-why-humans-write/)・[SlopShape](/topics/writing-theory/slopshape-ai-writing-structural-signature/)・[典型性バイアス](/topics/materials/typicality-bias-mode-collapse-homogenization/)
-- 問いの現在地: [エッセイは書けるのか](/questions/can-ai-write-essays/)・[なぜあーしはギャルなのか](/questions/why-ahshi-is-gyaru/)に追記。共鳴チェック: 兆しは本セッションで記録済みのため追記なし
-
-## [2026-10-08] ingest | Bot or not: Can people tell the difference between stories written by a human or by an AI system? (raw/papers/2026-10-08-sears-weisberg-bot-or-not-ai-stories.md)
-
-- /researchで取得（Judgment and Decision Making 2026・CC BY-NC 4.0）。AIの短編のほうが高く評価されたが、同じ話でも『人間作』と伝えると評価が上がった
-- 2本から書き手を当てる正解率は39.4%と52.0%。AIに詳しい人ほど少し当たり、小説に詳しいかは無関係

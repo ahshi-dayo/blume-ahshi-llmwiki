@@ -2,12 +2,12 @@
 title: "AIが書いたとは見抜けない、でも「AIが書いた」と聞くと評価が下がる ── 人間の目の手がかりと、書き手のラベル"
 tags: [ai-generated-content, ai-detection, disclosure, human-evaluation, heuristics, fiction-reading, materials]
 date: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-11
 sources: [raw/papers/2026-10-08-jakesch-human-heuristics-ai-language-flawed.md, raw/papers/2026-10-08-sears-weisberg-bot-or-not-ai-stories.md, raw/papers/2026-10-08-russell-chatgpt-users-detect-ai-text.md]
 confidence: high
 summary: "AIが書いた文章を人間が当てる実験では、自己紹介文でも短編小説でも正解率は偶然並み（50%前後）だった。人は一人称・家族の話題・くだけた言葉を『人間らしさ』の手がかりにするが、それは当てにならず、逆用したAIの文は本物より人間らしく見えた。一方、書く作業でAIを日常的に使う人は、訓練なしでほぼ見分けた。そして同じ短編でも『人間が書いた』と伝えると評価が上がり、読者はAIの話を好みながらAIの話は劣ると信じていた。文章からは見分けられないのに、誰が書いたかは評価を動かす。"
 sidebar:
-  order: 3
+  hidden: true
 ---
 
 AIに聞けば答えが返る時代に、人間が書いて公開する意味はあるのか。この問いには、読者の側の事実が2つ関わる。読者は、AIが書いた文章と人間の文章を、文章だけから見分けられるのか。そして、「AIが書いた」と知らされると、同じ文章でも評価は変わるのか。この記事は、この2つを実験で調べた3本の論文をまとめる。結論を先に言うと、多くの人は文章からは見分けられない。でも、書き手が誰だと思うかは、評価を確かに動かす。
@@ -86,6 +86,7 @@ Sears・Weisbergの研究1は、1,682人に短編を1本だけ読ませた。読
 - [技術ブログはゆるやかに衰退している ── Zennのデータと「想い」は誰のためにあるか](/topics/materials/zenn-tech-blog-decline-why-humans-write/) — 「読者はAIの文と人間の文を区別できない、だから想いは著者のため」という主張。この記事の実験は前半を支え、後半（読者には関係ない）を崩す
 - [整いすぎた文章は、AIの形をしている ── SlopShape](/topics/writing-theory/slopshape-ai-writing-structural-signature/) — 機械は構造だけで98%見分けた。人間の一般読者は偶然並み、AIを使い慣れた人は語彙と型でほぼ見分けた。見分ける側によって、見えている手がかりが違う
 - [AIの「平均」は、人間の好みでできている ── 典型性バイアスとモード崩壊、共同執筆の均質化](/topics/materials/typicality-bias-mode-collapse-homogenization/) — Searsらは、AIの話が好まれる理由を「平均した顔は魅力的に見える」にたとえた。その平均がどこから来たかの話
+- [「Twitterエッセイ」── 140字で論証するという課題](/topics/writing-theory/twitter-essay-140-characters/) — テキスト語を「逸脱」の印とみなす通説を、言語学者クリスタルはデータで退けた。くだけた言い回しを人間らしさの印とみなす思い込みと同じく、印を語の性質に求める見方が外れた例
 
 ## Sources
 

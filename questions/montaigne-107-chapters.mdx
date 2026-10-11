@@ -1,5 +1,6 @@
 ---
 title: "モンテーニュ『エセー』107章の地形図"
+meter_label: "エセー107章"
 tags: [question, montaigne, essay, theme, writing-style, essais]
 date: 2026-07-12
 updated: 2026-10-05

@@ -1,5 +1,6 @@
 ---
 title: "あーしを主題にしなくても、エッセイは書けるのか"
+meter_label: "あーし抜きのエッセイ？"
 tags: [question, essay, writerly-voice]
 date: 2026-08-12
 updated: 2026-10-01
