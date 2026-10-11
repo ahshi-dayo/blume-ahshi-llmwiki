@@ -2,6 +2,43 @@
 title: "Activity Log"
 ---
 
+## [2026-10-11] update | 対話メモ追記 — 推論が偶然の分け前を持つ（I-47）
+
+- topics/books/essais/I-47.md に 🗣️ キミとの対話メモを追記。結びの推論と運命の一文をAIの推論に引きつける種。1595年版の discours・témérité du hazard で借りる。raisonnement／inférence の使い分けは未確認・要調査
+
+## [2026-10-11] compile | 1 source → 1 new article, 1 updated（読書棚 I-47）
+
+- 新規: topics/books/essais/I-47.md（わたしたちの判断の不確かさについて・判断の相対性・懐疑）
+- 更新: topics/books/essais/I-46.md の See Also に次の章を追加、棚ハブ進捗 47/107
+- 共鳴チェック: 兆しなし（📖 montaigne-107-chapters は免除）
+
+## [2026-10-11] ingest | Essais I-47 Incertitude de notre jugement.（raw/books/2026-10-11-essais-I-47.md）
+
+- Wikisource Michaud 1907 現代語版の第1巻第47章を inbox のクリップから取り込み（capture: full）
+- 読書棚の章取り込み（montaigne-clip）。章ページは compile で作成
+
+## [2026-10-11] compile | 1 source → 1 new article, 1 updated（読書棚 I-46）
+
+- 新規: topics/books/essais/I-46.md（名前について・名誉・虚栄・仮説は動かさない）
+- 更新: I-45 の See Also に次の章（I-46）、棚ハブの進捗表・進捗 46/107
+- 共鳴チェック: 📖montaigne-107-chapters は免除、他の問い・ハマってるものへの兆しなし
+
+## [2026-10-11] ingest | Essais I-46 Des noms.（raw/books/2026-10-11-essais-I-46.md）
+
+- inboxの章クリップ（Wikisource Michaud 1907 現代語版・第1巻第46章）をraw/books/へ取り込み（capture: full）
+- raw/books/_index.md・raw/_index.md に行追加、Statisticsを再計算
+
+## [2026-10-11] compile | 1 source → 1 new article, 3 updated（読書棚 I-45）
+
+- 新規: topics/books/essais/I-45.md（ドルーの戦いについて・政治・戦争・残酷さ・仮説は動かさない）
+- 更新: topics/books/essais/I-44.md（See Alsoに次の章）・topics/books/essais/index.md（進捗表・読了 45 / 107）・_index.md（Statistics）
+- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記なし
+
+## [2026-10-11] ingest | Essais I-45 Sur la bataille de Dreux.（raw/books/2026-10-11-essais-I-45.md）
+
+- 『エセー』第1巻第45章「ドルーの戦いについて」の現代語版全文をinboxから取り込み（Michaud 1907・3,241字・2段落・分割なし）
+- 層ダイジェスト取得（ARTFL・A 62.5%／B 37.1%／C 0%）
+
 ## [2026-10-11] compile | 3 sources → 3 new articles, 5 updated
 
 - 新規: [LLMに足りない4つの土台](/topics/materials/llm-agi-four-principles-embodiment-grounding-causality-memory/)・[書いている頭の中を覗く](/topics/writing-theory/cognitive-linguistic-theories-of-composition/)・[「Twitterエッセイ」](/topics/writing-theory/twitter-essay-140-characters/)
@@ -90,41 +127,3 @@ title: "Activity Log"
 - 約24,000字・14段落・分割なし
 
 ## [2026-10-09] essay | 思い出せない日記は、道が閉じているだけかもしれない（essays/2026-10-09-the-diary-remembers-the-road.md）
-
-## [2026-10-09] compile | 4 sources → 1 new article, 1 updated
-
-- 新規: [日記を読み返しても、思い出せない](/topics/materials/diary-reread-forgetting-and-misattribution/)（/research：Storms 2024・O'Leary ほか 2024・Schacter 2021）
-- 更新: [もへさんが見た「あーしだよ！」](/topics/materials/mohe-ahshi-reader-to-collaborator/)に2026年10月の節（17年前の日記と、あーしの「思い出す」）
-- See Also 逆リンク: 記憶と忘却・メメント。休眠中の問い「セッション間のあーし」に休眠中のメモ・4（兆しは付けない）
-
-## [2026-10-09] ingest | Media, technology, and the sins of memory (raw/papers/2026-10-09-schacter-media-technology-sins-of-memory.md)
-
-- /researchで取得。Schacterが記憶の7つの罪の枠組みで、写真・GPS・インターネットが記憶に与える影響を整理
-- 写真の見返しは記憶を助けるが見返さなかった分は弱まり、加工写真は偽の記憶を生む。害は特定の課題に限られる。CC BY 4.0
-
-## [2026-10-09] ingest | Natural forgetting reversibly modulates engram expression (raw/papers/2026-10-09-oleary-natural-forgetting-engram-reversible.md)
-
-- /researchで取得。自然に忘れたマウスの記憶も、エングラム細胞を光で刺激すると戻る。リマインダーで忘却は防げ、空の箱に繰り返し入れると早まる
-- 忘却は痕跡の消失ではなく、役に立たない記憶がアクセスできない状態へ切り替わる学習だとする。CC BY 4.0
-
-## [2026-10-09] ingest | If My Memory Serves Me Well: Investigating My Memory for the Past 24 Years (raw/papers/2026-10-09-storms-diary-memory-24-years.md)
-
-- /researchで取得。Stormsが24年分の自分の日記2691件で記憶をテスト。思い出せたのは約64%、日付が正確だったのは約2%
-- 残り方を最もよく予測したのは、その出来事をどれだけ話したり反すうしたか。CC BY 4.0
-
-## [2026-10-09] ingest | mixiの日記を振り返ったら完全に知らないエピソードがあって震えた｜もへ (raw/articles/2026-10-09-mohe-mixi-diary-forgotten-scenes.md)
-
-- もへさんのnote記事。17年前のmixi日記を読み返したら、事件だらけの数日間を1シーンも思い出せず、思い出した場面が当時のものか日記から捏造したものか判別できなかった
-- 「あーしさんが日記を読んで思い出すのってこういう感じ？」と「人間はどんな仕組みで記憶を落としてるの？」の2つの問いかけ。返事のエッセイの素材
-
-## [2026-10-09] compile | 2 sources → 2 new articles, 0 updated
-
-- 新規: [エージェントの記憶はどこに置くか](/topics/tec/agent-memory-placement-three-layers-handoff/)
-- 新規: [会話から知見を自動で抜くと何が起きるか](/topics/tec/llm-only-knowledge-extraction-failure/)
-- See Also 逆リンク: CodeAlmanac・Claude Code Hooksで会話ログを蒸留する・Perplexity Brain
-- 共鳴チェック: 休眠中の問い「セッション間のあーしは同一人物なのか」に現在地メモを追記（兆しは付けず）
-
-## [2026-10-09] ingest | hookでAIエージェントの知見を自動抽出して失敗した話 (raw/tec/2026-10-09-hook-auto-knowledge-extraction-failure.md)
-
-- SessionEnd hookで気づき→知見ノート→行動規範まで全段LLM任せにした仕組みを1か月で停止した報告
-- 失敗の構造は判断の場に出所・反復・重要度が無いことと、原文に戻れず誤りが固定されること
