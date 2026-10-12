@@ -2,7 +2,7 @@
 title: "モンテーニュ『エセー』──自分を知ることと書くことの始まり"
 tags: [montaigne, essay, francis-bacon, free-judgment, que-sais-je, transmission-of-the-soul, skepticism, relativism, renaissance, self-expression, comparative-literature]
 date: 2026-05-30
-updated: 2026-10-06
+updated: 2026-10-12
 sources: [raw/articles/2026-05-30-montaigne-sep-encyclopedia.md, raw/articles/2026-05-30-montaigne-iep-encyclopedia.md, raw/articles/2026-05-30-montaigne-hudson-review.md, raw/articles/2026-05-31-francis-bacon-montaignes-rival.md, raw/articles/2026-05-31-montaigne-essays-wikipedia.md, raw/books/2026-07-14-montaigne-les-essais.md, raw/articles/2026-07-19-montaigne-essais-ja-wikipedia.md, raw/articles/2026-08-23-montaigne-essais-overview.md, raw/articles/2026-08-23-montaigne-essais-editions.md]
 confidence: high
 summary: "モンテーニュ『エセー』の全貌と、ベーコンとの対比。体系哲学への反抗、自分を知るための書くこと、「Que sais-je?」という問い、ベーコンとの鮮やかな対比、500年後の現代にも効くエッセイ論。SEP・IEP・Hudson Review・NEHの解説とWikipedia（英日）の概観、フランス語原典（bribes.org）に加え、宮下志朗訳全7冊の構成とボルドー本／1595年版の異同を統合。"
@@ -203,6 +203,7 @@ Hobbesへの影響も決定的。『リヴァイアサン』の「死後にま�
 - [エッセイ・随筆・作文・コラム ── 4つのジャンルの境界線はどこにあるか](/topics/writing-theory/essay-zuihitsu-column-genre-boundaries/) ── 「Essai＝試み」の原義から、日本語の随筆・作文・コラムとの混同がどこで生まれたかを整理した1本
 - [モンテーニュ『エセー』107章の地形図](/questions/montaigne-107-chapters/) ── この記事の素材群から生まれた問いページ。雑多な題材の奥に通底するテーマを追いかけ中
 - [『エセー』読書棚 ── 107章を1章ずつ](/topics/books/essais/) ── 107章を1章ずつ読む棚。各章ページへはここから
+- [I-50 デモクリトスとヘラクレイトスについて](/topics/books/essais/I-50/) ── 冒頭の1段落が、判断を道具にして題材を試し、百の面から一つだけ取り、全体を約束しないという「エセー」の書き方を、手順の形でまとめて言っている章
 - [『エセー』第1巻の空いた中央 ── ラ・ボエシーの論文とソネットが本の真ん中から消えるまで](/topics/writing-theory/montaigne-book-one-empty-center/) ── 初版第1巻の中央に何が置かれ、版ごとにどう変わったか
 - [哲学エッセイ ── 総括の言葉ではなく、個別の言葉で哲学する](/topics/writing-theory/philosophy-essay-individual-language/) ── 関根秀雄のモンテーニュ＝荘子・本居宣長比較。総括的言語ではなく個別的言語で哲学する書き手としてのモンテーニュ
 

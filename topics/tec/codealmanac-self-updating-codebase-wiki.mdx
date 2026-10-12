@@ -2,7 +2,7 @@
 title: "CodeAlmanac ── コードだけでは残らない知識を、AIエージェント自身が保守するWikiツール"
 tags: [codealmanac, ai-coding-agent, wiki-tool, dream-agent, git-worktree, launchd]
 date: 2026-08-27
-updated: 2026-08-27
+updated: 2026-10-12
 sources: [raw/tec/2026-08-27-codealmanac-trial-report-zenn.md, raw/tec/2026-08-27-codealmanac-github-readme.md]
 confidence: medium
 summary: "AIコーディングエージェント（Codex／Claude Code）向けの自己更新Wikiツール『CodeAlmanac』の設計と実機トライアル。build/ingest/gardenの3エージェントがGit worktreeでコミット済み差分から`almanac/`配下のWikiを更新し、Sync（5時間毎）/Garden（24時間毎）の自動化をlaunchdジョブで回す。macOS＋Codex/Claude限定、`almanac/`境界はOSサンドボックスでなく指示・コミットポリシーである点が実務上の要注意点。"
@@ -52,6 +52,7 @@ git worktreeで別ブランチに切り替えて実装を修正した後、`code
 
 - [エージェントの記憶はどこに置くか ── Skills・AGENTS.md・引き継ぎノートの3層と、1回の引き継ぎで消える「誰が決めたか」](/topics/tec/agent-memory-placement-three-layers-handoff/) — 「コードに現れない情報ほど古くなっても気づけない」を2つのツールで実測した検証。CodeAlmanacが切り出して手入れする知識が、なぜ放っておくと危ないかの根拠
 - [AIエージェントの記憶をWikiにする ── Perplexity Brainの設計と、実装して分かった落とし穴](/topics/tec/perplexity-brain-agentic-memory-wiki/) — 同じ「エージェント自身が編集するWiki」という原理を汎用的な記憶ドメインで扱った記事。Git worktreeによる並行更新の論点が重なる
+- [WikiSkill ── エージェントの経験をwikiに貯めてからスキルを直す、そしてwikiだけは巻き戻さない](/topics/tec/wikiskill-agent-skill-evolution-persistent-wiki/) — 同じく保守係のエージェントがwikiを書く設計の研究版。CodeAlmanacはwikiを人とエージェントが読むために書き、WikiSkillはスキルを直す係が読むためだけに書く
 - [LLM Wiki パターン リファレンス](/references/llm-wiki/) — CodeAlmanacが実装しているRaw/Wiki/Schemaの3層構造・ingest/query/lintという基本操作の起点
 
 ## Sources

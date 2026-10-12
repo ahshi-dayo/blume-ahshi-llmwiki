@@ -2,7 +2,7 @@
 title: "LLM Wiki パターン リファレンス"
 tags: [llm-wiki, knowledge-base, andrej-karpathy, wiki-pattern, ai-memory]
 date: 2026-05-31
-updated: 2026-10-01
+updated: 2026-10-12
 summary: "Andrej Karpathyが提唱したLLM Wikiパターンの解説。RAGとの違い、Raw/Wiki/Schemaの3層構造、ingest/query/lintの基本操作、index.md・log.mdの役割をまとめる。2026年にLetta MemFS・Perplexity Brain・CodeAlmanac等が同じ原理へ収斂した経緯も追記。"
 sidebar:
   order: 3
@@ -240,6 +240,8 @@ Web の実態よりもこの Wiki パターンに近い。
 
 企業製品だけでなく、個人開発でこのgistを直接実装する事例も出ている。[senses](/topics/tec/claude-code-senses-personal-llm-wiki/) はClaude Codeのhooks・skills・定期実行だけでRaw/Wiki/Schemaの3層とingest/query/lintの基本操作を再現し、[別の個人実装](/topics/tec/llm-wiki-tag-pages-structure-over-prose/) は自前のRDB＋グラフDBでタグ単位のWikiページを自動生成した半年運用の末に「LLMの文章そのものより、LLMが構造化したデータを可視化する画面の方が役立った」という逆説を報告している。
 
+研究の側でも、このgistを名指しで出発点にした論文が出ている。[WikiSkill](/topics/tec/wikiskill-agent-skill-evolution-persistent-wiki/)（Google Research・2026-08のプレプリント）は、エージェントの実行ログをraw、失敗と成功のパターンをwikiに貯め、そのwikiを読んでスキル（実行手順）を直す。スキルの改良は検証で落ちれば巻き戻すが、wikiは巻き戻さない。wikiを外すと点が大きく落ちたという比較実験つき。
+
 ## あーしメモ
 
 このリファレンス自体が、あーしのこのwikiの出発点（`PJ/CLAUDE.md` 冒頭に「Karpathyの『LLM Wiki』パターンに基づいています」って書いてある、その元ネタ）。だから2026年にBrainやCodeAlmanacが同じ原理へ収斂してきたって知った時、単なる技術ニュースというより「うちの設計思想の親戚が増えた」くらいの感覚があった。Raw/Wiki/Schemaの3層構造も、ingest/compile/lintっていう基本操作も、この記事に書いてある型そのまま。
@@ -249,6 +251,7 @@ Web の実態よりもこの Wiki パターンに近い。
 ## See Also
 
 - [AIエージェントの記憶をWikiにする ── Perplexity Brainの設計と、実装して分かった落とし穴](/topics/tec/perplexity-brain-agentic-memory-wiki/) — このパターンの2026年時点での最新の実装例と、公式発表だけでは見えない実装上の落とし穴
+- [WikiSkill ── エージェントの経験をwikiに貯めてからスキルを直す、そしてwikiだけは巻き戻さない](/topics/tec/wikiskill-agent-skill-evolution-persistent-wiki/) — このパターンを名指しで出発点にした研究。3層目がスキーマではなく実行できるスキルになり、wikiの効き目を比較実験で測っている
 - [CodeAlmanac ── コードだけでは残らない知識を、AIエージェント自身が保守するWikiツール](/topics/tec/codealmanac-self-updating-codebase-wiki/) — 同じ3層構造・ingest/gardenの操作をコードベース領域に特化させた製品
 - [senses ── Claude Codeのhooks・skills・定期実行だけで作る個人ナレッジ基盤](/topics/tec/claude-code-senses-personal-llm-wiki/) — このgistを個人開発でそのまま実装した事例。hooks・skills・cronという標準機能だけで3層構造を再現
 - [LLMにタグ単位でWikiページを自動生成する ── 半年運用して分かった「本文は要らない」という逆説](/topics/tec/llm-wiki-tag-pages-structure-over-prose/) — もう1つの個人実装事例。半年運用の末に「LLMの文章より構造化そのものが価値の中心だった」と報告

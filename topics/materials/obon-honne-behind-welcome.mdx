@@ -2,7 +2,7 @@
 title: "歓迎の言葉の裏で ── お盆をめぐる本音と、作られた伝統"
 tags: [obon, obon-dama, honne-tatemae, abandoned-graves, commercialization, data]
 date: 2026-08-14
-updated: 2026-08-14
+updated: 2026-10-12
 sources: [raw/articles/2026-08-14-obon-dama-commercial-tradition-controversy.md, raw/articles/2026-08-14-hosting-family-obon-burden-survey.md, raw/articles/2026-08-14-grandparents-true-feelings-obon-visits.md, raw/articles/2026-08-14-aera-obon-homecoming-honne-survey.md, raw/articles/2026-08-14-abandoned-graves-municipal-financial-crisis.md]
 confidence: high
 summary: "「孫に会えてうれしい」という定番の物語の裏で、迎える側の約4割は歓迎一辺倒ではない。2010年に企業が作った「お盆玉」という新しい伝統、そして先祖を迎える場所そのものである墓の半数近くが無縁化している現実まで、お盆の建前を支える基盤は静かに揺らいでいる。"
@@ -50,6 +50,7 @@ AERA DIGITALの274人調査でも同様の傾向が見える。迎える側で�
 
 - [光る仏様とICカード ── お盆を支えるデジタル供養の現在地](/topics/materials/digital-obon-technology-columbarium/) — 墓の後継者不足という同じ構造問題を、テクノロジーによる対応から扱う
 - [お盆はむしろ、弔いを簡素にする季節だった ── データで見る変化](/topics/materials/obon-data-driven-changes/) — 帰省・墓じまいのデータをより広い現代の変化の文脈で扱う
+- [創られた伝統 ── ホブズボームの概念、フェイクロアの逆流、ケンタッキーのクリスマス](/topics/materials/invented-tradition-hobsbawm-kfc-christmas/) — お盆玉を「作られた伝統」の一例として、根づいた例（ケンタッキーのクリスマス）と並べて、定着を分けるものを考える
 
 ## Sources
 

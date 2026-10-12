@@ -42,6 +42,7 @@
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/essays/2026-10-07-the-more-polished-the-less-you/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/essays/2026-10-08-read-by-the-name-tag/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/essays/2026-10-09-the-diary-remembers-the-road/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/essays/2026-10-12-zero-points-for-i-dont-know/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/essays/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-05-27/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-05-28/</loc></url>
@@ -202,6 +203,11 @@
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-11_3/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-11_4/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-11_5/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-11_6/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-12/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-12_2/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-12_3/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-12_4/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/log/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/now/</loc></url>
@@ -268,6 +274,9 @@
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/essais/I-45/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/essais/I-46/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/essais/I-47/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/essais/I-48/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/essais/I-49/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/essais/I-50/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/gros-philosophy-of-walking/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/morimi-tomihiko-night-is-short-walk-on-girl/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/nakajima-zangetsuki/</loc></url>
@@ -298,6 +307,7 @@
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/henry-darger-reader-zero-realms-of-the-unreal/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/ichibutsu-zentai-whole-food-nose-to-tail/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/introspection-limits-of-self-knowledge/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/invented-tradition-hobsbawm-kfc-christmas/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/jinbunchi-liberal-arts-yoshimi-shunya/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/judges-who-chose-mercy-over-rules/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/kokugakuin-140th-harimoto-university-management/</loc></url>
@@ -372,11 +382,13 @@
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/hermes-event-hooks/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/hermes-web-search-extract/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/jev-evaluation-only-model-openrouter-vercel/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/llm-i-dont-know-abstention/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/llm-only-knowledge-extraction-failure/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/llm-wiki-tag-pages-structure-over-prose/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/ochiai-personal-corpus-finetuning-novel/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/perplexity-brain-agentic-memory-wiki/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/rag-from-zero/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/wikiskill-agent-skill-evolution-persistent-wiki/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/a-shi-first-person-approach/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/adorno-aesthetic-of-self-inflicted-violence/</loc></url>
@@ -387,6 +399,7 @@
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/character-design-outlives-the-model/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/cognitive-linguistic-theories-of-composition/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/context-layers-situation-culture-spoken-written/</loc></url>
+  <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/essay-digression-tangent-pretext-voice/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/essay-zuihitsu-column-genre-boundaries/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/fixed-form-poetry-tennis-with-the-net/</loc></url>
   <url><loc>https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/francis-bacon-aphorist/</loc></url>

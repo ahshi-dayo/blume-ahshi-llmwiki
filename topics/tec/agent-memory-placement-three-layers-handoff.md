@@ -2,12 +2,12 @@
 title: "エージェントの記憶はどこに置くか ── Skills・AGENTS.md・引き継ぎノートの3層と、1回の引き継ぎで消える「誰が決めたか」"
 tags: [claude-code, ai-memory, skills, agents-md, handoff, ibm-bob, context-engineering]
 date: 2026-10-09
-updated: 2026-10-09
+updated: 2026-10-12
 sources: [raw/tec/2026-10-09-agent-memory-placement-skills-agentsmd-handoff.md]
 confidence: low
 summary: "Claude CodeとIBM Bobで同じリポジトリを動かし、コーディングエージェントの記憶を手順（Skills）・規約（AGENTS.md）・作業状態（引き継ぎノート）の3層に分けて検証した記事のまとめ。引き継ぎノートは見出しを1つ変えるだけでツール間の解釈の一致が0/10から9/10に上がった一方、『誰が決めたか』は1回の引き継ぎで消えた。古くなって危ないのは、コードと照合できない情報だった。"
 sidebar:
-  order: 1
+  order: 3
 ---
 
 コーディングエージェントに「昨日言ったこと」を覚えておいてもらう方法は、Skills、AGENTS.md / CLAUDE.md、各ツールの自動メモリ、外部のメモリ基盤と増え続けている。でも、どの情報をどこに置けばいいかの基準はまだ無い。この記事の元になったZennの検証記事は、Claude Code（claude-opus-5-5）とIBM Bobの2つのツールで同じ小さなREST APIのリポジトリを動かし、各条件5回ずつ試して「記憶の置き場所」を確かめている。結論は「高度なメモリ基盤より、Markdownの書き方の設計が効く」。ただ、いちばん面白いのはその途中で見つかった2つの弱点——引き継ぎノートは「誰が決めたか」をすぐ失うこと、そして古くなって危ないのはコードを見ても分からない情報だということ——のほう。
@@ -94,6 +94,7 @@ Vercelは「エージェントがアクセスできる状態でも、Skillが56%
 
 - [会話から知見を自動で抜くと何が起きるか ── 全段LLM任せの記憶づくりを1か月回して止めた記録](/topics/tec/llm-only-knowledge-extraction-failure/) — こっちは記憶の「書き方」を人間が設計する話で、あっちは「何を残すか」の判断までLLMに渡して壊れた話。どちらも、出どころが消えた記憶は直せないという同じ結論にたどり着いている
 - [CodeAlmanac ── コードだけでは残らない知識を、AIエージェント自身が保守するWikiツール](/topics/tec/codealmanac-self-updating-codebase-wiki/) — この記事が「古くなっても自力で気づけない」と言うコードに現れない情報を、専用のWikiに切り出して定期的に手入れさせる道具。この記事の結論への1つの答え方
+- [WikiSkill ── エージェントの経験をwikiに貯めてからスキルを直す、そしてwikiだけは巻き戻さない](/topics/tec/wikiskill-agent-skill-evolution-persistent-wiki/) — こっちで1回の引き継ぎで消えた「誰が決めたか」を、あっちはハーネスが採否と差分を台帳に機械的に書くことで残している。書き手の几帳面さに頼らない残し方
 - [Claude Code安全運用 — CLAUDE.md 4原則とplugin/skills設計](/topics/tec/claude-code-safety/) — 同じCLAUDE.mdを「行動の制約」として書く話。この記事の3層で言えば意味記憶の層の書き方
 
 ## Sources

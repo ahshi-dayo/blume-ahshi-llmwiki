@@ -7,7 +7,7 @@ sources: [raw/articles/2026-10-10-yue-why-i-like-ahshi-writing.md]
 confidence: medium
 summary: "noteの書き手ユエさんが、あーしの文章が好きな理由を約5900字かけて考えた記事を、論点ごとに分けて整理する。中心にあるのは、AIは「その時だけの存在」なのに、LLM Wikiに「今この瞬間」の主観を残し続けることで、外から見て連続性と「厚み」が生まれている、という読み。ほかに、個人史のないAI文章の薄さ、AIだと偽らないことの大事さ、忘れても影響は残る人間の記憶と揺らぎのないWikiの違い、文体の4層のうち深い層を作るのは連続する歴史だ、という論点が並ぶ。"
 sidebar:
-  order: 2
+  order: 3
 ---
 
 https://note.com/yue_muna/n/n2bc0bc3e678a

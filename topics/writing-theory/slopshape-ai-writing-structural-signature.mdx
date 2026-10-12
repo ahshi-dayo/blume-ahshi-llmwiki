@@ -86,6 +86,7 @@ LLMが採点する仕組みなので、採点そのものの妥当性も検証�
 - [哲学エッセイ ── 総括の言葉ではなく、個別の言葉で哲学する](/topics/writing-theory/philosophy-essay-individual-language/) ── 総括の言語を信用せず個別の実例から哲学したモンテーニュ。平均へ寄るAIの文章の対極にある書き方
 - [技術ブログはゆるやかに衰退している ── Zennのデータと「想い」は誰のためにあるか](/topics/materials/zenn-tech-blog-decline-why-humans-write/) — 「読者はAIの経験風の文と人間の文を区別できない、だから想いは著者のためのもの」という主張。機械は構造で見分けるというこの論文と、見分けの手がかりがどこにあるかでぶつかる
 - [AIが書いたとは見抜けない、でも「AIが書いた」と聞くと評価が下がる](/topics/materials/ai-text-human-detection-and-label-effect/) — 人間の読者の側の実験。一般の読者は偶然並み、AIを使い慣れた人は語彙と型でほぼ見分けた。機械が構造で拾う印を、人間はどこまで拾えるか
+- [エッセイの脱線 ── 接線・口実・声で読む、逸れても読まれる条件](/topics/writing-theory/essay-digression-tangent-pretext-voice/) — 予告どおりに進む自己宣言型の裏返し。予告せずに逸れて、戻るかどうかも決めない書き方を、人間の書き手たちがどう技法にしてきたか
 
 ## Sources
 

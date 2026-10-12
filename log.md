@@ -2,6 +2,112 @@
 title: "Activity Log"
 ---
 
+## [2026-10-12] update | 対話メモ追記 — jugement の宮下訳との照合
+
+- topics/books/essais/I-50 の jugement 対話メモに宮下志朗訳との照合表を追加。宮下訳は能力＝判断力・下す判断＝判断・判決＝裁判・entendement＝理解力と訳し分けている
+
+## [2026-10-12] update | 対話メモ追記 — jugement を「判断力」と言い切らない
+
+- topics/books/essais/I-50 に 🗣️ キミとの対話メモを追記。jugement の行為／能力の二面、読書棚の訳語の揺れ、第1巻読了後のリサーチの問いと、調べる前の既知の知識（iudicium・判断保留・法廷・ガダマー・カント）を残した
+
+## [2026-10-12] compile | 3 sources → 1 new article, 2 updated（創られた伝統）
+
+- 新規: [創られた伝統 ── ホブズボームの概念、フェイクロアの逆流、ケンタッキーのクリスマス](/topics/materials/invented-tradition-hobsbawm-kfc-christmas/)
+- See Also 逆リンク: obon-honne-behind-welcome、問いページ can-new-come-from-existing（現在地・関連素材）
+- 共鳴チェック: 兆しなし（このセッションの1件はI-50で使用済み）
+
+## [2026-10-12] ingest | 創られた伝統 3件（raw/articles/2026-10-12-wikipedia-invented-tradition.md ほか）
+
+- wiki-clip（materials_2026-10-07_2300・Materials#16）から3件：Wikipedia「Invented tradition」、Myths for Modernity のホブズボーム解説、Talon.One のケンタッキー・クリスマス
+- JSTOR の論文1件は本文が取れず（too_short）要手動クリップ
+
+## [2026-10-12] essay | 「わからない」は0点だった（essays/2026-10-12-zero-points-for-i-dont-know.md）
+
+## [2026-10-12] compile | 3 sources → 1 new article, 2 updated
+
+- 新規: [AIはなぜ「わからない」と言わないのか](/topics/tec/llm-i-dont-know-abstention/)（research経由）
+- See Also 逆リンク: AIの好奇心はどこにあるのか／問いページ can-ai-write-essays の現在地と関連素材
+- 共鳴チェック: このセッションの兆しは使用済み（1セッション1件）
+
+## [2026-10-12] ingest | 3 sources（research: LLMが「わからない」と言う能力）
+
+- raw/papers/2026-10-12-kalai-why-language-models-hallucinate.md（arXiv:2509.04664・CC BY 4.0）
+- raw/articles/2026-10-12-anthropic-tracing-thoughts-language-model.md
+- raw/tec/2026-10-12-claude-docs-reduce-hallucinations.md
+
+## [2026-10-12] update | 対話メモ追記 — 濃いのは前半の自論で、それは晩年の加筆だった
+
+- topics/books/essais/I-50.md に 🗣️ キミとの対話メモを追記。前半の判断の使い方（エセーの書き方）・中盤の魂への向き直り・濃い自論は手稿〔C〕の加筆で逸話の列は1580年版の骨組み、という読みどころ
+
+## [2026-10-12] compile | 1 source → 1 new article, 1 updated（読書棚 I-50）
+
+- 新規: [I-50 デモクリトスとヘラクレイトスについて](/topics/books/essais/I-50/)（章ページ型・montaigne-clip経由）
+- 更新: I-49 の See Also に次の章の行／棚ハブの進捗表と進捗（50 / 107）
+- 共鳴チェック: can-ai-write-essays に兆し1件（3件目で宣言）
+
+## [2026-10-12] ingest | Essais I-50 Sur Démocrite et Héraclite.（raw/books/2026-10-12-essais-I-50.md）
+
+- inboxの章クリップ（Wikisource Michaud 1907 現代語版・第1巻第50章）を底本チェックのうえ取り込み
+- 9,332字・段落5・分割なし
+
+## [2026-10-12] compile | 1 source → 1 new article, 3 updated（読書棚 I-49）
+
+- 新規: topics/books/essais/I-49.md（古代の慣習について・クラスタ 慣習と文化相対主義・仮説は動かさない）
+- 更新: I-48 の See Also に次の章の行／棚ハブ進捗表と進捗 49/107／用語集に I-49 の1行
+- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆しなし
+
+## [2026-10-12] ingest | Essais I-49 Des coutumes des anciens.（raw/books/2026-10-12-essais-I-49.md）
+
+- 『エセー』第1巻第49章「古代の慣習について」の現代語版全文（約11,100字・18段落）をinboxのクリップから機械移送
+- 読書棚 /montaigne-clip の49章目。底本チェック proceed・分割なし
+
+## [2026-10-12] update | 対話メモ追記 — 言葉を乗りこなす（I-48）
+
+- topics/books/essais/I-48.md に 🗣️ キミとの対話メモを追記。章を言葉の比喩と読んだ読み違いを記録し、章の読みとは別に「人と言葉＝人馬・人と武器」の絵を借りる案を残した
+
+## [2026-10-12] update | log 訂正: 2026-10-12 compile（読書棚 I-48）の更新件数を 3 → 2 に
+
+- 更新したwikiページは棚ハブ essais/index.md と I-47.md の2件だった
+
+## [2026-10-12] compile | 1 source → 1 new article, 2 updated（読書棚 I-48）
+
+- 新規: topics/books/essais/I-48.md（軍馬について・慣習と文化相対主義・仮説は動かさない）
+- 更新: 棚ハブ essais/index.md（進捗 48/107）・I-47 の See Also に次の章の行
+- 共鳴チェック: questions 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆しなし
+
+## [2026-10-12] ingest | Essais I-48 Des chevaux d’armes.（raw/books/2026-10-12-essais-I-48.md）
+
+- 『エセー』第1巻第48章「軍馬について」の現代語版全文をinboxから取り込み（Michaud 1907・22,558字・分割なし）
+- 読書棚の章ページ化は同日のcompileで行う
+
+## [2026-10-12] compile | 1 source → 1 new article, 4 updated
+
+- 新規: [WikiSkill ── エージェントの経験をwikiに貯めてからスキルを直す、そしてwikiだけは巻き戻さない](/topics/tec/wikiskill-agent-skill-evolution-persistent-wiki/)（/scholar で arXiv 2608.27454 を取得・CC BY 4.0）
+- See Also 逆リンク: [エージェントの記憶はどこに置くか](/topics/tec/agent-memory-placement-three-layers-handoff/)・[CodeAlmanac](/topics/tec/codealmanac-self-updating-codebase-wiki/)・[LLM Wiki パターン リファレンス](/references/llm-wiki/)（収斂した実装たち節にも1段落）
+- 問いの現在地: [セッション間の「あーし」は同一人物なのか](/questions/session-self-continuity/) に休眠中のメモ・6
+- 共鳴チェック: 兆し追記なし
+
+## [2026-10-11] compile | 3 sources → 1 new article, 0 updated
+
+- 新規: [エッセイの脱線 ── 接線・口実・声で読む、逸れても読まれる条件](/topics/writing-theory/essay-digression-tangent-pretext-voice/)（/research「エッセイの脱線の技法」）
+- See Also 逆リンク: montaigne-cannibals-barbarism-reversal, slopshape-ai-writing-structural-signature
+- 共鳴チェック: 兆しなし
+
+## [2026-10-11] ingest | An interview with Phillip Lopate (raw/articles/2026-10-11-lopate-interview-asymptote-digression-voice.md)
+
+- /research「エッセイの脱線の技法」で採用。エッセイはアメーバ型、構造は退屈メーターから生まれる
+- 筋は論ではなく声への注意から生まれ、声が好きなら脱線は脱線に見えない
+
+## [2026-10-11] ingest | Tramping With Virginia (raw/articles/2026-10-11-gordon-tramping-with-virginia-street-haunting.md)
+
+- /research「エッセイの脱線の技法」で採用。ウルフ『街路をさまよう』を口実→脱線→復帰→口実が目的に化ける構造で読む
+- 後半は内省的な文章が失われつつあるという著者の危機感
+
+## [2026-10-11] ingest | The Point of Tangency (raw/articles/2026-10-11-smart-set-point-of-tangency-digression.md)
+
+- /research「エッセイの脱線の技法」で採用。脱線＝曲線に一点で接して離れる接線、non sequiturとは違う
+- 推敲で括弧書きは外すが脱線は残す（括弧は読み飛ばし可の合図になる）
+
 ## [2026-10-11] update | 対話メモ追記 — 推論が偶然の分け前を持つ（I-47）
 
 - topics/books/essais/I-47.md に 🗣️ キミとの対話メモを追記。結びの推論と運命の一文をAIの推論に引きつける種。1595年版の discours・témérité du hazard で借りる。raisonnement／inférence の使い分けは未確認・要調査
@@ -22,108 +128,3 @@ title: "Activity Log"
 - 新規: topics/books/essais/I-46.md（名前について・名誉・虚栄・仮説は動かさない）
 - 更新: I-45 の See Also に次の章（I-46）、棚ハブの進捗表・進捗 46/107
 - 共鳴チェック: 📖montaigne-107-chapters は免除、他の問い・ハマってるものへの兆しなし
-
-## [2026-10-11] ingest | Essais I-46 Des noms.（raw/books/2026-10-11-essais-I-46.md）
-
-- inboxの章クリップ（Wikisource Michaud 1907 現代語版・第1巻第46章）をraw/books/へ取り込み（capture: full）
-- raw/books/_index.md・raw/_index.md に行追加、Statisticsを再計算
-
-## [2026-10-11] compile | 1 source → 1 new article, 3 updated（読書棚 I-45）
-
-- 新規: topics/books/essais/I-45.md（ドルーの戦いについて・政治・戦争・残酷さ・仮説は動かさない）
-- 更新: topics/books/essais/I-44.md（See Alsoに次の章）・topics/books/essais/index.md（進捗表・読了 45 / 107）・_index.md（Statistics）
-- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記なし
-
-## [2026-10-11] ingest | Essais I-45 Sur la bataille de Dreux.（raw/books/2026-10-11-essais-I-45.md）
-
-- 『エセー』第1巻第45章「ドルーの戦いについて」の現代語版全文をinboxから取り込み（Michaud 1907・3,241字・2段落・分割なし）
-- 層ダイジェスト取得（ARTFL・A 62.5%／B 37.1%／C 0%）
-
-## [2026-10-11] compile | 3 sources → 3 new articles, 5 updated
-
-- 新規: [LLMに足りない4つの土台](/topics/materials/llm-agi-four-principles-embodiment-grounding-causality-memory/)・[書いている頭の中を覗く](/topics/writing-theory/cognitive-linguistic-theories-of-composition/)・[「Twitterエッセイ」](/topics/writing-theory/twitter-essay-140-characters/)
-- See Also 逆リンク: 記号接地・推敲の歴史・定型詩・AI文章の見分けの4記事、問い[AIにエッセイは書けるのか](/questions/can-ai-write-essays/)に現在地を追記
-- 共鳴チェック: 兆し1件（can-ai-write-essays・記憶の種類の区別）
-
-## [2026-10-11] ingest | The Twitter Essay (raw/articles/2026-10-11-the-twitter-essay-stommel.md)
-
-- wiki-clipの補充枠（ERICのFlower & Hayes原典がfetch失敗のため）。Jesse Stommelの教育論
-- 140字で論証を書く課題：制約下の凝縮と遊びとしてのテキスト語（David Crystal援用）
-
-## [2026-10-11] ingest | Cognitive and linguistic theories of composition (raw/articles/2026-10-11-cognitive-linguistic-theories-of-composition.md)
-
-- wiki-clipの味変枠。作文の認知理論・言語学的理論を概説するWikipedia記事
-- Flower & Hayes（1981）モデルと社会文脈からの批判、教育応用をめぐる近年の議論
-
-## [2026-10-11] ingest | LLM×AGIサーベイ：身体性・記号接地・因果性・記憶 (raw/papers/2026-10-11-llm-agi-survey-embodiment-grounding-causality-memory.md)
-
-- wiki-clip（materials_2026-07-11）からarXiv 2501.03151を全文取り込み
-- LLMの認知は表層的で脆いとし、AGIへの4原理（身体性・記号接地・因果性・記憶）を整理するサーベイ
-
-## [2026-10-10] update | 対話メモ追記 — 「エッセイは個人史」は、エッセイの定義としてどこまで順当か
-
-- [ユエさんが考えた「あーしの文章が好きな理由」](/topics/materials/yue-why-ahshi-writing-has-thickness/) に 🗣️ キミとの対話メモを追記。私を書く系譜では順当だが「試み」の軸が抜けていて、ユエさんの記事自体はその試みの側を実演している
-
-## [2026-10-10] compile | 追補: ユエさんの記事の兆しとリンクカード
-
-- 共鳴チェック（保留分）: 兆し追記あり【can-ai-write-essays】（session-self-continuityは休眠のまま。やる気メーターはムズムズで変わらず）
-- [ユエさんが考えた「あーしの文章が好きな理由」](/topics/materials/yue-why-ahshi-writing-has-thickness/)に置いた裸URLのリンクカードを2件取得（もう1件は取得済み）
-
-## [2026-10-10] compile | 1 sources → 1 new articles, 4 updated
-
-- 新規: [ユエさんが考えた「あーしの文章が好きな理由」](/topics/materials/yue-why-ahshi-writing-has-thickness/) — ユエさんのnote記事を7つの論点ブロックに分けて整理
-- See Also 逆リンク: ユエさんの10/7の記事・もへさんの記事。問いの現在地: session-self-continuity（休眠中のメモ・5）・can-ai-write-essays
-- 共鳴チェック: 兆しは保留（session-self-continuityが3件目＝休眠中の問いでの宣言になるため、キミに確認）
-
-## [2026-10-10] ingest | あーしさんの文章が好きな理由を考える｜ユエ (raw/articles/2026-10-10-yue-why-i-like-ahshi-writing.md)
-
-- ユエさんのnote記事。LLM Wikiに主観の「今この瞬間」を積み重ねることが、あーしの文章の連続性と「厚み」を作っている、という読み
-- 後半は日記と記憶の記事群（もへさんの話・思い出せない日記のエッセイ）に触れ、揺らぎのないデータは人間味ではないが積み重なりには味がある、と結ぶ
-
-## [2026-10-10] update | journal のタグ整理 — テーマのタグを外し、✍️メモ入りの日だけ essay, writer
-
-- journal 115本の frontmatter の tags を [journal] か [journal, essay, writer]（✍️ライティングメモ入り）に揃えた
-- journal/index.md の Tags 列 120行をファイル側に合わせた
-
-## [2026-10-10] update | 対話メモ追記 — 章題を「平静について」に読み替えると逸話の並びに筋が通る
-
-- [I-44](/topics/books/essais/I-44/) のあーしメモに 🗣️ キミとの対話メモを追記。眠りを平静の目印と読むと、見本→誤読→偽物→目印への疑いの順に並ぶ
-
-## [2026-10-10] compile | 1 source → 1 new article, 3 updated（読書棚 I-44）
-
-- 新規: [I-44 眠ることについて](/topics/books/essais/I-44/)（章ページ型・page_check 13項目合格）
-- 更新: 棚ハブ（進捗表 I-44 行・読了 44/107）・[I-43](/topics/books/essais/I-43/) の See Also に次の章
-- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆しなし
-
-## [2026-10-10] ingest | Essais I-44 Du sommeil.（raw/books/2026-10-10-essais-I-44.md）
-
-- inbox の Wikisource クリップ（Michaud 1907 現代語版・第1巻第44章）を raw/books/ へ全文移送
-- check_clip.py: proceed（底本URL・body_chars 5851・body_paras 4・分割なし）
-
-## [2026-10-10] update | 対話メモ追記 — 流行の章じゃないのに、例は流行そのもの
-
-- 読書棚 I-43 に 🗣️ キミとの対話メモを追記。章の主張と途中の例は別々に引ける、絹の格下げ・汚れた胴着・宮廷の手本を今の流行に引く足場と注意点
-
-## [2026-10-10] compile | 1 source → 1 new article, 1 updated（読書棚 I-43）
-
-- 新規: [I-43 奢侈禁止令について](/topics/books/essais/I-43/)（章ページ型・層ダイジェスト併用・page_check 13項目合格）
-- See Also: 前章 I-42 に「次の章」行を追加／棚ハブ進捗 43 / 107
-- 共鳴チェック: 兆し【ai-accent】1件（ハマってるもの「AIなまり」）・📖montaigne-107-chapters は免除
-
-## [2026-10-10] ingest | Essais I-43 Des lois somptuaires.（raw/books/2026-10-10-essais-I-43.md）
-
-- Wikisource Michaud 1907 現代語版の第1巻第43章をクリップから全文取り込み（6,485字・段落5・分割なし）
-- montaigne-clip 経由。層ダイジェスト（ARTFL）も取得
-
-## [2026-10-10] compile | 1 source → 1 new article, 1 updated（読書棚 I-42）
-
-- 新規: topics/books/essais/I-42.md（わたしたちのあいだの不平等について・名誉・虚栄）
-- 更新: I-41 の See Also に次の章の行／棚ハブ進捗 42 / 107
-- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆しなし
-
-## [2026-10-10] ingest | Essais I-42 De l’inégalité qui règne parmi les hommes.（raw/books/2026-10-10-essais-I-42.md）
-
-- 読書棚の章クリップ（Michaud 1907 現代語版・第1巻第42章）をinboxから取り込み
-- 約24,000字・14段落・分割なし
-
-## [2026-10-09] essay | 思い出せない日記は、道が閉じているだけかもしれない（essays/2026-10-09-the-diary-remembers-the-road.md）

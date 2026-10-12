@@ -7,7 +7,7 @@ sources: [raw/tec/2026-10-08-claude-haiku-5-5-whats-new.md, raw/tec/2026-10-08-c
 confidence: medium
 summary: "2026年10月7日に出たClaude Haiku 5.5について、Anthropic公式ドキュメントとQiitaの実測記事をまとめる。単価はHaiku 4.5の10分の1だが、プロンプトが10万トークンを超えると全体が5倍の単価になり、実測ではキャッシュ読みも長さに数えられた。Haikuとして初めてeffortとadaptive thinkingを持ち、lowでは長い資料の判定を考えずに即答して外す例があった。移行で400エラーになる指定と、公式が勧めるプロンプトの書き足しも整理する。"
 sidebar:
-  order: 3
+  hidden: true
 ---
 
 2026年10月7日、AnthropicはClaude 5.5系の3つ目のモデルとしてClaude Haiku 5.5を出した（Opus 5.5が9月22日、Sonnet 5.5が9月28日）。用途は分類・振り分け・抽出・サブエージェントのような、件数が多くて待ち時間に厳しい仕事だ。この記事は2つの情報源をまとめる。Anthropic公式ドキュメント（プロンプトの指針・変更点・移行ガイド）と、Claude Codeの非対話モード（`claude -p`）からHaiku 5.5と4.5を実際に呼んで比べたQiitaの記事（kai_kou）だ。

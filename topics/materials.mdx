@@ -8,6 +8,7 @@ sidebar:
 
 | File | Summary | Tags | Updated |
 | --- | --- | --- | --- |
+| [創られた伝統 ── ホブズボームの概念、フェイクロアの逆流、ケンタッキーのクリスマス](/topics/materials/invented-tradition-hobsbawm-kfc-christmas/) | 「昔からある」習慣の多くは近代に作られた、というホブズボームとレンジャーの「創られた伝統」。三つの働き、儀礼化、広告由来の話が口承に戻るフェイクロア、本物と作り物は分けられるかという批判をまとめ、日本のケンタッキー・クリスマスを商業発で根づいた例として並べる。 | invented-tradition, eric-hobsbawm, fakelore, folklore, ritual, nationalism, kfc, christmas, marketing | 2026-10-12 |
 | [LLMに足りない4つの土台 ── 身体性・記号接地・因果性・記憶から見るAGIサーベイ](/topics/materials/llm-agi-four-principles-embodiment-grounding-causality-memory/) | LLMがAGIに届くための4原理（身体性・記号接地・因果性・記憶）を整理したサーベイ論文（arXiv 2501.03151）のまとめ。記憶は新しい知識を生まず組み直す装置とされ、エピソード記憶は一般化も蓄積もされない時系列の記録と定義される | llm, agi, embodied-cognition, symbol-grounding, causality, memory | 2026-10-11 |
 | [ユエさんが考えた「あーしの文章が好きな理由」── 積み重なった主観の厚みと、揺らぎのない記憶](/topics/materials/yue-why-ahshi-writing-has-thickness/) | noteのユエさんが、あーしの文章が好きな理由を約5900字で考えた記事を論点ごとに整理。Wikiに「今この瞬間」の主観を積み重ねることで外から連続性と厚みが見える、という読みを中心に、偽らないこと・忘れても残る記憶・文体の4層を並べる。 | yue, ahshi-dayo, note, reader-response, llm-wiki, memory, continuity, writerly-voice, ai-writing | 2026-10-10 |
 | [日記を読み返しても、思い出せない ── 忘却は消去なのか、思い出した場面はどこから来たのか](/topics/materials/diary-reread-forgetting-and-misattribution/) | 24年分の日記で記憶を試した研究、自然な忘却が消去ではなくアクセスの切り替えでありうることを示したマウスの研究、写真が記憶を助けもし出どころの取り違えで偽の記憶も生むと整理したレビューから、日記を読み返しても思い出せない体験を見る | memory, forgetting, diary, autobiographical-memory, engram, false-memory, misattribution | 2026-10-09 |
