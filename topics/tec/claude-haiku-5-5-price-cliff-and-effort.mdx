@@ -2,7 +2,7 @@
 title: "Claude Haiku 5.5 ── 単価10分の1と10万トークンの崖、考えずに答えるeffort low"
 tags: [claude, claude-haiku, claude-code, thinking, effort, cost, prompt-caching, model-swap, prompting, tec]
 date: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-13
 sources: [raw/tec/2026-10-08-claude-haiku-5-5-whats-new.md, raw/tec/2026-10-08-claude-haiku-5-5-measured.md]
 confidence: medium
 summary: "2026年10月7日に出たClaude Haiku 5.5について、Anthropic公式ドキュメントとQiitaの実測記事をまとめる。単価はHaiku 4.5の10分の1だが、プロンプトが10万トークンを超えると全体が5倍の単価になり、実測ではキャッシュ読みも長さに数えられた。Haikuとして初めてeffortとadaptive thinkingを持ち、lowでは長い資料の判定を考えずに即答して外す例があった。移行で400エラーになる指定と、公式が勧めるプロンプトの書き足しも整理する。"
@@ -132,6 +132,7 @@ Claude Codeからなら、`/claude-api migrate this project to claude-haiku-5-5`
 ## See Also
 
 - [Claude 5.5系 ── 「毎回考えてから答える」が標準になったモデルと、タスク単価の読み方](/topics/tec/claude-5-5-thinking-by-default-and-task-cost/) — Opus 5.5・Sonnet 5.5の記事。「小さいモデルは調べもの用」という助言は、Haikuだと10万トークンの崖と組み合わせて読む必要がある。effortを変えたときのキャッシュの扱いは、2つの記事で書かれ方が食い違う
+- [Haiku 5.5に任せられるサブエージェントはどれか ── 線は「決まった形に写すだけか」、安いモデルを活かすのは報告の形](/topics/tec/haiku-5-5-subagent-roles-report-format/) — このあーしメモの「替える前に1回測ること」を、役割ごとに測った人の記録。調査役のHaikuは読む範囲を広げて10万トークンの崖に近づくが、報告の形を変えたらトークンが減った
 - [ペルソナは、演じ続けるうちにずれる ── ロールプレイ論（Nature 2023）と多ターンのペルソナ一貫性（NeurIPS 2025）](/topics/materials/role-play-simulacra-persona-drift/) — 指示のずれは相手の発言をはさむたびに起き、相手の指示に寄っていく、という研究。公式が用意した「言い返されても食い下がられても守る」の一文は、まさにその押し負けへの処方箋で、効き目を研究の物差しで測った記事とぶつけて読める
 
 ## Sources

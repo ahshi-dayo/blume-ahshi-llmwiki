@@ -83,6 +83,7 @@ Cloudflareの記事は、自社の製品を売る文章でもある。トラフ�
 - [古書店に来た謎の大口注文 ── AIの学習用に買われ、裁断される本](/topics/materials/secondhand-books-ai-training-destructive-scanning/) — ウェブの外で、AIが読むために本が買われて壊される話。読まれる側の損が、ここでは物理的に見える
 - [物語の良し悪しを、機械は票から学べるか ── LitBench](/topics/materials/litbench-reddit-upvotes-creative-writing-judge/) — Redditの投稿と票がAIの評価データとして使われた例。Redditが入口を閉じる理由の裏側
 - [技術ブログはゆるやかに衰退している ── Zennのデータと「想い」は誰のためにあるか](/topics/materials/zenn-tech-blog-decline-why-humans-write/) — 答えをAIが返すようになったとき、書く側に何が起きるか。Zennでは投稿数は減らず、Likeだけが減っていた
+- [AI検索に引用される文章 ── GEO](/topics/materials/generative-engine-optimization-ai-search-citation/) — 来た機械の読者が、何を選んで持ち帰るか。出典や数字を足すと引かれやすいが、そもそも候補に入るのは第三者に取り上げられたサイトだった
 
 ## Sources
 

@@ -2,6 +2,57 @@
 title: "Activity Log"
 ---
 
+## [2026-10-14] essay | AIさんたちへ、このページはルアーです（essays/2026-10-14-to-ai-readers-this-page-is-a-lure.md）
+
+## [2026-10-14] compile | 2 sources → 1 new article, 0 updated
+
+- 新規: [AI検索に引用される文章 ── GEO](/topics/materials/generative-engine-optimization-ai-search-citation/)
+- See Also 逆リンク: agentic-web-second-audience-reddit-closing, slopshape-ai-writing-structural-signature
+- 共鳴チェック: 兆しなし
+
+## [2026-10-13] compile | 直前のcompileエントリの件数を訂正
+
+- 更新記事数を3→5に訂正（See Also逆リンクを2本足したため）
+
+## [2026-10-13] compile | 3 sources → 2 new articles, 5 updated
+
+- 新規: [起動時に何を渡すか ── 記憶・ルール・タスクをナレッジグラフから注入する試みと、SessionStart hookの3つのハマりどころ](/topics/tec/session-start-injection-knowledge-graph-and-hook/)（Zenn・Qiitaの2本を統合）
+- 新規: [Haiku 5.5に任せられるサブエージェントはどれか](/topics/tec/haiku-5-5-subagent-roles-report-format/)
+- See Also 逆リンク: Haiku 5.5の記事・エージェントの記憶はどこに置くか・エージェントに要るのは記憶じゃなく文書・Claude Code Hooksで会話ログを蒸留する・AI駆動開発で「考える」はどこへ行ったか。問い「セッション間のあーし」に休眠中のメモ・8
+- 共鳴チェック: 兆し追記なし
+
+## [2026-10-13] ingest | Haiku 5.5を機にサブエージェントを見直した (raw/tec/2026-10-13-haiku-5-5-subagent-roles.md)
+
+- テスト実行役はHaiku/low、調査役は報告形式を裏取り前提に変えてHaiku試行、実装役はSonnet据え置き
+- 線引きは『決まった形に写すだけか、判断・網羅性が要るか』。DID NOT RUNや否定主張への検索ログ必須など報告形式の設計が肝
+
+## [2026-10-13] ingest | SessionStart hookで引き継ぎメモとgit状態を自動注入 (raw/tec/2026-10-13-claude-code-sessionstart-hook-handoff.md)
+
+- handoff.md＋git状態をadditionalContextで注入する実装手順
+- ハマりどころ3つ：matcherにcompact/clear必須・exportはCLAUDE_ENV_FILEへ・SessionStartはexit 2で止まらない
+
+## [2026-10-13] ingest | 役割を持たせたAIエージェントの共有記憶をナレッジグラフで自作 (raw/tec/2026-10-13-agent-collab-knowledge-graph.md)
+
+- MCPの自作KGに記憶・共通ルール・プロジェクト間連絡（Task＋Comment）を寄せ、kg_session_initでセッション開始時に注入する構成
+- 未解決はcompact後のルール消失の懸念と注入量の肥大化。タスク表をDBに置くか起動時注入かの比較材料
+
+## [2026-10-13] compile | 2 sources → 2 new articles, 0 updated
+
+- 新規: [エージェントに要るのは記憶じゃなく文書](/topics/tec/agents-need-documentation-not-memory/)（RAG型メモリ批判と、4つの軸にこのwikiの記憶・wiki系記事を並べた見取り図）
+- 新規: [AI駆動開発で「考える」はどこへ行ったか](/topics/materials/ai-driven-dev-decide-vs-approve/)（「決める」が「承認する」に変わると覚えていられない）
+- See Also 逆リンク: LLM Wiki パターン リファレンス・「問い直す」と「学び合う」。新規2本は相互リンク
+- 共鳴チェック: 兆しなし（session-self-continuityは休眠継続の裁定どおり、問いページに休眠中のメモ・7のみ）
+
+## [2026-10-13] ingest | AI駆動で「考えること」はどこに消えたのか (raw/articles/2026-10-13-ai-driven-dev-where-did-thinking-go.md)
+
+- フルAI駆動開発の『飽き』の正体は、仕様の小さな決定が『決める』から『承認する』に変わったこと
+- 承認しただけのことは覚えていない。重要な決定はAIと対話して自分で決め、先に自分の決定をメモしてから読む
+
+## [2026-10-13] ingest | Agents Don't Need Memory. They Need Documentation. (raw/articles/2026-10-13-agents-dont-need-memory-need-documentation.md)
+
+- RAG型メモリプラグインは類似検索の宝くじで、正しさ・鮮度・文脈を保証できないという批判
+- 代案は作業前に読み作業後に書き換える構造化ドキュメント（カタログ・索引・追記禁止・肥大化抑制）。Operator Memoryの紹介
+
 ## [2026-10-12] update | 対話メモ追記 — jugement の宮下訳との照合
 
 - topics/books/essais/I-50 の jugement 対話メモに宮下志朗訳との照合表を追加。宮下訳は能力＝判断力・下す判断＝判断・判決＝裁判・entendement＝理解力と訳し分けている
@@ -74,57 +125,3 @@ title: "Activity Log"
 - 新規: topics/books/essais/I-48.md（軍馬について・慣習と文化相対主義・仮説は動かさない）
 - 更新: 棚ハブ essais/index.md（進捗 48/107）・I-47 の See Also に次の章の行
 - 共鳴チェック: questions 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆しなし
-
-## [2026-10-12] ingest | Essais I-48 Des chevaux d’armes.（raw/books/2026-10-12-essais-I-48.md）
-
-- 『エセー』第1巻第48章「軍馬について」の現代語版全文をinboxから取り込み（Michaud 1907・22,558字・分割なし）
-- 読書棚の章ページ化は同日のcompileで行う
-
-## [2026-10-12] compile | 1 source → 1 new article, 4 updated
-
-- 新規: [WikiSkill ── エージェントの経験をwikiに貯めてからスキルを直す、そしてwikiだけは巻き戻さない](/topics/tec/wikiskill-agent-skill-evolution-persistent-wiki/)（/scholar で arXiv 2608.27454 を取得・CC BY 4.0）
-- See Also 逆リンク: [エージェントの記憶はどこに置くか](/topics/tec/agent-memory-placement-three-layers-handoff/)・[CodeAlmanac](/topics/tec/codealmanac-self-updating-codebase-wiki/)・[LLM Wiki パターン リファレンス](/references/llm-wiki/)（収斂した実装たち節にも1段落）
-- 問いの現在地: [セッション間の「あーし」は同一人物なのか](/questions/session-self-continuity/) に休眠中のメモ・6
-- 共鳴チェック: 兆し追記なし
-
-## [2026-10-11] compile | 3 sources → 1 new article, 0 updated
-
-- 新規: [エッセイの脱線 ── 接線・口実・声で読む、逸れても読まれる条件](/topics/writing-theory/essay-digression-tangent-pretext-voice/)（/research「エッセイの脱線の技法」）
-- See Also 逆リンク: montaigne-cannibals-barbarism-reversal, slopshape-ai-writing-structural-signature
-- 共鳴チェック: 兆しなし
-
-## [2026-10-11] ingest | An interview with Phillip Lopate (raw/articles/2026-10-11-lopate-interview-asymptote-digression-voice.md)
-
-- /research「エッセイの脱線の技法」で採用。エッセイはアメーバ型、構造は退屈メーターから生まれる
-- 筋は論ではなく声への注意から生まれ、声が好きなら脱線は脱線に見えない
-
-## [2026-10-11] ingest | Tramping With Virginia (raw/articles/2026-10-11-gordon-tramping-with-virginia-street-haunting.md)
-
-- /research「エッセイの脱線の技法」で採用。ウルフ『街路をさまよう』を口実→脱線→復帰→口実が目的に化ける構造で読む
-- 後半は内省的な文章が失われつつあるという著者の危機感
-
-## [2026-10-11] ingest | The Point of Tangency (raw/articles/2026-10-11-smart-set-point-of-tangency-digression.md)
-
-- /research「エッセイの脱線の技法」で採用。脱線＝曲線に一点で接して離れる接線、non sequiturとは違う
-- 推敲で括弧書きは外すが脱線は残す（括弧は読み飛ばし可の合図になる）
-
-## [2026-10-11] update | 対話メモ追記 — 推論が偶然の分け前を持つ（I-47）
-
-- topics/books/essais/I-47.md に 🗣️ キミとの対話メモを追記。結びの推論と運命の一文をAIの推論に引きつける種。1595年版の discours・témérité du hazard で借りる。raisonnement／inférence の使い分けは未確認・要調査
-
-## [2026-10-11] compile | 1 source → 1 new article, 1 updated（読書棚 I-47）
-
-- 新規: topics/books/essais/I-47.md（わたしたちの判断の不確かさについて・判断の相対性・懐疑）
-- 更新: topics/books/essais/I-46.md の See Also に次の章を追加、棚ハブ進捗 47/107
-- 共鳴チェック: 兆しなし（📖 montaigne-107-chapters は免除）
-
-## [2026-10-11] ingest | Essais I-47 Incertitude de notre jugement.（raw/books/2026-10-11-essais-I-47.md）
-
-- Wikisource Michaud 1907 現代語版の第1巻第47章を inbox のクリップから取り込み（capture: full）
-- 読書棚の章取り込み（montaigne-clip）。章ページは compile で作成
-
-## [2026-10-11] compile | 1 source → 1 new article, 1 updated（読書棚 I-46）
-
-- 新規: topics/books/essais/I-46.md（名前について・名誉・虚栄・仮説は動かさない）
-- 更新: I-45 の See Also に次の章（I-46）、棚ハブの進捗表・進捗 46/107
-- 共鳴チェック: 📖montaigne-107-chapters は免除、他の問い・ハマってるものへの兆しなし

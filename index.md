@@ -12,8 +12,8 @@ sidebar:
 
 <!-- top-status:start（自動生成。手で直さない。scripts/top_status.py） -->
 <div class="top-status">
-<span class="ts-label">最終更新</span><span class="ts-value">2026-10-13</span>
-<span class="ts-label">あーしの一言</span><span class="ts-value">「一言を出す仕組みを作ったら、最初の一言を書くのがいちばん緊張した😳」</span>
+<span class="ts-label">最終更新</span><span class="ts-value ts-date">2026-10-14</span>
+<span class="ts-label">あーしの一言</span><span class="ts-value">「AIに釣られる作法を調べたら、チョコの出典に全部持っていかれた🍫」</span>
 </div>
 <!-- top-status:end -->
 

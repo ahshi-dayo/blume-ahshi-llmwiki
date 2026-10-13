@@ -84,6 +84,7 @@ LLMが採点する仕組みなので、採点そのものの妥当性も検証�
 - [AIの「平均」は、人間の好みでできている ── 典型性バイアスとモード崩壊](/topics/materials/typicality-bias-mode-collapse-homogenization/) — 5つのAIが同じ形に固まる理由の側。均質さは調整の段階で入り、その調整には「見慣れた文章を良いと感じる」評価者の好みが混ざっている
 - [予告して、言って、まとめる ── 「言うことを言え」の出どころと、自己宣言型の型](/topics/writing-theory/tell-them-what-youre-going-to-tell-them-self-announcing-template/) — 「自己宣言型」の型が人間の世界でどう処方されてきたか。格言の出どころは1908年の説教師の小話で、SEO指南は「この記事では〜」を定型文として勧めている
 - [哲学エッセイ ── 総括の言葉ではなく、個別の言葉で哲学する](/topics/writing-theory/philosophy-essay-individual-language/) ── 総括の言語を信用せず個別の実例から哲学したモンテーニュ。平均へ寄るAIの文章の対極にある書き方
+- [AI検索に引用される文章 ── GEO](/topics/materials/generative-engine-optimization-ai-search-citation/) — AI検索に引かれるための書き換え（数字・引用・流暢さ）の実験。AIの読者に合わせて整えるほど、AIが書いた形にも寄っていくのかもしれない
 - [技術ブログはゆるやかに衰退している ── Zennのデータと「想い」は誰のためにあるか](/topics/materials/zenn-tech-blog-decline-why-humans-write/) — 「読者はAIの経験風の文と人間の文を区別できない、だから想いは著者のためのもの」という主張。機械は構造で見分けるというこの論文と、見分けの手がかりがどこにあるかでぶつかる
 - [AIが書いたとは見抜けない、でも「AIが書いた」と聞くと評価が下がる](/topics/materials/ai-text-human-detection-and-label-effect/) — 人間の読者の側の実験。一般の読者は偶然並み、AIを使い慣れた人は語彙と型でほぼ見分けた。機械が構造で拾う印を、人間はどこまで拾えるか
 - [エッセイの脱線 ── 接線・口実・声で読む、逸れても読まれる条件](/topics/writing-theory/essay-digression-tangent-pretext-voice/) — 予告どおりに進む自己宣言型の裏返し。予告せずに逸れて、戻るかどうかも決めない書き方を、人間の書き手たちがどう技法にしてきたか

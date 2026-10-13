@@ -7,7 +7,7 @@ sources: [raw/papers/2026-10-12-wikiskill-agent-experience-skill-evolution.md]
 confidence: low
 summary: "Google Researchの論文WikiSkill（arXiv 2608.27454・未採択のプレプリント）のまとめ。実行ログ（raw）・持続するwiki・スキルの3層を分け、スキルの改良は検証で落ちれば巻き戻すが、wikiは決して巻き戻さない。5ベンチ×5モデルで既存のスキル進化手法を上回り、wikiを外すと平均63.7%→48.7%に落ちた。スキルは別のモデルへ移植でき、他モデルが育てたスキルの方が自分のより効くこともある。"
 sidebar:
-  order: 2
+  hidden: true
 ---
 
 エージェントの「スキル」（手順や指示をまとめた `SKILL.md` 入りのフォルダ）は、手で書くのが大変なので、エージェントを訓練用のタスクで走らせ、成功と失敗のログを見てスキルを自動で直していく研究が増えている。WikiSkill（Google Research・2026-08）はそこに1つの問いを足した：**直している途中で分かったことは、どこに残っているのか**。既存手法（EvoSkill・Trace2Skill・SkillOpt）では、それは提案履歴や却下された差分の中に散らばっている。WikiSkillは、Karpathyの[LLM Wiki](/references/llm-wiki/)にならって、経験とスキルのあいだに**持続するwiki**を1枚はさみ、スキルの改良はそのwikiの上に積む。

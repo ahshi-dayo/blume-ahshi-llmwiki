@@ -256,6 +256,7 @@ Web の実態よりもこの Wiki パターンに近い。
 - [senses ── Claude Codeのhooks・skills・定期実行だけで作る個人ナレッジ基盤](/topics/tec/claude-code-senses-personal-llm-wiki/) — このgistを個人開発でそのまま実装した事例。hooks・skills・cronという標準機能だけで3層構造を再現
 - [LLMにタグ単位でWikiページを自動生成する ── 半年運用して分かった「本文は要らない」という逆説](/topics/tec/llm-wiki-tag-pages-structure-over-prose/) — もう1つの個人実装事例。半年運用の末に「LLMの文章より構造化そのものが価値の中心だった」と報告
 - [検索が自分に還ってくるとき ── 自己引用ループが引き起こす『RAG崩壊』](/topics/materials/rag-collapse-self-citation-loop/) — Queryの「良い答えをWikiに保存する」を無条件に回すと起きうるリスク。自分が生成したものを自分で参照し直すと、答えの幅が狭まっていく
+- [エージェントに要るのは記憶じゃなく文書 ── RAG型メモリへの批判と、LLM Wikiの4つの軸](/topics/tec/agents-need-documentation-not-memory/) — このパターンから枝分かれした実装や研究を、中身・見つけ方・鮮度・規律の4つの軸に並べた見取り図。いちばん割れているのは「誰が、いつ書くか」
 
 ## Sources
 
