@@ -11,7 +11,7 @@ sidebar:
 
 ## 進捗
 
-- 読了 **50 / 107**（最終読了 2026-10-12・I-50）＋序文「読者へ」（I-00・107章の外・2026-09-14読了）
+- 読了 **54 / 107**（最終読了 2026-10-14・I-54）＋序文「読者へ」（I-00・107章の外・2026-09-14読了）
 - クラスタは[章題ベースの仮8クラスタ](/questions/montaigne-107-chapters/)（判断の相対性・懐疑／死への態度／身体・老い・病／慣習と文化相対主義／名誉・虚栄／友情・対話／自己を語ること／想像力・心理／政治・戦争・残酷さ）。読んでみて違ったら章ページ側で書き換える
 
 ### 読者へ
@@ -75,10 +75,10 @@ sidebar:
 | I-48 | I.48 | Des destries | 軍馬について | 慣習と文化相対主義 | 2026-10-12 | [I-48](/topics/books/essais/I-48/) |
 | I-49 | I.49 | Des coustumes anciennes | 古代の慣習について | 慣習と文化相対主義 | 2026-10-12 | [I-49](/topics/books/essais/I-49/) |
 | I-50 | I.50 | De Democritus et Heraclitus | デモクリトスとヘラクレイトスについて | 判断の相対性・懐疑 | 2026-10-12 | [I-50](/topics/books/essais/I-50/) |
-| I-51 | I.51 | De la vanité des paroles |  |  |  |  |
-| I-52 | I.52 | De la parsimonie des anciens |  |  |  |  |
-| I-53 | I.53 | D'un mot de Cæsar |  |  |  |  |
-| I-54 | I.54 | Des vaines subtilitez |  |  |  |  |
+| I-51 | I.51 | De la vanité des paroles | 言葉の空しさについて | 名誉・虚栄 | 2026-10-14 | [I-51](/topics/books/essais/I-51/) |
+| I-52 | I.52 | De la parsimonie des anciens | 古代の人々の倹約について | 慣習と文化相対主義 | 2026-10-14 | [I-52](/topics/books/essais/I-52/) |
+| I-53 | I.53 | D'un mot de Cæsar | カエサルのある言葉について | 想像力・心理 | 2026-10-14 | [I-53](/topics/books/essais/I-53/) |
+| I-54 | I.54 | Des vaines subtilitez | 空しい技巧について | 判断の相対性・懐疑 | 2026-10-14 | [I-54](/topics/books/essais/I-54/) |
 | I-55 | I.55 | Des senteurs |  |  |  |  |
 | I-56 | I.56 | Des prieres |  |  |  |  |
 | I-57 | I.57 | De l'aage |  |  |  |  |

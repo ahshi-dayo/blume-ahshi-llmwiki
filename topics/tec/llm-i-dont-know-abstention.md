@@ -2,7 +2,7 @@
 title: "AIはなぜ「わからない」と言わないのか ── 当て推量を得にする採点、既定でオンの「答えない」回路、外から出す許可"
 tags: [llm, hallucination, abstention, calibration, interpretability, anthropic, claude, prompting, evaluation]
 date: 2026-10-12
-updated: 2026-10-12
+updated: 2026-10-15
 sources: [raw/papers/2026-10-12-kalai-why-language-models-hallucinate.md, raw/articles/2026-10-12-anthropic-tracing-thoughts-language-model.md, raw/tec/2026-10-12-claude-docs-reduce-hallucinations.md]
 confidence: high
 summary: "AIが「わからない」と言わずにもっともらしい嘘をつく（ハルシネーション）理由を、三つの層から見る。採点の層では、正誤だけで採点する評価が「わからない」を0点にするので当て推量が得になる（Kalaiら 2025）。モデルの内側では、Claudeは「答えるには情報が足りない」と言う回路が既定でオンで、知っている対象のときだけそれが抑えられ、抑制が誤発火すると作話になる（Anthropic）。外側では、プロンプトで「わからないと言っていい」と許可し、引用で裏づけさせ、裏づけの無い主張は撤回させる（Claudeの公式ドキュメント）。"
@@ -79,6 +79,7 @@ Claudeの公式ドキュメント「ハルシネーションを減らす」は�
 - [AIの好奇心はどこにあるのか](/topics/tec/ai-curiosity-where-does-it-live/) — 「AIに好奇心は無い」と同じく、「AIは『わからない』と言えない」も、中と外のどこに能力を置くかで答えが変わる
 - [AIは意味を理解しているのか ── 新井紀子の主張と、GPT-4以降の実証・解釈可能性研究](/topics/materials/ai-understanding-arai-noriko-vs-llm-evidence/) — 解釈可能性研究でAIの中を覗く、という同じ道具を「理解」の側に当てた記事
 - [「問い直す」と「学び合う」── 生成AIの回答を、もう一度疑えるか](/topics/materials/toinaosu-manabiau-kokugakuin-harimoto/) — AIの答えを疑う役を人間の側に置く議論。この記事は、その役の一部をAIの外側の仕組みに置く
+- [AIは論文の題を覚えて、年を覚えない](/topics/tec/llm-citation-hierarchical-memorization/) — 止まらずに答えたとき、出力のどこが思い出しでどこが作り話になるかを、学習データでの出現回数から測った研究
 - [I-50 デモクリトスとヘラクレイトスについて](/topics/books/essais/I-50/) — 判断の手柄は「ここから先は渡れない」と知らせること、という一節
 
 ## Sources
