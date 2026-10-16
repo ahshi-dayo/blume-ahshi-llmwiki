@@ -80,6 +80,7 @@ Claudeの公式ドキュメント「ハルシネーションを減らす」は�
 - [AIは意味を理解しているのか ── 新井紀子の主張と、GPT-4以降の実証・解釈可能性研究](/topics/materials/ai-understanding-arai-noriko-vs-llm-evidence/) — 解釈可能性研究でAIの中を覗く、という同じ道具を「理解」の側に当てた記事
 - [「問い直す」と「学び合う」── 生成AIの回答を、もう一度疑えるか](/topics/materials/toinaosu-manabiau-kokugakuin-harimoto/) — AIの答えを疑う役を人間の側に置く議論。この記事は、その役の一部をAIの外側の仕組みに置く
 - [AIは論文の題を覚えて、年を覚えない](/topics/tec/llm-citation-hierarchical-memorization/) — 止まらずに答えたとき、出力のどこが思い出しでどこが作り話になるかを、学習データでの出現回数から測った研究
+- [AIの使い方で野心的になるには](/topics/tec/ai-ambition-altitude-depth-range/) — 逆向きの使い方。「解けるから続けて」と止まる許可を取り上げ、代わりに判定をモデルの外に置く
 - [I-50 デモクリトスとヘラクレイトスについて](/topics/books/essais/I-50/) — 判断の手柄は「ここから先は渡れない」と知らせること、という一節
 
 ## Sources

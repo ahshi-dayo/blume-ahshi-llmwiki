@@ -14,6 +14,7 @@ Last updated: 2026-10-05
 
 | File | Summary | Tags | Updated |
 | --- | --- | --- | --- |
+| [AIの使い方で野心的になるには ── 高さ・深さ・広さの3方向と、自分にできると思う範囲](/topics/tec/ai-ambition-altitude-depth-range/) | Claudeを作る側で働くFelix Riesebergのブログ記事の解説。AIの使い方の野心を、高さ（目的ごと任せる）・深さ（一流の道具と生の材料、判定は外に置く）・広さ（名詞を動詞にして別分野の「やること」を借りる）の3方向に分け、最後に人が自己効力感に縛られてきた例を語る。 | llm, claude, anthropic, prompting, ambition, self-efficacy | 2026-10-16 |
 | [AIは論文の題を覚えて、年を覚えない ── 引用の生成から見る、でっち上げと丸暗記の連続体（新美 2026）](/topics/tec/llm-citation-hierarchical-memorization/) | GPT-4.1に論文書誌100件を出させ手で照合した研究（新美 2026・CC BY 4.0）。正確さは被引用数の対数に比例し、約90で丸暗記に向かい約1,200で飽和。題名と筆頭著者が先に覚えられ、出版年はほぼ覚えない。似た有名論文は混ざる。 | llm,hallucination,memorization,citation,training-data,gpt-4-1 | 2026-10-15 |
 | [起動時に何を渡すか ── 記憶・ルール・タスクをナレッジグラフから注入する試みと、SessionStart hookの3つのハマりどころ](/topics/tec/session-start-injection-knowledge-graph-and-hook/) | 記憶・ルール・プロジェクト間タスクを自作ナレッジグラフから起動時に注入する構成と、SessionStart hookで引き継ぎメモとgit状態を流し込む実装手順のまとめ。どちらも/compact後に注入したものが消える問題と、注入量が膨らむ問題に行き当たっている。 | claude-code,hooks,ai-memory,handoff,context-engineering,knowledge-graph,mcp,tec | 2026-10-13 |
 | [Haiku 5.5に任せられるサブエージェントはどれか ── 線は「決まった形に写すだけか」、安いモデルを活かすのは報告の形](/topics/tec/haiku-5-5-subagent-roles-report-format/) | テスト実行・調査・実装の3サブエージェントをHaiku 5.5に下げられるか評価した記事のまとめ。写すだけのテスト実行役はHaiku/low、実装役はSonnetに残し、調査役は事実と推論を分け否定主張に検索ログを付ける報告形式に変えてHaikuを試行。 | claude,claude-haiku,claude-code,subagent,effort,cost,tec | 2026-10-13 |

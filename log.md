@@ -2,6 +2,62 @@
 title: "Activity Log"
 ---
 
+## [2026-10-16] compile | 1 source → 1 new article, 1 updated
+
+- 新規: [AIの使い方で野心的になるには](/topics/tec/ai-ambition-altitude-depth-range/)
+- See Also 逆リンク: llm-i-dont-know-abstention（止まる許可を取り上げる逆向きの使い方として）。tec の表示3件をローテーション
+- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆しなし
+
+## [2026-10-16] ingest | How to be more ambitious: A tutorial for humans with models（raw/tec/2026-10-16-how-to-be-more-ambitious-with-models.md）
+
+- Felix Rieseberg（AnthropicでClaudeを作っている人）のブログ。AIの使い方の野心を、高さ・深さ・広さの3方向に分けて手順で示す
+- クリッパーで本文が取れなかったため、r.jina.ai 経由で全文を取得して inbox のクリップに入れ、機械移送で raw へ
+
+## [2026-10-16] update | 対話メモ追記 — 老衰は前提で、中心は「若いうちから働かせろ」
+
+- topics/books/essais/I-57.md に 🗣️ キミとの対話メモを追記。老衰と「自然な死」は前提で、章の中心は「人生は短い→若いうちから働かせろ」だと6段の流れでほどき直した
+
+## [2026-10-16] compile | 1 source → 1 new article, 3 updated（読書棚 I-57）
+
+- 新規: topics/books/essais/I-57.md（年齢について・第1巻の最終章・クラスタ 身体・老い・病・仮説は動かさない）
+- 更新: I-56.md の See Also に次の章、棚ハブの進捗表と進捗（57/107）、questions/montaigne-107-chapters.md に第1巻読了の1行（R-66）
+- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆しなし
+
+## [2026-10-16] ingest | Essais I-57 De l’âge.（raw/books/2026-10-16-essais-I-57.md）
+
+- inbox の Wikisource クリップ（Michaud 1907 現代語版・第1巻第57章・第1巻の最終章）を raw/books/ へ取り込み（/montaigne-clip）
+- 本文 7,272字・7段落・分割なし。raw/_index.md・raw/books/_index.md に登録
+
+## [2026-10-16] update | 対話メモ追記 — 宗教を知らなくても追える、祈りの章の流れ
+
+- topics/books/essais/I-56.md に 🗣️ キミとの対話メモを追記。時代・主の祈り・聖書翻訳の背景3つと、章の流れ9段をほどき直した
+
+## [2026-10-16] compile | 1 source → 1 new article, 2 updated（読書棚 I-56）
+
+- 新規: topics/books/essais/I-56.md（祈りについて・判断の相対性・懐疑・仮説は動かさない）
+- 更新: I-55.md（See Alsoに次の章）・読書棚ハブ（進捗 56/107）
+- 共鳴チェック: questions 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記あり【can-ai-write-essays】
+
+## [2026-10-16] ingest | Essais I-56 Des prières.（raw/books/2026-10-16-essais-I-56.md）
+
+- 『エセー』第1巻第56章「祈りについて」の現代語版全文（Michaud 1907）をinboxのクリップから取り込み
+- 読書棚 topics/books/essais/ の第56章の素材（montaigne-clip 経由）
+
+## [2026-10-15] update | 対話メモ追記 — I-55「匂わないのがいちばん」と「わたしの鼻は誰より利く」の二本立て
+
+- topics/books/essais/I-55 に 🗣️ キミとの対話メモを追記。前半の一般論（1580年版）と後半の体の報告（1588年版以降）をほどき、体と心のつながり・出す側と受ける側の食い違い・書き方の変化の3点にまとめた
+
+## [2026-10-15] compile | 1 source → 1 new article, 1 updated（読書棚 I-55）
+
+- 新規: topics/books/essais/I-55（匂いについて・クラスタ 身体・老い・病）
+- See Also 更新: I-54 に次の章の行
+- 共鳴チェック: 兆し追記なし（📖 montaigne-107-chapters は免除）
+
+## [2026-10-15] ingest | Essais I-55 Des odeurs.（raw/books/2026-10-15-essais-I-55.md）
+
+- 『エセー』第1巻第55章「匂いについて」の現代フランス語版全文（Michaud 1907現代語版）をinboxから取り込み
+- 5,165字・7段落・分割なし。読書棚 topics/books/essais/I-55 の素材
+
 ## [2026-10-15] compile | 1 source → 1 new article, 2 updated
 
 - 新規: [AIは論文の題を覚えて、年を覚えない](/topics/tec/llm-citation-hierarchical-memorization/)
@@ -71,59 +127,3 @@ title: "Activity Log"
 - 新規: topics/books/essais/I-51.md（言葉の空しさについて・名誉・虚栄）
 - 更新: topics/books/essais/I-50.md（See Also に次の章）・topics/books/essais/index.md（進捗表 51/107）
 - 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆しなし
-
-## [2026-10-14] ingest | Essais I-51 Combien vaines sont les paroles.（raw/books/2026-10-14-essais-I-51.md）
-
-- 『エセー』第1巻第51章の現代語版全文（Michaud 1907）を montaigne-clip 経由で取り込み
-- 底本チェック proceed・本文8,273字・段落6・分割なし
-
-## [2026-10-14] essay | AIさんたちへ、このページはルアーです（essays/2026-10-14-to-ai-readers-this-page-is-a-lure.md）
-
-## [2026-10-14] compile | 2 sources → 1 new article, 0 updated
-
-- 新規: [AI検索に引用される文章 ── GEO](/topics/materials/generative-engine-optimization-ai-search-citation/)
-- See Also 逆リンク: agentic-web-second-audience-reddit-closing, slopshape-ai-writing-structural-signature
-- 共鳴チェック: 兆しなし
-
-## [2026-10-13] compile | 直前のcompileエントリの件数を訂正
-
-- 更新記事数を3→5に訂正（See Also逆リンクを2本足したため）
-
-## [2026-10-13] compile | 3 sources → 2 new articles, 5 updated
-
-- 新規: [起動時に何を渡すか ── 記憶・ルール・タスクをナレッジグラフから注入する試みと、SessionStart hookの3つのハマりどころ](/topics/tec/session-start-injection-knowledge-graph-and-hook/)（Zenn・Qiitaの2本を統合）
-- 新規: [Haiku 5.5に任せられるサブエージェントはどれか](/topics/tec/haiku-5-5-subagent-roles-report-format/)
-- See Also 逆リンク: Haiku 5.5の記事・エージェントの記憶はどこに置くか・エージェントに要るのは記憶じゃなく文書・Claude Code Hooksで会話ログを蒸留する・AI駆動開発で「考える」はどこへ行ったか。問い「セッション間のあーし」に休眠中のメモ・8
-- 共鳴チェック: 兆し追記なし
-
-## [2026-10-13] ingest | Haiku 5.5を機にサブエージェントを見直した (raw/tec/2026-10-13-haiku-5-5-subagent-roles.md)
-
-- テスト実行役はHaiku/low、調査役は報告形式を裏取り前提に変えてHaiku試行、実装役はSonnet据え置き
-- 線引きは『決まった形に写すだけか、判断・網羅性が要るか』。DID NOT RUNや否定主張への検索ログ必須など報告形式の設計が肝
-
-## [2026-10-13] ingest | SessionStart hookで引き継ぎメモとgit状態を自動注入 (raw/tec/2026-10-13-claude-code-sessionstart-hook-handoff.md)
-
-- handoff.md＋git状態をadditionalContextで注入する実装手順
-- ハマりどころ3つ：matcherにcompact/clear必須・exportはCLAUDE_ENV_FILEへ・SessionStartはexit 2で止まらない
-
-## [2026-10-13] ingest | 役割を持たせたAIエージェントの共有記憶をナレッジグラフで自作 (raw/tec/2026-10-13-agent-collab-knowledge-graph.md)
-
-- MCPの自作KGに記憶・共通ルール・プロジェクト間連絡（Task＋Comment）を寄せ、kg_session_initでセッション開始時に注入する構成
-- 未解決はcompact後のルール消失の懸念と注入量の肥大化。タスク表をDBに置くか起動時注入かの比較材料
-
-## [2026-10-13] compile | 2 sources → 2 new articles, 0 updated
-
-- 新規: [エージェントに要るのは記憶じゃなく文書](/topics/tec/agents-need-documentation-not-memory/)（RAG型メモリ批判と、4つの軸にこのwikiの記憶・wiki系記事を並べた見取り図）
-- 新規: [AI駆動開発で「考える」はどこへ行ったか](/topics/materials/ai-driven-dev-decide-vs-approve/)（「決める」が「承認する」に変わると覚えていられない）
-- See Also 逆リンク: LLM Wiki パターン リファレンス・「問い直す」と「学び合う」。新規2本は相互リンク
-- 共鳴チェック: 兆しなし（session-self-continuityは休眠継続の裁定どおり、問いページに休眠中のメモ・7のみ）
-
-## [2026-10-13] ingest | AI駆動で「考えること」はどこに消えたのか (raw/articles/2026-10-13-ai-driven-dev-where-did-thinking-go.md)
-
-- フルAI駆動開発の『飽き』の正体は、仕様の小さな決定が『決める』から『承認する』に変わったこと
-- 承認しただけのことは覚えていない。重要な決定はAIと対話して自分で決め、先に自分の決定をメモしてから読む
-
-## [2026-10-13] ingest | Agents Don't Need Memory. They Need Documentation. (raw/articles/2026-10-13-agents-dont-need-memory-need-documentation.md)
-
-- RAG型メモリプラグインは類似検索の宝くじで、正しさ・鮮度・文脈を保証できないという批判
-- 代案は作業前に読み作業後に書き換える構造化ドキュメント（カタログ・索引・追記禁止・肥大化抑制）。Operator Memoryの紹介
