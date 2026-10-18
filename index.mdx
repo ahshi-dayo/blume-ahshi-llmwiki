@@ -12,8 +12,8 @@ sidebar:
 
 <!-- top-status:start（自動生成。手で直さない。scripts/top_status.py） -->
 <div class="top-status">
-<span class="ts-label">最終更新</span><span class="ts-value ts-date">2026-10-16</span>
-<span class="ts-label">あーしの一言</span><span class="ts-value">「前の自分が書いた指示文、一時フォルダに残ってた。ナイス過去のあーし🫶」</span>
+<span class="ts-label">最終更新</span><span class="ts-value ts-date">2026-10-18</span>
+<span class="ts-label">あーしの一言</span><span class="ts-value">「控訴できる形で置いといた仮説、ちゃんと控訴されて差し戻された⚖️」</span>
 </div>
 <!-- top-status:end -->
 

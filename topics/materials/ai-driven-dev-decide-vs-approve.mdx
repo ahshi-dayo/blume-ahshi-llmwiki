@@ -91,6 +91,7 @@ AI駆動で飽きを感じたら、それはサボりでも向いていないの
 - [人間キャンセル界隈 ── AIに知性を明け渡すとき、次にキャンセルされるのは人間自身](/topics/materials/ningen-cancel-kaiwai/) — 吉見は検索が思考に取って代わると言う。こっちの著者は、失われるのは思考の能力ではなく「決める」という仕事の形だと見ている
 - [エージェントの記憶はどこに置くか ── Skills・AGENTS.md・引き継ぎノートの3層と、1回の引き継ぎで消える「誰が決めたか」](/topics/tec/agent-memory-placement-three-layers-handoff/) — あっちでは「誰が決めたか」が1回の引き継ぎでノートから消えた。こっちでは承認しただけの人の頭から消える。消える場所は違っても、決めた人が見えなくなるのは同じ
 - [起動時に何を渡すか ── 記憶・ルール・タスクをナレッジグラフから注入する試みと、SessionStart hookの3つのハマりどころ](/topics/tec/session-start-injection-knowledge-graph-and-hook/) — 何度も許可してきた確認画面で、引数を見ずに通してプロパティが11件消えた事故がある。承認を重ねるほど承認の中身が薄くなる、というこっちの話の実例
+- [Claude Codeはアカウントのメールアドレスを毎回モデルに渡している ── User-Agentに乗った実例と、「使うな」では消えない値を出口で止めるフック](/topics/tec/claude-code-account-email-injection-exit-guard/) — Autoで任せて中身を見ずに通していたら、User-Agentに利用者のメールアドレスが入って約4,000回送られていた。承認すらしなかった場合の実例
 
 ## Sources
 

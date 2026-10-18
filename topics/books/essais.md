@@ -152,6 +152,7 @@ sidebar:
 - **使わないページ**: `…/édition_Michaud,_1907/Livre_I/Chapitre_30`（対訳ページ。「Texte 1595」「Texte 1907」が並ぶ）。参照だけに使い、クリップしない
 - 章題リストの出所は1595年版準拠の[bribes.org 目次](https://bribes.org/trismegiste/montable.htm)（原綴り）。訳語の基準は[モンテーニュ『エセー』](/topics/writing-theory/montaigne-essays/)以下の既存記事（「移り変わり」「Que sais-je?」「店の奥の部屋」「確かな線はいっさい引かない」「寄せ木細工」）
 - 翻訳の運用: 現代語版からあーしが直接訳し、引用は原文を併記する。英語経由の孫訳はしない
+- *jugement* の訳: 一つの訳にそろえず、意味ごとに訳し分ける。法廷の判決・裁きは「判決」「裁き」、下す判断とその結果は「判断」、能力は「判断力」。両方にまたがるところは「判断」にして、真上の原文に任せる。16世紀にはこの三つの意味が一語に重なっていた（[16世紀の jugement](/topics/writing-theory/montaigne-jugement-sixteenth-century/)）。現代語版は *entendement*（知性）や *discours*（推論）を *jugement* に置き換えていることがあるので、語は1595年版で確かめる（[I-24](/topics/books/essais/I-24/)・[I-26](/topics/books/essais/I-26/)・[I-47](/topics/books/essais/I-47/)）
 
 
 ## 章番号対応（1595系 ⇄ ボルドー系）

@@ -7,7 +7,7 @@ sources: [raw/articles/2026-10-11-the-twitter-essay-stommel.md]
 confidence: low
 summary: "作文教育者Jesse Stommelが考案した、論証を根拠つきで140字に収めてツイートさせる授業課題「Twitterエッセイ」の紹介。テキスト語やツイートを文法の破壊とみなす通説に対し、David Crystalを引いて、書き手は規則を破っていると自覚したうえで遊んでいると論じる。ブレスト・執筆・ピアレビュー・推敲という通常のエッセイの工程をそのまま140字で踏ませ、一字も無駄にするなと課す。"
 sidebar:
-  order: 3
+  hidden: true
 ---
 
 ## 文法への「暴力」はどこから来るか

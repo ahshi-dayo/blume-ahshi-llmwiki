@@ -99,6 +99,7 @@ project/
 - [RAG入門 — chunk・embedding・vector DB](/topics/tec/rag-from-zero/) — AI開発ツールの文脈
 - [Claude Code Hooksで会話ログを蒸留する — SessionEnd起点のナレッジ捕捉設計](/topics/tec/claude-code-hooks-conversation-capture/) — 同じClaude Code運用文脈だが、こちらは行動制約（CLAUDE.md）、あちらは情報捕捉（Hooks）という別の軸
 - [Claude 5.5系 ── 「毎回考えてから答える」が標準になったモデルと、タスク単価の読み方](/topics/tec/claude-5-5-thinking-by-default-and-task-cost/) — 5.5系に合わせたCLAUDE.mdの書き方（止まりどころの指定・「よく考えて」の削除・200行以内・古い指示の点検）
+- [Claude Codeはアカウントのメールアドレスを毎回モデルに渡している ── User-Agentに乗った実例と、「使うな」では消えない値を出口で止めるフック](/topics/tec/claude-code-account-email-injection-exit-guard/) — こっちはCLAUDE.mdで行動を縛る運用。あっちは、CLAUDE.mdやシステムプロンプトに「使うな」と書いても、値がコンテキストに「ある」限り漏れうると言う。CLAUDE.mdで止まらないものの実例
 
 ## Sources
 

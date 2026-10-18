@@ -7,7 +7,7 @@ sources: [raw/articles/2026-10-11-smart-set-point-of-tangency-digression.md, raw
 confidence: medium
 summary: "エッセイの脱線（ディグレッション）を、3つの資料から技法として読む。The Smart Setの論考は、脱線を曲線に一点で接して離れる「接線」にたとえ、非論理的な飛躍とは違うと言う。ゴードンはウルフ「Street Haunting」を、口実で出た散歩が逸れ続け、最後に口実そのものが目的に化ける構造として読む。ロパートは、筋は論ではなく声への注意から生まれ、声が好きなら脱線は脱線に見えないと言う。「戻るべきか」については3者で答えが割れている。"
 sidebar:
-  order: 1
+  order: 2
 ---
 
 ## 脱線は「逸れ方」の技法である

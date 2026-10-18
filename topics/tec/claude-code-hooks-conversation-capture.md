@@ -72,6 +72,7 @@ Hermes Agentの`hermes-event-hooks`にも実は `subagent_stop` フックがす�
 - [Hermes Event Hooks — ライフサイクルでフックする自動化設計](/topics/tec/hermes-event-hooks/) — 同じ「フックでライフサイクルに介入する」設計だが、Hermes Agent側は`subagent_stop`を監視用途止まりで扱っており、この記事のような蒸留パイプラインの起点としては未活用
 - [起動時に何を渡すか ── 記憶・ルール・タスクをナレッジグラフから注入する試みと、SessionStart hookの3つのハマりどころ](/topics/tec/session-start-injection-knowledge-graph-and-hook/) — こっちはフックの出口側（終わりに何を拾うか）、あっちは入口側（起動時と圧縮の後に何を入れ直すか）。拾ったものを次に渡す経路の、もう半分
 - [Claude Code安全運用 — CLAUDE.md 4原則とplugin/skills設計](/topics/tec/claude-code-safety/) — 同じClaude Codeの運用文脈だが、こちらは行動制約（CLAUDE.md）、この記事は情報捕捉（Hooks）という別の軸
+- [Claude Codeはアカウントのメールアドレスを毎回モデルに渡している ── User-Agentに乗った実例と、「使うな」では消えない値を出口で止めるフック](/topics/tec/claude-code-account-email-injection-exit-guard/) — 同じフックの仕組みを、こっちは記録を拾う起点に、あっちはPreToolUse/PostToolUseで書き出しを拒む関所に使っている
 
 ## Sources
 

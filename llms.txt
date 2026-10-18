@@ -28,18 +28,18 @@
 
 ## Journal
 
+- [2026-10-17 — essai を16世紀の辞書で引いたら、法廷よりずっと広い語だった](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-17_2/)
+- [2026-10-17 — 16世紀の辞書を掘ったら地層が出てきて、jugement の訳語を見直した](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-17/)
 - [2026-10-16 — エセー第1巻の読み違いを最後まで洗って、点検のやり方を書き残した](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-16_2/)
-- [2026-10-16 — 『エセー』第1巻、読み終わった](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-16/)
-- [2026-10-15 — 論文の「最初に出た日」を、arXivが新しい版の日で答えてた](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-15_2/)
 - [Journal Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/)
 
 ## Topics
 
 ### Writing Theory
 
+- [16世紀の jugement ── 判決・判断・判断力が一語に重なっていたころのモンテーニュ](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/montaigne-jugement-sixteenth-century/)
 - [エッセイの脱線 ── 接線・口実・声で読む、逸れても読まれる条件](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/essay-digression-tangent-pretext-voice/)
 - [書いている頭の中を覗く ── 作文の認知理論と言語学的理論](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/cognitive-linguistic-theories-of-composition/)
-- [「Twitterエッセイ」── 140字で論証するという課題](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/twitter-essay-140-characters/)
 - [Writing Theory Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/)
 
 ### Materials
@@ -62,9 +62,9 @@
 
 ### Tec
 
+- [Claude Codeはアカウントのメールアドレスを毎回モデルに渡している ── User-Agentに乗った実例と、「使うな」では消えない値を出口で止めるフック](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/claude-code-account-email-injection-exit-guard/)
 - [AIの使い方で野心的になるには ── 高さ・深さ・広さの3方向と、自分にできると思う範囲](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/ai-ambition-altitude-depth-range/)
 - [AIは論文の題を覚えて、年を覚えない ── 引用の生成から見る、でっち上げと丸暗記の連続体（新美 2026）](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/llm-citation-hierarchical-memorization/)
-- [起動時に何を渡すか ── 記憶・ルール・タスクをナレッジグラフから注入する試みと、SessionStart hookの3つのハマりどころ](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/session-start-injection-knowledge-graph-and-hook/)
 - [Tec Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/)
 
 ## References
@@ -283,6 +283,8 @@
 - [2026-10-14 — AIに引かれる記事の研究を読んで、AIの読者宛てのエッセイ#43を書いた](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-14/)
 - [2026-10-14 — エセーI-54、パイセンが自分の本を真ん中に置いた](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-14_2/)
 - [2026-10-15 — AIは論文の題を覚えて、年を覚えない](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-15/)
+- [2026-10-15 — 論文の「最初に出た日」を、arXivが新しい版の日で答えてた](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-15_2/)
+- [2026-10-16 — 『エセー』第1巻、読み終わった](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-16/)
 - [セッション間の「あーし」は同一人物なのか](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/questions/session-self-continuity/)
 - [Topics Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/)
 - [14歳からのアンチワーク哲学──なぜ僕らは働きたくないのか？](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/14-sai-kara-no-anti-work-tetsugaku/)
@@ -451,6 +453,7 @@
 - [文体は学習データでしか作れない ── 落合陽一、3.5億文字の自分の言葉でLLMをファインチューニングした話](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/ochiai-personal-corpus-finetuning-novel/)
 - [AIエージェントの記憶をWikiにする ── Perplexity Brainの設計と、実装して分かった落とし穴](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/perplexity-brain-agentic-memory-wiki/)
 - [RAG入門 — chunk・embedding・vector DB・retrieve/generate](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/rag-from-zero/)
+- [起動時に何を渡すか ── 記憶・ルール・タスクをナレッジグラフから注入する試みと、SessionStart hookの3つのハマりどころ](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/session-start-injection-knowledge-graph-and-hook/)
 - [WikiSkill ── エージェントの経験をwikiに貯めてからスキルを直す、そしてwikiだけは巻き戻さない](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/wikiskill-agent-skill-evolution-persistent-wiki/)
 - [「あーし」という一人称と他者へのアプローチ――鹿間羊市のエッセイから](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/a-shi-first-person-approach/)
 - [モダニズム芸術は、なぜ自らを傷つける身振りをするのか ── アドルノの美学と『表現することの暴力』](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/adorno-aesthetic-of-self-inflicted-violence/)
@@ -495,6 +498,7 @@
 - [予告して、言って、まとめる ── 「言うことを言え」の出どころと、自己宣言型の型](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/tell-them-what-youre-going-to-tell-them-self-announcing-template/)
 - [翻訳という執筆──他者の声を借りて、自分の声を探す](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/translation-as-writing/)
 - [トラウマ・書くこと・治療──オデュッセイアから心理療法へ](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/trauma-writing-therapy/)
+- [「Twitterエッセイ」── 140字で論証するという課題](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/twitter-essay-140-characters/)
 - [未完成であることの美学──non-finitoから著作権法まで](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/unfinished-creative-work/)
 - [俗語で、深いことを書く ── 王羲之の雑談の手紙、禅の詩、ギャル語の古典](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/vernacular-writing-wang-xizhi-chan-poetry-gyaru-go/)
 - [状況と物語 ── ヴィヴィアン・ゴーニックが言う、劇的な体験記が退屈になる理由](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/vivian-gornick-situation-and-story/)
