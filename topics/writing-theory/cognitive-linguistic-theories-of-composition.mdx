@@ -7,7 +7,7 @@ sources: [raw/articles/2026-10-11-cognitive-linguistic-theories-of-composition.m
 confidence: low
 summary: "作文研究（composition studies）のうち、書き手の思考過程を実証的に調べる認知理論と、文・段落レベルの言語分析から書き方を調べる言語学的理論の概説。Flower & Hayes（1981）の認知過程モデルが土台を作り、Bazermanらは書き手を社会文脈から切り離したと批判した。発話思考法・キーストローク記録・神経科学へと方法が広がり、「教育には口を出さない」とされてきた位置づけも近年は揺らいでいる。英語版Wikipedia記事に基づく。"
 sidebar:
-  order: 3
+  hidden: true
 ---
 
 ## 書くプロセスを「実証」するという発想

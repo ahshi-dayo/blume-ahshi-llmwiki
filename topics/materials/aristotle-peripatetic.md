@@ -2,7 +2,7 @@
 title: "アリストテレス ── ペリパテティック（逍遥学派）の教育と「中間の徳」"
 created: 2026-06-01
 date: 2026-06-01
-updated: 2026-06-01
+updated: 2026-10-18
 tags: [aristotle, philosophy, ancient-greece, education, peripatetic, walking, golden-mean, metaphor]
 confidence: high
 summary: "アリストテレスのペリパテティック（逍遥学派）教育と「中庸」の概念。歩行教育の3原則と、物理的ルールから倫理的概念への昇華。"
@@ -10,6 +10,7 @@ sources:
   - raw/articles/2026-06-01-walking-thinkers.md
   - raw/articles/2024-07-aristotle-peripatetic-walking-lessons.md
   - raw/articles/2020-02-five-philosophers-joys-walking.md
+  - raw/articles/2026-10-18-aristotle-ja-wikipedia.md
 sidebar:
   hidden: true
 ---
@@ -48,6 +49,16 @@ sidebar:
 
 ラテン語の格言**「In medio stat virtus（徳は中間にあり）」**の裏側には、広大な庭園で師を囲んで秩序正しく歩く弟子たちの姿があったのかもしれない。
 
+## 残っているのは講義ノート ── 著作の来歴
+
+日本語版Wikipediaによると、アリストテレスの著作は550巻ほどあったとされ、そのうち現存するのは約3分の1にとどまる。しかも現存するのは、リュケイオンでの講義のためのノートや自分用の研究ノートといった専門家向けの書き物ばかりで、公開を想定していなかったから文体が簡潔なのだという。プラトンにならって書いた対話篇など、多くの人に読ませるつもりの公開的著作（『エウデモス』『哲学のすすめ』『正義について』など）は、引用の断片を除いてほぼ失われた。
+
+伝わり方も綱渡りだった。ストラボンが伝える話では、アリストテレスの文庫は弟子のテオプラストスからネレウスへ譲られ、小アジアのスケプシスに運ばれた。後継者たちはアッタロス朝の王に取り上げられるのを恐れて地下倉に隠し、文庫はそこで傷んでいった。前1世紀に収集家アペリコンが買い取って修復し、スッラがローマへ持ち帰ったものを、ロドスのアンドロニコスが内容ごとに分類・配列して公刊した。それが今の『アリストテレス全集』の原型で、論理学（オルガノン）が冒頭に置かれる並びもアンドロニコスに由来すると考えられている。だから今読めるテキストは、本人が意図した形と違う可能性が高い。
+
+## 正義の三つの区別
+
+倫理学では、各人にふさわしい分け前を配る**配分的正義**（幾何学的比例）と、損なわれた均衡を取り戻す裁判官の**矯正的正義**（算術的比例）、それに交換的正義を区別した。法の一般的な文言が個別の事例でずれるときにそれを正す**衡平（エピエイケイア）**の議論は、この正義論の続きにある（[規則と個別事例 ── 衡平とカズイストリー](/topics/writing-theory/equity-and-casuistry/)）。
+
 ## 師たちの系譜
 
 歩きながら教えるスタイルは、アリストテレスだけの専売特許ではなかった。ソクラテスもまた、歩きながら問答を繰り返した。プラトンの『プロタゴラス』では、師が振り向くたびに、後続の弟子たちが秩序正しく二手に分かれて円を描き、また師の背後に整列するという、まるでダンスのような「舗道のバレエ」を見せた様子が描かれている。
@@ -62,6 +73,7 @@ sidebar:
 
 - [モンテーニュ『エセー』](/topics/writing-theory/montaigne-essays/) ── モンテーニュもアリストテレスら古代の「自由な探求」を理想とした。
 - [歩行の哲学（ハブ）](/topics/materials/walking-philosophy/) ── 歩行と哲学の全般的なハブ記事。
+- [規則と個別事例 ── 衡平とカズイストリー](/topics/writing-theory/equity-and-casuistry/) ── 正義を配分・矯正に分けたアリストテレスが、法の文言が一件でずれるときの直し方（衡平）まで考えていた
 - [ニーチェとカント ── 身体の情熱 vs 規律の散歩](/topics/materials/nietzsche-kant-walking/) ── 歩行スタイルの対比としての継承
 - [モンテーニュの身体と老化──エッセイに刻まれた身体化された移行](/topics/writing-theory/montaigne-embodiment-aging/) ── 身体化された認知と歩行教育の接点
 
@@ -70,3 +82,4 @@ sidebar:
 - Carlos. (2024). *Aristotle and His Speeches During His Peripatetic Walks*.
 - Mclaughlan, S. (2026). *How 5 Great Thinkers Found Meaning Through Walking*.
 - Thomas, E. (2020). *Five philosophers on the joys of walking*.
+- [アリストテレス — Wikipedia（日本語版）](https://ja.wikipedia.org/wiki/アリストテレス)

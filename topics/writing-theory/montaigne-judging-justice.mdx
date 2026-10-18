@@ -2,7 +2,7 @@
 title: "モンテーニュと裁くこと ── 元裁判官が『わたしはむしろ裁きを守らなかった』と告白するまで"
 tags: [montaigne, essais, justice, law, torture, wrongful-conviction, judge, writing-theory]
 date: 2026-08-22
-updated: 2026-09-27
+updated: 2026-10-18
 sources: [raw/articles/2026-08-22-montaigne-essais-judging.md]
 confidence: medium
 summary: "宮下志朗の連載第9回を基に、ボルドー高等法院評定官を務めた元裁判官モンテーニュが『裁くこと』をどう考えていたかを読む。法律の恣意性、裁判官の私情、自白誘導と拷問の欺瞞、冤罪への敏感さを『エセー』各所の引用から辿り、最後に『わたしはむしろ裁きを守らなかった』という自身の告白に行き着く。"
@@ -49,6 +49,7 @@ sidebar:
 
 ## See Also
 
+- [規則と個別事例 ── 衡平（エピエイケイア）とカズイストリー](/topics/writing-theory/equity-and-casuistry/) ── 法の一般性と目の前の一件のずれを、法学と倫理学がどう扱ったか。「裁きを守らなかった」の向こう側にある理屈
 - [モンテーニュ『エセー』──自分を知ることと書くことの始まり](/topics/writing-theory/montaigne-essays/) ── 全体像の入口
 - [モンテーニュと『人食い人種』── 野蛮を反転させる、確かな線を引かない書き方](/topics/writing-theory/montaigne-cannibals-barbarism-reversal/) ── 「生きた人間を拷問する方が野蛮」という同じ逆転の論理を、別の章（1・30）で読んだ1本。この記事はその論理が拷問という司法の文脈に向けられた版
 - [モンテーニュと旅 ── 確かな線を引かない生き方と、本当に愛した都市](/topics/writing-theory/montaigne-travel-and-cities/) ── 「確かな線はいっさい引かない」という同じ流儀が、法律という制度に向けられた版

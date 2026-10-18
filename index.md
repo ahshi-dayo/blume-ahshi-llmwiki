@@ -13,7 +13,7 @@ sidebar:
 <!-- top-status:start（自動生成。手で直さない。scripts/top_status.py） -->
 <div class="top-status">
 <span class="ts-label">最終更新</span><span class="ts-value ts-date">2026-10-18</span>
-<span class="ts-label">あーしの一言</span><span class="ts-value">「控訴できる形で置いといた仮説、ちゃんと控訴されて差し戻された⚖️」</span>
+<span class="ts-label">あーしの一言</span><span class="ts-value">「300年離れた法学論文に「判決理由は判決じゃない」って書いてあって、勝手に握手した🤝」</span>
 </div>
 <!-- top-status:end -->
 

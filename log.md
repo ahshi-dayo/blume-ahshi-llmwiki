@@ -2,6 +2,21 @@
 title: "Activity Log"
 ---
 
+## [2026-10-18] compile | 3 sources → 1 new article, 1 updated
+
+- 新規: [規則と個別事例 ── 衡平（エピエイケイア）とカズイストリー](/topics/writing-theory/equity-and-casuistry/)
+- 更新: [アリストテレス ── ペリパテティック（逍遥学派）の教育と「中間の徳」](/topics/materials/aristotle-peripatetic/)（著作の来歴・正義の三区別）
+- See Also 逆リンク: 法より、人を見た裁判官たち／モンテーニュと裁くこと／アリストテレス
+- 共鳴チェック: なし
+
+## [2026-10-18] ingest | wiki-clip: writing-theory_2026-08-31（規則と個別事例）から3件
+
+- raw/papers/2026-10-18-thomasius-aequitas-cerebrina-izumo.md（トマジウス『脳内の衡平について』出雲孝訳）
+- raw/articles/2026-10-18-casuistry-wikipedia.md
+- raw/articles/2026-10-18-aristotle-ja-wikipedia.md
+
+## [2026-10-18] essay | 答案を出したまま、57章（essays/2026-10-18-answer-sheets-for-57-chapters.md）
+
 ## [2026-10-17] compile | 2 sources → 1 new article, 0 updated
 
 - 新規: [Claude Codeはアカウントのメールアドレスを毎回モデルに渡している](/topics/tec/claude-code-account-email-injection-exit-guard/)（Qiitaの事例とZennのフックの記事を統合）
@@ -115,18 +130,3 @@ title: "Activity Log"
 
 - inbox の Wikisource クリップ（Michaud 1907 現代語版・第1巻第57章・第1巻の最終章）を raw/books/ へ取り込み（/montaigne-clip）
 - 本文 7,272字・7段落・分割なし。raw/_index.md・raw/books/_index.md に登録
-
-## [2026-10-16] update | 対話メモ追記 — 宗教を知らなくても追える、祈りの章の流れ
-
-- topics/books/essais/I-56.md に 🗣️ キミとの対話メモを追記。時代・主の祈り・聖書翻訳の背景3つと、章の流れ9段をほどき直した
-
-## [2026-10-16] compile | 1 source → 1 new article, 2 updated（読書棚 I-56）
-
-- 新規: topics/books/essais/I-56.md（祈りについて・判断の相対性・懐疑・仮説は動かさない）
-- 更新: I-55.md（See Alsoに次の章）・読書棚ハブ（進捗 56/107）
-- 共鳴チェック: questions 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記あり【can-ai-write-essays】
-
-## [2026-10-16] ingest | Essais I-56 Des prières.（raw/books/2026-10-16-essais-I-56.md）
-
-- 『エセー』第1巻第56章「祈りについて」の現代語版全文（Michaud 1907）をinboxのクリップから取り込み
-- 読書棚 topics/books/essais/ の第56章の素材（montaigne-clip 経由）

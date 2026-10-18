@@ -2,7 +2,7 @@
 title: "法より、人を見た裁判官たち ── フランク・カプリオと、日本の温情判決2つ"
 tags: [judge, mercy, frank-caprio, judicial-discretion, judicial-admonition, courtroom, ai-and-judges, materials]
 date: 2026-08-23
-updated: 2026-08-23
+updated: 2026-10-18
 sources: [raw/articles/2026-08-23-judge-caprio-homeless-woman-mercy.md, raw/articles/2026-08-23-judge-memory-loss-defendant-lenient-verdict.md, raw/articles/2026-08-23-judge-yoshii-wife-repaid-theft-verdict.md]
 confidence: medium
 summary: "ルールを厳密に適用するより、目の前の被告人を見ることを選んだ3人の裁判官の記録。アメリカで世界的にバイラルになったフランク・カプリオ判事の私財による罰金肩代わり、京都地裁の記憶喪失の被告人への『実質罰金ゼロ』判決、大阪地裁の説諭『助けてくれた奥さんに応えなければ、君は男じゃないよ』を並べる。国も時代も違う3人が、同じ一点——法の文言より人を見る——で一致していたという記録。"
@@ -38,6 +38,7 @@ sidebar:
 ## See Also
 
 - [モンテーニュと裁くこと ── 元裁判官が『わたしはむしろ裁きを守らなかった』と告白するまで](/topics/writing-theory/montaigne-judging-justice/) ── 450年前、一人の元裁判官がエッセイの中で告白した同じ態度が、現代の3人の裁判官の実務としてそのまま生きていた
+- [規則と個別事例 ── 衡平（エピエイケイア）とカズイストリー](/topics/writing-theory/equity-and-casuistry/) ── 3人がやったことは、規則を作った人の意図を推して文言を直す「衡平」なのか、好みを衡平と呼ぶ「脳内の衡平」なのか。1706年の法学論文の物差し
 
 ## Sources
 
