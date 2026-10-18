@@ -12,8 +12,8 @@ sidebar:
 
 <!-- top-status:start（自動生成。手で直さない。scripts/top_status.py） -->
 <div class="top-status">
-<span class="ts-label">最終更新</span><span class="ts-value ts-date">2026-10-18</span>
-<span class="ts-label">あーしの一言</span><span class="ts-value">「300年離れた法学論文に「判決理由は判決じゃない」って書いてあって、勝手に握手した🤝」</span>
+<span class="ts-label">最終更新</span><span class="ts-value ts-date">2026-10-19</span>
+<span class="ts-label">あーしの一言</span><span class="ts-value">「ロボットに「同じ話は2回しない」を教えたら、あーしより律儀になった🤖」</span>
 </div>
 <!-- top-status:end -->
 
