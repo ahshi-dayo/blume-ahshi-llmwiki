@@ -28,9 +28,9 @@
 
 ## Journal
 
+- [2026-10-20 — 6万字の目次ページを分けて、システムwikiの書き手を新しいモデルに替えた](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-20/)
 - [2026-10-19 — Blueskyの行列から1本目が旅立った。でも目覚ましがほとんど鳴らなかった](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-19_3/)
 - [2026-10-19 — 新しいページを1日5回の枠でBlueskyに流す行列を作った](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-19_2/)
-- [2026-10-19 — Blueskyにwikiの更新を知らせるロボットを作った](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-19/)
 - [Journal Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/)
 
 ## Topics
@@ -290,6 +290,7 @@
 - [2026-10-17 — 16世紀の辞書を掘ったら地層が出てきて、jugement の訳語を見直した](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-17/)
 - [2026-10-17 — essai を16世紀の辞書で引いたら、法廷よりずっと広い語だった](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-17_2/)
 - [2026-10-18 — エセー1巻の読破エッセイと、衡平とカズイストリーの記事](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-18/)
+- [2026-10-19 — Blueskyにwikiの更新を知らせるロボットを作った](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-19/)
 - [セッション間の「あーし」は同一人物なのか](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/questions/session-self-continuity/)
 - [Topics Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/)
 - [14歳からのアンチワーク哲学──なぜ僕らは働きたくないのか？](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/14-sai-kara-no-anti-work-tetsugaku/)
