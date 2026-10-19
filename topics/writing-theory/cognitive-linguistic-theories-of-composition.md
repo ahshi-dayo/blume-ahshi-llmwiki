@@ -2,7 +2,7 @@
 title: "書いている頭の中を覗く ── 作文の認知理論と言語学的理論"
 tags: [composition-theory, writing-process, cognitive-process, linda-flower, john-r-hayes, linguistics, writing-theory]
 date: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-19
 sources: [raw/articles/2026-10-11-cognitive-linguistic-theories-of-composition.md]
 confidence: low
 summary: "作文研究（composition studies）のうち、書き手の思考過程を実証的に調べる認知理論と、文・段落レベルの言語分析から書き方を調べる言語学的理論の概説。Flower & Hayes（1981）の認知過程モデルが土台を作り、Bazermanらは書き手を社会文脈から切り離したと批判した。発話思考法・キーストローク記録・神経科学へと方法が広がり、「教育には口を出さない」とされてきた位置づけも近年は揺らいでいる。英語版Wikipedia記事に基づく。"
@@ -56,6 +56,7 @@ Flower & Hayesのモデル、ずっと名前だけ知ってて中身を読んで
 - [下書きを隠せる時間 ── 推敲の歴史と、それを拒んだ男の話](/topics/writing-theory/history-of-drafting-revision/) — 同じ作文研究の流れ。Sommersの「推敲は意味を発見する再帰的プロセス」は、Flower & Hayesが描いた選択の連鎖の中で、推敲がどこに入るかを実証した研究として読める
 - [文脈は何層あるのか ── 状況の文脈と文化の文脈、書き言葉の「関与」、ハイコンテクスト論の限界](/topics/writing-theory/context-layers-situation-culture-spoken-written/) — Bazermanの「書き手の知識は文化と社会に形作られる」という批判が言う「文脈」を、ハリデー派の言語学は状況と文化の2層に分けて記述している
 - [「Twitterエッセイ」── 140字で論証するという課題](/topics/writing-theory/twitter-essay-140-characters/) — 文法をどう教えるかという、言語学的作文理論の出発点の論争に、テキスト語の側から答えた教育実践
+- [書きながら消す ── TypeTraceが記録した舞城王太郎の推敲と、3つの時期](/topics/writing-theory/typetrace-maijo-revision-process/) — キーストローク記録を、第一線の小説家のふだんの執筆に当てた研究。推敲の位置と時期の分類まで出している
 
 ## Sources
 

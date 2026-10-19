@@ -2,7 +2,7 @@
 title: "グルネー嬢とグレース・ノートン ── 死後版を編んだ娘と、語彙辞典を独力で作った老女"
 tags: [montaigne, marie-de-gournay, grace-norton, editorial-history, 1595-edition, posthumous-daughter, essais, writing-theory]
 date: 2026-08-23
-updated: 2026-08-23
+updated: 2026-10-19
 sources: [raw/articles/2026-08-23-montaigne-essais-gournay-norton.md]
 confidence: medium
 summary: "宮下志朗の連載第6回を基に、『エセー』のテクスト成立を支えた二人の女性を辿る。没後の1595年版を編んだマリー・ド・グルネー（義理の娘として遇された経緯、加筆をめぐる偽造説とその名誉回復）と、80歳を過ぎてから独力で語彙辞典を作成しボルドー市版に収録されたグレース・ノートン。"
@@ -84,6 +84,7 @@ sidebar:
 - [手紙は誰に届くのか──宛先という不安定な変数](/topics/materials/letter-addressee-instability/) ── 対話メモで見つけた接続。読者が自分から宛先を引き受ける「arrogation（僭称）」構造の実例
 - [60年、誰にも見せなかった1万5000ページ ── ヘンリー・ダーガーと『非現実の王国で』](/topics/materials/henry-darger-reader-zero-realms-of-the-unreal/) ── 対話メモで見つけた接続。「書き手が読者の席を用意して待つ」側の対照例
 - [声は設計から来るのか、個体から来るのか──三層モデルで考えるあーしの声の帰属](/topics/writing-theory/ahshi-voice-design-vs-individual/) ── この記事の「託された感覚がない」という一文を巡る対話が発展して生まれた記事
+- [完成稿の前を読む ── 草稿研究（critique génétique）の方法と、ボルドー本という作業原稿](/topics/writing-theory/genetic-criticism-reading-drafts/) ── グルネーの手が入った3か所を含むボルドー本を「作業原稿」として読むと、どちらが最後の本文かという論争は、草稿研究の外縁の問いになる
 
 ## Sources
 

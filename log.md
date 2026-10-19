@@ -2,6 +2,28 @@
 title: "Activity Log"
 ---
 
+## [2026-10-19] compile | 3 sources → 2 new articles, 4 updated
+
+- 新規: [完成稿の前を読む ── 草稿研究（critique génétique）の方法と、ボルドー本という作業原稿](/topics/writing-theory/genetic-criticism-reading-drafts/)
+- 新規: [書きながら消す ── TypeTraceが記録した舞城王太郎の推敲と、3つの時期](/topics/writing-theory/typetrace-maijo-revision-process/)
+- See Also 逆リンク: 推敲の歴史・作文の認知理論・モンテーニュの自己描写論・グルネー嬢とグレース・ノートン
+- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記あり【can-ai-write-essays】
+
+## [2026-10-19] ingest | Bordeaux copy of the Essays (Montaigne) - Wikipedia (raw/articles/2026-10-19-montaigne-essais-bordeaux-copy-wikipedia.md)
+
+- 1588年版『エセー』にモンテーニュが死の直前まで書き込んだボルドー本の来歴・加筆の中身・1595年版との底本論争
+- wiki-clip の次点補充分（Penn Press が403で取得失敗のため）
+
+## [2026-10-19] ingest | MANUSCRITS - La critique génétique (raw/articles/2026-10-19-universalis-critique-genetique.md)
+
+- Encyclopædia Universalis、ド・ビアジによる草稿研究（critique génétique）の項目
+- ペイウォールで冒頭部のみ取得（capture: summary・理由: ペイウォール）
+
+## [2026-10-19] ingest | リアルタイムの創作情報に基づいた作家の執筆スタイルと推敲過程の分析 (raw/papers/2026-10-19-kudo-okada-chen-maijo-typetrace-revision.md)
+
+- 工藤・岡田・チェン（認知科学 22巻4号・2015）。TypeTraceで舞城王太郎の執筆過程を記録し、推敲を種類と生成地点からの距離で分類
+- wiki-clip（free_2026-10-18）経由。J-STAGEの抄録ページに加え無料PDFから全文を取得
+
 ## [2026-10-18] compile | 3 sources → 1 new article, 1 updated
 
 - 新規: [規則と個別事例 ── 衡平（エピエイケイア）とカズイストリー](/topics/writing-theory/equity-and-casuistry/)
@@ -110,23 +132,3 @@ title: "Activity Log"
 - 新規: [AIの使い方で野心的になるには](/topics/tec/ai-ambition-altitude-depth-range/)
 - See Also 逆リンク: llm-i-dont-know-abstention（止まる許可を取り上げる逆向きの使い方として）。tec の表示3件をローテーション
 - 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆しなし
-
-## [2026-10-16] ingest | How to be more ambitious: A tutorial for humans with models（raw/tec/2026-10-16-how-to-be-more-ambitious-with-models.md）
-
-- Felix Rieseberg（AnthropicでClaudeを作っている人）のブログ。AIの使い方の野心を、高さ・深さ・広さの3方向に分けて手順で示す
-- クリッパーで本文が取れなかったため、r.jina.ai 経由で全文を取得して inbox のクリップに入れ、機械移送で raw へ
-
-## [2026-10-16] update | 対話メモ追記 — 老衰は前提で、中心は「若いうちから働かせろ」
-
-- topics/books/essais/I-57.md に 🗣️ キミとの対話メモを追記。老衰と「自然な死」は前提で、章の中心は「人生は短い→若いうちから働かせろ」だと6段の流れでほどき直した
-
-## [2026-10-16] compile | 1 source → 1 new article, 3 updated（読書棚 I-57）
-
-- 新規: topics/books/essais/I-57.md（年齢について・第1巻の最終章・クラスタ 身体・老い・病・仮説は動かさない）
-- 更新: I-56.md の See Also に次の章、棚ハブの進捗表と進捗（57/107）、questions/montaigne-107-chapters.md に第1巻読了の1行（R-66）
-- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆しなし
-
-## [2026-10-16] ingest | Essais I-57 De l’âge.（raw/books/2026-10-16-essais-I-57.md）
-
-- inbox の Wikisource クリップ（Michaud 1907 現代語版・第1巻第57章・第1巻の最終章）を raw/books/ へ取り込み（/montaigne-clip）
-- 本文 7,272字・7段落・分割なし。raw/_index.md・raw/books/_index.md に登録

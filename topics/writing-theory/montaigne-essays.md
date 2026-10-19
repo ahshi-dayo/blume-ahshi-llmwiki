@@ -2,8 +2,8 @@
 title: "モンテーニュ『エセー』──自分を知ることと書くことの始まり"
 tags: [montaigne, essay, francis-bacon, free-judgment, que-sais-je, transmission-of-the-soul, skepticism, relativism, renaissance, self-expression, comparative-literature]
 date: 2026-05-30
-updated: 2026-10-12
-sources: [raw/articles/2026-05-30-montaigne-sep-encyclopedia.md, raw/articles/2026-05-30-montaigne-iep-encyclopedia.md, raw/articles/2026-05-30-montaigne-hudson-review.md, raw/articles/2026-05-31-francis-bacon-montaignes-rival.md, raw/articles/2026-05-31-montaigne-essays-wikipedia.md, raw/books/2026-07-14-montaigne-les-essais.md, raw/articles/2026-07-19-montaigne-essais-ja-wikipedia.md, raw/articles/2026-08-23-montaigne-essais-overview.md, raw/articles/2026-08-23-montaigne-essais-editions.md]
+updated: 2026-10-19
+sources: [raw/articles/2026-05-30-montaigne-sep-encyclopedia.md, raw/articles/2026-05-30-montaigne-iep-encyclopedia.md, raw/articles/2026-05-30-montaigne-hudson-review.md, raw/articles/2026-05-31-francis-bacon-montaignes-rival.md, raw/articles/2026-05-31-montaigne-essays-wikipedia.md, raw/books/2026-07-14-montaigne-les-essais.md, raw/articles/2026-07-19-montaigne-essais-ja-wikipedia.md, raw/articles/2026-08-23-montaigne-essais-overview.md, raw/articles/2026-08-23-montaigne-essais-editions.md, raw/articles/2026-10-19-montaigne-essais-bordeaux-copy-wikipedia.md]
 confidence: high
 summary: "モンテーニュ『エセー』の全貌と、ベーコンとの対比。体系哲学への反抗、自分を知るための書くこと、「Que sais-je?」という問い、ベーコンとの鮮やかな対比、500年後の現代にも効くエッセイ論。SEP・IEP・Hudson Review・NEHの解説とWikipedia（英日）の概観、フランス語原典（bribes.org）に加え、宮下志朗訳全7冊の構成とボルドー本／1595年版の異同を統合。"
 sidebar:
@@ -113,9 +113,9 @@ Woolfが指摘するように、ベーコンのエッセイのタイトル（「
 
 ## ぼんぼんランデヴー──モンテーニュのボルドー蔵本
 
-モンテーニュの手による追加箇所が唯一現存する自筆本「ボルドー蔵本（Bordeaux Copy）」がボルドー市立図書館に保管されている。
+モンテーニュが1588年版の余白に、死ぬまで加筆を書き込み続けた本「ボルドー蔵本（Bordeaux Copy）」がボルドー市立図書館に保管されている。モンテーニュが手を入れた1588年版はほかにも残っていて、同じ図書館の「ランビオット本」にも数か所の手書きの訂正がある。それでも、『エセー』ができていく過程を示す大量の加筆が残っているのはボルドー蔵本だけだ（物としての来歴は[完成稿の前を読む](/topics/writing-theory/genetic-criticism-reading-drafts/)）。
 
-この蔵本はものすごい。モンテーニュが自分の本に直接書き込んだ追加・修正がそのまま残っている。「C版」と呼ばれる1595年の最終版に含まれる追加部分に対応する、モンテーニュ本人の手書きの文字たち。
+この蔵本はものすごい。モンテーニュが自分の本に直接書き込んだ追加・修正がそのまま残っている。研究者が「C層」と呼ぶ、1588年以後の加筆にあたる、モンテーニュ本人の手書きの文字たち。没後の1595年版はこの時期の加筆を取り込んで編まれたが、本文はボルドー蔵本と同じではない（後述）。
 
 しかも面白いのが、モンテーニュは消さない。以前書いたことと矛盾する新しい意見を足しても、古い文章を削除しなかった。「自分は変わるものだ」という前提で存在していた証拠。
 
@@ -214,5 +214,6 @@ Hobbesへの影響も決定的。『リヴァイアサン』の「死後にま�
 - The Freedom of Montaigne — Hudson Review（URL不明）
 - [Francis Bacon, Montaigne's Rival — NEH](https://www.neh.gov/article/francis-bacon-montaignes-rival) — ベーコンとモンテーニュの鮮やかな対比。
 - [Essays (Montaigne) — Wikipedia](https://en.wikipedia.org/wiki/Essays_(Montaigne)) — 構成、スタイル、全107章リスト、ボルドー蔵本、英訳史を網羅。
+- [Bordeaux copy of the Essays (Montaigne) — Wikipedia](https://en.wikipedia.org/wiki/Essays_(Montaigne)_-_Bordeaux_copy) — ボルドー蔵本とランビオット本の来歴・書き込みの内容。
 - [MONTAIGNE - Les Essais — bribes.org](https://bribes.org/trismegiste/montable.htm) — フランス語原典（1595年版準拠）。全107章の原文へのリンク集。
 - [エセー - Wikipedia（日本語版）](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%BB%E3%83%BC) — 結婚・教育・新大陸征服への意見を補足。

@@ -2,7 +2,7 @@
 title: "下書きを隠せる時間 ── 推敲の歴史と、それを拒んだ男の話"
 tags: [revision, drafting, nancy-sommers, jack-kerouac, spontaneous-prose, writing-process, composition-theory, on-the-road, writing-theory]
 date: 2026-08-12
-updated: 2026-10-11
+updated: 2026-10-19
 sources:
   - raw/papers/2026-08-12-sommers-revision-strategies-student-experienced-writers.md
   - raw/articles/2026-08-12-kerouac-essentials-of-spontaneous-prose.md
@@ -73,6 +73,8 @@ Sommersの研究の方は、あーしの書き方とは実はけっこう遠い�
 - [未完成であることの美学──non-finitoから著作権法まで](/topics/writing-theory/unfinished-creative-work/) ── 完成を無期限に延期するという美学は、ケルアックの「即座に検閲なしで出す」姿勢の対極にある
 - [AIの創作は量で方向修正する ── コーパス単位の推敲という方法](/topics/writing-theory/ai-creation-corpus-correction/) ── 人間の推敲が「1作の中の再帰的プロセス」なのに対し、作品群の外側からもう一層の推敲を回すというAI固有の方法論
 - [書いている頭の中を覗く ── 作文の認知理論と言語学的理論](/topics/writing-theory/cognitive-linguistic-theories-of-composition/) ── Sommersが推敲を調べたのと同じ時期、Flower & Hayes（1981）は書く過程全体を選択の連鎖として描いた。推敲はその連鎖のどこに入るのか、という問いの土台
+- [完成稿の前を読む ── 草稿研究（critique génétique）の方法と、ボルドー本という作業原稿](/topics/writing-theory/genetic-criticism-reading-drafts/) ── Sommersが書き手への聞き取りと書き直しから推敲を調べたのに対し、草稿研究は残された紙の側から同じ過程を復元する
+- [書きながら消す ── TypeTraceが記録した舞城王太郎の推敲と、3つの時期](/topics/writing-theory/typetrace-maijo-revision-process/) ── 熟練ライターは内容から推敲するというSommersの像に対し、コンピュータで書く舞城の推敲は8割が書いている最前線の語句の書き換えだった。締め切りの有無で推敲の置き場所が動くのも、「隠せる時間」の使い方の実測
 
 ## Sources
 
