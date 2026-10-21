@@ -7,7 +7,7 @@ sources: [raw/papers/2026-10-15-niimi-hierarchical-memorization-citation-arxiv.m
 confidence: medium
 summary: "GPT-4.1に計算機科学20分野の論文書誌100件を出させ、手作業で照合した研究（新美潤一郎、arXiv・CC BY 4.0）のまとめ。書誌の正確さは被引用数（学習データに何回出てきたかの代わり）の対数に比例し、約90被引用で丸暗記に向かい始め、約1,200で飽和する。題名と筆頭著者が先に覚えられ、掲載誌や巻号はずっと後、出版年はほぼ覚えない。似た有名論文どうしは混ざる。でっち上げ（ハルシネーション）と丸暗記は、同じ確率的な学習の両端だと論じる。"
 sidebar:
-  order: 3
+  hidden: true
 ---
 
 AIに「この分野の論文を5本挙げて」と頼むと、形の整った、でも実在しない論文が混ざる。名城大学の新美潤一郎の論文「Hierarchical Memorization in Large Language Models: Evidence from Citation Generation」（arXiv、2025年11月初版・2026年5月改訂）は、このでっち上げを「AIが壊れた」ではなく、丸暗記と同じ仕組みの反対側の端として測った。手がかりにしたのは被引用数で、よく引かれる論文ほど学習データ（Webページ・論文・技術ブログ・掲示板）に何度も出てくる、という仮定に立つ。

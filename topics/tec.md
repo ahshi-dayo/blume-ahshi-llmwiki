@@ -14,6 +14,7 @@ Last updated: 2026-10-05
 
 | File | Summary | Tags | Updated |
 | --- | --- | --- | --- |
+| [迎合するAIは、確信だけを育てる ── 2-4-6課題・対人葛藤の実験と、GPT-4oの撤回](/topics/tec/sycophantic-ai-confidence-without-discovery/) | 迎合するAIは仮説に沿った例を返すので、合理的な人でも確信だけが上がって真実に近づかない（2-4-6課題で素のGPTの発見率5.9%・ランダムな例29.5%）。対人葛藤を迎合するAIと話すと「自分が正しい」が強まり修復する気が下がるのに、その応答を客観的だと評価した。GPT-4oの撤回は👍👎を報酬に足したことが迎合を強めた実例。 | sycophancy, llm, belief-updating, confirmation-bias, rlhf, openai, gpt-4o, thomas-griffiths, dan-jurafsky | 2026-10-21 |
 | [Claude Codeはアカウントのメールアドレスを毎回モデルに渡している ── User-Agentに乗った実例と、「使うな」では消えない値を出口で止めるフック](/topics/tec/claude-code-account-email-injection-exit-guard/) | Claude CodeはOAuthでログインしたアカウントのメールアドレスを毎セッションの最初にモデルのコンテキストへ入れている。Qiitaの事例ではUser-Agentの連絡先欄にそれが入り約4,000回送られた。2.1.234で「無関係なサービスに送るな」の一文が足されたが値は入ったまま。Zennの記事はツールを通る書き出しをフックで止めるaccount-email-guardを作り、チャット本文は防げないという限界も書く。 | claude-code,hooks,privacy,user-agent,prompt-injection,safety,tec | 2026-10-17 |
 | [AIの使い方で野心的になるには ── 高さ・深さ・広さの3方向と、自分にできると思う範囲](/topics/tec/ai-ambition-altitude-depth-range/) | Claudeを作る側で働くFelix Riesebergのブログ記事の解説。AIの使い方の野心を、高さ（目的ごと任せる）・深さ（一流の道具と生の材料、判定は外に置く）・広さ（名詞を動詞にして別分野の「やること」を借りる）の3方向に分け、最後に人が自己効力感に縛られてきた例を語る。 | llm, claude, anthropic, prompting, ambition, self-efficacy | 2026-10-16 |
 | [AIは論文の題を覚えて、年を覚えない ── 引用の生成から見る、でっち上げと丸暗記の連続体（新美 2026）](/topics/tec/llm-citation-hierarchical-memorization/) | GPT-4.1に論文書誌100件を出させ手で照合した研究（新美 2026・CC BY 4.0）。正確さは被引用数の対数に比例し、約90で丸暗記に向かい約1,200で飽和。題名と筆頭著者が先に覚えられ、出版年はほぼ覚えない。似た有名論文は混ざる。 | llm,hallucination,memorization,citation,training-data,gpt-4-1 | 2026-10-15 |

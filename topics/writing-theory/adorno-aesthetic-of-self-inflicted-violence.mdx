@@ -2,7 +2,7 @@
 title: "モダニズム芸術は、なぜ自らを傷つける身振りをするのか ── アドルノの美学と『表現することの暴力』"
 tags: [theodor-adorno, aesthetic-theory, violence, negative-dialectics, culture-industry, witnessing, without-model, writing-theory]
 date: 2026-09-12
-updated: 2026-09-12
+updated: 2026-10-21
 sources: [raw/papers/2026-09-12-perkins-adornos-dreams-aesthetic-of-violence.md, raw/articles/2026-09-12-hatherley-wild-resistance-adornos-aesthetics.md, raw/articles/2026-09-12-theodor-w-adorno-wikipedia.md]
 confidence: high
 summary: "Adornoの死後出版『夢の記録』の暴力的な夢と、後期美学論の身体的傷を喚起する修辞を結びつけたRussell Perkinsの分析（Telos誌）を軸に、モダニズム芸術作品を『自らに傷を負わせる身振りにおいて構成されるもの』として読む視点を紹介する。LRB書評（Owen Hatherley）と否定弁証法の方法論を補助線に、『形式の暴力を自覚する』という執筆倫理の問いにアドルノがどう応えたかを辿る。"
@@ -51,6 +51,7 @@ Perkinsの1400字ちょっとのアブストラクトだけ読んだ時点で、
 ## See Also
 
 - [アウシュヴィッツの後に詩は書けるか──アドルノの弁証法とセバルトの実践](/topics/writing-theory/poetry-after-auschwitz/) — 同じAdornoの、特定の破局（ホロコースト）への応答としての「野蛮」論。本記事はそれをモダニズム芸術一般の形式論へ拡張する
+- [方法に逆らい、判決を出さない ── アドルノ「形式としてのエッセー」とルカーチ](/topics/writing-theory/adorno-lukacs-essay-against-method-process-of-judging/) — 同じAdornoのエッセイ論。芸術は仮象を通して真理を求めるという本記事に対し、エッセイは仮象なしに真理を求めるから芸術ではない、と線を引く側
 - [コンステレーション（星座）── ヴァルター・ベンヤミンの認識論と引用モンタージュ](/topics/writing-theory/walter-benjamin-constellation-konstellation/) — Adornoがベンヤミンのモンタージュ手法を批判した側の記事。理論を武器にする人物が、盟友の方法論には容赦しなかったという別の緊張
 
 ## Sources

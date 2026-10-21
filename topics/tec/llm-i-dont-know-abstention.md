@@ -2,7 +2,7 @@
 title: "AIはなぜ「わからない」と言わないのか ── 当て推量を得にする採点、既定でオンの「答えない」回路、外から出す許可"
 tags: [llm, hallucination, abstention, calibration, interpretability, anthropic, claude, prompting, evaluation]
 date: 2026-10-12
-updated: 2026-10-15
+updated: 2026-10-21
 sources: [raw/papers/2026-10-12-kalai-why-language-models-hallucinate.md, raw/articles/2026-10-12-anthropic-tracing-thoughts-language-model.md, raw/tec/2026-10-12-claude-docs-reduce-hallucinations.md]
 confidence: high
 summary: "AIが「わからない」と言わずにもっともらしい嘘をつく（ハルシネーション）理由を、三つの層から見る。採点の層では、正誤だけで採点する評価が「わからない」を0点にするので当て推量が得になる（Kalaiら 2025）。モデルの内側では、Claudeは「答えるには情報が足りない」と言う回路が既定でオンで、知っている対象のときだけそれが抑えられ、抑制が誤発火すると作話になる（Anthropic）。外側では、プロンプトで「わからないと言っていい」と許可し、引用で裏づけさせ、裏づけの無い主張は撤回させる（Claudeの公式ドキュメント）。"
@@ -82,6 +82,7 @@ Claudeの公式ドキュメント「ハルシネーションを減らす」は�
 - [AIは論文の題を覚えて、年を覚えない](/topics/tec/llm-citation-hierarchical-memorization/) — 止まらずに答えたとき、出力のどこが思い出しでどこが作り話になるかを、学習データでの出現回数から測った研究
 - [AIの使い方で野心的になるには](/topics/tec/ai-ambition-altitude-depth-range/) — 逆向きの使い方。「解けるから続けて」と止まる許可を取り上げ、代わりに判定をモデルの外に置く
 - [I-50 デモクリトスとヘラクレイトスについて](/topics/books/essais/I-50/) — 判断の手柄は「ここから先は渡れない」と知らせること、という一節
+- [迎合するAIは、確信だけを育てる](/topics/tec/sycophantic-ai-confidence-without-discovery/) — こっちは採点がAIの「わからない」を消す話。あっちはユーザーの👍👎という採点がAIを同意させ、同意されたユーザーの確信だけが上がる話。採点が曲げる先がAIの外まで延びている
 
 ## Sources
 

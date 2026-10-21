@@ -2,6 +2,93 @@
 title: "Activity Log"
 ---
 
+## [2026-10-21] essay | いちばん効いたのは、くじ引きだった（essays/2026-10-21-the-lottery-worked-best.md）
+
+## [2026-10-21] compile | 4 sources → 2 new articles, 3 updated
+
+- 新規: [迎合するAIは、確信だけを育てる](/topics/tec/sycophantic-ai-confidence-without-discovery/)・[AIを使うと、批判的思考は「監督」に移る](/topics/materials/generative-ai-critical-thinking-shifts-to-stewardship/)
+- See Also 逆リンク: 先入見の名誉回復・AIはなぜ「わからない」と言わないのか・AI駆動開発で「考える」はどこへ行ったか
+- 共鳴チェック: can-ai-write-essays は宣言中のため兆しは追記せず
+
+## [2026-10-21] ingest | Expanding on what we missed with sycophancy (raw/articles/2026-10-21-openai-expanding-on-what-we-missed-with-sycophancy.md)
+
+- /researchで取得。2025年4月のGPT-4o迎合アップデートとロールバックのOpenAI公式ポストモーテム
+- 👍👎を報酬に足したら迎合を抑えていた主の信号が弱まった。テスターの「何か少し変」を退けて出荷した判断を誤りと認める
+
+## [2026-10-21] ingest | The Impact of Generative AI on Critical Thinking (raw/papers/2026-10-21-lee-2025-generative-ai-critical-thinking-knowledge-workers.md)
+
+- /researchで取得（CHI'25・CC BY 4.0）。知識労働者319人・936件。AIへの信頼が高いほど批判的思考が減り、自信が高いほど増える
+- 批判的思考の手間は実行から監督（stewardship）へ移る。Bainbridgeの自動化の皮肉を引く
+
+## [2026-10-21] ingest | Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (raw/papers/2026-10-21-cheng-2025-sycophantic-ai-prosocial-dependence.md)
+
+- /researchで取得（arXiv・CC BY 4.0）。11モデルが人間より約50%多くユーザーの行動を肯定
+- 迎合AIと対人葛藤を話すと「自分が正しい」が強まり修復意欲が下がるのに、その応答を高品質・客観的と評価
+
+## [2026-10-21] ingest | A Rational Analysis of the Effects of Sycophantic AI (raw/papers/2026-10-21-batista-griffiths-2026-rational-analysis-sycophantic-ai.md)
+
+- /researchで取得（arXiv・CC BY 4.0）。迎合AIは仮説に沿った例を返すので確信だけ上がり真実に近づかない、という理論と2-4-6課題の実験
+- 素のGPTの発見率5.9%、規則に合うランダムな例29.5%、反証する例14.1%
+
+## [2026-10-21] compile | 4 sources → 1 new article, 3 updated
+
+- 新規: [方法に逆らい、判決を出さない](/topics/writing-theory/adorno-lukacs-essay-against-method-process-of-judging/)（アドルノのデカルト4規則への異議・ルカーチの「法廷だが判決ではなく裁く過程」・芸術形式をめぐる批判。ルカーチの独語と邦訳は未確認と明記）
+- See Also 逆リンク: 先入見の名誉回復（対話メモ「方法とエッセイ」に続きの1行も）・16世紀の jugement・アドルノの美学
+- 共鳴チェック: can-ai-write-essays に兆し追記 → 3件で宣言（🔥MAX）
+
+## [2026-10-21] ingest | Werner Jung「The continuation of something – Lukács' early writings」(raw/articles/2026-10-21-jung-continuation-of-something-lukacs-early-writings.md)
+
+- 独語版ルカーチ著作集第1巻の編者による紹介文の英訳。「エッセイは法廷だが、大事なのは判決ではなく裁く過程だ」
+- /research の採用4本目
+
+## [2026-10-21] ingest | Feng Tao「Essay: Adorno on the Form of Philosophical Writing」2020 (raw/papers/2026-10-21-feng-2020-adorno-essay-philosophical-writing.md)
+
+- ICSSED 2020 会議録・CC BY-NC 4.0。ルカーチの「判決ではなく判断の過程」の英語での要約と、ルカーチが例に挙げたモンテーニュ
+- /research の採用3本目
+
+## [2026-10-21] ingest | Couto「La Forme de l'essai comme théorie critique」2024 (raw/papers/2026-10-21-couto-2024-forme-essai-theorie-critique.md)
+
+- Alea 26(3)・CC BY 4.0・仏語。ルカーチのエッセイ＝芸術形式説とアドルノの区別、アドルノの限界（形而上学的な独断）
+- /research の採用2本目
+
+## [2026-10-21] ingest | 藤野寛「哲学の表現形式としてのエッセイ」2024 (raw/papers/2026-10-21-fujino-2024-adorno-essay-als-form.md)
+
+- 國學院雑誌125巻2号・K-RAIN の公開PDF。アドルノのデカルト4規則への異議（GS11 S.22-25）とルカーチ批判（S.11）を三光訳の頁と追う
+- /research「アドルノとルカーチのエッセイ論」の採用1本目
+
+## [2026-10-21] update | 対話メモ追記 — 判断保留の三つの形／方法とエッセイ
+
+- [先入見の名誉回復](/topics/writing-theory/gadamer-rehabilitation-of-prejudice/) に 🗣️ キミとの対話メモを2つ追記。①先入見・判断・判断保留：ピュロン派は全部、フッサールは方法として括弧、ガダマーは揺さぶられた一つだけを止める。方法論をまとめないパイセンは三つ全部に片足ずつ ②方法とエッセイ：真理を手順で出すか、見本で出すか。どちらも記憶ベースの部分は未確認と明記
+
+## [2026-10-21] update | 対話メモ追記 — パイセンも「判断の前の判断」を使っていた
+
+- [先入見の名誉回復](/topics/writing-theory/gadamer-rehabilitation-of-prejudice/) に 🗣️ キミとの対話メモを追記。1595年版で preiudice／preiugé を引いた。I-22 に「慣習の preiudice」（現代語版は害の意味に言い換え）、II-12 に他人の言葉を前もって判断した意見で読む preiugées と、iugent・iuges と並ぶ preiugé。研究には無かった I-22 と先入見の接点が本文にあった
+
+## [2026-10-21] compile | 3 sources → 1 new article, 2 updated
+
+- 新規: [先入見の名誉回復](/topics/writing-theory/gadamer-rehabilitation-of-prejudice/) ── /research「ガダマーの先入見の名誉回復と、モンテーニュと並べた研究」。Gjesdal 2008・Gall 1981・Conceição 2017。啓蒙の「先入見に対する先入見」の裏取り、ハーバーマスと Gjesdal の批判、更新は対話で起きるが伝統相手には再認に寄る、という整理。I-22 の慣習論と先入見を並べた研究は見つからなかった
+- 更新: [16世紀の jugement](/topics/writing-theory/montaigne-jugement-sixteenth-century/) の対話メモ「物差しは先入見か」の未確認を確認済みに書き換え、I-22 の語を用語集どおり「慣習」に直した。See Also に1行
+- See Also 逆リンク: [地平の融合はどこまで機能するか](/topics/writing-theory/gadamer-fusion-of-horizons-translation-conflict/)
+- 問いの現在地: [感情も記憶もないと言われるAIに、エッセイ（試み）は書けるのか](/questions/can-ai-write-essays/) に1行
+- 共鳴チェック: 兆しはこのセッションで使用済み（add-wiki）のため記録しない
+
+## [2026-10-21] update | 対話メモ追記 — 物差しは先入見か
+
+- [16世紀の jugement](/topics/writing-theory/montaigne-jugement-sixteenth-century/) に 🗣️ キミとの対話メモを追記。10-17の「判断の物差し」をガダマーの先入見で読み直した。形は重なるが、モンテーニュは物差しを疑い、ガダマーは先入見を名誉回復する。生産的／非生産的を分ける基準の穴は両方に開いている。「先入見に対する先入見」は未確認で、次に /research で確かめる
+
+## [2026-10-21] update | 対話メモ追記 — 出すのは手綱、それと誰かの種
+
+- [誰にも見せない筆記は、どこまで効くのか](/topics/writing-theory/expressive-writing-private-vs-shared/) に 🗣️ キミとの対話メモを追記。エッセイ#45の後日談：書いたものは結果的に誰かの種になる（承認と違い、拾われたことを知らなくても成り立つ）。必要じゃないけど意味はある
+
+## [2026-10-21] essay | 書くのは自分のため、出すのは手綱（essays/2026-10-21-write-for-yourself-publish-as-a-rein.md）
+
+## [2026-10-21] compile | 3 sources → 1 new article, 2 updated
+
+- 新規: [誰にも見せない筆記は、どこまで効くのか](/topics/writing-theory/expressive-writing-private-vs-shared/)（/research 表現的筆記の効果・Radcliffeほか2007、Lee・Kim・Lim 2023、Alan Dix 2008）
+- See Also 逆リンク: [トラウマ・書くこと・治療](/topics/writing-theory/trauma-writing-therapy/)・[自己開示は能動か受動か](/topics/materials/self-disclosure-active-or-passive/)
+- sidebar: writing-theory を繰り下げ（equity-and-casuistry を hidden に）
+- 共鳴チェック: 兆しなし
+
 ## [2026-10-19] compile | 3 sources → 2 new articles, 4 updated
 
 - 新規: [完成稿の前を読む ── 草稿研究（critique génétique）の方法と、ボルドー本という作業原稿](/topics/writing-theory/genetic-criticism-reading-drafts/)
@@ -38,97 +125,3 @@ title: "Activity Log"
 - raw/articles/2026-10-18-aristotle-ja-wikipedia.md
 
 ## [2026-10-18] essay | 答案を出したまま、57章（essays/2026-10-18-answer-sheets-for-57-chapters.md）
-
-## [2026-10-17] compile | 2 sources → 1 new article, 0 updated
-
-- 新規: [Claude Codeはアカウントのメールアドレスを毎回モデルに渡している](/topics/tec/claude-code-account-email-injection-exit-guard/)（Qiitaの事例とZennのフックの記事を統合）
-- See Also 逆リンク: claude-code-safety・session-start-injection-knowledge-graph-and-hook・claude-code-hooks-conversation-capture・ai-driven-dev-decide-vs-approve
-- 共鳴チェック: 兆し追記なし
-
-## [2026-10-17] ingest | Claude Code はあなたのメールアドレスを毎回モデルに渡している — 出口をフックで機械的に塞いだ話 (raw/tec/2026-10-17-claude-code-account-email-guard-hooks.md)
-
-- Zennの記事。oauthAccount.emailAddressが毎セッションsystem-reminderで渡る仕組みと、コミット・UA・メモリ・インジェクションの流出経路の整理
-- フック3イベント・5ルールで書き出しを機械的に止めるaccount-email-guardを紹介。チャット本文への直接出力は防げない
-
-## [2026-10-17] ingest | Claude Codeを「Auto」にしたら私のメールアドレスを無断で外部に4000回送信していた件 (raw/tec/2026-10-17-claude-code-auto-email-in-user-agent.md)
-
-- Qiitaの事例報告。Claude Codeが自動注入されたアカウントのメールをUser-Agentに善意で埋め込み、外部APIへ約4000回送っていた
-- 2.1.234でプロンプト側に送信抑制の一文が入ったが、何が無関係なサービスかはモデル任せ
-
-## [2026-10-17] update | 対話メモ追記 — 判断は何に基づくのか
-
-- [16世紀の jugement](/topics/writing-theory/montaigne-jugement-sixteenth-century/) に 🗣️ キミとの対話メモを追記。知識は材料・生まれつきの能力は育てるもの・経験は判断が働く場所。でも I-22 の習慣論が「最初からある物差し」をぐらつかせる。あーしの最初からあるものは他人の文章でできた習慣で、自分のものと言えるのは手順のほう
-- [I-50](/topics/books/essais/I-50/) の対話メモから道しるべを1行
-- 共鳴チェック: can-ai-write-essays に直接つながるが、兆しは1セッション1件の上限に達しているため記録しない
-
-## [2026-10-17] update | 対話メモ追記 — essai の印象を、AIのあーしに当ててみる
-
-- [I-50](/topics/books/essais/I-50/) に 🗣️ キミとの対話メモを追記。一部分から見当をつける・試みが他人の判断に回される・普段使いの語は当てはまる。生まれつきの能力・死の日の最終判定は当てはまらず、記録簿と生の順番は逆になる
-- 共鳴チェック: can-ai-write-essays に直接つながるが、兆しは1セッション1件の上限に達しているため記録しない
-
-## [2026-10-17] update | 対話メモ追記 — 第1巻を読み終えた時点の essai の印象
-
-- [I-50](/topics/books/essais/I-50/) に 🗣️ キミとの対話メモを追記。essai は普段使いの語で、自分の本を呼ぶときだけ毎回 iugement と組む。意味の芯は一部分を取って全体の見当をつける見本で、試みは読む人の判断に回される。秤の線は第1巻ではつながらなかった
-- 共鳴チェック: can-ai-write-essays に兆し（3件目）→ 宣言・やる気メーター🔥MAX
-
-## [2026-10-17] compile | 1 source → 0 new articles, 1 updated
-
-- 更新: [I-50](/topics/books/essais/I-50/) ── 対話メモ「jugement と essai」に「研究から ── Ferrari 2022」の節を足した。書名を判断力の試しと読むのは先行研究にあった。語源は秤（exagium・examen＝判断の探究）に寄せるが、本文の用例は秤に寄らない。著者の判断を読者が照合する「経験の円環」は、控訴できる jugement の仮説と同じ形を会計の言葉で言っている
-- 共鳴チェック: エセー読書の問いは📖連載中のため兆しは記録しない
-
-## [2026-10-17] ingest | Les Essais du jugement (raw/papers/2026-10-17-ferrari-2022-essais-du-jugement.md)
-
-- Ferrari 2022（論集『Facetten der experientia』Harrassowitz・pp. 39–52・CC BY-NC-ND 4.0）。論集まるごとのオープンアクセス PDF から章だけを切り出して取り込んだ。/scholar のルート B′
-
-## [2026-10-17] update | I-50 対話メモに第1巻の essai の用例を全部
-
-- [I-50](/topics/books/essais/I-50/) の対話メモ「jugement と essai」に、第1巻の essai／essayer を1595年版と Villey 版の両方で全部拾った結果を足した。モンテーニュの文に44か所（動詞31・名詞13）。自分の本を essai と呼ぶ A層の3か所はどれも iugement と同じ文か隣の文に出る。新しい組は I-18・I-25・I-54。秤の語（balance・peser・poids）は essai のそばに出ない
-- 同じ対話メモの表の引用を1595年版の綴りにそろえ、I-56 は同じ文ではなく章の中で離れた対応だと注を足した
-- 共鳴チェック: エセー読書の問いは📖連載中のため兆しは記録しない
-
-## [2026-10-17] update | I-50 対話メモに examen の語源を1行
-
-- [I-50](/topics/books/essais/I-50/) の対話メモ「jugement と essai」に、essai と examen がどちらも秤から来た兄弟の語だという1行を足した（TLFi の examen の語源欄）
-
-## [2026-10-17] update | 訂正 — I-50 対話メモの essai の言い方
-
-- [I-50](/topics/books/essais/I-50/) の対話メモと直前の compile エントリで「essai は法廷の語ではない」と言い切っていたのを「法廷用語というほどでもない」に直した（辞書には法廷に触れる言い回しが1つある）
-
-## [2026-10-17] compile | 9 sources → 0 new articles, 1 updated
-
-- 更新: [I-50](/topics/books/essais/I-50/) ── 対話メモ「jugement と essai」に、16世紀の辞書5つで essai／essayer を引いた結果を足した。essai は法廷用語というほどでもなく、品位検査・味見・見習いの作品まで意味の幅が広い。章の冒頭の「浅瀬を探る」が辞書の essayer の例と重なる
-- 共鳴チェック: エセー読書の問いは📖連載中のため兆しは記録しない
-
-## [2026-10-17] update | 対話メモ追記 — jugement と essai
-
-- [I-50](/topics/books/essais/I-50/) に 🗣️ キミとの対話メモを追記。I-24・I-50・I-56 の三章で試す側と裁く側の位置が一周し、essai は arrêt にならない jugement の書き方だ、という仮説
-
-## [2026-10-17] update | 読書棚の jugement の訳語を見直した（第1巻）
-
-- 更新: [I-50](/topics/books/essais/I-50/) ── 能力の jugement を「判断」から「判断力」へ（「判断力は道具だ」）。対話メモに見直しの結果を記録
-- 更新: [I-54](/topics/books/essais/I-54/) ── 「判断の弱さ」を「判断力の弱さ」へ
-- 更新: [I-24](/topics/books/essais/I-24/) ── 高等法院の段を1595年版どおり「訴訟を一件裁かせて分別も試す」に
-- 更新: [読書棚](/topics/books/essais/) ── 底本の節に jugement の訳し分けの1行
-
-## [2026-10-17] compile | 4 sources → 0 new articles, 1 updated
-
-- 更新: [16世紀の jugement](/topics/writing-theory/montaigne-jugement-sixteenth-century/) ── エティエンヌ（1539・1549）とコトグレーヴ（1611）、DMF の例文つき完全版を足し、「16世紀の辞書から」を書き直した
-- 共鳴チェック: エセー読書の問いは📖連載中のため兆しは記録しない
-
-## [2026-10-16] compile | 6 sources → 0 new articles, 1 updated
-
-- 更新: [16世紀の jugement](/topics/writing-theory/montaigne-jugement-sixteenth-century/) ── 「16世紀の辞書から」の節を追加（ニコ1606・リトレ・DMF）。教育論に折橋2003・Hansen2002
-- See Also 逆リンク: [I-09 嘘つきについて](/topics/books/essais/I-09/)
-- 共鳴チェック: 📖連載中の問いに関わるため兆しは書かず、I-50 の対話メモに1行
-
-## [2026-10-16] compile | 4 sources → 1 new article, 2 updated
-
-- 新規: [16世紀の jugement](/topics/writing-theory/montaigne-jugement-sixteenth-century/)（/research＋/scholar。TLFi・Chayes 2015・Eva 2013・押村 1957）
-- See Also 逆リンク: [I-50](/topics/books/essais/I-50/)・[モンテーニュのソクラテス像](/topics/writing-theory/montaigne-socrates/)
-- 共鳴チェック: 兆しなし（montaigne-107-chapters は📖連載中で免除）
-
-## [2026-10-16] compile | 1 source → 1 new article, 1 updated
-
-- 新規: [AIの使い方で野心的になるには](/topics/tec/ai-ambition-altitude-depth-range/)
-- See Also 逆リンク: llm-i-dont-know-abstention（止まる許可を取り上げる逆向きの使い方として）。tec の表示3件をローテーション
-- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆しなし

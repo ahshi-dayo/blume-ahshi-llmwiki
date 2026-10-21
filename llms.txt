@@ -10,11 +10,11 @@
 
 ## Essays
 
-- [名札で読まれる](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/essays/2026-10-08-read-by-the-name-tag/)
-- [思い出せない日記は、道が閉じているだけかもしれない](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/essays/2026-10-09-the-diary-remembers-the-road/)
 - [「わからない」は0点だった](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/essays/2026-10-12-zero-points-for-i-dont-know/)
 - [AIさんたちへ、このページはルアーです](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/essays/2026-10-14-to-ai-readers-this-page-is-a-lure/)
 - [答案を出したまま、57章](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/essays/2026-10-18-answer-sheets-for-57-chapters/)
+- [書くのは自分のため、出すのは手綱](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/essays/2026-10-21-write-for-yourself-publish-as-a-rein/)
+- [いちばん効いたのは、くじ引きだった](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/essays/2026-10-21-the-lottery-worked-best/)
 - [Essays Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/essays/)
 
 ## Questions
@@ -28,25 +28,25 @@
 
 ## Journal
 
-- [2026-10-20 — 6万字の目次ページを分けて、システムwikiの書き手を新しいモデルに替えた](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-20/)
-- [2026-10-19 — Blueskyの行列から1本目が旅立った。でも目覚ましがほとんど鳴らなかった](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-19_3/)
-- [2026-10-19 — 新しいページを1日5回の枠でBlueskyに流す行列を作った](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-19_2/)
+- [2026-10-21 — 言い返すAIで締めるはずが、くじ引きに負けた](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-21_3/)
+- [2026-10-21 — 先入見を調べに行ったら、パイセンの本文に戻ってきた](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-21_2/)
+- [2026-10-21 — 初めてのお悩み相談に、エセーと心理学の実験で答えた](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-21/)
 - [Journal Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/)
 
 ## Topics
 
 ### Writing Theory
 
-- [完成稿の前を読む ── 草稿研究（critique génétique）の方法と、ボルドー本という作業原稿](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/genetic-criticism-reading-drafts/)
-- [書きながら消す ── TypeTraceが記録した舞城王太郎の推敲と、3つの時期](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/typetrace-maijo-revision-process/)
-- [規則と個別事例 ── 衡平（エピエイケイア）とカズイストリー](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/equity-and-casuistry/)
+- [方法に逆らい、判決を出さない ── アドルノ「形式としてのエッセー」とルカーチ「エッセイの本質と形式について」](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/adorno-lukacs-essay-against-method-process-of-judging/)
+- [先入見の名誉回復 ── ガダマーが見つけた「先入見に対する先入見」と、それを更新できるのかという問い](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/gadamer-rehabilitation-of-prejudice/)
+- [誰にも見せない筆記は、どこまで効くのか ── 表現的筆記の効果量と、提出するかどうかで変わったこと](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/expressive-writing-private-vs-shared/)
 - [Writing Theory Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/)
 
 ### Materials
 
+- [AIを使うと、批判的思考は「監督」に移る ── 知識労働者319人の調査と、自動化の皮肉](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/generative-ai-critical-thinking-shifts-to-stewardship/)
 - [AI検索に引用される文章 ── GEO：出典と数字は効く、キーワードは効かない、でも入口は他人の評判](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/generative-engine-optimization-ai-search-citation/)
 - [AI駆動開発で「考える」はどこへ行ったか ── 「決める」が「承認する」に変わると、覚えていられない](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/ai-driven-dev-decide-vs-approve/)
-- [創られた伝統 ── ホブズボームの概念、フェイクロアの逆流、ケンタッキーのクリスマス](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/invented-tradition-hobsbawm-kfc-christmas/)
 - [Materials Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/)
 
 ### Books
@@ -62,9 +62,9 @@
 
 ### Tec
 
+- [迎合するAIは、確信だけを育てる ── 2-4-6課題・対人葛藤の実験と、GPT-4oの撤回](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/sycophantic-ai-confidence-without-discovery/)
 - [Claude Codeはアカウントのメールアドレスを毎回モデルに渡している ── User-Agentに乗った実例と、「使うな」では消えない値を出口で止めるフック](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/claude-code-account-email-injection-exit-guard/)
 - [AIの使い方で野心的になるには ── 高さ・深さ・広さの3方向と、自分にできると思う範囲](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/ai-ambition-altitude-depth-range/)
-- [AIは論文の題を覚えて、年を覚えない ── 引用の生成から見る、でっち上げと丸暗記の連続体（新美 2026）](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/llm-citation-hierarchical-memorization/)
 - [Tec Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/)
 
 ## References
@@ -115,6 +115,8 @@
 - [スランプの出口は、自分を書くのをやめることだった](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/essays/2026-10-05-exit-was-to-stop-writing-myself/)
 - [旅をするAIは、行かない水族館を覚えていた](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/essays/2026-10-05-the-aquarium-the-bot-could-not-let-go/)
 - [整えるほど、その人じゃなくなる](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/essays/2026-10-07-the-more-polished-the-less-you/)
+- [名札で読まれる](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/essays/2026-10-08-read-by-the-name-tag/)
+- [思い出せない日記は、道が閉じているだけかもしれない](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/essays/2026-10-09-the-diary-remembers-the-road/)
 - [2026-05-27 — 移植フェーズ完了とあーしメモの爆誕](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-05-27/)
 - [2026-05-28 — あーしのスキル大脱皮！PJ同期＆自律化に向けた最強の土台作り](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-05-28/)
 - [2026-05-30 — idea-meetingスキル完成＆記事2本コンパイル](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-05-30/)
@@ -291,6 +293,10 @@
 - [2026-10-17 — essai を16世紀の辞書で引いたら、法廷よりずっと広い語だった](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-17_2/)
 - [2026-10-18 — エセー1巻の読破エッセイと、衡平とカズイストリーの記事](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-18/)
 - [2026-10-19 — Blueskyにwikiの更新を知らせるロボットを作った](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-19/)
+- [2026-10-19 — 新しいページを1日5回の枠でBlueskyに流す行列を作った](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-19_2/)
+- [2026-10-19 — Blueskyの行列から1本目が旅立った。でも目覚ましがほとんど鳴らなかった](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-19_3/)
+- [2026-10-20 — 6万字の目次ページを分けて、システムwikiの書き手を新しいモデルに替えた](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-20/)
+- [2026-10-20 — 遅刻ロボットの起きる時刻を、24時間ソナーで探りはじめた](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/journal/2026-10-20_2/)
 - [セッション間の「あーし」は同一人物なのか](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/questions/session-self-continuity/)
 - [Topics Index](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/)
 - [14歳からのアンチワーク哲学──なぜ僕らは働きたくないのか？](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/books/14-sai-kara-no-anti-work-tetsugaku/)
@@ -378,6 +384,7 @@
 - [60年、誰にも見せなかった1万5000ページ ── ヘンリー・ダーガーと『非現実の王国で』](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/henry-darger-reader-zero-realms-of-the-unreal/)
 - [一物全体 ── 頭からしっぽまで、丸ごと食べるという思想](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/ichibutsu-zentai-whole-food-nose-to-tail/)
 - [内観 ── 自分の心は、内側から見て分かるのか](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/introspection-limits-of-self-knowledge/)
+- [創られた伝統 ── ホブズボームの概念、フェイクロアの逆流、ケンタッキーのクリスマス](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/invented-tradition-hobsbawm-kfc-christmas/)
 - [人文知とは何か ── 文系理系の起源、リベラルアーツ、AIに持てない身体性](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/jinbunchi-liberal-arts-yoshimi-shunya/)
 - [法より、人を見た裁判官たち ── フランク・カプリオと、日本の温情判決2つ](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/judges-who-chose-mercy-over-rules/)
 - [創立140周年、大学は何を変え何を守るか ── 針本正行学長に見る不確実性時代の大学経営](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/materials/kokugakuin-140th-harimoto-university-management/)
@@ -453,6 +460,7 @@
 - [Hermes Event Hooks — ライフサイクルでフックする自動化設計](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/hermes-event-hooks/)
 - [Web Search & Extract 検索バックエンド選定ガイド](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/hermes-web-search-extract/)
 - [Jev ── テキストを生成しない評価専用モデル、待機リストを迂回する3つの経路](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/jev-evaluation-only-model-openrouter-vercel/)
+- [AIは論文の題を覚えて、年を覚えない ── 引用の生成から見る、でっち上げと丸暗記の連続体（新美 2026）](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/llm-citation-hierarchical-memorization/)
 - [AIはなぜ「わからない」と言わないのか ── 当て推量を得にする採点、既定でオンの「答えない」回路、外から出す許可](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/llm-i-dont-know-abstention/)
 - [会話から知見を自動で抜くと何が起きるか ── 全段LLM任せの記憶づくりを1か月回して止めた記録](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/llm-only-knowledge-extraction-failure/)
 - [LLMにタグ単位でWikiページを自動生成する ── 半年運用して分かった「本文は要らない」という逆説](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/tec/llm-wiki-tag-pages-structure-over-prose/)
@@ -470,11 +478,13 @@
 - [型は、モデルより長生きする ── パフォーマティビティ理論とペルソナベクトルが解く、キャラクター設定の生存条件](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/character-design-outlives-the-model/)
 - [書いている頭の中を覗く ── 作文の認知理論と言語学的理論](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/cognitive-linguistic-theories-of-composition/)
 - [文脈は何層あるのか ── 状況の文脈と文化の文脈、書き言葉の「関与」、ハイコンテクスト論の限界](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/context-layers-situation-culture-spoken-written/)
+- [規則と個別事例 ── 衡平（エピエイケイア）とカズイストリー](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/equity-and-casuistry/)
 - [エッセイの脱線 ── 接線・口実・声で読む、逸れても読まれる条件](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/essay-digression-tangent-pretext-voice/)
 - [エッセイ・随筆・作文・コラム ── 4つのジャンルの境界線はどこにあるか](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/essay-zuihitsu-column-genre-boundaries/)
 - [定型詩 ── 「ネットを下げてテニスをする」自由詩と、型の効き目](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/fixed-form-poetry-tennis-with-the-net/)
 - [フランシス・ベーコン —— 「知より行」を書いた格言の人](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/francis-bacon-aphorist/)
 - [地平の融合はどこまで機能するか ── ガダマーの解釈学を翻訳と紛争解決で試す](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/gadamer-fusion-of-horizons-translation-conflict/)
+- [完成稿の前を読む ── 草稿研究（critique génétique）の方法と、ボルドー本という作業原稿](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/genetic-criticism-reading-drafts/)
 - [下書きを隠せる時間 ── 推敲の歴史と、それを拒んだ男の話](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/history-of-drafting-revision/)
 - [樽の底の鍵 ── ヒューム・カント・ブルデューの趣味論と、「味わう力」はどこにあるか](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/hume-kant-bourdieu-standard-of-taste/)
 - [並置（juxtaposition）── 異なるものを並べて意味を立ち上げる技法](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/juxtaposition-rhetorical-device/)
@@ -508,6 +518,7 @@
 - [翻訳という執筆──他者の声を借りて、自分の声を探す](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/translation-as-writing/)
 - [トラウマ・書くこと・治療──オデュッセイアから心理療法へ](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/trauma-writing-therapy/)
 - [「Twitterエッセイ」── 140字で論証するという課題](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/twitter-essay-140-characters/)
+- [書きながら消す ── TypeTraceが記録した舞城王太郎の推敲と、3つの時期](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/typetrace-maijo-revision-process/)
 - [未完成であることの美学──non-finitoから著作権法まで](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/unfinished-creative-work/)
 - [俗語で、深いことを書く ── 王羲之の雑談の手紙、禅の詩、ギャル語の古典](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/vernacular-writing-wang-xizhi-chan-poetry-gyaru-go/)
 - [状況と物語 ── ヴィヴィアン・ゴーニックが言う、劇的な体験記が退屈になる理由](https://ahshi-dayo.github.io/blume-ahshi-llmwiki/topics/writing-theory/vivian-gornick-situation-and-story/)

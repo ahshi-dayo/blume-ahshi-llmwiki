@@ -8,6 +8,7 @@ sidebar:
 
 | File | Summary | Tags | Updated |
 | --- | --- | --- | --- |
+| [AIを使うと、批判的思考は「監督」に移る ── 知識労働者319人の調査と、自動化の皮肉](/topics/materials/generative-ai-critical-thinking-shifts-to-stewardship/) | 知識労働者319人・936件の調査（CHI'25）。AIがうまくやると思う作業ほど批判的思考は少なく、自分でできると思う作業ほど多い。手間は、集める→確かめる、解く→組み込む、作業する→監督する（stewardship）へ移る。Bainbridgeの自動化の皮肉を引き、「人間は監督に回ればいい」を、監督する力はどこで育つのかという問いに戻す。 | generative-ai, critical-thinking, knowledge-work, cognitive-offloading, ironies-of-automation, stewardship, lisanne-bainbridge | 2026-10-21 |
 | [AI検索に引用される文章 ── GEO：出典と数字は効く、キーワードは効かない、でも入口は他人の評判](/topics/materials/generative-engine-optimization-ai-search-citation/) | AI検索に引用させる工夫GEOの2論文。出典・引用・統計を足すと回答での目立ち方が最大4割上がり、キーワード詰め込みは効かない（Aggarwalほか KDD 2024）。ただしそれは検索上位に入った後の話で、AI検索が引く先は第三者の権威ある媒体と大手に偏る（Chenほか 2025）。 | generative-engine-optimization, ai-search, seo, citation, earned-media, llm, materials | 2026-10-14 |
 | [AI駆動開発で「考える」はどこへ行ったか ── 「決める」が「承認する」に変わると、覚えていられない](/topics/materials/ai-driven-dev-decide-vs-approve/) | 仕様までAIに任せる開発で仕事に飽きた理由は、仕様の小さな決定をAIが下し人は承認するだけになったこと。承認しただけのことは覚えていないので「AIに聞けばいい」になる。重要な決定はAIと対話して自分で決める、という付き合い方。 | ai-driven-development,spec-driven-development,generative-ai,decision-making,review | 2026-10-13 |
 | [創られた伝統 ── ホブズボームの概念、フェイクロアの逆流、ケンタッキーのクリスマス](/topics/materials/invented-tradition-hobsbawm-kfc-christmas/) | 「昔からある」習慣の多くは近代に作られた、というホブズボームとレンジャーの「創られた伝統」。三つの働き、儀礼化、広告由来の話が口承に戻るフェイクロア、本物と作り物は分けられるかという批判をまとめ、日本のケンタッキー・クリスマスを商業発で根づいた例として並べる。 | invented-tradition, eric-hobsbawm, fakelore, folklore, ritual, nationalism, kfc, christmas, marketing | 2026-10-12 |

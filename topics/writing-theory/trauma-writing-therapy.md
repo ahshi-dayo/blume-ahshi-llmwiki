@@ -122,6 +122,7 @@ Koga の「黒いクレープしかなかった生地屋」の比喩が好きだ
 - [Perspective Taking in Writing — 他者の視点を理解することの力](/topics/writing-theory/perspective-taking-writing/) — 他者の視点に入り込むことと、トラウマを「外から」書くことのあいだ
 - [自己開示は能動か受動か ── 開示と応答性、ジョハリの窓、アサーティブネスの第三の軸](/topics/materials/self-disclosure-active-or-passive/) — ペネベーカーの筆記開示パラダイムを含む、自己開示の心理学。書くことを自己開示の一形態として位置づけ、セラピーでの開示の効果とリスクも扱う
 - [状況と物語 ── ヴィヴィアン・ゴーニックが言う、劇的な体験記が退屈になる理由](/topics/writing-theory/vivian-gornick-situation-and-story/) — 書き手の治療の側に対して、読者の側から「つらい体験を並べるだけでは文章にならない」と言う回想録作家の議論
+- [誰にも見せない筆記は、どこまで効くのか ── 表現的筆記の効果量と、提出するかどうかで変わったこと](/topics/writing-theory/expressive-writing-private-vs-shared/) — 「書くことは治療か」の論争に、実験の数字で答える側の記事。効果は補正すると0.16と小さく、気分の改善は読み手がいるときに出やすかった
 
 ## Sources
 

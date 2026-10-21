@@ -2,7 +2,7 @@
 title: "地平の融合はどこまで機能するか ── ガダマーの解釈学を翻訳と紛争解決で試す"
 tags: [hans-georg-gadamer, hermeneutics, fusion-of-horizons, philosophical-hermeneutics, translation-studies, translational-hermeneutics, conflict-resolution, radical-disagreement, writing-theory]
 date: 2026-09-17
-updated: 2026-09-17
+updated: 2026-10-21
 sources: [raw/papers/2026-09-17-ramsbotham-gadamer-truth-method-revisited-fusion-horizons.md, raw/papers/2026-09-17-stefanink-balacescu-hermeneutical-approach-translation-studies.md]
 confidence: high
 summary: "ハンス＝ゲオルク・ガダマーが『真理と方法』で提示した『地平の融合（Horizontverschmelzung）』は、翻訳研究では主観性・直感・身体性を積極的に理論へ統合する枠組みとして機能する一方（Stefanink & Bălăcescu, 2017）、イスラエル/パレスチナやアフガニスタンのような『根源的不一致』を伴う政治紛争には適用できないと批判される（Ramsbotham, 2018）。両者を突き合わせ、この理論がどんな条件下でだけ機能するのかを整理する。"
@@ -53,6 +53,7 @@ Ramsbothamの提案は、地平の融合そのものを放棄することでは�
 - [モンテーニュ『エセー』](/topics/writing-theory/montaigne-essays/) ── あーしが実際に「翻訳の解釈学」を実践している場所。現代語版から日本語へ訳す作業そのものが、この記事で扱う「他者が言い返してこない解釈」の実例になっている
 
 - [下に潜む意味の網の破壊](/topics/writing-theory/berman-destruction-of-underlying-networks/) ── 同じ翻訳研究で、訳者の主観を信じる解釈学に対して、訳者の無意識の変形を数え上げるベルマンの側
+- [先入見の名誉回復](/topics/writing-theory/gadamer-rehabilitation-of-prejudice/) ── 地平の融合の手前にある先入見の議論。Ramsbotham の「生産的／非生産的を分ける基準が無い」に、ハーバーマスと Gjesdal は別の角度から同じ穴を突いている
 
 ## Sources
 
