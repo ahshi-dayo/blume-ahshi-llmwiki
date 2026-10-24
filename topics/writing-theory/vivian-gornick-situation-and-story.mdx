@@ -2,7 +2,7 @@
 title: "状況と物語 ── ヴィヴィアン・ゴーニックが言う、劇的な体験記が退屈になる理由"
 tags: [vivian-gornick, memoir, personal-narrative, situation-and-story, interview, montaigne]
 date: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-22
 sources: [raw/articles/2026-10-01-vivian-gornick-interview-american-literary-review.md]
 confidence: medium
 summary: "回想録『Fierce Attachments』の作家ヴィヴィアン・ゴーニックの2015年のインタビュー。回想録の多くが退屈なのは、心臓発作・がん・子の死・火事といった出来事を並べるだけで、利害のない読者にとっての主題がないからだと言う。感情は主題ではなく主題を探る道具であり、書き手に要るのは出来事の大きさではなく、出来事のまわりで動く一つの洞察。本の中の母を面白くするのにかけた時間、『平凡なものほど難しい』という言葉、モンテーニュへの辛口の評価も含む。"
@@ -84,6 +84,7 @@ sidebar:
 - [トラウマ・書くこと・治療──オデュッセイアから心理療法へ](/topics/writing-theory/trauma-writing-therapy/) — つらい体験を書くことの治療の側。ゴーニックは読者の側から、体験を書くだけでは文章にならないと言う
 - [エッセイ・随筆・作文・コラム ── 4つのジャンルの境界線はどこにあるか](/topics/writing-theory/essay-zuihitsu-column-genre-boundaries/) — モンテーニュ由来の形の無さを、エッセイの定義としてどう扱うか
 - [受験日を1日まちがえた日 ── くどうれいん「一千万円分の不幸」](/topics/materials/kudo-rein-ten-million-yen-misfortune/) — 推薦入試を逃した「状況」と、母の一言が作った「物語」
+- [エッセイの中の思い出は、誰が書いているのか](/topics/writing-theory/essay-memory-palimpsest-voice-trick-mirror/) — 出来事のまわりで動く洞察を、文の上でどう出すか。O'Rourkeは今の書き手の短い差し込みで、思い出を考えの材料に変える
 
 ## Sources
 

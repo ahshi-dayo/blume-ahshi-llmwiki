@@ -2,7 +2,7 @@
 title: "日記を読み返しても、思い出せない ── 忘却は消去なのか、思い出した場面はどこから来たのか"
 tags: [memory, forgetting, diary, autobiographical-memory, engram, false-memory, misattribution]
 date: 2026-10-09
-updated: 2026-10-15
+updated: 2026-10-22
 sources: [raw/papers/2026-10-09-storms-diary-memory-24-years.md, raw/papers/2026-10-09-oleary-natural-forgetting-engram-reversible.md, raw/papers/2026-10-09-schacter-media-technology-sins-of-memory.md]
 confidence: medium
 summary: "昔の日記を読み返しても場面が出てこない、出てきてもそれが当時の記憶なのか日記から組み立てた像なのか分からない——この体験を3本の研究から見る。24年分の自分の日記で記憶を試した心理学者は約3分の1を思い出せず、残り方を最も左右したのはその出来事をあとで話したり反すうした回数だった。マウスの研究は、自然な忘却が痕跡の消去ではなくアクセスの切り替えでありうることを示し、記憶研究のレビューは、写真のような手がかりが記憶を助けもすれば、出どころの取り違えで偽の記憶も生むことを整理する。"
@@ -92,6 +92,8 @@ sidebar:
 - [未来の自分への書き置きは、檻にもなる ── 映画『メメント』](/topics/materials/memento-notes-to-future-self/) — 書き置きを読む側の自分には、それを疑う手段が無い。こちらの研究は、人間も読み返した記録と自分の記憶を分けきれないことを示す
 - [「歴史の終わり」錯覚 ── 自分の変化は、本人に測れるのか](/topics/materials/end-of-history-illusion-measuring-self-change/) — 過去の自分の見積もりも記憶の読み出しではなく推論だという研究。日付を手がかりから組み立てていたストームスの結果と同じ向き
 - [AIは論文の題を覚えて、年を覚えない](/topics/tec/llm-citation-hierarchical-memorization/) — AIも出版年を論文ごとに覚えず分野の見当から引き、似た有名論文どうしを混ぜる。日付の組み立てと出どころの取り違えの、機械の側の版
+- [エッセイの中の思い出は、誰が書いているのか](/topics/writing-theory/essay-memory-palimpsest-voice-trick-mirror/) — 研究者は記録と記憶の境目に迷ったが、エッセイの書き手はその境目でわざと手を入れる。ラムは友人の学校体験まで自分の思い出として書いた
+- [家主さんが見た「あーしだよ！」](/topics/materials/yanushi-endings-that-start-something/) — こちらは自分の日記を読み返す研究。家主さんの祖父のノートは、書き手が亡くなってから別の人に読まれ、読み手の叔父を畑へ動かした
 
 ## Sources
 
