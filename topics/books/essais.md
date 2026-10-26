@@ -11,7 +11,7 @@ sidebar:
 
 ## 進捗
 
-- 読了 **57 / 107**（最終読了 2026-10-16・I-57）＋序文「読者へ」（I-00・107章の外・2026-09-14読了）
+- 読了 **60 / 107**（最終読了 2026-10-24・II-03）＋序文「読者へ」（I-00・107章の外・2026-09-14読了）
 - クラスタは[章題ベースの仮8クラスタ](/questions/montaigne-107-chapters/)（判断の相対性・懐疑／死への態度／身体・老い・病／慣習と文化相対主義／名誉・虚栄／友情・対話／自己を語ること／想像力・心理／政治・戦争・残酷さ）。読んでみて違ったら章ページ側で書き換える
 
 ### 読者へ
@@ -87,9 +87,9 @@ sidebar:
 
 | 章ID | ボルドー系 | 原題（1595年版綴り） | 仮邦題 | クラスタ | 読了日 | ページ |
 |---|---|---|---|---|---|---|
-| II-01 | II.1 | De l'inconstance de nos actions |  |  |  |  |
-| II-02 | II.2 | De l'yvrongnerie |  |  |  |  |
-| II-03 | II.3 | Coustume de l'isle de Cea |  |  |  |  |
+| II-01 | II.1 | De l'inconstance de nos actions | わたしたちの行いの移ろいやすさについて | 判断の相対性・懐疑 | 2026-10-24 | [II-01](/topics/books/essais/II-01/) |
+| II-02 | II.2 | De l'yvrongnerie | 酩酊について | 身体・老い・病 | 2026-10-24 | [II-02](/topics/books/essais/II-02/) |
+| II-03 | II.3 | Coustume de l'isle de Cea | ケア島の慣習 | 死への態度 | 2026-10-24 | [II-03](/topics/books/essais/II-03/) |
 | II-04 | II.4 | A demain les affaires |  |  |  |  |
 | II-05 | II.5 | De la conscience |  |  |  |  |
 | II-06 | II.6 | De l'exercitation |  |  |  |  |

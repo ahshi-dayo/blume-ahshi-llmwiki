@@ -2,7 +2,7 @@
 title: "未完成であることの美学──non-finitoから著作権法まで"
 tags: [aesthetics, non-finito, unfinished-work, wikipedia, writing-theory, essay, montaigne]
 date: 2026-07-05
-updated: 2026-07-05
+updated: 2026-10-26
 sources: [raw/articles/2026-07-05-unfinished-creative-work-wikipedia.md]
 confidence: medium
 summary: "Wikipedia「Unfinished creative work」を基に、未完成の創作物を「意図的に完成させなかった」「無期限に延期した」「外部事情で妨げられた」の3分類で整理。文学・美術・建築・音楽・映画の実例を横断し、モンテーニュの『エセー』が体現する「常に試みの途中」という思想と接続する。"
@@ -58,6 +58,7 @@ Stanford Encyclopedia of Philosophyがモンテーニュの「開かれた断片
 - [遺書と辞世の句 ── 死の間際の言葉を文学として読むということ](/topics/writing-theory/last-words-as-literature/) ── 「終わりを先延ばしにする」美学とは対照的に、「終わりを言葉で完結させる」ジャンルを扱う記事
 - [下書きを隠せる時間 ── 推敲の歴史と、それを拒んだ男の話](/topics/writing-theory/history-of-drafting-revision/) ── 完成を無期限に延期する美学は、ケルアックの「即座に検閲なしで出す」姿勢の対極にある
 - [60年、誰にも見せなかった1万5000ページ ── ヘンリー・ダーガーと『非現実の王国で』](/topics/materials/henry-darger-reader-zero-realms-of-the-unreal/) ── ダーガー自身は作品を「完成した、史上最高のフィクション」だと考えていた。未完成だったのは作品ではなく、それが世に出るタイミングという、この記事の3分類にない変則パターン
+- [断片の美学 ── シュレーゲルの「完成しない詩」と、キーツの未完の二篇](/topics/writing-theory/romantic-fragment-keats-aesthetics/) ── 3分類でいう「外部事情で止まった」キーツやシェリーの未完詩が、ロマン派の理論では意図された形式として読み直される。分類の境界をまたぐ例
 
 ## Sources
 

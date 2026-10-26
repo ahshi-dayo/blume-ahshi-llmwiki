@@ -2,7 +2,7 @@
 title: "ネガティブ・ケイパビリティ ── キーツの詩論が、180年かけて『答えを急がない力』になるまで"
 tags: [negative-capability, john-keats, wilfred-bion, hahakigi-hosei, uncertainty, ambiguity-tolerance, psychoanalysis, materials]
 date: 2026-09-11
-updated: 2026-09-11
+updated: 2026-10-26
 sources: [raw/articles/2026-09-11-1787ya-negative-capability-houkibousei-matsuoka-seigo.md]
 confidence: medium
 summary: "ジョン・キーツが1817年の書簡でシェイクスピアに見出した『不確実さ・懐疑に留まる力』が、精神分析医ウィルフレッド・ビオンによる1970年の臨床概念への転用を経て、帚木蓬生の一般書によって『答えの出ない事態に耐える力』という現代の処方箋になった、2段階の意味変遷を辿る。"
@@ -38,6 +38,7 @@ sidebar:
 
 - [即答という思考の型 ── ハイデガーの『計算的思考／省察的思考』と『問いの三構造』](/topics/materials/heidegger-question-structure-calculative-meditative-thinking/) — 「性急に答えへ到達しようとする思考」への批判という点で、ハイデガーの計算的思考批判と問題意識が重なる。ただし出典の性質は異なる（キーツは詩論、ハイデガーは技術論）
 - [物語消費論 ── 断片を集めれば『大きな物語』に近づけるという錯覚](/topics/materials/monogatari-shohi-ron-otsuka-azuma/) — 対照的な構造。ネガティブ・ケイパビリティが「答えの不在に留まる力」を語るのに対し、物語消費論は「断片を集めることで答え（大きな物語）に近づいたと錯覚する」消費行動を語る
+- [断片の美学 ── シュレーゲルの「完成しない詩」と、キーツの未完の二篇](/topics/writing-theory/romantic-fragment-keats-aesthetics/) — 同じキーツを形式の側から見る記事。不確かさに留まる態度に対して、答えの欠けた空白を作品に残す断片詩
 
 ## Sources
 

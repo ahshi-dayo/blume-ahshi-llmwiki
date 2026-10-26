@@ -2,7 +2,7 @@
 title: "フランシス・ベーコン —— 「知より行」を書いた格言の人"
 tags: [francis-bacon, essay, aphorism, zuihitsu, comparative-literature, writing-theory, britain]
 date: 2026-05-31
-updated: 2026-07-05
+updated: 2026-10-26
 sources: [raw/articles/2026-05-31-francis-bacon-montaignes-rival.md]
 confidence: high
 summary: "フランシス・ベーコン（1561-1626）のエッセイと人生。格言の天才でありながら、随筆という形式ではモンテーニュに敗れた理由。「知識は力なり」を生んだ政治家・科学者・道徳家の二面性と、私生活の秘密。"
@@ -130,5 +130,7 @@ SNSはモンテーニュ的真実を後押しする。「全部見せて」「�
 - [Writing Pedagogies of Empathy — 共感を教えるライティング教育](/topics/writing-theory/writing-pedagogies-empathy/) — 共感を「修辞」と「傾向」で教えるアプローチ
 - [未完成であることの美学──non-finitoから著作権法まで](/topics/writing-theory/unfinished-creative-work/) ── 格言という「完成された断定」との対比
 - [エッセイ・随筆・作文・コラム ── 4つのジャンルの境界線はどこにあるか](/topics/writing-theory/essay-zuihitsu-column-genre-boundaries/) ── ベーコンの「格言的essay」もBritannicaの通史では拡張の一系譜として位置づけられる
+- [断片の美学 ── シュレーゲルの「完成しない詩」と、キーツの未完の二篇](/topics/writing-theory/romantic-fragment-keats-aesthetics/) ── 短く切れた文章でも、格言は閉じた断定、ロマン派の断片は開いた生成。向きが逆
+- [シュレーゲルの断章 ── 「完成しない」思考の原理か、宛先のない書き物か](/topics/writing-theory/schlegel-fragment-spirit-and-addressless-writing/) ── 同じ短い形式でも、格言は結論を渡し、シュレーゲルの断章は「自ら考えること」を渡そうとした
 
 

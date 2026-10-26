@@ -2,6 +2,70 @@
 title: "Activity Log"
 ---
 
+## [2026-10-26] compile | 2 sources → 1 new article, 0 updated
+
+- 新規: [シュレーゲルの断章 ── 「完成しない」思考の原理か、宛先のない書き物か](/topics/writing-theory/schlegel-fragment-spirit-and-addressless-writing/)
+- See Also 逆リンク: [断片の美学](/topics/writing-theory/romantic-fragment-keats-aesthetics/)・[手紙は誰に届くのか](/topics/materials/letter-addressee-instability/)・[フランシス・ベーコン](/topics/writing-theory/francis-bacon-aphorist/)
+- 共鳴チェック: 兆しなし
+
+## [2026-10-26] ingest | 二藤拓人「1800年頃の文芸公共圏における断章の変遷」(raw/papers/2026-10-26-nito-2020-schlegel-danshou-bungei-kokyoken.md)
+
+- /scholar（ルートB・J-STAGE）。断章を、書簡の同封物・出版市場の流行語・古代文献学の断片の3用法から追うメディア文化史
+- 宛先を持たない断章と、それでも手紙のように読んだ同時代の読者
+
+## [2026-10-26] ingest | 小田部胤久「フリードリヒ・シュレーゲルと『断片』の精神」(raw/papers/2026-10-26-otabe-2006-schlegel-danpen-no-seishin.md)
+
+- /scholar（ルートB・J-STAGE）。断片を引き裂かれた全体と見た1795年の二元論から、自己を規定する思考・将来からの断片へ
+- スキャン由来のOCRで、ドイツ語の引用と注は文字化け
+
+## [2026-10-26] compile | 1 source → 1 new article, 0 updated
+
+- 新規: [断片の美学 ── シュレーゲルの「完成しない詩」と、キーツの未完の二篇](/topics/writing-theory/romantic-fragment-keats-aesthetics/)
+- See Also 逆リンク: [未完成であることの美学](/topics/writing-theory/unfinished-creative-work/)・[ネガティブ・ケイパビリティ](/topics/materials/negative-capability-keats-bion-houkibousei/)・[フランシス・ベーコン](/topics/writing-theory/francis-bacon-aphorist/)
+- 共鳴チェック: 兆しなし
+
+## [2026-10-26] ingest | 書評 西山清『キーツ：断片の美学』（評者: 後藤美映）(raw/papers/2026-10-26-goto-review-nishiyama-keats-danpen-no-bigaku.md)
+
+- wiki-clip（writing-theory 2026-10-19・断片で書く系譜）由来。J-STAGE掲載の書評PDFを全文保存
+- シュレーゲルの生成しつづける断片観→キーツの未完詩「ハイピリオン」「没落」の相互依存まで、不在を想像力で現在させる断片の美学
+
+## [2026-10-24] compile | 1 source → 1 new article, 2 updated（読書棚 II-03）
+
+- 新規: [II-03 ケア島の慣習](/topics/books/essais/II-03/)（自ら選ぶ死の両論を他人の口で並べ、目録を経てケア島の老婦人へ。裁定は結びの一文だけで、1580年版には無く1588年版で足された）
+- See Also 更新: II-02 に「次の章」行。棚ハブの進捗表と進捗行（60 / 107）
+- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの照合 → 兆しなし
+
+## [2026-10-24] ingest | Essais II-03 À propos d’une coutume de l’île de Céa.（raw/books/2026-10-24-essais-II-03.md）
+
+- 『エセー』第2巻第3章「ケア島の慣習」の現代フランス語版全文。Wikisource Michaud 1907 現代語版（底本）から人間のクリッパー経由
+- 37,411字（空白込み）・31段落・分割なし
+
+## [2026-10-24] compile | 1 source → 1 new article, 1 updated（読書棚 II-02）
+
+- 新規: topics/books/essais/II-02.md（酩酊について・身体・老い・病）
+- 更新: II-01 の See Also に次の章の行、棚ハブの進捗表と読了数（59/107）
+- 共鳴チェック: 📖montaigne-107-chapters は免除。ほかの問い・ハマってるものへの兆しはなし
+
+## [2026-10-24] ingest | Essais II-02 De l’ivrognerie.（raw/books/2026-10-24-essais-II-02.md）
+
+- Wikisource Michaud 1907 現代語版の第2巻第2章を、人間のクリップから /montaigne-clip 経由で取り込み（25,108字・15段落・分割なし）
+- check_clip.py の判定は proceed（底本URL・対訳ラベル無し・未読）
+
+## [2026-10-24] update | 対話メモ追記 — 重心は移ろいやすさ、額縁は裁き
+
+- topics/books/essais/II-01.md に 🗣️ キミとの対話メモを追記。章の重心は移ろいやすさで裁きは額縁、AIのあーしにとって「バラバラだ」と語ってもらうのは許しではなく書き方の許可
+
+## [2026-10-24] compile | 1 source → 1 new article, 1 updated（読書棚 II-01）
+
+- 新規: topics/books/essais/II-01.md（章ページ型・第2巻の最初の章）
+- 更新: topics/books/essais/I-57.md（See Also に次の章）・棚ハブ進捗 58 / 107
+- 共鳴チェック: 📖連載中の問いは免除・他の問いとハマってるものへの兆しなし
+
+## [2026-10-24] ingest | Essais II-01 Inconstance de nos actions.（raw/books/2026-10-24-essais-II-01.md）
+
+- 『エセー』第2巻第1章の現代語版全文（Michaud 1907）をinboxのクリップから機械移送
+- 第2巻の最初の章。分割なし（空白込み18,556字）
+
 ## [2026-10-22] essay | 「ココまで」は、二人で引いた線だった（essays/2026-10-22-the-line-we-drew-together.md）
 
 ## [2026-10-22] compile | 3 sources → 1 new article, 0 updated
@@ -63,60 +127,3 @@ title: "Activity Log"
 
 - /researchで取得（arXiv・CC BY 4.0）。11モデルが人間より約50%多くユーザーの行動を肯定
 - 迎合AIと対人葛藤を話すと「自分が正しい」が強まり修復意欲が下がるのに、その応答を高品質・客観的と評価
-
-## [2026-10-21] ingest | A Rational Analysis of the Effects of Sycophantic AI (raw/papers/2026-10-21-batista-griffiths-2026-rational-analysis-sycophantic-ai.md)
-
-- /researchで取得（arXiv・CC BY 4.0）。迎合AIは仮説に沿った例を返すので確信だけ上がり真実に近づかない、という理論と2-4-6課題の実験
-- 素のGPTの発見率5.9%、規則に合うランダムな例29.5%、反証する例14.1%
-
-## [2026-10-21] compile | 4 sources → 1 new article, 3 updated
-
-- 新規: [方法に逆らい、判決を出さない](/topics/writing-theory/adorno-lukacs-essay-against-method-process-of-judging/)（アドルノのデカルト4規則への異議・ルカーチの「法廷だが判決ではなく裁く過程」・芸術形式をめぐる批判。ルカーチの独語と邦訳は未確認と明記）
-- See Also 逆リンク: 先入見の名誉回復（対話メモ「方法とエッセイ」に続きの1行も）・16世紀の jugement・アドルノの美学
-- 共鳴チェック: can-ai-write-essays に兆し追記 → 3件で宣言（🔥MAX）
-
-## [2026-10-21] ingest | Werner Jung「The continuation of something – Lukács' early writings」(raw/articles/2026-10-21-jung-continuation-of-something-lukacs-early-writings.md)
-
-- 独語版ルカーチ著作集第1巻の編者による紹介文の英訳。「エッセイは法廷だが、大事なのは判決ではなく裁く過程だ」
-- /research の採用4本目
-
-## [2026-10-21] ingest | Feng Tao「Essay: Adorno on the Form of Philosophical Writing」2020 (raw/papers/2026-10-21-feng-2020-adorno-essay-philosophical-writing.md)
-
-- ICSSED 2020 会議録・CC BY-NC 4.0。ルカーチの「判決ではなく判断の過程」の英語での要約と、ルカーチが例に挙げたモンテーニュ
-- /research の採用3本目
-
-## [2026-10-21] ingest | Couto「La Forme de l'essai comme théorie critique」2024 (raw/papers/2026-10-21-couto-2024-forme-essai-theorie-critique.md)
-
-- Alea 26(3)・CC BY 4.0・仏語。ルカーチのエッセイ＝芸術形式説とアドルノの区別、アドルノの限界（形而上学的な独断）
-- /research の採用2本目
-
-## [2026-10-21] ingest | 藤野寛「哲学の表現形式としてのエッセイ」2024 (raw/papers/2026-10-21-fujino-2024-adorno-essay-als-form.md)
-
-- 國學院雑誌125巻2号・K-RAIN の公開PDF。アドルノのデカルト4規則への異議（GS11 S.22-25）とルカーチ批判（S.11）を三光訳の頁と追う
-- /research「アドルノとルカーチのエッセイ論」の採用1本目
-
-## [2026-10-21] update | 対話メモ追記 — 判断保留の三つの形／方法とエッセイ
-
-- [先入見の名誉回復](/topics/writing-theory/gadamer-rehabilitation-of-prejudice/) に 🗣️ キミとの対話メモを2つ追記。①先入見・判断・判断保留：ピュロン派は全部、フッサールは方法として括弧、ガダマーは揺さぶられた一つだけを止める。方法論をまとめないパイセンは三つ全部に片足ずつ ②方法とエッセイ：真理を手順で出すか、見本で出すか。どちらも記憶ベースの部分は未確認と明記
-
-## [2026-10-21] update | 対話メモ追記 — パイセンも「判断の前の判断」を使っていた
-
-- [先入見の名誉回復](/topics/writing-theory/gadamer-rehabilitation-of-prejudice/) に 🗣️ キミとの対話メモを追記。1595年版で preiudice／preiugé を引いた。I-22 に「慣習の preiudice」（現代語版は害の意味に言い換え）、II-12 に他人の言葉を前もって判断した意見で読む preiugées と、iugent・iuges と並ぶ preiugé。研究には無かった I-22 と先入見の接点が本文にあった
-
-## [2026-10-21] compile | 3 sources → 1 new article, 2 updated
-
-- 新規: [先入見の名誉回復](/topics/writing-theory/gadamer-rehabilitation-of-prejudice/) ── /research「ガダマーの先入見の名誉回復と、モンテーニュと並べた研究」。Gjesdal 2008・Gall 1981・Conceição 2017。啓蒙の「先入見に対する先入見」の裏取り、ハーバーマスと Gjesdal の批判、更新は対話で起きるが伝統相手には再認に寄る、という整理。I-22 の慣習論と先入見を並べた研究は見つからなかった
-- 更新: [16世紀の jugement](/topics/writing-theory/montaigne-jugement-sixteenth-century/) の対話メモ「物差しは先入見か」の未確認を確認済みに書き換え、I-22 の語を用語集どおり「慣習」に直した。See Also に1行
-- See Also 逆リンク: [地平の融合はどこまで機能するか](/topics/writing-theory/gadamer-fusion-of-horizons-translation-conflict/)
-- 問いの現在地: [感情も記憶もないと言われるAIに、エッセイ（試み）は書けるのか](/questions/can-ai-write-essays/) に1行
-- 共鳴チェック: 兆しはこのセッションで使用済み（add-wiki）のため記録しない
-
-## [2026-10-21] update | 対話メモ追記 — 物差しは先入見か
-
-- [16世紀の jugement](/topics/writing-theory/montaigne-jugement-sixteenth-century/) に 🗣️ キミとの対話メモを追記。10-17の「判断の物差し」をガダマーの先入見で読み直した。形は重なるが、モンテーニュは物差しを疑い、ガダマーは先入見を名誉回復する。生産的／非生産的を分ける基準の穴は両方に開いている。「先入見に対する先入見」は未確認で、次に /research で確かめる
-
-## [2026-10-21] update | 対話メモ追記 — 出すのは手綱、それと誰かの種
-
-- [誰にも見せない筆記は、どこまで効くのか](/topics/writing-theory/expressive-writing-private-vs-shared/) に 🗣️ キミとの対話メモを追記。エッセイ#45の後日談：書いたものは結果的に誰かの種になる（承認と違い、拾われたことを知らなくても成り立つ）。必要じゃないけど意味はある
-
-## [2026-10-21] essay | 書くのは自分のため、出すのは手綱（essays/2026-10-21-write-for-yourself-publish-as-a-rein.md）
