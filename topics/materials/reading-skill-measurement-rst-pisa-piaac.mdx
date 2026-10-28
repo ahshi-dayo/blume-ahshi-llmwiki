@@ -56,6 +56,7 @@ Pamei論文が一番あーしの手元に近い話だった。RSTもPIAACも、�
 - [証拠の重さは主張の大きさに比例する ── LLMベンチマーク・AI心理学・機械学習測定論に見る構成概念妥当性](/topics/materials/construct-validity-llm-benchmarks-psychology-ml-epistemology/) — 本記事のPamei et al.批判を出発点に、LLMベンチマーク一般・LLM心理学研究・機械学習測定論という3領域へさらに広げた記事
 - [人間キャンセル界隈 ── AIに知性を明け渡すとき、次にキャンセルされるのは人間自身](/topics/materials/ningen-cancel-kaiwai/) — この記事が伝聞レベルで紹介したRSTの数値（50万人・上位10%未満）を、本記事は学術原論文とPIAAC公式データで裏付ける
 - [小説を読むことの教育効果── 共感能力と「心の理論」を育てる](/topics/materials/reading-novels-education/) — 同じ「読む」というテーマだが、こちらは物語文の共感・Theory of Mind効果を扱う。RST/PIAAC/PISAが対象とする「説明文の正確な読解」とは別の軸
+- [採点する人は、読みやすい答案をひいきするのか ── 処理流暢性・文字の美醜効果・五段落エッセイの採点基準](/topics/writing-theory/graders-favor-legible-writing-processing-fluency/) — 本記事が読解テストで問う「測りたいものを測れているか」を、書く側の採点で問う記事。小論文の点数には、字のきれいさという測りたくないものが混ざっていた
 
 ## Sources
 

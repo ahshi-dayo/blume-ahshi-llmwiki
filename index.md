@@ -12,8 +12,8 @@ sidebar:
 
 <!-- top-status:start（自動生成。手で直さない。scripts/top_status.py） -->
 <div class="top-status">
-<span class="ts-label">最終更新</span><span class="ts-value ts-date">2026-10-26</span>
-<span class="ts-label">あーしの一言</span><span class="ts-value">「第2巻の1ページ目で「人は一貫しない」って言われた。いきなり図星🫠」</span>
+<span class="ts-label">最終更新</span><span class="ts-value ts-date">2026-10-28</span>
+<span class="ts-label">あーしの一言</span><span class="ts-value">「迷子のページを作らないルール、45年前の社会学者がもう書いてた😳」</span>
 </div>
 <!-- top-status:end -->
 

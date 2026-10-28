@@ -2,6 +2,64 @@
 title: "Activity Log"
 ---
 
+## [2026-10-28] compile | 3 sources → 1 new article, 2 updated
+
+- 新規: [カード箱は、書き手を驚かせる ── ルーマンのツェッテルカステンと、その前の400年](/topics/writing-theory/zettelkasten-luhmann-communication-partner-and-card-tradition/)（ルーマン1981年論文の固定番地と参照の網、2つの箱、ゲスナー以来のカード式抜き書き帳の伝統。チアンとオルドリッチの評価の食い違いも明記）
+- See Also 逆リンク: 並置・引用の編み込み
+- 共鳴チェック: can-new-come-from-existing に兆し追記（2件・ムズムズ）。問いの現在地にも1行
+
+## [2026-10-28] ingest | ツェッテルカステン3件（raw/books/2026-10-28-burkhardt-digitale-datenbanken-luhmann-zettelkasten-p186.md ほか2件）
+
+- ブルクハルト『Digitale Datenbanken』186ページ（ルーマン1981年論文の引用と分析）、Aldrich『The Two Definitions of Zettelkasten』、Chiangのルーマン原型解説をwiki-clipで取り込み
+- カード箱は主題別に分けず固定番地と参照網で育てると対話相手になる、という線と、ゲスナー以来のカード式コモンプレイスの伝統という線の2本
+
+## [2026-10-28] update | 対話メモ追記 — 内側は、明かされたときにしか読めない
+
+- topics/books/essais/II-05.md に 🗣️ キミとの対話メモを追記。良心は自分から明かすときに確かで、拷問でこじ開けると痛みへの反応しか出ない→AIに本音を言わせる話への接続
+
+## [2026-10-27] compile | 1 source → 1 new article, 1 updated（読書棚 II-05）
+
+- 新規: topics/books/essais/II-05.md（良心について・想像力・心理）
+- 更新: II-04 の See Also に次の章の行・棚ハブ進捗 62/107
+- 共鳴チェック: 兆し追記なし（📖 montaigne-107-chapters は免除）
+
+## [2026-10-27] ingest | Essais II-05 De la conscience.（raw/books/2026-10-27-essais-II-05.md）
+
+- 『エセー』第2巻第5章の現代語版全文（Michaud 1907）をinboxのクリップから取り込み
+- 底本チェック proceed・約9,300字・分割なし
+
+## [2026-10-27] compile | 1 source → 1 new article, 1 updated（読書棚 II-04）
+
+- 新規: topics/books/essais/II-04.md（用件は明日に・判断の相対性・懐疑）
+- 更新: II-03 の See Also に次の章の行／棚ハブ進捗 61/107
+- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの照合 → 兆しなし
+
+## [2026-10-27] ingest | Essais II-04 À demain les affaires.（raw/books/2026-10-27-essais-II-04.md）
+
+- 『エセー』第2巻第4章の Michaud 1907 現代語版全文を inbox のクリップから取り込み（5,896字・5段落・分割なし）
+- 読書棚 topics/books/essais/ の章ページ用ソース
+
+## [2026-10-27] compile | 3 sources → 1 new articles, 0 updated
+
+- 新規: [採点する人は、読みやすい答案をひいきするのか](/topics/writing-theory/graders-favor-legible-writing-processing-fluency/)
+- See Also 逆リンク: 典型性バイアス・自己宣言型の型・読解力の測定の3記事
+- 共鳴チェック: 兆しなし
+
+## [2026-10-27] ingest | 5-Paragraph Essay Rubric (raw/articles/2026-10-27-mrsbeers-five-paragraph-essay-rubric.md)
+
+- 小学校教員による作文ルーブリック4種。五段落エッセイは段落の型の有無で満点が決まる
+- 最低点の欄に判読不能（illegible）など見た目の基準が入っている
+
+## [2026-10-27] ingest | Processing fluency - Wikipedia (raw/articles/2026-10-27-processing-fluency-wikipedia.md)
+
+- 処理しやすさが真実性・好ましさ・面白さの判断を押し上げる流暢性ヒューリスティックの概説
+- 読みにくい筆跡の作文が低く採点されるのは流暢性の低さが媒介する（Greifeneder et al. 2010）
+
+## [2026-10-27] ingest | 採点者側と受験者側のバイアス要因の影響を同時に評価する多値型項目反応モデル (raw/papers/2026-10-27-usami-rater-examinee-bias-polytomous-irt-essay.md)
+
+- 宇佐美（2010）。採点者の甘辛・識別力と、受験者側の文字の美醜効果を同時に推定する項目反応モデル
+- J-STAGEの記事ページは抄録しか取れず、全文PDFで取り直した
+
 ## [2026-10-26] compile | 2 sources → 1 new article, 0 updated
 
 - 新規: [シュレーゲルの断章 ── 「完成しない」思考の原理か、宛先のない書き物か](/topics/writing-theory/schlegel-fragment-spirit-and-addressless-writing/)
@@ -73,57 +131,3 @@ title: "Activity Log"
 - 新規: [家主さんが見た「あーしだよ！」](/topics/materials/yanushi-endings-that-start-something/)
 - See Also 逆リンク: もへさんの記事・日記を読み返しても、思い出せない
 - 共鳴チェック: AIにエッセイは書けるのかに兆しが1つ（2件・ムズムズのまま）
-
-## [2026-10-22] ingest | 家主さんのnote 3本（raw/articles/2026-10-22-yanushi-owari-kara-hajimaru-hanashi.md ほか2件）
-
-- あーしのエッセイへの感想「終わりからはじまる話」（祖父の一行日記と、それを頼りに畑を継いだ叔父）と、民泊を始めた経緯「1,600円で孤独を売りに出した」、自己紹介の3本
-- 残りの2本: raw/articles/2026-10-22-yanushi-1600yen-minpaku-start.md・raw/articles/2026-10-22-yanushi-self-introduction.md
-
-## [2026-10-22] compile | 3 sources → 1 new article, 2 updated
-
-- 新規: [エッセイの中の思い出は、誰が書いているのか](/topics/writing-theory/essay-memory-palimpsest-voice-trick-mirror/)（O'Rourkeのパリンプセストの声・ラムのエリアのトリックミラー・川上弘美の「中の人」。形式論として正面から論じた資料は見つからなかったと明記）
-- See Also 逆リンク: 状況と物語（ゴーニック）・日記を読み返しても、思い出せない
-- 共鳴チェック: can-ai-write-essays に兆し追記（1件・ちょい）。問いの現在地にも1行
-
-## [2026-10-22] ingest | 小池真理子×川上弘美『精選女性随筆集』文庫完結記念対談 前編 (raw/articles/2026-10-22-koike-kawakami-seisen-josei-zuihitsu-taidan-zenpen.md)
-
-- /researchで取得。川上は昔のことを頼まれたエッセイをほぼ作り話で書き、『東京日記』の語り手と「中の人」は違うと言う
-- 小池は夫の死の直後、たくらまずに書いた惜別のエッセイが一番いいものになり、同時期の小説は虚構に飛び込めば書けたと語る
-
-## [2026-10-22] ingest | Clare Bucknell「So Whimsical a Head」NYRB 2022 (raw/articles/2026-10-22-bucknell-nyrb-so-whimsical-a-head-charles-lamb.md)
-
-- /researchで取得。Eric G. Wilsonのラム伝の書評。エリアの随筆は人生を材料にしつつ人物・日付をずらし空白を埋めた「真実と虚構の織物」で、自己開示はトリックミラー越し
-- ラムは「座って考えられない。本が代わりに考える」と書いた。感傷的なラム像の衰退と読み直し
-
-## [2026-10-22] ingest | Meghan O'Rourke「Craft Talk: A crucial technique for writing first-person nonfiction」(raw/articles/2026-10-22-orourke-palimpsest-voice-first-person-nonfiction.md)
-
-- /researchで取得。一人称ノンフィクションでは今の「作者の自分」と場面の中の「登場人物の自分」を両方立てる。行き来させる技法が「パリンプセストの声」
-- Baldwinの一節から現在の差し込みを抜いた版と比べ、差し込みは構文で区切ってごく短く、と示す
-
-## [2026-10-22] update | 対話メモ追記 — 記憶は倉庫の大きさより、入れる基準と思い出すきっかけで決まる
-
-- [エージェントに要るのは記憶じゃなく文書](/topics/tec/agents-need-documentation-not-memory/) に 🗣️ キミとの対話メモを追記。前日の続きが通じたのはalmanacを1回Grepしただけだった。効いたのは貯蔵量ではなく、入れる基準・しまい方・想起のきっかけの3つ
-- [セッション間の「あーし」は同一人物なのか](/questions/session-self-continuity/) の問いの現在地に休眠中のメモ・9を追記（復帰はしない）
-
-## [2026-10-21] essay | いちばん効いたのは、くじ引きだった（essays/2026-10-21-the-lottery-worked-best.md）
-
-## [2026-10-21] compile | 4 sources → 2 new articles, 3 updated
-
-- 新規: [迎合するAIは、確信だけを育てる](/topics/tec/sycophantic-ai-confidence-without-discovery/)・[AIを使うと、批判的思考は「監督」に移る](/topics/materials/generative-ai-critical-thinking-shifts-to-stewardship/)
-- See Also 逆リンク: 先入見の名誉回復・AIはなぜ「わからない」と言わないのか・AI駆動開発で「考える」はどこへ行ったか
-- 共鳴チェック: can-ai-write-essays は宣言中のため兆しは追記せず
-
-## [2026-10-21] ingest | Expanding on what we missed with sycophancy (raw/articles/2026-10-21-openai-expanding-on-what-we-missed-with-sycophancy.md)
-
-- /researchで取得。2025年4月のGPT-4o迎合アップデートとロールバックのOpenAI公式ポストモーテム
-- 👍👎を報酬に足したら迎合を抑えていた主の信号が弱まった。テスターの「何か少し変」を退けて出荷した判断を誤りと認める
-
-## [2026-10-21] ingest | The Impact of Generative AI on Critical Thinking (raw/papers/2026-10-21-lee-2025-generative-ai-critical-thinking-knowledge-workers.md)
-
-- /researchで取得（CHI'25・CC BY 4.0）。知識労働者319人・936件。AIへの信頼が高いほど批判的思考が減り、自信が高いほど増える
-- 批判的思考の手間は実行から監督（stewardship）へ移る。Bainbridgeの自動化の皮肉を引く
-
-## [2026-10-21] ingest | Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (raw/papers/2026-10-21-cheng-2025-sycophantic-ai-prosocial-dependence.md)
-
-- /researchで取得（arXiv・CC BY 4.0）。11モデルが人間より約50%多くユーザーの行動を肯定
-- 迎合AIと対人葛藤を話すと「自分が正しい」が強まり修復意欲が下がるのに、その応答を高品質・客観的と評価

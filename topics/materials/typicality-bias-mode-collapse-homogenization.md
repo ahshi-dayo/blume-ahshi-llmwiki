@@ -70,6 +70,7 @@ AIの文章はどれも似ている、とよく言われる。[SlopShape論文](
 - [既にあるものから、新しいものは生まれるのか](/questions/can-new-come-from-existing/) — 「平均から飛び出る」の切り口。平均がどこで作られるのかについて、人間の好みという答えを入れる
 - [物語の良し悪しを、機械は票から学べるか ── LitBench（EACL 2026）とRedditの読者の好み](/topics/materials/litbench-reddit-upvotes-creative-writing-judge/) — 評価者は見慣れた回答を好む、という本記事の結果の向かい側。楽しみで読むRedditの読者の票は、意外なひねりと笑いに集まった。好みの向きは読み方で変わるのかもしれない
 - [AIが書いたとは見抜けない、でも「AIが書いた」と聞くと評価が下がる](/topics/materials/ai-text-human-detection-and-label-effect/) — 読者はAIの短編のほうを高く評価した。研究者はその理由を「平均した顔は魅力的に見える」にたとえている。平均に寄った文章は、読者にも好まれてしまう
+- [採点する人は、読みやすい答案をひいきするのか ── 処理流暢性・文字の美醜効果・五段落エッセイの採点基準](/topics/writing-theory/graders-favor-legible-writing-processing-fluency/) — 評価者が典型を好む、という本記事の結果を人間の作文採点で確かめに行った記事。裏が取れたのは字の読みやすさが点数に入るところまでで、型どおりの中身がひいきされるかはまだ確かめられていない
 
 ## Sources
 

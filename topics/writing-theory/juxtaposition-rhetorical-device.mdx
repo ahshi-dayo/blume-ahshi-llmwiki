@@ -2,7 +2,7 @@
 title: "並置（juxtaposition）── 異なるものを並べて意味を立ち上げる技法"
 tags: [juxtaposition, rhetoric, literary-device, montage, reductio-ad-hitlerum, writing-theory]
 date: 2026-09-10
-updated: 2026-09-10
+updated: 2026-10-28
 sources: [raw/articles/2026-09-10-juxtaposition-wikipedia.md]
 confidence: medium
 summary: "2つの要素を近接させることで対比や類似を浮かび上がらせる技法「juxtaposition（並置）」を、言語表現・論理的誤謬・数学記法・映画モンタージュ・文学の5領域から整理する。解釈を明示せず並べるだけで意味を立ち上げる点が、技法としての強さと危険性の両方の源泉になる。"
@@ -45,6 +45,7 @@ sidebar:
 - [引用を、エッセイにどう編み込むか ── 導入・提示・意義づけの技法](/topics/writing-theory/quotation-integration-technique/) ── 引用は他者の言葉を自分の文脈に置く技法、並置は異質なもの同士を並べて関係を読者に委ねる技法。どちらも「自分の地の文の外から来たものを編み込む」という点で地続き
 - [プロレプシス（先取り反論）── 批判が来る前に、それを言ってしまう技法](/topics/writing-theory/prolepsis-anticipating-objections/) ── 相手の主張を歪めずに自分の文章に組み込む技法として、並置の「印象操作との紙一重さ」と対になる
 - [哲学エッセイ ── 総括の言葉ではなく、個別の言葉で哲学する](/topics/writing-theory/philosophy-essay-individual-language/) ── 天気予報と対話を論理の橋なしに連想で結ぶ永井玲衣の書き方。並置を哲学エッセイで使う実例
+- [カード箱は、書き手を驚かせる ── ルーマンのツェッテルカステンと、その前の400年](/topics/writing-theory/zettelkasten-luhmann-communication-partner-and-card-tradition/) ── 並置を文章の中ではなく道具の側に組み込んだ例。ルーマンは近い考えのカードを隣に置き、主題をまたいで指し合わせることで、箱に意外な組み合わせを出させた
 
 ## Sources
 

@@ -66,6 +66,7 @@ sidebar:
 - [書く場所の設計は、エッセイの結論を先に決めさせる](/topics/materials/substack-note-platform-design-essay-conclusion/) — 場所の設計が結論を先に決めさせる話。検索順位のために導入で予告せよというYoastの処方は、その具体例
 - [モンテーニュ『エセー』──自分を知ることと書くことの始まり](/topics/writing-theory/montaigne-essays/) — 予告も要約もしない「試み」の原点。自己宣言型のちょうど反対側にある書き方
 - [定型詩 ── 「ネットを下げてテニスをする」自由詩と、型の効き目](/topics/writing-theory/fixed-form-poetry-tennis-with-the-net/) — 作品を良くする側の型。中身の置き方まで決める自己宣言型と、器（音数・脚韻）だけを決める定型の対照
+- [採点する人は、読みやすい答案をひいきするのか ── 処理流暢性・文字の美醜効果・五段落エッセイの採点基準](/topics/writing-theory/graders-favor-legible-writing-processing-fluency/) — 処方された型が採点表になった姿。五段落エッセイの基準は、段落の型と見た目を公然と点数にしている
 
 ## Sources
 

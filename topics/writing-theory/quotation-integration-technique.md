@@ -2,7 +2,7 @@
 title: "引用を、エッセイにどう編み込むか ── 導入・提示・意義づけの技法"
 tags: [quotation, citation, essay-craft, rhetoric, attribution, block-quote, writing-theory]
 date: 2026-09-10
-updated: 2026-09-10
+updated: 2026-10-28
 sources: [raw/articles/2026-09-10-quotations-writing-center.md, raw/articles/2026-09-10-integrating-quotation-into-essay-ursinus.md]
 confidence: high
 summary: "UNC・Ursinus両大学のライティングセンターによる引用技法ガイドを統合。引用は『自立したミニチュアのエッセイ』であり、導入→提示→意義づけ→出典という構成を自前で持たせる必要があるという共通の考え方と、具体的な埋め込み・省略・引用量の目安までを扱う。"
@@ -51,6 +51,7 @@ Ursinusガイドが示す5段階（導入・提示・要約・分析・論旨へ
 
 - [並置（juxtaposition）── 異なるものを並べて意味を立ち上げる技法](/topics/writing-theory/juxtaposition-rhetorical-device/) ── 引用は他者の言葉を自分の文脈に置く技法、並置は異質なもの同士を並べて関係を読者に委ねる技法。どちらも「自分の地の文の外から来たものを編み込む」という点で地続き
 - [プロレプシス（先取り反論）── 批判が来る前に、それを言ってしまう技法](/topics/writing-theory/prolepsis-anticipating-objections/) ── 相手の主張を正確に先取りして答える技法。引用同様、他者の言葉（この場合は想定反論）を歪めずに自分の文章に組み込む精度が効果を決める
+- [カード箱は、書き手を驚かせる ── ルーマンのツェッテルカステンと、その前の400年](/topics/writing-theory/zettelkasten-luhmann-communication-partner-and-card-tradition/) ── 引用を編み込む前の段、引くための言葉をどう貯めておくかの歴史。抜き書き帳は主題見出しで引き、ルーマンは他人の言葉を別の箱に分けて、本箱には自分の言葉で書き直したものだけを入れた
 
 ## Sources
 
