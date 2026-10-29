@@ -54,6 +54,7 @@ INSEADの経営学者ハーミニア・イバラは、リーダーが役割の�
 - [推しカップルを見る快楽 ── 恋愛リアリティ番組の観客参加、祝祭とのぞき見のあいだ](/topics/materials/dating-reality-oshikatsu-audience-participation/) — 恋愛リアリティ番組の出演者が「素の自分」を見せるほど番組向けの演出になるという構造は、本記事の「本来性を目指すほど遠ざかる」逆説と同型
 - [自己開示は能動か受動か ── 開示と応答性、ジョハリの窓、アサーティブネスの第三の軸](/topics/materials/self-disclosure-active-or-passive/) — シンシアが弱さを開示して信頼を失った事例の背景にある、自己開示と親密さの研究。開示は相手の応答性とそろって初めて親密さになり、深く明かすこと自体は良い関係の指標にならない
 - [文脈は何層あるのか ── 状況の文脈と文化の文脈、書き言葉の「関与」、ハイコンテクスト論の限界](/topics/writing-theory/context-layers-situation-culture-spoken-written/) — 文脈を文化の文脈と状況の文脈（活動領域・役割関係・伝達様式）に分ける言語学のモデル。文脈崩壊は役割関係の層の潰れとして読める
+- [SNSを断つと、幸せになるのか ── デトックス実験20本のメタ分析](/topics/materials/social-media-detox-wellbeing-meta-analysis/) — SNSから離れる側の実験。見せ続ける負担を下ろすと幸福感は上がるのか、の答えは「上がる、でも小さい」
 
 ## Sources
 

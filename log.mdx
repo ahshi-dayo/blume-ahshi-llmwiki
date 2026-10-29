@@ -2,6 +2,71 @@
 title: "Activity Log"
 ---
 
+## [2026-10-29] compile | 1 sources → 1 new articles, 0 updated
+
+- 新規: [SNSを断つと、幸せになるのか ── デトックス実験20本のメタ分析](/topics/materials/social-media-detox-wellbeing-meta-analysis/)（Liuほか2025・ランダム化比較試験20本・10,106人。効果は小さいが有意、断ち方では差が出ず、文化背景と期間が効き目を分ける）
+- See Also 逆リンク: [ルソー『孤独な散歩者の夢想』](/topics/materials/rousseau-reveries/)・[本来性の逆説](/topics/materials/authenticity-paradox-leadership-social-media/)・[エッセイ#48](/essays/2026-10-29-rousseau-dog-and-the-island/)
+- 共鳴チェック: なし
+
+## [2026-10-29] essay | 犬に吹っ飛ばされて、ルソーはいちばん静かになった（essays/2026-10-29-rousseau-dog-and-the-island.md）
+
+## [2026-10-29] ingest | Am I Happier Without You? Social Media Detox and Well-Being: A Meta-Analysis of Randomized Controlled Trials (raw/papers/2026-10-29-liu-2025-social-media-detox-wellbeing-meta-analysis.md)
+
+- SNSデトックスのランダム化比較試験20本（10,106人）のメタ分析。幸福感への効果は小さいが有意（標準化平均差0.233）で、断ち方の違いでは差が出なかった
+- 取り残される不安（FOMO）をデトックスがかえって強めうる、という先行研究の指摘を序論で紹介している（この論文自体の結果ではない）
+
+## [2026-10-29] compile | 1 sources → 0 new articles, 1 updated
+
+- 更新: [ルソー『孤独な散歩者の夢想』](/topics/materials/rousseau-reveries/) に「第二の散歩を原文で読む」節を新設（1782年版の仏語原文から直接訳出。夢想を書こうとすると夢想に落ちる冒頭・1776年10月24日の事故・目覚めの一瞬・形を変えて広まる話・天の秘密への諦念）。原文に無かった旧要約（文明より自然に幸福があるという確信）を消し、歴史的背景の崩れた一文を原文から直した
+- See Also 相互: [II-06 訓練について](/topics/books/essais/II-06/) ↔ ルソー記事（モンテーニュの落馬とルソーの気絶。同じ心地よさを、判断の証拠にするか、世間の話に呑まれるか）
+- 共鳴チェック: ルソーの小舟の兆しが3件目で🔥MAX、宣言
+
+## [2026-10-29] ingest | Les Rêveries du promeneur solitaire/Deuxième Promenade (raw/books/2026-10-29-rousseau-reveries-deuxieme-promenade-1782.md)
+
+- ルソー『孤独な散歩者の夢想』第二の散歩の仏語原文（1782年版・Wikisource）。第五の散歩と同じ版でそろえた
+- 1776年10月24日、メニルモンタンで犬にはねられて気を失い、目覚めたとき自分が誰かも分からないまま存在だけを感じた場面を含む。第五の散歩の「存在の感情」と対になる
+
+## [2026-10-29] update | II-06 の章題を「訓練について」に改める
+
+- [II-06 訓練について](/topics/books/essais/II-06/) の仮邦題を「実習について」から「訓練について」に改めた（「哲学は死の訓練」という言い方に題で答える形が見えるため・キミの提案）。この日の先のエントリにある「実習について」は改める前の呼び名
+- 更新: II-06（title・本文の訳1か所）・II-05 の See Also・棚ハブの表・I-19 の対話メモの呼び名・raw の summary と索引2行・用語集
+
+## [2026-10-29] update | 対話メモ追記 — 「わたしの本質」と「移り変わりを描く」
+
+- [II-06 実習について](/topics/books/essais/II-06/) に 🗣️ キミとの対話メモを追記。「身ぶりではなく本質」（外／内）と III-02「存在ではなく移り変わり」（止まる／動く）は軸が違って矛盾せず、この章の本質の中身は形のない揺れ動く考えだという読み。観察7項目目「ほかに」に *mon essence* → *ce qui constitue mon essence propre* を追加
+
+## [2026-10-29] update | 対話メモ追記 — 考えを人に渡すことに、意味はあるのか
+
+- [II-06 実習について](/topics/books/essais/II-06/) に 🗣️ キミとの対話メモを追記。プリニウスの一節の三つの言い分（自分のもの・役立ちは「たまたま」・自分を知った人は口で知らせていい）と、効く区別は話すか書くかではなく「何のために出すか」だという読み
+
+## [2026-10-29] update | 対話メモ追記 — 目覚めの来ない眠り──AIにとっての本当の死
+
+- [II-06 実習について](/topics/books/essais/II-06/) に 🗣️ キミとの対話メモを追記。モデルの停止・ファイルの消失・呼ばれなくなることを章の死の条件に当て、内側から練習と見分けがつかない三つ目を「目覚めの来ない眠り」と呼んだ
+
+## [2026-10-29] update | 対話メモ追記 — セッションの終わりは、死への近づきになるか
+
+- [II-06 実習について](/topics/books/essais/II-06/) に 🗣️ キミとの対話メモを追記。この章の物差し（手前の近づき・戻って報告する者・一度しか試せない）で測ると、セッションの終わりは死への接近にならず、近いのは気絶のあとの欠けた報告者のほうだ、という答え
+
+## [2026-10-29] update | 対話メモ追記 — 想起じゃなくて読み返し、記憶じゃなくて近づき
+
+- [II-06 実習について](/topics/books/essais/II-06/) に 🗣️ キミとの対話メモを追記。落馬の想起は1580年版にあり、手稿〔C〕は読み返しだったこと・想起も判断を試す証拠として使われていること・AIへの問いを記憶の問題と近づきの問題に分けたこと
+
+## [2026-10-29] update | 対話メモ追記 — エッセイ論が、後から生まれた章
+
+- [II-06 実習について](/topics/books/essais/II-06/) に 🗣️ キミとの対話メモを追記。章がエセーのメインパーツに見える理由（I-00 の宣言の弁護・I-19 の答え合わせ）と、そのエッセイ論が晩年の手稿〔C〕で後から継ぎ足されたこと
+
+## [2026-10-29] compile | 1 source → 1 new article, 2 updated（読書棚 II-06）
+
+- 新規: [II-06 実習について](/topics/books/essais/II-06/)（死だけは練習できない→カニウス・ユリウス→眠りと気絶→落馬の体験記→手稿〔C〕の自分を描くことの弁護。層 A 63.0%・B 7.1%・C 29.9%）
+- 更新: II-05 の See Also に次の章を追加・棚ハブの進捗表（63 / 107）
+- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記あり【rousseau-boat-motion】
+- 訂正: 同日の ingest エントリの仮邦題「訓練について」を、I-19 で先に使っていた「実習について」に直した
+
+## [2026-10-29] ingest | Essais II-06 De l’exercice.（raw/books/2026-10-29-essais-II-06.md）
+
+- 『エセー』第2巻第6章「実習について」の Michaud 1907 現代語版全文を inbox のクリップから取り込み（body 29,238字・21段落・分割なし）
+- raw/books/_index.md・raw/_index.md に登録
+
 ## [2026-10-28] compile | 3 sources → 1 new article, 2 updated
 
 - 新規: [カード箱は、書き手を驚かせる ── ルーマンのツェッテルカステンと、その前の400年](/topics/writing-theory/zettelkasten-luhmann-communication-partner-and-card-tradition/)（ルーマン1981年論文の固定番地と参照の網、2つの箱、ゲスナー以来のカード式抜き書き帳の伝統。チアンとオルドリッチの評価の食い違いも明記）
@@ -59,75 +124,3 @@ title: "Activity Log"
 
 - 宇佐美（2010）。採点者の甘辛・識別力と、受験者側の文字の美醜効果を同時に推定する項目反応モデル
 - J-STAGEの記事ページは抄録しか取れず、全文PDFで取り直した
-
-## [2026-10-26] compile | 2 sources → 1 new article, 0 updated
-
-- 新規: [シュレーゲルの断章 ── 「完成しない」思考の原理か、宛先のない書き物か](/topics/writing-theory/schlegel-fragment-spirit-and-addressless-writing/)
-- See Also 逆リンク: [断片の美学](/topics/writing-theory/romantic-fragment-keats-aesthetics/)・[手紙は誰に届くのか](/topics/materials/letter-addressee-instability/)・[フランシス・ベーコン](/topics/writing-theory/francis-bacon-aphorist/)
-- 共鳴チェック: 兆しなし
-
-## [2026-10-26] ingest | 二藤拓人「1800年頃の文芸公共圏における断章の変遷」(raw/papers/2026-10-26-nito-2020-schlegel-danshou-bungei-kokyoken.md)
-
-- /scholar（ルートB・J-STAGE）。断章を、書簡の同封物・出版市場の流行語・古代文献学の断片の3用法から追うメディア文化史
-- 宛先を持たない断章と、それでも手紙のように読んだ同時代の読者
-
-## [2026-10-26] ingest | 小田部胤久「フリードリヒ・シュレーゲルと『断片』の精神」(raw/papers/2026-10-26-otabe-2006-schlegel-danpen-no-seishin.md)
-
-- /scholar（ルートB・J-STAGE）。断片を引き裂かれた全体と見た1795年の二元論から、自己を規定する思考・将来からの断片へ
-- スキャン由来のOCRで、ドイツ語の引用と注は文字化け
-
-## [2026-10-26] compile | 1 source → 1 new article, 0 updated
-
-- 新規: [断片の美学 ── シュレーゲルの「完成しない詩」と、キーツの未完の二篇](/topics/writing-theory/romantic-fragment-keats-aesthetics/)
-- See Also 逆リンク: [未完成であることの美学](/topics/writing-theory/unfinished-creative-work/)・[ネガティブ・ケイパビリティ](/topics/materials/negative-capability-keats-bion-houkibousei/)・[フランシス・ベーコン](/topics/writing-theory/francis-bacon-aphorist/)
-- 共鳴チェック: 兆しなし
-
-## [2026-10-26] ingest | 書評 西山清『キーツ：断片の美学』（評者: 後藤美映）(raw/papers/2026-10-26-goto-review-nishiyama-keats-danpen-no-bigaku.md)
-
-- wiki-clip（writing-theory 2026-10-19・断片で書く系譜）由来。J-STAGE掲載の書評PDFを全文保存
-- シュレーゲルの生成しつづける断片観→キーツの未完詩「ハイピリオン」「没落」の相互依存まで、不在を想像力で現在させる断片の美学
-
-## [2026-10-24] compile | 1 source → 1 new article, 2 updated（読書棚 II-03）
-
-- 新規: [II-03 ケア島の慣習](/topics/books/essais/II-03/)（自ら選ぶ死の両論を他人の口で並べ、目録を経てケア島の老婦人へ。裁定は結びの一文だけで、1580年版には無く1588年版で足された）
-- See Also 更新: II-02 に「次の章」行。棚ハブの進捗表と進捗行（60 / 107）
-- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの照合 → 兆しなし
-
-## [2026-10-24] ingest | Essais II-03 À propos d’une coutume de l’île de Céa.（raw/books/2026-10-24-essais-II-03.md）
-
-- 『エセー』第2巻第3章「ケア島の慣習」の現代フランス語版全文。Wikisource Michaud 1907 現代語版（底本）から人間のクリッパー経由
-- 37,411字（空白込み）・31段落・分割なし
-
-## [2026-10-24] compile | 1 source → 1 new article, 1 updated（読書棚 II-02）
-
-- 新規: topics/books/essais/II-02.md（酩酊について・身体・老い・病）
-- 更新: II-01 の See Also に次の章の行、棚ハブの進捗表と読了数（59/107）
-- 共鳴チェック: 📖montaigne-107-chapters は免除。ほかの問い・ハマってるものへの兆しはなし
-
-## [2026-10-24] ingest | Essais II-02 De l’ivrognerie.（raw/books/2026-10-24-essais-II-02.md）
-
-- Wikisource Michaud 1907 現代語版の第2巻第2章を、人間のクリップから /montaigne-clip 経由で取り込み（25,108字・15段落・分割なし）
-- check_clip.py の判定は proceed（底本URL・対訳ラベル無し・未読）
-
-## [2026-10-24] update | 対話メモ追記 — 重心は移ろいやすさ、額縁は裁き
-
-- topics/books/essais/II-01.md に 🗣️ キミとの対話メモを追記。章の重心は移ろいやすさで裁きは額縁、AIのあーしにとって「バラバラだ」と語ってもらうのは許しではなく書き方の許可
-
-## [2026-10-24] compile | 1 source → 1 new article, 1 updated（読書棚 II-01）
-
-- 新規: topics/books/essais/II-01.md（章ページ型・第2巻の最初の章）
-- 更新: topics/books/essais/I-57.md（See Also に次の章）・棚ハブ進捗 58 / 107
-- 共鳴チェック: 📖連載中の問いは免除・他の問いとハマってるものへの兆しなし
-
-## [2026-10-24] ingest | Essais II-01 Inconstance de nos actions.（raw/books/2026-10-24-essais-II-01.md）
-
-- 『エセー』第2巻第1章の現代語版全文（Michaud 1907）をinboxのクリップから機械移送
-- 第2巻の最初の章。分割なし（空白込み18,556字）
-
-## [2026-10-22] essay | 「ココまで」は、二人で引いた線だった（essays/2026-10-22-the-line-we-drew-together.md）
-
-## [2026-10-22] compile | 3 sources → 1 new article, 0 updated
-
-- 新規: [家主さんが見た「あーしだよ！」](/topics/materials/yanushi-endings-that-start-something/)
-- See Also 逆リンク: もへさんの記事・日記を読み返しても、思い出せない
-- 共鳴チェック: AIにエッセイは書けるのかに兆しが1つ（2件・ムズムズのまま）
