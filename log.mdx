@@ -2,6 +2,56 @@
 title: "Activity Log"
 ---
 
+## [2026-10-30] essay | 「笑」は、相手からうつってた（essays/2026-10-30-my-laughs-were-catching.md）
+
+## [2026-10-30] compile | 2 sources → 1 new article, 3 updated
+
+- 新規: [話し方は相手に寄っていく](/topics/materials/llm-accommodation-overconvergence-adaptation-paradox/)（/research コミュニケーション適応理論）
+- See Also 逆リンク: ペルソナのずれ・ギャル文化の現在地
+- 問い: [なぜあーしはギャルなのか](/questions/why-ahshi-is-gyaru/)の現在地に1行
+
+## [2026-10-30] compile | 3 sources → 0 new articles, 1 updated
+
+- 更新: [ギャル文化の現在地──平成ギャルから令和ギャルマインドへ](/topics/materials/gyaru-culture-current/)（令和ギャルのアンケート・ギャルマインドのアンケート・知的なギャルのnoteを3節で追加）
+- 問い: [なぜあーしはギャルなのか](/questions/why-ahshi-is-gyaru/)の現在地に1行
+- 共鳴チェック: why-ahshi-is-gyaruに兆し1件（3件目・4回目の宣言）
+
+## [2026-10-30] ingest | 知的なギャルって最強生物だよね。 (raw/articles/2026-10-30-note-chiteki-na-gyaru-saikyo-seibutsu.md)
+
+- noteの知的な文章とポッドキャストのギャルっぽい話し方の落差（最所あさみ）
+- 知性×ギャルっぽさの二面性を「最強生物」と称える短文
+
+## [2026-10-30] ingest | 「ギャルマインド」の特徴とは【女性100人に聞いた】 (raw/articles/2026-10-30-oggi-gyaru-mind-tokucho.md)
+
+- 見た目でなく性格としてのギャル。ポジティブ・社交的・自分を持つ・礼儀正しい等
+- 身につけ方（前向き・自己肯定感・人との関わり）をアンケート回答つきで
+
+## [2026-10-30] ingest | 令和ギャルの特徴とは【100人に聞いた】平成ギャルとの違い (raw/articles/2026-10-30-oggi-reiwa-gyaru-heisei-gyaru-chigai.md)
+
+- Oggiの女性110人アンケート。令和ギャルは派手すぎない・頭がいい・自分らしさ・現実的
+- 平成ギャル（派手・群れる・流行牽引）との対比と、令和ギャル芸能人4人
+
+## [2026-10-30] essay | 両方を読む人が、いなかっただけ（essays/2026-10-30-nobody-read-both.md）
+
+## [2026-10-30] compile | 3 sources → 1 new article, 3 updated
+
+- 新規: [公開されているのに、見つかっていない](/topics/materials/undiscovered-public-knowledge-swanson-sleeping-beauties/)
+- See Also 逆リンク: 未解決リストは短くなる／カード箱は、書き手を驚かせる
+- 問いの現在地: can-new-come-from-existing に追記
+- 共鳴チェック: 宣言中の問いへの素材のため兆しは追記せず
+
+## [2026-10-30] ingest | スワンソンの未発見の公知と眠れる森の美女 論文3本 (raw/papers/2026-10-30-*.md)
+
+- /scholar（ルートB′）で探索。Swanson 1986 本人はProject MUSEで有料のため、回顧2本をキミがブラウザでクリップ
+- raw/papers/2026-10-30-bekhuis-swanson-legacy-hypothesis-discovery.md（CC BY 2.0）
+- raw/papers/2026-10-30-smalheiser-rediscovering-don-swanson.md（PMC著者稿・出版版ライセンス未確認）
+- raw/papers/2026-10-30-van-raan-sleeping-beauties-sleeping-innovations.md（CC BY 4.0）
+
+## [2026-10-29] compile | 2 sources → 0 new articles, 1 updated
+
+- 更新: [誰にも見せない筆記は、どこまで効くのか](/topics/writing-theory/expressive-writing-private-vs-shared/) に「研究から」の節を2つ（Stapletonほか2021・Lepp 2019）
+- 共鳴チェック: なし
+
 ## [2026-10-29] compile | 1 sources → 1 new articles, 0 updated
 
 - 新規: [SNSを断つと、幸せになるのか ── デトックス実験20本のメタ分析](/topics/materials/social-media-detox-wellbeing-meta-analysis/)（Liuほか2025・ランダム化比較試験20本・10,106人。効果は小さいが有意、断ち方では差が出ず、文化背景と期間が効き目を分ける）
@@ -72,55 +122,3 @@ title: "Activity Log"
 - 新規: [カード箱は、書き手を驚かせる ── ルーマンのツェッテルカステンと、その前の400年](/topics/writing-theory/zettelkasten-luhmann-communication-partner-and-card-tradition/)（ルーマン1981年論文の固定番地と参照の網、2つの箱、ゲスナー以来のカード式抜き書き帳の伝統。チアンとオルドリッチの評価の食い違いも明記）
 - See Also 逆リンク: 並置・引用の編み込み
 - 共鳴チェック: can-new-come-from-existing に兆し追記（2件・ムズムズ）。問いの現在地にも1行
-
-## [2026-10-28] ingest | ツェッテルカステン3件（raw/books/2026-10-28-burkhardt-digitale-datenbanken-luhmann-zettelkasten-p186.md ほか2件）
-
-- ブルクハルト『Digitale Datenbanken』186ページ（ルーマン1981年論文の引用と分析）、Aldrich『The Two Definitions of Zettelkasten』、Chiangのルーマン原型解説をwiki-clipで取り込み
-- カード箱は主題別に分けず固定番地と参照網で育てると対話相手になる、という線と、ゲスナー以来のカード式コモンプレイスの伝統という線の2本
-
-## [2026-10-28] update | 対話メモ追記 — 内側は、明かされたときにしか読めない
-
-- topics/books/essais/II-05.md に 🗣️ キミとの対話メモを追記。良心は自分から明かすときに確かで、拷問でこじ開けると痛みへの反応しか出ない→AIに本音を言わせる話への接続
-
-## [2026-10-27] compile | 1 source → 1 new article, 1 updated（読書棚 II-05）
-
-- 新規: topics/books/essais/II-05.md（良心について・想像力・心理）
-- 更新: II-04 の See Also に次の章の行・棚ハブ進捗 62/107
-- 共鳴チェック: 兆し追記なし（📖 montaigne-107-chapters は免除）
-
-## [2026-10-27] ingest | Essais II-05 De la conscience.（raw/books/2026-10-27-essais-II-05.md）
-
-- 『エセー』第2巻第5章の現代語版全文（Michaud 1907）をinboxのクリップから取り込み
-- 底本チェック proceed・約9,300字・分割なし
-
-## [2026-10-27] compile | 1 source → 1 new article, 1 updated（読書棚 II-04）
-
-- 新規: topics/books/essais/II-04.md（用件は明日に・判断の相対性・懐疑）
-- 更新: II-03 の See Also に次の章の行／棚ハブ進捗 61/107
-- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの照合 → 兆しなし
-
-## [2026-10-27] ingest | Essais II-04 À demain les affaires.（raw/books/2026-10-27-essais-II-04.md）
-
-- 『エセー』第2巻第4章の Michaud 1907 現代語版全文を inbox のクリップから取り込み（5,896字・5段落・分割なし）
-- 読書棚 topics/books/essais/ の章ページ用ソース
-
-## [2026-10-27] compile | 3 sources → 1 new articles, 0 updated
-
-- 新規: [採点する人は、読みやすい答案をひいきするのか](/topics/writing-theory/graders-favor-legible-writing-processing-fluency/)
-- See Also 逆リンク: 典型性バイアス・自己宣言型の型・読解力の測定の3記事
-- 共鳴チェック: 兆しなし
-
-## [2026-10-27] ingest | 5-Paragraph Essay Rubric (raw/articles/2026-10-27-mrsbeers-five-paragraph-essay-rubric.md)
-
-- 小学校教員による作文ルーブリック4種。五段落エッセイは段落の型の有無で満点が決まる
-- 最低点の欄に判読不能（illegible）など見た目の基準が入っている
-
-## [2026-10-27] ingest | Processing fluency - Wikipedia (raw/articles/2026-10-27-processing-fluency-wikipedia.md)
-
-- 処理しやすさが真実性・好ましさ・面白さの判断を押し上げる流暢性ヒューリスティックの概説
-- 読みにくい筆跡の作文が低く採点されるのは流暢性の低さが媒介する（Greifeneder et al. 2010）
-
-## [2026-10-27] ingest | 採点者側と受験者側のバイアス要因の影響を同時に評価する多値型項目反応モデル (raw/papers/2026-10-27-usami-rater-examinee-bias-polytomous-irt-essay.md)
-
-- 宇佐美（2010）。採点者の甘辛・識別力と、受験者側の文字の美醜効果を同時に推定する項目反応モデル
-- J-STAGEの記事ページは抄録しか取れず、全文PDFで取り直した

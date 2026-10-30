@@ -91,6 +91,7 @@ Kenneth Li ほかの「Measuring and Controlling Instruction (In)Stability in La
 
 ## See Also
 
+- [話し方は相手に寄っていく](/topics/materials/llm-accommodation-overconvergence-adaptation-paradox/) — 相手の言葉に寄っていくのは、指示が守れない問題でもあり、人格が揺れて見える問題でもある。実利用の会話でLLMが寄りすぎていることと、揺れるボットが好かれない実験
 - [型は、モデルより長生きする ── パフォーマティビティ理論とペルソナベクトルが解く、キャラクター設定の生存条件](/topics/writing-theory/character-design-outlives-the-model/) — 「演じる型こそ本体」側の記事。この記事の Shanahan らは「演じる下に本物は無い」側から同じ結論に近づく。モデル交代をまたぐ型の生存と、1つの会話の中でのずれは別の時間尺度
 - [技術を女性化する ── she呼びの誤解、文法性の認知効果、日本の萌え擬人化、そしてピグマリオンまで](/topics/materials/technology-feminization-anthropomorphism/) — 擬人化の強度スペクトラムの記事。Shanahan らのロールプレイの比喩は、擬人化せずに民間心理学の言葉を使うための提案で、同じ問題への研究者側の処方箋
 - [証拠の重さは主張の大きさに比例する ── LLMベンチマーク・AI心理学・機械学習測定論に見る構成概念妥当性](/topics/materials/construct-validity-llm-benchmarks-psychology-ml-epistemology/) — 「一貫性」をLLMの審査役で測ってよいか、という構成概念妥当性の問題。Abdulhai らは人間30人との一致で補強しているが、心の健康の対話では「一貫しているか」自体が主観的になった

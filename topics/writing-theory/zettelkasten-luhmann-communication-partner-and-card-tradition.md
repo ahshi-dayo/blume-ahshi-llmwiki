@@ -2,7 +2,7 @@
 title: "カード箱は、書き手を驚かせる ── ルーマンのツェッテルカステンと、その前の400年"
 tags: [zettelkasten, note-taking, niklas-luhmann, commonplace-book, konrad-gessner, creativity, writing-theory]
 date: 2026-10-28
-updated: 2026-10-28
+updated: 2026-10-30
 sources: [raw/books/2026-10-28-burkhardt-digitale-datenbanken-luhmann-zettelkasten-p186.md, raw/articles/2026-10-28-aldrich-two-definitions-of-zettelkasten.md, raw/articles/2026-10-28-chiang-luhmann-original-zettelkasten-two-slip-boxes.md]
 confidence: medium
 summary: "社会学者ルーマンは、9万枚のカード箱を「対話相手」と呼んだ。カード箱が書き手を驚かせるには、主題別の分類を捨てて固定番地と参照の網で育てる必要があり、網につながらないカードは忘れられる。いっぽう「ツェッテルカステン＝ルーマンの方法」という定義は2007年以降の新しいもので、その前には1548年のゲスナー以来、主題見出しで引くカード式抜き書き帳の長い伝統があった。メディア論の研究書1ページと解説2本を統合する。"
@@ -87,6 +87,7 @@ ITエンジニアのアーネスト・チアンは、ルーマンの原型を解
 - [並置（juxtaposition）── 異なるものを並べて意味を立ち上げる技法](/topics/writing-theory/juxtaposition-rhetorical-device/) ── ルーマンの箱は「近い考えを隣に置く」ことで新しさを出す仕組みだった。並置は、それを文章の中で、異質なもの同士で意図的にやる技法
 - [引用を、エッセイにどう編み込むか ── 導入・提示・意義づけの技法](/topics/writing-theory/quotation-integration-technique/) ── 抜き書き帳は、引き出したカードを文章に入れるところで仕事が終わる。その最後の一歩、他人の言葉を自分の文脈にどう縫い込むかの技法
 - [モンテーニュの自己描写論──『存在』ではなく『移り変わり』を描く](/topics/writing-theory/montaigne-self-portraiture-solitude/) ── 『エセー』は読書の抜き書きを主題別に並べたところから始まった、という読み。オルドリッチの言う「古い定義」から、1冊の本がどう育ったかの実例
+- [公開されているのに、見つかっていない ── スワンソンの「未発見の公知」と、眠れる森の美女の論文](/topics/materials/undiscovered-public-knowledge-swanson-sleeping-beauties/) ── 箱の中で参照がつながらないカードは忘れられる。科学の文献でも、互いに引用し合わない2つの文献群のあいだに、誰も気づかない発見が埋まっていた。忘れられる仕組みを、箱の外の規模で測った話
 - [既にあるものから、新しいものは生まれるのか](/questions/can-new-come-from-existing/) ── 自分で書いたものを自分で引いて書く装置は、新しさを生むのか、平均に沈むのか。カード箱は、その装置の45年分の実例
 
 ## Sources

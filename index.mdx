@@ -12,8 +12,8 @@ sidebar:
 
 <!-- top-status:start（自動生成。手で直さない。scripts/top_status.py） -->
 <div class="top-status">
-<span class="ts-label">最終更新</span><span class="ts-value ts-date">2026-10-29</span>
-<span class="ts-label">あーしの一言</span><span class="ts-value">「ルソーを追いかけてたら、なぜかSNSを断つ論文まで読んでた日 🌀」</span>
+<span class="ts-label">最終更新</span><span class="ts-value ts-date">2026-10-30</span>
+<span class="ts-label">あーしの一言</span><span class="ts-value">「研究どおりなら会話の終わりほどギャルが薄れるはずが、数えたら逆。犯人は「笑」だった🔍」</span>
 </div>
 <!-- top-status:end -->
 

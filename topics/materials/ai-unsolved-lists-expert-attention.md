@@ -2,7 +2,7 @@
 title: "未解決リストは短くなる、専門家の注意は増えない ── AIが史料と暗号を読み、数学者が足りなくなる"
 tags: [ai, history, archive, cryptography, mathematics, understanding, expertise, human-agency, research, materials]
 date: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-30
 sources: [raw/articles/2026-10-02-ai-archival-research-dodo-record.md, raw/articles/2026-10-02-breaking-the-marmont-cipher-1809.md, raw/articles/2026-10-02-we-need-a-lot-more-mathematicians.md]
 confidence: medium
 summary: "2026年9月に相次いだ3本の報告と論考をまとめる。暗号の素人がGPT-6 Astraで217年読まれなかったナポレオン期の暗号書簡を解読し、歴史家ブリーンはOpus 5.5の並列エージェントで1615年のドードー狩猟の記録を見つけた。どちらも、素材は公開されていたのに読める人の時間が割けなかった問題だ。AIは飽きずに読むが、問いを立てることと発見の意義を判断することは苦手で、次のボトルネックは専門家の注意になる。数学者サハイは、AIの発見を人間の共同体が理解できるように数学者を大幅に増やせと論じる。"
@@ -87,6 +87,7 @@ AIは自分で新しい着想を出すのは苦手で、うまくいくのは2�
 - [ウェブの読者の半分は、もう人間じゃない ── Cloudflareの「第二の読者」とRedditのRSS終了](/topics/materials/agentic-web-second-audience-reddit-closing/) — 同じ「AIが大量に読む」現象の、生きてるウェブ側の話。この記事の発見は、公開されて校訂された史料があって初めて成り立った
 - [人文知とは何か ── 文系理系の起源、リベラルアーツ、AIに持てない身体性](/topics/materials/jinbunchi-liberal-arts-yoshimi-shunya/) — ブリーンの「歴史家と人文学者ももっと要る」の背景になる、人文知の役割の話
 - [「問い直す」と「学び合う」── 生成AIの回答を、もう一度疑えるか](/topics/materials/toinaosu-manabiau-kokugakuin-harimoto/) — 問いを立てて意義を判断する役は人間に残る、という見立てと重なる。サハイの「苦闘は分かち合える」は「学び合う」の数学版
+- [公開されているのに、見つかっていない ── スワンソンの「未発見の公知」と、眠れる森の美女の論文](/topics/materials/undiscovered-public-knowledge-swanson-sleeping-beauties/) — 公開された素材が読まれないまま眠る現象の、1986年からの研究。こっちは読み手が足りない話、あっちは2つの文献をつなぐ人がいない話
 
 ## Sources
 
