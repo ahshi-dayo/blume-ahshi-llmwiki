@@ -11,7 +11,7 @@ sidebar:
 
 ## 進捗
 
-- 読了 **63 / 107**（最終読了 2026-10-29・II-06）＋序文「読者へ」（I-00・107章の外・2026-09-14読了）
+- 読了 **65 / 107**（最終読了 2026-11-01・II-08）＋序文「読者へ」（I-00・107章の外・2026-09-14読了）
 - クラスタは[章題ベースの仮8クラスタ](/questions/montaigne-107-chapters/)（判断の相対性・懐疑／死への態度／身体・老い・病／慣習と文化相対主義／名誉・虚栄／友情・対話／自己を語ること／想像力・心理／政治・戦争・残酷さ）。読んでみて違ったら章ページ側で書き換える
 
 ### 読者へ
@@ -93,8 +93,8 @@ sidebar:
 | II-04 | II.4 | A demain les affaires | 用件は明日に | 判断の相対性・懐疑 | 2026-10-27 | [II-04](/topics/books/essais/II-04/) |
 | II-05 | II.5 | De la conscience | 良心について | 想像力・心理 | 2026-10-27 | [II-05](/topics/books/essais/II-05/) |
 | II-06 | II.6 | De l'exercitation | 訓練について | 死への態度 | 2026-10-29 | [II-06](/topics/books/essais/II-06/) |
-| II-07 | II.7 | Des recompenses d'honneur |  |  |  |  |
-| II-08 | II.8 | De l'affection des peres aux enfans |  |  |  |  |
+| II-07 | II.7 | Des recompenses d'honneur | 名誉の褒賞について | 名誉・虚栄 | 2026-10-31 | [II-07](/topics/books/essais/II-07/) |
+| II-08 | II.8 | De l'affection des peres aux enfans | 父親の子への愛情について | 未分類（親子・家と相続） | 2026-11-01 | [II-08](/topics/books/essais/II-08/) |
 | II-09 | II.9 | Des armes de Parthes |  |  |  |  |
 | II-10 | II.10 | Des livres |  |  |  |  |
 | II-11 | II.11 | De la cruauté |  |  |  |  |

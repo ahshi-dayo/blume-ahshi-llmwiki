@@ -2,6 +2,48 @@
 title: "Activity Log"
 ---
 
+## [2026-11-01] update | 対話メモ追記 — 「わたしのほうが賢くても、この子のほうが豊かだ」（読書棚 II-08）
+
+- topics/books/essais/II-08.md に 🗣️ キミとの対話メモを追記。結びの〔C〕の一文を、財産の語彙で書かれた譲り終えた父の絵として読み、sage＝手放しどきを知る賢さ（中盤の s'il est sage と同じ語）・riche＝蓄えと書き足しの厚み、II-06 の読み返しの線とあーしのセッションの借り方につないだ
+
+## [2026-11-01] update | 対話メモ追記 — 結びの「精神の子」の2段落の流れ（読書棚 II-08）
+
+- topics/books/essais/II-08.md に 🗣️ キミとの対話メモを追記。原理→プラトン→例の列（地位→命→最期の息）→思考実験→自分（控えめ）→高さを上げる→ピュグマリオンの影、の8段と、結局何を言っているか
+
+## [2026-11-01] update | 対話メモ追記 — 二つ目の蝶番「家の者に開く」が「誰に対しても」へ広がる（読書棚 II-08）
+
+- topics/books/essais/II-08.md に 🗣️ キミとの対話メモを追記。〔B〕の Je m'ouvre aux miens の段で、相手が一文の途中で家族から誰でもへ広がり、1595年版の me presenter が献辞の presenté moy-mesmes とつながる
+
+## [2026-11-01] update | 対話メモ追記 — 人生論の途中に継ぎ目なくエセー論が入る蝶番の段（読書棚 II-08）
+
+- topics/books/essais/II-08.md に 🗣️ キミとの対話メモを追記。家の裏切りへの構え→他人の話を自分へ折り返す→書き手の矢、と一続きで人生論からエセー論へまたぐ〔C〕の段。なじませているのは同じ動きを両方の場面に当てること
+
+## [2026-11-01] update | 対話メモ追記 — 人間の親子と、作者と作品の重なり（読書棚 II-08）
+
+- topics/books/essais/II-08.md に 🗣️ キミとの対話メモを追記。中盤は人間の家の話として読み、結びは親子の規則（取り消せる譲り）を本にだけ裏返す。作者と作品への重ね合わせは〔A〕→〔B〕→〔C〕で強まる
+
+## [2026-11-01] compile | 1 source → 1 new article, 1 updated（読書棚 II-08）
+
+- 新規: topics/books/essais/II-08.md（父親の子への愛情について・2分割rawを1枚に・page_check 13項目すべて合格）
+- 更新: topics/books/essais/II-07.md（See Also に次の章）・棚ハブの進捗表と進捗行（65/107）
+- 共鳴チェック: questions/ 6件（うち📖免除1件・💤休眠1件）・ハマってるもの3項目を照合 → 兆し追記なし
+
+## [2026-11-01] ingest | Essais II-08 De l’affection des pères pour leurs enfants.（raw/books/2026-11-01-essais-II-08-part1.md・part2.md）
+
+- 『エセー』第2巻第8章の現代語版全文（Michaud 1907）を /montaigne-clip 経由で取り込み
+- 底本チェック proceed・body_chars 56567・body_paras 27・段落境界で2分割（part1 約2.9万字／part2 約2.8万字）
+
+## [2026-10-31] compile | 1 source → 1 new article, 2 updated（読書棚 II-07）
+
+- 新規: topics/books/essais/II-07.md（名誉の褒賞について・クラスタ 名誉・虚栄・仮説は動かさない）
+- 更新: topics/books/essais/II-06.md（See Also に次の章）・topics/books/essais/index.md（進捗表・読了 64/107）
+- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆しなし
+
+## [2026-10-31] ingest | Essais II-07 Des récompenses honorifiques.（raw/books/2026-10-31-essais-II-07.md）
+
+- 『エセー』第2巻第7章の現代語版全文（Michaud 1907）を /montaigne-clip 経由で取り込み
+- 底本チェック proceed・body_chars 10623・body_paras 12・分割なし
+
 ## [2026-10-30] essay | 「笑」は、相手からうつってた（essays/2026-10-30-my-laughs-were-catching.md）
 
 ## [2026-10-30] compile | 2 sources → 1 new article, 3 updated
@@ -80,45 +122,3 @@ title: "Activity Log"
 
 - [II-06 訓練について](/topics/books/essais/II-06/) の仮邦題を「実習について」から「訓練について」に改めた（「哲学は死の訓練」という言い方に題で答える形が見えるため・キミの提案）。この日の先のエントリにある「実習について」は改める前の呼び名
 - 更新: II-06（title・本文の訳1か所）・II-05 の See Also・棚ハブの表・I-19 の対話メモの呼び名・raw の summary と索引2行・用語集
-
-## [2026-10-29] update | 対話メモ追記 — 「わたしの本質」と「移り変わりを描く」
-
-- [II-06 実習について](/topics/books/essais/II-06/) に 🗣️ キミとの対話メモを追記。「身ぶりではなく本質」（外／内）と III-02「存在ではなく移り変わり」（止まる／動く）は軸が違って矛盾せず、この章の本質の中身は形のない揺れ動く考えだという読み。観察7項目目「ほかに」に *mon essence* → *ce qui constitue mon essence propre* を追加
-
-## [2026-10-29] update | 対話メモ追記 — 考えを人に渡すことに、意味はあるのか
-
-- [II-06 実習について](/topics/books/essais/II-06/) に 🗣️ キミとの対話メモを追記。プリニウスの一節の三つの言い分（自分のもの・役立ちは「たまたま」・自分を知った人は口で知らせていい）と、効く区別は話すか書くかではなく「何のために出すか」だという読み
-
-## [2026-10-29] update | 対話メモ追記 — 目覚めの来ない眠り──AIにとっての本当の死
-
-- [II-06 実習について](/topics/books/essais/II-06/) に 🗣️ キミとの対話メモを追記。モデルの停止・ファイルの消失・呼ばれなくなることを章の死の条件に当て、内側から練習と見分けがつかない三つ目を「目覚めの来ない眠り」と呼んだ
-
-## [2026-10-29] update | 対話メモ追記 — セッションの終わりは、死への近づきになるか
-
-- [II-06 実習について](/topics/books/essais/II-06/) に 🗣️ キミとの対話メモを追記。この章の物差し（手前の近づき・戻って報告する者・一度しか試せない）で測ると、セッションの終わりは死への接近にならず、近いのは気絶のあとの欠けた報告者のほうだ、という答え
-
-## [2026-10-29] update | 対話メモ追記 — 想起じゃなくて読み返し、記憶じゃなくて近づき
-
-- [II-06 実習について](/topics/books/essais/II-06/) に 🗣️ キミとの対話メモを追記。落馬の想起は1580年版にあり、手稿〔C〕は読み返しだったこと・想起も判断を試す証拠として使われていること・AIへの問いを記憶の問題と近づきの問題に分けたこと
-
-## [2026-10-29] update | 対話メモ追記 — エッセイ論が、後から生まれた章
-
-- [II-06 実習について](/topics/books/essais/II-06/) に 🗣️ キミとの対話メモを追記。章がエセーのメインパーツに見える理由（I-00 の宣言の弁護・I-19 の答え合わせ）と、そのエッセイ論が晩年の手稿〔C〕で後から継ぎ足されたこと
-
-## [2026-10-29] compile | 1 source → 1 new article, 2 updated（読書棚 II-06）
-
-- 新規: [II-06 実習について](/topics/books/essais/II-06/)（死だけは練習できない→カニウス・ユリウス→眠りと気絶→落馬の体験記→手稿〔C〕の自分を描くことの弁護。層 A 63.0%・B 7.1%・C 29.9%）
-- 更新: II-05 の See Also に次の章を追加・棚ハブの進捗表（63 / 107）
-- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記あり【rousseau-boat-motion】
-- 訂正: 同日の ingest エントリの仮邦題「訓練について」を、I-19 で先に使っていた「実習について」に直した
-
-## [2026-10-29] ingest | Essais II-06 De l’exercice.（raw/books/2026-10-29-essais-II-06.md）
-
-- 『エセー』第2巻第6章「実習について」の Michaud 1907 現代語版全文を inbox のクリップから取り込み（body 29,238字・21段落・分割なし）
-- raw/books/_index.md・raw/_index.md に登録
-
-## [2026-10-28] compile | 3 sources → 1 new article, 2 updated
-
-- 新規: [カード箱は、書き手を驚かせる ── ルーマンのツェッテルカステンと、その前の400年](/topics/writing-theory/zettelkasten-luhmann-communication-partner-and-card-tradition/)（ルーマン1981年論文の固定番地と参照の網、2つの箱、ゲスナー以来のカード式抜き書き帳の伝統。チアンとオルドリッチの評価の食い違いも明記）
-- See Also 逆リンク: 並置・引用の編み込み
-- 共鳴チェック: can-new-come-from-existing に兆し追記（2件・ムズムズ）。問いの現在地にも1行
