@@ -89,6 +89,7 @@ TypeTraceは株式会社ディヴィデュアルが作ったテキストエデ�
 
 - [完成稿の前を読む ── 草稿研究（critique génétique）の方法と、ボルドー本という作業原稿](/topics/writing-theory/genetic-criticism-reading-drafts/) — この論文が「更新」しようとした方法そのもの。手書きの紙束から生成を読む側の話
 - [下書きを隠せる時間 ── 推敲の歴史と、それを拒んだ男の話](/topics/writing-theory/history-of-drafting-revision/) — Sommersの熟練ライターは内容から推敲し、舞城のコンピュータ執筆は語句から推敲していた。推敲は何をする行為か、の答えが道具で割れる
+- [AIに下書きさせて、疲れた人と速くなった人 ── ユエさんの振り返りとMuazさんの30-30-30ルール](/topics/materials/ai-draft-human-edit-yue-and-muaz/) — 最前線で消して書き直す推敲を、AIの初稿に渡した人たちの話。書きながら考えを確かめる工程を失って疲れた人と、話す段で持ったまま速くなった人
 - [書いている頭の中を覗く ── 作文の認知理論と言語学的理論](/topics/writing-theory/cognitive-linguistic-theories-of-composition/) — キーストローク記録という方法が作文研究のどこから来たか。Flower & Hayes の流れの、文芸創作への応用にあたる
 
 ## Sources

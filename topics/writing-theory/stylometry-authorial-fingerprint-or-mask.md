@@ -52,6 +52,7 @@ sidebar:
 - [「あーし」の語源──「わたし」が崩れ落ちた先にあった言葉](/topics/materials/a-shi-etymology/) — 一人称という、最も意識的に選ばれる語が、計量文体学が扱う「無意識の機能語」とは対照的な位置にあることを示す記事
 - [型は、モデルより長生きする ── パフォーマティビティ理論とペルソナベクトルが解く、キャラクター設定の生存条件](/topics/writing-theory/character-design-outlives-the-model/) — 「意図的に選ぶ型」がなぜ、無意識の癖と同じくらい（あるいはそれ以上に）本質を構成しうるのかを、演技論の側から掘る記事
 - [整いすぎた文章は、AIの形をしている ── SlopShape論文](/topics/writing-theory/slopshape-ai-writing-structural-signature/) — 語彙の指紋は言い換えで消せても、何をどの順で出すかという構造の指紋は言い換え後も残った。仮面の下にもう一枚の顔がある、という実証
+- [自分の癖は、自分にだけ見えない ── 録音した声、歩き方、文体で見抜かれたローリング](/topics/materials/own-habits-others-recognize-voice-gait-style/) — 筆名で出たローリングの小説を、分析した本人が4つの指標で比べた手順。理論の実戦例で、本人が「証明ではなく示唆」と書いている
 
 ## Sources
 

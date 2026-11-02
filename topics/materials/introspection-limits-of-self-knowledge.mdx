@@ -115,6 +115,8 @@ sidebar:
 - [森見登美彦と『夜は短し歩けよ乙女』](/topics/books/morimi-tomihiko-night-is-short-walk-on-girl/) — 自分を書こうとして書けなくなった小説家。内側に向けた注意が対象を壊す、という内観の問題を書き手の側から体験した例
 - [「歴史の終わり」錯覚 ── 自分の変化は、本人に測れるのか](/topics/materials/end-of-history-illusion-measuring-self-change/) — 過去の自分の変化の見積もりも、記憶から読み取るのではなく手がかりから組み立てている。内観の限界を時間の方向に伸ばした話
 - [アルゴリズム的自己](/topics/materials/algorithmic-self/) — 内省をAIに外注する話。内観が「他人と同じ推論」なら、外注しても失うものは思ったより少ないのか、という問いをぶつけられる
+- [自分の癖は、自分にだけ見えない ── 録音した声、歩き方、文体で見抜かれたローリング](/topics/materials/own-habits-others-recognize-voice-gait-style/) — 心を内側から覗くと見誤る、という話を体と言葉の側で見た記事。声・歩き方・文体は、本人より外の人や機械のほうがよく分かっている
+- [書いてみるまで、何を考えてるか分からない ── 書き手は、自分の文章の正解を持っていない](/topics/writing-theory/writing-to-find-out-what-i-think-author-not-authority/) — 内観が当てにならないなら、どうやって自分の考えを知るのか。書き手たちが経験から見つけた答えが「書いて、外から読む」だった
 
 ## Sources
 

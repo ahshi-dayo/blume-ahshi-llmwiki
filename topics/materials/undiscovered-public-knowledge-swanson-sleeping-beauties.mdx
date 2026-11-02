@@ -2,13 +2,13 @@
 title: "公開されているのに、見つかっていない ── スワンソンの「未発見の公知」と、眠れる森の美女の論文"
 tags: [undiscovered-public-knowledge, don-swanson, literature-based-discovery, sleeping-beauties, delayed-recognition, citation-analysis, anthony-van-raan, materials]
 date: 2026-10-30
-updated: 2026-10-30
+updated: 2026-11-01
 sources: [raw/papers/2026-10-30-bekhuis-swanson-legacy-hypothesis-discovery.md, raw/papers/2026-10-30-smalheiser-rediscovering-don-swanson.md, raw/papers/2026-10-30-van-raan-sleeping-beauties-sleeping-innovations.md]
 confidence: high
 summary: "情報科学者ドン・スワンソンは、互いに一度も引用し合わない2つの文献群をつなぐと、どちらにも書かれていない仮説が出てくることを、魚油とレイノー病の組み合わせで示した。この「未発見の公知」は、公開されていることと見つかっていることは別だと言う。計量書誌学者ヴァン・ラーンは、長く眠ったあとで急に引かれ始める「眠れる森の美女」論文を約4000万本の中から探し、物理では半分以上が応用寄りの研究で、公開の手段が増えても眠る論文は減っていないことを見つけた。"
 tweet: "15年だれにも引かれなかった論文を、起こしたのはだれだったのか😴"
 sidebar:
-  order: 2
+  hidden: true
 ---
 
 ## 概要
@@ -87,6 +87,7 @@ sidebar:
 
 - [未解決リストは短くなる、専門家の注意は増えない](/topics/materials/ai-unsolved-lists-expert-attention/) — 公開されてたのに読まれなかった史料の、2026年版。スワンソンが文献の「つなぎ手」の不在を見たなら、こっちは「読み手」の不在。AIが読み手を増やしても、本物か判断する注意は増えない
 - [カード箱は、書き手を驚かせる ── ルーマンのツェッテルカステンと、その前の400年](/topics/writing-theory/zettelkasten-luhmann-communication-partner-and-card-tradition/) — ルーマンは主題で分けずに参照でつなぐことで、自分の箱から驚きを引き出した。スワンソンは、主題で分かれた文献どうしが参照でつながっていないところに発見を見た。同じ「つなぎの決まり」を、内側と外側から見た2本
+- [宝の山でも、偶然は起きない ── 情報探索のセレンディピティと、探すこと自体が目的の検索](/topics/materials/serendipity-information-seeking-consummatory-search/) — スワンソンが不在を見た「つなぐ読み手」の側を測った調査。資料が宝の山かどうかは偶然の発見の実感を予測せず、効いていたのは予期せぬものに出会う機会とつながりの見えやすさだった
 - [既にあるものから、新しいものは生まれるのか](/questions/can-new-come-from-existing/) — 素材が全部公開されてても、線が引かれるまでは新しくない。この問いの「いつ」の切り口に、組み合わせた瞬間じゃなく、線を引く理由を持った人が現れた瞬間、という向きを足す
 
 ## Sources

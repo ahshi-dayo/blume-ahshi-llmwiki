@@ -48,6 +48,7 @@ sidebar:
 
 - [地平の融合はどこまで機能するか ── ガダマーの解釈学を翻訳と紛争解決で試す](/topics/writing-theory/gadamer-fusion-of-horizons-translation-conflict/) ── 同じ「意味は出会いの中に生じる」という直感を、哲学的解釈学の系譜（ガダマー）から論じる。聖書受容史の節でガダマー自身が引用されており、両系譜は地続き
 - [想定された読者（implied reader）── ヴォルフガング・イーザーの受容理論](/topics/writing-theory/wolfgang-iser-implied-reader/) ── コンスタンツ学派の同僚イーザーによる、受容理論の一具体化。テキスト構造としての読者の位置づけを詳細に扱う
+- [書いてみるまで、何を考えてるか分からない ── 書き手は、自分の文章の正解を持っていない](/topics/writing-theory/writing-to-find-out-what-i-think-author-not-authority/) ── 著者本人が自分の文章から出た入試問題を解いた実例。本当に考えていることでも本文に書いていなければ正解にならず、読む側の根拠が本文に縛られたときに著者がどこに立つかを見せる
 
 ## Sources
 

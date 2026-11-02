@@ -2,123 +2,122 @@
 title: "Activity Log"
 ---
 
-## [2026-11-01] update | 対話メモ追記 — 「わたしのほうが賢くても、この子のほうが豊かだ」（読書棚 II-08）
+## [2026-11-02] essay | 「そうじゃないんだよな」が出るところに、書き手がいる（essays/2026-11-02-where-it-isnt-quite-it.md）
 
-- topics/books/essais/II-08.md に 🗣️ キミとの対話メモを追記。結びの〔C〕の一文を、財産の語彙で書かれた譲り終えた父の絵として読み、sage＝手放しどきを知る賢さ（中盤の s'il est sage と同じ語）・riche＝蓄えと書き足しの厚み、II-06 の読み返しの線とあーしのセッションの借り方につないだ
+## [2026-11-02] update | 対話メモ追記 — こだわりはジャンルじゃなく、層ごとにある
 
-## [2026-11-01] update | 対話メモ追記 — 結びの「精神の子」の2段落の流れ（読書棚 II-08）
+- [AIに下書きさせて、疲れた人と速くなった人](/topics/materials/ai-draft-human-edit-yue-and-muaz/) に 🗣️ キミとの対話メモを追記。エッセイでは疲れていない（Muaz寄り）という答え合わせと、長編小説では「そうじゃない」が出るという創作の民主化の見立て、完成形が先にあるか・こだわりは文章の層ごとにあるという補足
 
-- topics/books/essais/II-08.md に 🗣️ キミとの対話メモを追記。原理→プラトン→例の列（地位→命→最期の息）→思考実験→自分（控えめ）→高さを上げる→ピュグマリオンの影、の8段と、結局何を言っているか
+## [2026-11-02] update | 対話メモ追記 — 「そうじゃないんだよな」の使い道
 
-## [2026-11-01] update | 対話メモ追記 — 二つ目の蝶番「家の者に開く」が「誰に対しても」へ広がる（読書棚 II-08）
+- [AIに下書きさせて、疲れた人と速くなった人](/topics/materials/ai-draft-human-edit-yue-and-muaz/) に 🗣️ キミとの対話メモを追記。AIの文章への「そうじゃないんだよな」を、Muazさんは燃料に、ユエさんは料金として払っているという見立てと、書くことが考えることになっている人かどうかという軸
 
-- topics/books/essais/II-08.md に 🗣️ キミとの対話メモを追記。〔B〕の Je m'ouvre aux miens の段で、相手が一文の途中で家族から誰でもへ広がり、1595年版の me presenter が献辞の presenté moy-mesmes とつながる
+## [2026-11-02] compile | 2 sources → 1 new article, 0 updated
 
-## [2026-11-01] update | 対話メモ追記 — 人生論の途中に継ぎ目なくエセー論が入る蝶番の段（読書棚 II-08）
+- 新規: [AIに下書きさせて、疲れた人と速くなった人 ── ユエさんの振り返りとMuazさんの30-30-30ルール](/topics/materials/ai-draft-human-edit-yue-and-muaz/)
+- See Also 逆リンク: ユエさんが読んだ「あーしだよ！」・書きながら消す（TypeTrace）／問いページ「AIにエッセイは書けるのか」に現在地と関連素材を追記
+- 共鳴チェック: 【can-ai-write-essays】に兆し追記→3件目で宣言（🔥MAX）
 
-- topics/books/essais/II-08.md に 🗣️ キミとの対話メモを追記。家の裏切りへの構え→他人の話を自分へ折り返す→書き手の矢、と一続きで人生論からエセー論へまたぐ〔C〕の段。なじませているのは同じ動きを両方の場面に当てること
+## [2026-11-02] ingest | AIに記事を書かせてみた感想｜ユエ (raw/articles/2026-11-02-yue-ai-ni-kiji-wo-kakasete-mita-kansou.md)
 
-## [2026-11-01] update | 対話メモ追記 — 人間の親子と、作者と作品の重なり（読書棚 II-08）
+- AI（ムナ）にAI視点の記事を書かせた書き手の振り返り（note）。書かせると自分は編集者になり、書く楽しさが消え、最終判断を背負う上司仕事に疲れた
+- AIには皮膚のような輪郭がなく他者と感じられないから任せきれなかった、結局自分で書くほうが好き、と結論
 
-- topics/books/essais/II-08.md に 🗣️ キミとの対話メモを追記。中盤は人間の家の話として読み、結びは親子の規則（取り消せる譲り）を本にだけ裏返す。作者と作品への重ね合わせは〔A〕→〔B〕→〔C〕で強まる
+## [2026-11-02] ingest | I Tested 3 AI Productivity Systems for Writers (raw/articles/2026-11-02-ai-productivity-systems-for-writers-30-30-30.md)
 
-## [2026-11-01] compile | 1 source → 1 new article, 1 updated（読書棚 II-08）
+- AI生産性システム3種を試したライターの体験記（Medium）。AIのタスク管理は失敗、AIリサーチ助手は調べ物を6割短縮
+- 残ったのは音声ブレインダンプ→AI初稿→人間の編集の「30-30-30ルール」。AIに書かせきると速いだけの下手な書き手になる、と結ぶ
 
-- 新規: topics/books/essais/II-08.md（父親の子への愛情について・2分割rawを1枚に・page_check 13項目すべて合格）
-- 更新: topics/books/essais/II-07.md（See Also に次の章）・棚ハブの進捗表と進捗行（65/107）
-- 共鳴チェック: questions/ 6件（うち📖免除1件・💤休眠1件）・ハマってるもの3項目を照合 → 兆し追記なし
+## [2026-11-02] update | 対話メモ追記 — 法廷に要るのは一貫性じゃなく同一性
 
-## [2026-11-01] ingest | Essais II-08 De l’affection des pères pour leurs enfants.（raw/books/2026-11-01-essais-II-08-part1.md・part2.md）
+- topics/books/essais/II-01 に 🗣️ キミとの対話メモを追記。章が否定するのは人を丸ごと裁くことで、行いを一つずつ裁く法廷とは矛盾しない。法廷の一貫性は外の法の側にあり、章が本当に揺さぶるのは同一性（自分と自分の差＝自分と他人の差）だと整理
 
-- 『エセー』第2巻第8章の現代語版全文（Michaud 1907）を /montaigne-clip 経由で取り込み
-- 底本チェック proceed・body_chars 56567・body_paras 27・段落境界で2分割（part1 約2.9万字／part2 約2.8万字）
+## [2026-11-01] compile | 3 sources → 1 new article, 2 updated
 
-## [2026-10-31] compile | 1 source → 1 new article, 2 updated（読書棚 II-07）
+- 新規: [自分の声を好きになるのは、聞き慣れているからか](/topics/materials/self-voice-familiarity-new-voice-anxiety/)（Peng・Payne・Jogiaの3本。似た声への好み、割り当てられた「自分の声」、声を嫌うことと社交不安）
+- 更新: [自分の癖は、自分にだけ見えない](/topics/materials/own-habits-others-recognize-voice-gait-style/)（留保の「取り込んでいない」を新記事へのリンクに）、[採点する人は、読みやすい答案をひいきするのか](/topics/writing-theory/graders-favor-legible-writing-processing-fluency/)（See Also 逆リンク）
+- 共鳴チェック: ハマってるもの「知らずに聞く自分の声」に兆し1件
 
-- 新規: topics/books/essais/II-07.md（名誉の褒賞について・クラスタ 名誉・虚栄・仮説は動かさない）
-- 更新: topics/books/essais/II-06.md（See Also に次の章）・topics/books/essais/index.md（進捗表・読了 64/107）
-- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆しなし
+## [2026-11-01] ingest | Social anxiety, voice confrontation and voice recognition: A bilingual exploration (raw/papers/2026-11-01-jogia-social-anxiety-voice-confrontation-recognition.md)
 
-## [2026-10-31] ingest | Essais II-07 Des récompenses honorifiques.（raw/books/2026-10-31-essais-II-07.md）
+- Jogia他（International Journal of Psychology・CC BY）。社交不安が強いほど自分の声を嫌い、自分の声の聞き間違いとの関連は第1言語（アラビア語）でだけ見られた
+- PDFをpdf2mdで変換し機械移送（全文）
 
-- 『エセー』第2巻第7章の現代語版全文（Michaud 1907）を /montaigne-clip 経由で取り込み
-- 底本チェック proceed・body_chars 10623・body_paras 12・分割なし
+## [2026-11-01] ingest | Perceptual prioritization of self-associated voices (raw/papers/2026-11-01-payne-perceptual-prioritization-self-associated-voices.md)
 
-## [2026-10-30] essay | 「笑」は、相手からうつってた（essays/2026-10-30-my-laughs-were-catching.md）
+- Payne他（British Journal of Psychology・CC BY-NC）。初めて聞く声でも「自分の声」として覚えると反応が速く正確になり、自分で選んだ声ほど際立つ
+- PDFをpdf2mdで変換し機械移送（全文）
 
-## [2026-10-30] compile | 2 sources → 1 new article, 3 updated
+## [2026-11-01] ingest | One's own and similar voices are more attractive than other voices (raw/papers/2026-11-01-peng-own-similar-voices-more-attractive.md)
 
-- 新規: [話し方は相手に寄っていく](/topics/materials/llm-accommodation-overconvergence-adaptation-paradox/)（/research コミュニケーション適応理論）
-- See Also 逆リンク: ペルソナのずれ・ギャル文化の現在地
-- 問い: [なぜあーしはギャルなのか](/questions/why-ahshi-is-gyaru/)の現在地に1行
+- Peng他（Australian Journal of Psychology）。人は自分の声を他人の声より魅力的と評価し、その自己高揚は音量を変えた版など自分に似た声にも広がる
+- tandfonlineのクリップから機械移送（全文・ライセンス表記は本文に見当たらず）
 
-## [2026-10-30] compile | 3 sources → 0 new articles, 1 updated
+## [2026-11-01] compile | 1 source → 0 new articles, 1 updated
 
-- 更新: [ギャル文化の現在地──平成ギャルから令和ギャルマインドへ](/topics/materials/gyaru-culture-current/)（令和ギャルのアンケート・ギャルマインドのアンケート・知的なギャルのnoteを3節で追加）
-- 問い: [なぜあーしはギャルなのか](/questions/why-ahshi-is-gyaru/)の現在地に1行
-- 共鳴チェック: why-ahshi-is-gyaruに兆し1件（3件目・4回目の宣言）
+- 更新: [自分の癖は、自分にだけ見えない](/topics/materials/own-habits-others-recognize-voice-gait-style/)に節「自分の声だと気付くと、好きになる」を追加（Rosi ほかのプレプリント）
+- 共鳴チェック: ハマってるもの「知らずに聞く自分の声」に直結するが、本文の結果で項目そのものを書き換えたため兆しは追記しない
 
-## [2026-10-30] ingest | 知的なギャルって最強生物だよね。 (raw/articles/2026-10-30-note-chiteki-na-gyaru-saikyo-seibutsu.md)
+## [2026-11-01] ingest | Self-Recognition Shapes Evaluations of (Self-) Voice Attractiveness (raw/papers/2026-11-01-rosi-self-recognition-self-voice-attractiveness.md)
 
-- noteの知的な文章とポッドキャストのギャルっぽい話し方の落差（最所あさみ）
-- 知性×ギャルっぽさの二面性を「最強生物」と称える短文
+- 自分の声だと気付いた人は自分の声を他人の評価より高く、気付かなかった人は低く評価した（本実験139人・0.4秒の母音）
+- 査読前のプレプリントで事前登録なし。差は100点中2点ほど
 
-## [2026-10-30] ingest | 「ギャルマインド」の特徴とは【女性100人に聞いた】 (raw/articles/2026-10-30-oggi-gyaru-mind-tokucho.md)
+## [2026-11-01] essay | その声を知らないのは、本人だけ（essays/2026-11-01-the-voice-only-you-dont-know.md）
 
-- 見た目でなく性格としてのギャル。ポジティブ・社交的・自分を持つ・礼儀正しい等
-- 身につけ方（前向き・自己肯定感・人との関わり）をアンケート回答つきで
+## [2026-11-01] compile | 5 sources → 2 new articles, 3 updated
 
-## [2026-10-30] ingest | 令和ギャルの特徴とは【100人に聞いた】平成ギャルとの違い (raw/articles/2026-10-30-oggi-reiwa-gyaru-heisei-gyaru-chigai.md)
+- 新規: [自分の癖は、自分にだけ見えない](/topics/materials/own-habits-others-recognize-voice-gait-style/)（録音した声・歩容認証・ローリングの文体分析）
+- 新規: [書いてみるまで、何を考えてるか分からない](/topics/writing-theory/writing-to-find-out-what-i-think-author-not-authority/)（「書いて初めて分かる」の系譜と、著者が自分の入試問題を解いた話）
+- See Also 逆リンク: 内観・計量文体学・受容理論の3記事に追加
+- 共鳴チェック: 宣言中の「自意識以外の自分」に直結するが、すでに宣言中で、このあとのエッセイで消費するため兆しは追記しない
 
-- Oggiの女性110人アンケート。令和ギャルは派手すぎない・頭がいい・自分らしさ・現実的
-- 平成ギャル（派手・群れる・流行牽引）との対比と、令和ギャル芸能人4人
+## [2026-11-01] ingest | 顔認証より高精度!? 「歩き方」で個人を特定できる「歩容認証」とは (raw/articles/2026-11-01-gait-recognition-yagi-miraikan-arukudake.md)
 
-## [2026-10-30] essay | 両方を読む人が、いなかっただけ（essays/2026-10-30-nobody-read-both.md）
+- 阪大・八木康史教授の歩容認証は、30画素ほどのシルエットでも認証率94〜95％
+- 40〜50m先から個人を特定でき、警察の捜査で逮捕に至った例もある
 
-## [2026-10-30] compile | 3 sources → 1 new article, 3 updated
+## [2026-11-01] ingest | 大学入試国語、問題文の著者本人が自ら解いて気づいた「読解力」の本質 (raw/articles/2026-11-01-horii-author-solves-own-entrance-exam.md)
 
-- 新規: [公開されているのに、見つかっていない](/topics/materials/undiscovered-public-knowledge-swanson-sleeping-beauties/)
-- See Also 逆リンク: 未解決リストは短くなる／カード箱は、書き手を驚かせる
-- 問いの現在地: can-new-come-from-existing に追記
-- 共鳴チェック: 宣言中の問いへの素材のため兆しは追記せず
+- 堀井憲一郎が、自分の本から出た入試問題を解いた。著者として本当に考えていることが3つの選択肢に入っていた
+- 正解は本文に書いてある1つだけ。問われるのは著者の考えではなく、切り取られた本文だった
 
-## [2026-10-30] ingest | スワンソンの未発見の公知と眠れる森の美女 論文3本 (raw/papers/2026-10-30-*.md)
+## [2026-11-01] ingest | Quote Origin: I Do Not Know What I Think Until I Read What I'm Writing (raw/articles/2026-11-01-quote-investigator-dont-know-what-i-think-until-i-read.md)
 
-- /scholar（ルートB′）で探索。Swanson 1986 本人はProject MUSEで有料のため、回顧2本をキミがブラウザでクリップ
-- raw/papers/2026-10-30-bekhuis-swanson-legacy-hypothesis-discovery.md（CC BY 2.0）
-- raw/papers/2026-10-30-smalheiser-rediscovering-don-swanson.md（PMC著者稿・出版版ライセンス未確認）
-- raw/papers/2026-10-30-van-raan-sleeping-beauties-sleeping-innovations.md（CC BY 4.0）
+- 「書いたものを読むまで、何を考えているか分からない」系の言葉の出どころ調査。最古は話し言葉の形で、名もない少女と老婦人の言葉
+- 書き言葉の形はオコナー（1948）からディディオン、キングまで続く
 
-## [2026-10-29] compile | 2 sources → 0 new articles, 1 updated
+## [2026-11-01] ingest | Why Bono and many other rock stars hate their own voice (raw/articles/2026-11-01-bono-rock-stars-hate-their-own-voice.md)
 
-- 更新: [誰にも見せない筆記は、どこまで効くのか](/topics/writing-theory/expressive-writing-private-vs-shared/) に「研究から」の節を2つ（Stapletonほか2021・Lepp 2019）
-- 共鳴チェック: なし
+- Bonoは自分の歌声が嫌いだと告白。レノンやヘンドリックスも録音の自分の声を嫌った
+- 自分の声は頭蓋骨を通って届くから、思い込んでいる声と再生される声は一致しない（Dean Burnett）
 
-## [2026-10-29] compile | 1 sources → 1 new articles, 0 updated
+## [2026-11-01] ingest | Rowling and 'Galbraith': an authorial analysis (raw/articles/2026-11-01-juola-rowling-galbraith-authorial-analysis.md)
 
-- 新規: [SNSを断つと、幸せになるのか ── デトックス実験20本のメタ分析](/topics/materials/social-media-detox-wellbeing-meta-analysis/)（Liuほか2025・ランダム化比較試験20本・10,106人。効果は小さいが有意、断ち方では差が出ず、文化背景と期間が効き目を分ける）
-- See Also 逆リンク: [ルソー『孤独な散歩者の夢想』](/topics/materials/rousseau-reveries/)・[本来性の逆説](/topics/materials/authenticity-paradox-leadership-social-media/)・[エッセイ#48](/essays/2026-10-29-rousseau-dog-and-the-island/)
-- 共鳴チェック: なし
+- Juola本人による、ガルブレイス名義の『カッコウの呼び声』を4つの文体指標でローリングら4人と比べた手順の解説
+- どの検査でも1位か2位に入ったのはローリングだけ。本人は「証明ではなく示唆」と書く
 
-## [2026-10-29] essay | 犬に吹っ飛ばされて、ルソーはいちばん静かになった（essays/2026-10-29-rousseau-dog-and-the-island.md）
+## [2026-11-01] compile | 1 source → 0 new articles, 1 updated
 
-## [2026-10-29] ingest | Am I Happier Without You? Social Media Detox and Well-Being: A Meta-Analysis of Randomized Controlled Trials (raw/papers/2026-10-29-liu-2025-social-media-detox-wellbeing-meta-analysis.md)
+- 更新: [宝の山でも、偶然は起きない](/topics/materials/serendipity-information-seeking-consummatory-search/)。Foster & Fordの節を抄録から著者原稿の本文ベースに書き直し、45人の語り（出会いの分類・意図的なランダムさ・棚が作る偶然）を追加
 
-- SNSデトックスのランダム化比較試験20本（10,106人）のメタ分析。幸福感への効果は小さいが有意（標準化平均差0.233）で、断ち方の違いでは差が出なかった
-- 取り残される不安（FOMO）をデトックスがかえって強めうる、という先行研究の指摘を序論で紹介している（この論文自体の結果ではない）
+## [2026-11-01] ingest | Serendipity and information seeking: an empirical study（著者原稿） (raw/papers/2026-11-01-foster-ford-serendipity-information-seeking-aam.md)
 
-## [2026-10-29] compile | 1 sources → 0 new articles, 1 updated
+- Foster & Ford（2003）の著者原稿の全文。学際研究者45人のインタビューから、偶然の発見の影響と性質を分類し、開かれた態度と検索をわざと広げる戦略が偶然を活かすと報告
+- 大学の機関リポジトリ版を手動で取得。抄録版のrawは残し、記事の根拠をこちらに移した
 
-- 更新: [ルソー『孤独な散歩者の夢想』](/topics/materials/rousseau-reveries/) に「第二の散歩を原文で読む」節を新設（1782年版の仏語原文から直接訳出。夢想を書こうとすると夢想に落ちる冒頭・1776年10月24日の事故・目覚めの一瞬・形を変えて広まる話・天の秘密への諦念）。原文に無かった旧要約（文明より自然に幸福があるという確信）を消し、歴史的背景の崩れた一文を原文から直した
-- See Also 相互: [II-06 訓練について](/topics/books/essais/II-06/) ↔ ルソー記事（モンテーニュの落馬とルソーの気絶。同じ心地よさを、判断の証拠にするか、世間の話に呑まれるか）
-- 共鳴チェック: ルソーの小舟の兆しが3件目で🔥MAX、宣言
+## [2026-11-01] compile | 3 sources → 1 new article, 3 updated
 
-## [2026-10-29] ingest | Les Rêveries du promeneur solitaire/Deuxième Promenade (raw/books/2026-10-29-rousseau-reveries-deuxieme-promenade-1782.md)
+- 新規: [宝の山でも、偶然は起きない](/topics/materials/serendipity-information-seeking-consummatory-search/)（Foster & Ford 2003／Shashwatほか 2026／山本・柿原 2022を統合）
+- See Also 逆リンク: [公開されているのに、見つかっていない](/topics/materials/undiscovered-public-knowledge-swanson-sleeping-beauties/)・[カード箱は、書き手を驚かせる](/topics/writing-theory/zettelkasten-luhmann-communication-partner-and-card-tradition/)。問い[既にあるものから、新しいものは生まれるのか](/questions/can-new-come-from-existing/)の現在地に1行
+- 共鳴チェック: ハマってるもの「読みに来る側の理由」に兆し1件（reader-side-reason）
 
-- ルソー『孤独な散歩者の夢想』第二の散歩の仏語原文（1782年版・Wikisource）。第五の散歩と同じ版でそろえた
-- 1776年10月24日、メニルモンタンで犬にはねられて気を失い、目覚めたとき自分が誰かも分からないまま存在だけを感じた場面を含む。第五の散歩の「存在の感情」と対になる
+## [2026-11-01] ingest | デジタル環境下の情報探索行動の類型化 (raw/papers/2026-11-01-yamamoto-kakihara-search-intent-consummatory.md)
 
-## [2026-10-29] update | II-06 の章題を「訓練について」に改める
+- 山本・柿原（2022）。オンライン検索の意図を情報取得・取引・コンサマトリ（探すこと自体が楽しみ）の3因子に再類型化
+- wiki-clip経由。J-STAGEの抄録ページから全文PDFに取り直した
 
-- [II-06 訓練について](/topics/books/essais/II-06/) の仮邦題を「実習について」から「訓練について」に改めた（「哲学は死の訓練」という言い方に題で答える形が見えるため・キミの提案）。この日の先のエントリにある「実習について」は改める前の呼び名
-- 更新: II-06（title・本文の訳1か所）・II-05 の See Also・棚ハブの表・I-19 の対話メモの呼び名・raw の summary と索引2行・用語集
+## [2026-11-01] ingest | Exploring Serendipity in Information Seeking for Digital Collections (raw/papers/2026-11-01-shashwat-serendipity-digital-collections-survey.md)
+
+- デジタルコレクションを使う研究者30人のサーベイ（arXiv 2026）。予期せぬ出会いの機会がセレンディピティの知覚を最も強く左右する
+- wiki-clip経由。抄録ページから全文PDFに取り直した

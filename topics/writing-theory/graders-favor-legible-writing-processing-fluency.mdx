@@ -2,12 +2,12 @@
 title: "採点する人は、読みやすい答案をひいきするのか ── 処理流暢性・文字の美醜効果・五段落エッセイの採点基準"
 tags: [grading-bias, processing-fluency, handwriting, rubric, five-paragraph-essay, rater-effects, item-response-theory, usami-satoshi, writing-theory]
 date: 2026-10-27
-updated: 2026-10-27
+updated: 2026-11-01
 sources: [raw/papers/2026-10-27-usami-rater-examinee-bias-polytomous-irt-essay.md, raw/articles/2026-10-27-processing-fluency-wikipedia.md, raw/articles/2026-10-27-mrsbeers-five-paragraph-essay-rubric.md]
 confidence: medium
 summary: "作文の採点は、中身と関係のない読みやすさに引っ張られるのか。小学校教員の五段落エッセイ採点基準は、段落の型と見た目（判読できるか・字下げ）をはっきり点数にしている。宇佐美（2010）は高校生の小論文289枚で、採点者の甘さ辛さを分けたうえでも、字がきれいな答案ほど能力が高く推定されることを示した。英語版Wikipediaは、その仕組みを処理流暢性（読みやすさが真実らしさや好ましさに取り違えられる）で説明する研究を引く。ただし、ここで確かめられたのは『見た目の読みやすさ』までで、『型どおりの中身』がひいきされるかは、今回の3本では確かめられていない。"
 sidebar:
-  order: 2
+  order: 3
 ---
 
 AIの評価データでは、正しさが同じなら見慣れた回答のほうが良いと判定される（[典型性バイアス](/topics/materials/typicality-bias-mode-collapse-homogenization/)）。では人間が作文を採点するときにも、中身とは別の「読みやすさ」が点数に入り込むのか。この記事は、3種類の材料でその入り口を3つに分けて見る。採点基準が最初から点数にしている見た目、基準に無いのに入り込む字のきれいさ、そしてそれが起きる心理学上の仕組みだ。
@@ -75,6 +75,7 @@ AIの評価データでは、正しさが同じなら見慣れた回答のほう
 - [AIの「平均」は、人間の好みでできている ── 典型性バイアスとモード崩壊、共同執筆の均質化](/topics/materials/typicality-bias-mode-collapse-homogenization/) — AIの評価データでは見慣れた回答が選ばれる、という記事。本記事はそれが人間の作文採点でも起きるかを調べ、今のところ確かめられたのは「見た目の読みやすさ」までだった
 - [予告して、言って、まとめる ── 「言うことを言え」の出どころと、自己宣言型の型](/topics/writing-theory/tell-them-what-youre-going-to-tell-them-self-announcing-template/) — 人間が型を処方してきた歴史の側。五段落エッセイの採点基準は、その処方が点数表になった姿
 - [読解力は数値で測れるか ── RST・PISA・PIAACの実証研究と構成概念妥当性論争](/topics/materials/reading-skill-measurement-rst-pisa-piaac/) — テストが測りたいものを測れているか、という問いを読解の側で扱う記事。本記事は書く側の採点で、字のきれいさという測りたくないものが点数に混ざることを示す
+- [自分の声を好きになるのは、聞き慣れているからか ── 似た声への好み、割り当てられた「自分の声」、声を嫌う不安](/topics/materials/self-voice-familiarity-new-voice-anxiety/) — 単純接触効果が、他人の答案ではなく自分の声の評価に出る例。自分の声とそれに似た版ほど魅力的とされ、著者は「自分だから」か「聞き慣れているから」かを分けられないと認めている
 
 ## Sources
 
