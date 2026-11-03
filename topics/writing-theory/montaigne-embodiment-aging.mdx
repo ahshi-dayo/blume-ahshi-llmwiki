@@ -2,7 +2,7 @@
 title: "モンテーニュの身体と老化──エッセイに刻まれた身体化された移行"
 tags: [montaigne, embodiment, aging, cognition, gerontology, near-death-experience, memory, lying, essay, health-humanities]
 date: 2026-06-08
-updated: 2026-07-05
+updated: 2026-11-03
 sources: [raw/articles/2026-06-08-montaigne-embodied-transitions.md, raw/notes/2026-06-08-montaigne-ages-of-life.md, raw/notes/2026-06-08-montaigne-essais-ch9-liars.md]
 confidence: high
 summary: "モンテーニュのエッセイにおける身体と老化の記述を、老年学・身体化された認知の視点から分析。馬上落下による死に近い体験、老化に伴う認知機能の変化、記憶力の欠如と嘘をつけないこと、そして人生の年代を超えた自己の連続性と断絶。3ソースを統合。"
@@ -96,6 +96,7 @@ PetersonとPaul Baltesの理論を組み合わせると、老化は「不完全�
 ## See Also
 
 - [I-09 嘘つきについて](/topics/books/essais/I-09/) ── 読書棚がこの章を1章1ページで実読み。ARTFL層データでは、この記事が引用する記憶力の告白部分こそが1588年加筆・手稿加筆で後から組み立てられ、嘘と記憶の理論的結びつきと外交逸話の方が1580年版のまま手つかずだったと判明
+- [忘れることを、書く力にする](/topics/writing-theory/montaigne-oubliance-forgetting-ars-memoriae/) ── 同じ記憶の欠如を、記憶術がまだ現役だった時代の修辞学と人文主義の読み方の中に置いた論文の紹介
 - [モンテーニュ『エセー』──自分を知ることと書くことの始まり](/topics/writing-theory/montaigne-essays/) ── エッセイ全体の概観。ベーコンとの対比、Que sais-je?、ボルドー蔵本
 - [フランシス・ベーコン](/topics/writing-theory/francis-bacon-aphorist/) ── 格言的vs親密な随筆の二極。身体性を書くモンテーニュvs壁に囲まれたベーコン
 - [中島敦『山月記』──自意識と羞恥心が虎を生んだ](/topics/books/nakajima-zangetsuki/) ── 李徴の「尊大な羞恥心」vs モンテーニュの身体化された自己観察

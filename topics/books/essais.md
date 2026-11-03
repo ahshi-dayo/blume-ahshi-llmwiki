@@ -11,7 +11,7 @@ sidebar:
 
 ## 進捗
 
-- 読了 **65 / 107**（最終読了 2026-11-01・II-08）＋序文「読者へ」（I-00・107章の外・2026-09-14読了）
+- 読了 **67 / 107**（最終読了 2026-11-03・II-10）＋序文「読者へ」（I-00・107章の外・2026-09-14読了）
 - クラスタは[章題ベースの仮8クラスタ](/questions/montaigne-107-chapters/)（判断の相対性・懐疑／死への態度／身体・老い・病／慣習と文化相対主義／名誉・虚栄／友情・対話／自己を語ること／想像力・心理／政治・戦争・残酷さ）。読んでみて違ったら章ページ側で書き換える
 
 ### 読者へ
@@ -95,13 +95,13 @@ sidebar:
 | II-06 | II.6 | De l'exercitation | 訓練について | 死への態度 | 2026-10-29 | [II-06](/topics/books/essais/II-06/) |
 | II-07 | II.7 | Des recompenses d'honneur | 名誉の褒賞について | 名誉・虚栄 | 2026-10-31 | [II-07](/topics/books/essais/II-07/) |
 | II-08 | II.8 | De l'affection des peres aux enfans | 父親の子への愛情について | 未分類（親子・家と相続） | 2026-11-01 | [II-08](/topics/books/essais/II-08/) |
-| II-09 | II.9 | Des armes de Parthes |  |  |  |  |
-| II-10 | II.10 | Des livres |  |  |  |  |
+| II-09 | II.9 | Des armes des Parthes | パルティア人の武具について | 政治・戦争・残酷さ | 2026-11-03 | [II-09](/topics/books/essais/II-09/) |
+| II-10 | II.10 | Des livres | 書物について | 自己を語ること | 2026-11-03 | [II-10](/topics/books/essais/II-10/) |
 | II-11 | II.11 | De la cruauté |  |  |  |  |
 | II-12 | II.12 | Apologie de Raimond de Sebonde |  |  |  |  |
 | II-13 | II.13 | De juger de la mort d'autruy |  |  |  |  |
-| II-14 | II.14 | Comme nostre esprit s'empesche soy-mesme |  |  |  |  |
-| II-15 | II.15 | Que nostre desir s'accroit par la malaisance |  |  |  |  |
+| II-14 | II.14 | Comme nostre esprit s'empesche soy-mesmes |  |  |  |  |
+| II-15 | II.15 | Que nostre desir s'accroist par la malaisance |  |  |  |  |
 | II-16 | II.16 | De la gloire |  |  |  |  |
 | II-17 | II.17 | De la presumption |  |  |  |  |
 | II-18 | II.18 | Du desmentir |  |  |  |  |
@@ -118,9 +118,9 @@ sidebar:
 | II-29 | II.29 | De la vertu |  |  |  |  |
 | II-30 | II.30 | D'un enfant monstrueux |  |  |  |  |
 | II-31 | II.31 | De la cholere |  |  |  |  |
-| II-32 | II.32 | Defense de Seneque et de Plutarque |  |  |  |  |
+| II-32 | II.32 | Defence de Seneque et de Plutarque |  |  |  |  |
 | II-33 | II.33 | L'histoire de Spurina |  |  |  |  |
-| II-34 | II.34 | Observation sur les moyens de faire la guerre de Julius Cæsar |  |  |  |  |
+| II-34 | II.34 | Observation sur les moyens de faire la guerre, de Julius Cæsar |  |  |  |  |
 | II-35 | II.35 | De trois bonnes femmes |  |  |  |  |
 | II-36 | II.36 | Des plus excellens hommes |  |  |  |  |
 | II-37 | II.37 | De la ressemblance des enfans aux peres |  |  |  |  |
@@ -147,6 +147,7 @@ sidebar:
 ## 底本
 
 - **底本**: fr.wikisource『Essais』édition Michaud, 1907 — **Texte modernisé**（1595年版を底本にした現代語版）。章番号は1595系（宮下志朗訳・このwikiの既存記事と同じ）
+- **1595年版の成り立ち**: ブラックがボルドー本の書き込みを別の1588年版（底本X）に写し、グルネー嬢が出した版で、ボルドー本系とは消された書き込みの扱いが違う（例：[II-08](/topics/books/essais/II-08/) の「ああ、友よ」）。経緯は[モンテーニュ『エセー』](/topics/writing-theory/montaigne-essays/)の「研究から ── 版はそのつど、何かのために出た」
 - 章ページのURL形: `https://fr.wikisource.org/wiki/Essais/édition_Michaud,_1907/Texte_modernisé/Livre_I/Chapitre_30`（I.1・I.2だけTOCから飛ぶと `Texte_modernisé/` が二重になるページに着くが、単一パスも実在。記録は単一パスに正規化する）
 - **例外**:「読者へ」（Au lecteur）は章番号の外（前付け）にあるため `Texte_modernisé/` を含まない別パス `https://fr.wikisource.org/wiki/Essais/édition_Michaud,_1907/Au_lecteur` を使う（章ID `I-00`。中身は同じ現代語版）
 - **使わないページ**: `…/édition_Michaud,_1907/Livre_I/Chapitre_30`（対訳ページ。「Texte 1595」「Texte 1907」が並ぶ）。参照だけに使い、クリップしない

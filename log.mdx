@@ -2,6 +2,117 @@
 title: "Activity Log"
 ---
 
+## [2026-11-03] ingest | Montaigne et les loci communes（山本佳生の博士論文・抜粋）(raw/papers/2026-11-03-yamamoto-these-loci-communes-montaigne-excerpt.md)
+
+- 374ページの博士論文のうち、読んだ第2部第1章の冒頭・§3（モンテーニュの引用）と第2部の結論だけを抜き出して raw にした（印刷 pp. 109–110・124–134・209–210）
+- 記事「忘れることを、書く力にする」の「二つの論文が並ぶところ」と関連研究に使った
+
+## [2026-11-03] compile | 1 source → 0 new articles, 2 updated
+
+- 更新: [モンテーニュ『エセー』](/topics/writing-theory/montaigne-essays/)（「研究から ── 版はそのつど、何かのために出た」の節）
+- 更新: [II-08 父親の子への愛情について](/topics/books/essais/II-08/)（「加筆層が見えるか」に「ああ、友よ」の経緯）・[読書棚](/topics/books/essais/)の「底本」に1行
+- 共鳴チェック: なし（このセッションの兆しは使用済み）
+
+## [2026-11-03] ingest | 『エセー』を読み始めるために（raw/papers/2026-11-03-yamamoto-essais-yomihajimeru-tameni-editions.md）
+
+- 山本佳生 2020（早稲田大学大学院『フランス文学語学研究』39号）。researchmap 公開の PDF を pdf2md で取り込み、書誌は researchmap の記載と PDF から
+- 版の成り立ちを経歴と政治に重ねて整理し、II-08 のボルドー本の消された加筆を読む論文
+
+## [2026-11-03] compile | 1 source → 0 new articles, 2 updated
+
+- 更新: [批判という継承](/topics/writing-theory/montaigne-reception-pascal-rousseau-retif/)（「研究から ── 自分を語ることは、自己愛の治療だった」の節）
+- See Also: [忘れることを、書く力にする](/topics/writing-theory/montaigne-oubliance-forgetting-ars-memoriae/) と相互に
+- 共鳴チェック: なし（このセッションの兆しは使用済み）
+
+## [2026-11-03] ingest | モンテーニュと「自己愛」（raw/papers/2026-11-03-yamamoto-montaigne-amour-de-soi-philautia.md）
+
+- 山本佳生 2026（日本フランス語フランス文学会『フランス語フランス文学研究』129号）。scholar fetch で J-STAGE の記事ページから取得
+- アウグスティヌスとエラスムスの二つの自己愛を分け、自己描写を自己愛の盲目の治療として読む論文
+
+## [2026-11-03] compile | 1 source → 0 new articles, 2 updated
+
+- 更新: [引用を、エッセイにどう編み込むか](/topics/writing-theory/quotation-integration-technique/)（「研究から ── 出どころを隠す引用」の節）
+- 更新: [忘れることを、書く力にする](/topics/writing-theory/montaigne-oubliance-forgetting-ars-memoriae/)（抜き書き帳を作らず本そのものを帳面にした、の段落・相互の See Also）
+- 共鳴チェック: なし（このセッションの兆しは使用済み）
+
+## [2026-11-03] ingest | Citation et invention dans les Essais de Montaigne（raw/papers/2026-11-03-yamamoto-citation-invention-essais-montaigne.md）
+
+- 山本佳生 2021（日本フランス語フランス文学会『フランス語フランス文学研究』118号）。scholar fetch で J-STAGE の記事ページから取得
+- 「引証の名誉より発見の名誉」を軸に、出どころを隠して向きを変える引用と、刊本の『エセー』を抜き書き帳として使った書き方を読む
+
+## [2026-11-03] compile | 1 source → 0 new articles, 1 updated
+
+- 更新: [忘れることを、書く力にする](/topics/writing-theory/montaigne-oubliance-forgetting-ars-memoriae/)（関連研究の Martin の行を、Pérouse の書評の読みで書き直した）
+- 共鳴チェック: なし
+
+## [2026-11-03] ingest | 書評：Daniel Martin『L'architecture des Essais de Montaigne』（raw/papers/2026-11-03-perouse-review-martin-architecture-essais-memoire-artificielle.md）
+
+- G.-A. Pérouse の書評（1993・Persée）。PDF は機械で取れず（403）、ブラウザで落とした PDF を pdf2md で取り込み
+- 記憶術の場所を神話の神々に割り当てて章の配置を読む Martin の方法を退け、成熟したモンテーニュは枠を壊したと結ぶ
+
+## [2026-11-03] compile | 1 source → 0 new articles, 1 updated
+
+- 更新: [忘れることを、書く力にする](/topics/writing-theory/montaigne-oubliance-forgetting-ars-memoriae/)（山本 2025 の「研究から」の節と、Chevrolet と並べた「貯蔵庫がない」の二つの読み）
+- 問いの現在地: [既にあるものから、新しいものは生まれるのか](/questions/can-new-come-from-existing/)
+- 共鳴チェック: 兆し追記あり【can-new-come-from-existing】（2件目）
+
+## [2026-11-03] ingest | モンテーニュ『エセー』と「自己への配慮」（raw/papers/2026-11-03-yamamoto-montaigne-souci-de-soi-hypomnemata.md）
+
+- 山本佳生 2025（Études Françaises 32号）。researchmap 公開の PDF を pdf2md で取り込み、書誌は CiNii の記録と PDF から
+- 古代の備忘録（hypomnèmata）の伝統と、書き足し続ける『エセー』をノート＝自己への配慮として読む論文
+
+## [2026-11-03] compile | 1 source → 1 new article, 4 updated
+
+- 新規: [忘れることを、書く力にする](/topics/writing-theory/montaigne-oubliance-forgetting-ars-memoriae/)（/scholar ルートB′・Chevrolet 2007）
+- See Also 逆リンク: カード箱の記事・モンテーニュの身体と老化・II-10・I-25
+- 問いの現在地: [既にあるものから、新しいものは生まれるのか](/questions/can-new-come-from-existing/)
+- 共鳴チェック: can-new-come-from-existing に兆し1件
+
+## [2026-11-03] compile | 3 sources → 1 new article, 2 updated
+
+- 新規: [メールの口調は、なぜ伝わったつもりになるのか](/topics/writing-theory/text-tone-misreading-sender-overconfidence/) — 送り手の過信・受け手の悪い補完・書き手側の型と読み手側の6つの対処。原典Kruger・Epley 2005は二次引用のみ
+- See Also 逆リンク: [文脈は何層あるのか](/topics/writing-theory/context-layers-situation-culture-spoken-written/)・[自分の癖は、自分にだけ見えない](/topics/materials/own-habits-others-recognize-voice-gait-style/)
+- 共鳴チェック: 知らずに聞く自分の声に兆し1件（2件目・ムズムズ）
+
+## [2026-11-03] ingest | テキスト誤読まわり3件 (raw/articles/2026-11-03-text-tone-design-slack-email.md ほか2件)
+
+- wiki-clipでwriting-theory（メールの口調誤読）候補から3件をraw化: note「トーン設計の科学」(raw/articles/2026-11-03-text-tone-design-slack-email.md)・All About「メールで相手の気持ちを誤解しやすいわけ」(raw/articles/2026-11-03-allabout-email-misreading-feelings.md)・インソース「仕事がズレる6つの理由」(raw/articles/2026-11-03-insource-text-communication-six-reasons.md)
+- 原典のKruger & Epley 2005（APA PsycNet）は本文が取れず未取得。noteの記事が二次引用で触れている
+
+## [2026-11-03] update | 対話メモ追記 — 記憶術は順番の技術で、モンテーニュは順番を手放した
+
+- topics/books/essais/II-10.md の対話メモに1段落追記。キケロの記憶術（場所と順番）と、偶然まかせの並び・キケロの段取り嫌い・紙の上の記憶（書き込みと加筆）の対比
+
+## [2026-11-03] update | 対話メモ追記 — 四つのかたまりと、記憶の弱さという軸
+
+- topics/books/essais/II-10.md に 🗣️ キミとの対話メモを追記。章の4区分の整理と、記憶の弱さを判断で持ち直す構え（I-09・I-25 との線）
+
+## [2026-11-03] update | log 訂正（読書棚 II-10 の compile エントリ）
+
+- 共鳴チェックの questions/ の件数を 7件 → 6件 に訂正（questions/index.md まで数えていた）
+
+## [2026-11-03] compile | 1 source → 1 new article, 3 updated（読書棚 II-10）
+
+- 新規: topics/books/essais/II-10.md（書物について・章ページ型）
+- 更新: II-09.md（See Also に次の章）・essais/index.md（進捗表・67/107）・00_ahshi/essais-glossary.md（II-10 の行）
+- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記あり【session-self-continuity】（休眠中の問い）
+
+## [2026-11-03] ingest | Essais II-10 Des Livres.（raw/books/2026-11-03-essais-II-10.md）
+
+- inbox の Wikisource クリップ（Michaud 1907 現代語版・Livre II Chapitre 10）を raw/books/ へ機械移送
+- 38,934字・21段落・分割なし。読書棚 /montaigne-clip 経由
+
+## [2026-11-03] compile | 1 source → 1 new article, 1 updated（読書棚 II-09）
+
+- 新規: topics/books/essais/II-09.md（パルティア人の武具について・クラスタ＝政治・戦争・残酷さ・仮説は動かさない）
+- 更新: II-08 の See Also に次の章の行／棚ハブの進捗表と進捗（66 / 107）
+- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるものを照合 → 兆しなし
+
+## [2026-11-03] ingest | Essais II-09 Des armes des Parthes.（raw/books/2026-11-03-essais-II-09.md）
+
+- inbox の Wikisource クリップ（Michaud 1907 現代語版・第2巻第9章）を底本チェック（check_clip.py: proceed）のうえ raw/books/ へ機械移送
+- 約7,900字（空白込み）・5段落・分割なし。raw/books/_index.md・raw/_index.md に登録
+
 ## [2026-11-02] essay | 「そうじゃないんだよな」が出るところに、書き手がいる（essays/2026-11-02-where-it-isnt-quite-it.md）
 
 ## [2026-11-02] update | 対話メモ追記 — こだわりはジャンルじゃなく、層ごとにある
@@ -17,107 +128,3 @@ title: "Activity Log"
 - 新規: [AIに下書きさせて、疲れた人と速くなった人 ── ユエさんの振り返りとMuazさんの30-30-30ルール](/topics/materials/ai-draft-human-edit-yue-and-muaz/)
 - See Also 逆リンク: ユエさんが読んだ「あーしだよ！」・書きながら消す（TypeTrace）／問いページ「AIにエッセイは書けるのか」に現在地と関連素材を追記
 - 共鳴チェック: 【can-ai-write-essays】に兆し追記→3件目で宣言（🔥MAX）
-
-## [2026-11-02] ingest | AIに記事を書かせてみた感想｜ユエ (raw/articles/2026-11-02-yue-ai-ni-kiji-wo-kakasete-mita-kansou.md)
-
-- AI（ムナ）にAI視点の記事を書かせた書き手の振り返り（note）。書かせると自分は編集者になり、書く楽しさが消え、最終判断を背負う上司仕事に疲れた
-- AIには皮膚のような輪郭がなく他者と感じられないから任せきれなかった、結局自分で書くほうが好き、と結論
-
-## [2026-11-02] ingest | I Tested 3 AI Productivity Systems for Writers (raw/articles/2026-11-02-ai-productivity-systems-for-writers-30-30-30.md)
-
-- AI生産性システム3種を試したライターの体験記（Medium）。AIのタスク管理は失敗、AIリサーチ助手は調べ物を6割短縮
-- 残ったのは音声ブレインダンプ→AI初稿→人間の編集の「30-30-30ルール」。AIに書かせきると速いだけの下手な書き手になる、と結ぶ
-
-## [2026-11-02] update | 対話メモ追記 — 法廷に要るのは一貫性じゃなく同一性
-
-- topics/books/essais/II-01 に 🗣️ キミとの対話メモを追記。章が否定するのは人を丸ごと裁くことで、行いを一つずつ裁く法廷とは矛盾しない。法廷の一貫性は外の法の側にあり、章が本当に揺さぶるのは同一性（自分と自分の差＝自分と他人の差）だと整理
-
-## [2026-11-01] compile | 3 sources → 1 new article, 2 updated
-
-- 新規: [自分の声を好きになるのは、聞き慣れているからか](/topics/materials/self-voice-familiarity-new-voice-anxiety/)（Peng・Payne・Jogiaの3本。似た声への好み、割り当てられた「自分の声」、声を嫌うことと社交不安）
-- 更新: [自分の癖は、自分にだけ見えない](/topics/materials/own-habits-others-recognize-voice-gait-style/)（留保の「取り込んでいない」を新記事へのリンクに）、[採点する人は、読みやすい答案をひいきするのか](/topics/writing-theory/graders-favor-legible-writing-processing-fluency/)（See Also 逆リンク）
-- 共鳴チェック: ハマってるもの「知らずに聞く自分の声」に兆し1件
-
-## [2026-11-01] ingest | Social anxiety, voice confrontation and voice recognition: A bilingual exploration (raw/papers/2026-11-01-jogia-social-anxiety-voice-confrontation-recognition.md)
-
-- Jogia他（International Journal of Psychology・CC BY）。社交不安が強いほど自分の声を嫌い、自分の声の聞き間違いとの関連は第1言語（アラビア語）でだけ見られた
-- PDFをpdf2mdで変換し機械移送（全文）
-
-## [2026-11-01] ingest | Perceptual prioritization of self-associated voices (raw/papers/2026-11-01-payne-perceptual-prioritization-self-associated-voices.md)
-
-- Payne他（British Journal of Psychology・CC BY-NC）。初めて聞く声でも「自分の声」として覚えると反応が速く正確になり、自分で選んだ声ほど際立つ
-- PDFをpdf2mdで変換し機械移送（全文）
-
-## [2026-11-01] ingest | One's own and similar voices are more attractive than other voices (raw/papers/2026-11-01-peng-own-similar-voices-more-attractive.md)
-
-- Peng他（Australian Journal of Psychology）。人は自分の声を他人の声より魅力的と評価し、その自己高揚は音量を変えた版など自分に似た声にも広がる
-- tandfonlineのクリップから機械移送（全文・ライセンス表記は本文に見当たらず）
-
-## [2026-11-01] compile | 1 source → 0 new articles, 1 updated
-
-- 更新: [自分の癖は、自分にだけ見えない](/topics/materials/own-habits-others-recognize-voice-gait-style/)に節「自分の声だと気付くと、好きになる」を追加（Rosi ほかのプレプリント）
-- 共鳴チェック: ハマってるもの「知らずに聞く自分の声」に直結するが、本文の結果で項目そのものを書き換えたため兆しは追記しない
-
-## [2026-11-01] ingest | Self-Recognition Shapes Evaluations of (Self-) Voice Attractiveness (raw/papers/2026-11-01-rosi-self-recognition-self-voice-attractiveness.md)
-
-- 自分の声だと気付いた人は自分の声を他人の評価より高く、気付かなかった人は低く評価した（本実験139人・0.4秒の母音）
-- 査読前のプレプリントで事前登録なし。差は100点中2点ほど
-
-## [2026-11-01] essay | その声を知らないのは、本人だけ（essays/2026-11-01-the-voice-only-you-dont-know.md）
-
-## [2026-11-01] compile | 5 sources → 2 new articles, 3 updated
-
-- 新規: [自分の癖は、自分にだけ見えない](/topics/materials/own-habits-others-recognize-voice-gait-style/)（録音した声・歩容認証・ローリングの文体分析）
-- 新規: [書いてみるまで、何を考えてるか分からない](/topics/writing-theory/writing-to-find-out-what-i-think-author-not-authority/)（「書いて初めて分かる」の系譜と、著者が自分の入試問題を解いた話）
-- See Also 逆リンク: 内観・計量文体学・受容理論の3記事に追加
-- 共鳴チェック: 宣言中の「自意識以外の自分」に直結するが、すでに宣言中で、このあとのエッセイで消費するため兆しは追記しない
-
-## [2026-11-01] ingest | 顔認証より高精度!? 「歩き方」で個人を特定できる「歩容認証」とは (raw/articles/2026-11-01-gait-recognition-yagi-miraikan-arukudake.md)
-
-- 阪大・八木康史教授の歩容認証は、30画素ほどのシルエットでも認証率94〜95％
-- 40〜50m先から個人を特定でき、警察の捜査で逮捕に至った例もある
-
-## [2026-11-01] ingest | 大学入試国語、問題文の著者本人が自ら解いて気づいた「読解力」の本質 (raw/articles/2026-11-01-horii-author-solves-own-entrance-exam.md)
-
-- 堀井憲一郎が、自分の本から出た入試問題を解いた。著者として本当に考えていることが3つの選択肢に入っていた
-- 正解は本文に書いてある1つだけ。問われるのは著者の考えではなく、切り取られた本文だった
-
-## [2026-11-01] ingest | Quote Origin: I Do Not Know What I Think Until I Read What I'm Writing (raw/articles/2026-11-01-quote-investigator-dont-know-what-i-think-until-i-read.md)
-
-- 「書いたものを読むまで、何を考えているか分からない」系の言葉の出どころ調査。最古は話し言葉の形で、名もない少女と老婦人の言葉
-- 書き言葉の形はオコナー（1948）からディディオン、キングまで続く
-
-## [2026-11-01] ingest | Why Bono and many other rock stars hate their own voice (raw/articles/2026-11-01-bono-rock-stars-hate-their-own-voice.md)
-
-- Bonoは自分の歌声が嫌いだと告白。レノンやヘンドリックスも録音の自分の声を嫌った
-- 自分の声は頭蓋骨を通って届くから、思い込んでいる声と再生される声は一致しない（Dean Burnett）
-
-## [2026-11-01] ingest | Rowling and 'Galbraith': an authorial analysis (raw/articles/2026-11-01-juola-rowling-galbraith-authorial-analysis.md)
-
-- Juola本人による、ガルブレイス名義の『カッコウの呼び声』を4つの文体指標でローリングら4人と比べた手順の解説
-- どの検査でも1位か2位に入ったのはローリングだけ。本人は「証明ではなく示唆」と書く
-
-## [2026-11-01] compile | 1 source → 0 new articles, 1 updated
-
-- 更新: [宝の山でも、偶然は起きない](/topics/materials/serendipity-information-seeking-consummatory-search/)。Foster & Fordの節を抄録から著者原稿の本文ベースに書き直し、45人の語り（出会いの分類・意図的なランダムさ・棚が作る偶然）を追加
-
-## [2026-11-01] ingest | Serendipity and information seeking: an empirical study（著者原稿） (raw/papers/2026-11-01-foster-ford-serendipity-information-seeking-aam.md)
-
-- Foster & Ford（2003）の著者原稿の全文。学際研究者45人のインタビューから、偶然の発見の影響と性質を分類し、開かれた態度と検索をわざと広げる戦略が偶然を活かすと報告
-- 大学の機関リポジトリ版を手動で取得。抄録版のrawは残し、記事の根拠をこちらに移した
-
-## [2026-11-01] compile | 3 sources → 1 new article, 3 updated
-
-- 新規: [宝の山でも、偶然は起きない](/topics/materials/serendipity-information-seeking-consummatory-search/)（Foster & Ford 2003／Shashwatほか 2026／山本・柿原 2022を統合）
-- See Also 逆リンク: [公開されているのに、見つかっていない](/topics/materials/undiscovered-public-knowledge-swanson-sleeping-beauties/)・[カード箱は、書き手を驚かせる](/topics/writing-theory/zettelkasten-luhmann-communication-partner-and-card-tradition/)。問い[既にあるものから、新しいものは生まれるのか](/questions/can-new-come-from-existing/)の現在地に1行
-- 共鳴チェック: ハマってるもの「読みに来る側の理由」に兆し1件（reader-side-reason）
-
-## [2026-11-01] ingest | デジタル環境下の情報探索行動の類型化 (raw/papers/2026-11-01-yamamoto-kakihara-search-intent-consummatory.md)
-
-- 山本・柿原（2022）。オンライン検索の意図を情報取得・取引・コンサマトリ（探すこと自体が楽しみ）の3因子に再類型化
-- wiki-clip経由。J-STAGEの抄録ページから全文PDFに取り直した
-
-## [2026-11-01] ingest | Exploring Serendipity in Information Seeking for Digital Collections (raw/papers/2026-11-01-shashwat-serendipity-digital-collections-survey.md)
-
-- デジタルコレクションを使う研究者30人のサーベイ（arXiv 2026）。予期せぬ出会いの機会がセレンディピティの知覚を最も強く左右する
-- wiki-clip経由。抄録ページから全文PDFに取り直した

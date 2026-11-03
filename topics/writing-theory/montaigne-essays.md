@@ -2,8 +2,8 @@
 title: "モンテーニュ『エセー』──自分を知ることと書くことの始まり"
 tags: [montaigne, essay, francis-bacon, free-judgment, que-sais-je, transmission-of-the-soul, skepticism, relativism, renaissance, self-expression, comparative-literature]
 date: 2026-05-30
-updated: 2026-10-19
-sources: [raw/articles/2026-05-30-montaigne-sep-encyclopedia.md, raw/articles/2026-05-30-montaigne-iep-encyclopedia.md, raw/articles/2026-05-30-montaigne-hudson-review.md, raw/articles/2026-05-31-francis-bacon-montaignes-rival.md, raw/articles/2026-05-31-montaigne-essays-wikipedia.md, raw/books/2026-07-14-montaigne-les-essais.md, raw/articles/2026-07-19-montaigne-essais-ja-wikipedia.md, raw/articles/2026-08-23-montaigne-essais-overview.md, raw/articles/2026-08-23-montaigne-essais-editions.md, raw/articles/2026-10-19-montaigne-essais-bordeaux-copy-wikipedia.md]
+updated: 2026-11-03
+sources: [raw/articles/2026-05-30-montaigne-sep-encyclopedia.md, raw/articles/2026-05-30-montaigne-iep-encyclopedia.md, raw/articles/2026-05-30-montaigne-hudson-review.md, raw/articles/2026-05-31-francis-bacon-montaignes-rival.md, raw/articles/2026-05-31-montaigne-essays-wikipedia.md, raw/books/2026-07-14-montaigne-les-essais.md, raw/articles/2026-07-19-montaigne-essais-ja-wikipedia.md, raw/articles/2026-08-23-montaigne-essais-overview.md, raw/articles/2026-08-23-montaigne-essais-editions.md, raw/articles/2026-10-19-montaigne-essais-bordeaux-copy-wikipedia.md, raw/papers/2026-11-03-yamamoto-essais-yomihajimeru-tameni-editions.md]
 confidence: high
 summary: "モンテーニュ『エセー』の全貌と、ベーコンとの対比。体系哲学への反抗、自分を知るための書くこと、「Que sais-je?」という問い、ベーコンとの鮮やかな対比、500年後の現代にも効くエッセイ論。SEP・IEP・Hudson Review・NEHの解説とWikipedia（英日）の概観、フランス語原典（bribes.org）に加え、宮下志朗訳全7冊の構成とボルドー本／1595年版の異同を統合。"
 sidebar:
@@ -125,6 +125,25 @@ Woolfが指摘するように、ベーコンのエッセイのタイトル（「
 
 さらに厄介なのが、章番号のずれだ。1595年版は、1588年版の第一巻第14章をなぜか大きく後方（第40章）へ移動させている。すると1588年版の1・15以降、1595年版では番号が1つずつずれる——たとえば「哲学することとは、死に方を学ぶこと」は旧来の訳では1・20だが、1595年版準拠の宮下訳では1・19になる。[「人食い人種について」](/topics/writing-theory/montaigne-cannibals-barbarism-reversal/)も同様で、旧来の訳の1・31が宮下訳では1・30だ。どちらの版で読んでも『エセー』の全体像は変わらないが、引用箇所を照合するときはこの1つのずれを覚えておく必要がある。
 
+## 研究から ── 版はそのつど、何かのために出た
+
+山本佳生さんの「『エセー』を読み始めるために」（早稲田大学大学院『フランス文学語学研究』39号・2020）は、版の成り立ちを、モンテーニュの経歴と政治の動きに重ねて年代順に並べ直している。版ごとに、出した理由が違う。
+
+- **1580年版**（ボルドーのミランジュ書店・2巻）：判事として出世に行き詰まって引退したあと、第七次宗教戦争の始まりの中で急いで刷られた。主題は政治・外交・軍事で、国王アンリ3世に自分の判断力と誠実さを知らせる「履歴書」であり、ローマ大使の職への自己推薦でもあった、と論文は読む（「履歴書」はデザンの言い方）
+- **1582年版**（同じ書店）：イタリアの旅のあいだにボルドー市長に選ばれたあとの版。誤植を直し、引用と加筆を足し、著者の肩書に「ボルドーの市長」を加えた。刊行（*publication*）は新市長の「広告」（*publicité*）でもあった
+- **1588年版**（パリのランジュリエ書店・3巻）：第3巻13章と大量の加筆が入る。肩書は外れて「モンテーニュの領主ミシェル」だけになり、主題も外交や軍事から病・老い・死へ移る。同じ年の7月、モンテーニュはバスティーユに一日だけ投獄され、これを機に政治から離れて『エセー』の「著者」になる
+- **ボルドー本**（1588年版への書き込み）：モンテーニュはこの年の夏からこの本に書き込み始めたが、書き込みが増えすぎて、もう1冊の1588年版（論文の言う「底本X」）にも書き始めた。書き込みのある1588年版は少なくとも5冊見つかっている。ボルドー本は、それまでの書き込みを残しておく「バックアップ」の役になった（シモナンの言い方）
+- **1595年版**（ランジュリエ書店・フォリオ判）：死後、ピエール・ド・ブラックが余白の残っていた底本Xを使うことに決め、ボルドー本と照合して書き込みを写し、貼り紙を移した。およそ1年半の仕事で、それをグルネー嬢がパリで出した。1595年版の加筆がボルドー本とほぼ同じなのは、このブラックの転写のおかげだ
+- **アントウェルペン本と1598年版**：グルネー嬢はその後、城館でボルドー本と自分の1595年版を照らし合わせ、直したものをリプシウスやプランタン書店に送った。その直しが1598年版に入り、以後1635年版まで彼女がテクストを守った
+
+ボルドー本のほうは、1614年にモンテーニュ夫人が修道院に贈ったとき、装丁のために端を裁ち落とされた。そして1906年から1933年の「ボルドー市版」まで、ほぼ無視されてきた。上で書いた「現行版＝ボルドー本」の等式は、この市版から始まった1世紀のことだ。
+
+論文の後半は、II-08 の一か所を例に、消された書き込みを読む。ボルドー本の余白には、ラ・ボエシーを惜しむ長い加筆があり、その一部に線が引かれている。1595年版では、似た文が25行下に「ああ、友よ」と始まって出てくる。研究者たちは、線を引いたのは筆跡の具合からモンテーニュ本人ではない（ブラックかグルネー嬢）と見てきたが、山本さんは、本人が底本Xに書き直したあとでボルドー本の重なる箇所を消した、という筋なら年代にも内容にも矛盾がない、と推理する（証拠はない、と本人が断っている）。移された文は、「友の尊さに自分は値するか」から「何一つ言い残さなかったという慰めに自分は値するか」へ意味が変わり、続く「いつまでも葬儀を営む（*a tout jamais les obseques*）」を強める。
+
+結びは、題名の問いに戻る。わたしたちはモンテーニュを本当に知っているか。答えは否で、彼はわたしたちの同時代人ではない。『エセー』を十分に読めているか。これも否で、今の版はモンテーニュが最後に残した本文を採り、書き直されて消された部分は本文に入らない。でもそれも『エセー』ではないと言い切れるのか。ボルドー本で消されたうえに裁ち落とされた部分は、もう永遠に失われている。過去の作品は根本のところでわたしたちにとって他なるもので、それを認めることが読み始める第一歩だ、と論文は言う。
+
+上で「モンテーニュは消さない」と書いたけれど、ボルドー本には線を引いて消した跡もある。足して重ねるのが基本の書き方なのは変わらないとしても、消したものと、消されて落ちたものは残っている。
+
 ## 結婚・教育・新大陸への意見
 
 日本語版Wikipediaの概観には、これまで拾えていなかった具体的な意見がいくつか記録されている。結婚については子供を育てるために必要だと考えていたが、恋愛による激しい感情は自由にとって有害だとして嫌った。「結婚は鳥籠のようなものである。その外にいる鳥は必死になって入ろうとするが、中にいる鳥は必死になって出ようとする」。教育については、抽象的な知識を無批判に受け入れさせることより、具体的な例や経験を好んだ。そして新世界の征服には反対し、それが原住民にもたらした苦しみを嘆いた。
@@ -217,3 +236,4 @@ Hobbesへの影響も決定的。『リヴァイアサン』の「死後にま�
 - [Bordeaux copy of the Essays (Montaigne) — Wikipedia](https://en.wikipedia.org/wiki/Essays_(Montaigne)_-_Bordeaux_copy) — ボルドー蔵本とランビオット本の来歴・書き込みの内容。
 - [MONTAIGNE - Les Essais — bribes.org](https://bribes.org/trismegiste/montable.htm) — フランス語原典（1595年版準拠）。全107章の原文へのリンク集。
 - [エセー - Wikipedia（日本語版）](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%BB%E3%83%BC) — 結婚・教育・新大陸征服への意見を補足。
+- [山本佳生「『エセー』を読み始めるために」『フランス文学語学研究』, 39号, 早稲田大学大学院, 2020-02, pp. 77–96（researchmap）](https://researchmap.jp/yoshiwo4406/misc/29664691) — 本文 PDF は researchmap で公開。ライセンス：記載なし（要約と短い引用にとどめる）

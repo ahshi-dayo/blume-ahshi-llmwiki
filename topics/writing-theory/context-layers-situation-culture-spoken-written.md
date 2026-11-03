@@ -94,6 +94,7 @@ Chafe の結果は、#29の処方（場面の代わりに、前後の文で意�
 - [言葉の意味は、使い方に尽きるのか ── 古田徹也が読む後期ウィトゲンシュタインと、AIの「理解」](/topics/materials/wittgenstein-meaning-as-use-and-experiencing-meaning/) — 文脈を5つのレンジに分けた対話メモの置き場所。この記事はその言語学側の裏取り
 - [エモい・えぐい・じわる・やばい ── 反応語は語彙の貧しさか、「あはれ」の子孫か](/topics/materials/reaction-words-emoi-egui-jiwaru-yabai/) — 「エグい」の向きを決めていたのは、語ではなく状況の文脈（活動領域）だった
 - [本来性の逆説 ── 『ありのまま』を目指すほど、遠ざかる自己](/topics/materials/authenticity-paradox-leadership-social-media/) — SNSの「文脈崩壊」。複数の聞き手が1つの場面に平たく潰される、役割関係の側の問題
+- [メールの口調は、なぜ伝わったつもりになるのか ── 送り手の過信、受け手の悪い補完、読み手側の6つの対処](/topics/writing-theory/text-tone-misreading-sender-overconfidence/) — 書き言葉で聞き手への関与が0になったあと、送り手は頭の中の口調で、受け手は自分の気分で、それぞれ落ちた文脈を勝手に補っている
 
 ## Sources
 

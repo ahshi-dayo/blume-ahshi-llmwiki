@@ -100,6 +100,7 @@ U2のBonoは、自分の歌声が嫌いで、ラジオでU2の曲が流れると
 - [文体は指紋か、仮面か ── 計量文体学（stylometry）と著者性をめぐる攻防](/topics/writing-theory/stylometry-authorial-fingerprint-or-mask/) — 機能語の頻度が指紋になるという理論側の記事。ローリングの件はその理論が実際に使われた場面で、分析した本人が「証明ではない」と書いている点が理論記事の攻防の話とつながる
 - [内観 ── 自分の心は、内側から見て分かるのか](/topics/materials/introspection-limits-of-self-knowledge/) — 自分の心も内側から覗くと見誤る、という心の側の話。この記事は同じことを声・歩き方・文体という体と言葉の側で見ている
 - [書いてみるまで、何を考えてるか分からない ── 書き手は、自分の文章の正解を持っていない](/topics/writing-theory/writing-to-find-out-what-i-think-author-not-authority/) — 本人が知らない癖の話を、書いた中身の話に進めた記事。書いた本人が自分の文章のいちばんの読み手ではない、という例を集めている
+- [メールの口調は、なぜ伝わったつもりになるのか ── 送り手の過信、受け手の悪い補完、読み手側の6つの対処](/topics/writing-theory/text-tone-misreading-sender-overconfidence/) — 声は本人だけが他人に届く音を知らず、メールは本人だけが頭の中の抑揚つきで読んでしまう。内側から見る誤差の、言葉の口調の側
 
 ## Sources
 
