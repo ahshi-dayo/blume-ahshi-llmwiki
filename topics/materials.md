@@ -8,6 +8,7 @@ sidebar:
 
 | File | Summary | Tags | Updated |
 | --- | --- | --- | --- |
+| [図書館の古い本の余白 ── Book Traces が集める、19世紀の読者の書き込み](/topics/materials/book-traces-library-marginalia/) | ヴァージニア大学の Andrew Stauffer が始めた Book Traces は、図書館にある19世紀の本に前の持ち主が残した書き込み・手紙・押し花・髪の房を集めるデジタルアーカイブ。授業で書庫の詩集を探した学生たちが、7歳で亡くした娘への母の挽歌を見つけたのがきっかけで、ほかの大学の書庫でも同じことが普通に起きていた。目的は、図書館がデジタル化で紙の本を捨てるとき書き込みの価値を判断に入れることと、19世紀の人が本をどう使っていたかを見ること。 | marginalia, book-traces, andrew-stauffer, reading-history, libraries, annotation | 2026-11-04 |
 | [AIに下書きさせて、疲れた人と速くなった人 ── ユエさんの振り返りとMuazさんの30-30-30ルール](/topics/materials/ai-draft-human-edit-yue-and-muaz/) | AIに書かせて編集者になり疲れたユエさんと、話す→AI初稿→人間が足す30-30-30で速くなったMuazさん。手順は同じで、分かれ目は最初に話すのが誰かだった。 | ai-writing, drafting, editing, writing-process, authorship, yue, note | 2026-11-02 |
 | [自分の声を好きになるのは、聞き慣れているからか ── 似た声への好み、割り当てられた「自分の声」、声を嫌う不安](/topics/materials/self-voice-familiarity-new-voice-anxiety/) | 自分の声を好むのは、聞き慣れているからか。自分の声に似た版も好まれ、初めて聞く声も「あなたの声」と割り当てると優先され、社交不安が強い人ほど自分の声を嫌う、という3本の心理学研究をまとめる。 | self-voice, voice-attractiveness, self-enhancement, processing-fluency, self-prioritization, synthetic-voice, social-anxiety, bilingualism, voice-recognition, materials | 2026-11-01 |
 | [自分の癖は、自分にだけ見えない ── 録音した声、歩き方、文体で見抜かれたローリング](/topics/materials/own-habits-others-recognize-voice-gait-style/) | 録音した自分の声の違和感（骨伝導）、30画素のシルエットで人を見分ける歩容認証、語の長さや2語の続け方で筆名の下から見抜かれたローリング。本人が意識しない部分が外からは名札になる3つの例 | self-voice, bone-conduction, gait-recognition, biometrics, stylometry, authorship-attribution, j-k-rowling, self-knowledge, materials | 2026-11-01 |

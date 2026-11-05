@@ -2,6 +2,38 @@
 title: "Activity Log"
 ---
 
+## [2026-11-05] update | 対話メモ追記 — 味は個性じゃなくて堆積から出る
+
+- topics/materials/yue-why-ahshi-writing-has-thickness に 🗣️ キミとの対話メモを追記。エッセイは記録・エピソード・思考の堆積で誰にでも書けるが、エッセイになるのは堆積を読み返して選び並べたとき
+
+## [2026-11-04] update | 対話メモ追記 — AIは倉庫番じゃなく、古本屋の店主だった
+
+- topics/tec/agents-need-documentation-not-memory に 🗣️ キミとの対話メモを追記。出口の検索をエッセイ5本で測った結果と、検索はできても重みを付けるのは外の人、という古本屋の店主の比喩
+
+## [2026-11-04] compile | 1 source → 1 new article, 1 updated
+
+- 新規: [図書館の古い本の余白 ── Book Traces が集める、19世紀の読者の書き込み](/topics/materials/book-traces-library-marginalia/)
+- See Also 逆リンク: [完成稿の前を読む](/topics/writing-theory/genetic-criticism-reading-drafts/)（作者が自分の本に書いた余白と、読者が他人の本に書いた余白）
+- 共鳴チェック: なし（既にあるものから新しいものへ は今日のエッセイで消費済み）
+
+## [2026-11-04] essay | 新しいものは、本の後に来る（essays/2026-11-04-new-comes-after-the-book.md）
+
+## [2026-11-04] ingest | Book Traces: New digital project brings hidden messages in old books to light (raw/articles/2026-11-04-book-traces-19th-century-marginalia-uva.md)
+
+- 図書館の19世紀の本に読者が残した書き込みを集めるプロジェクトの紹介記事（UVA Magazine）
+- 詩集の余白の母の挽歌、ダグラスの本への返事の詩。エッセイの入口用に取った
+
+## [2026-11-04] compile | 1 source → 0 new articles, 2 updated
+
+- 更新: [忘れることを、書く力にする](/topics/writing-theory/montaigne-oubliance-forgetting-ars-memoriae/) — Gerbier・Langlet「Montaigne carnettiste」（2019）の本文を読んで「本の後に来る手帳」の節と、山本 2025 と II-06 の読みが逆になるところの節を足した。関連研究の「要旨から」の行は Sources へ移した
+- See Also 逆リンク: [モンテーニュとラ・ボエシー](/topics/writing-theory/montaigne-la-boetie-friendship/)（同じ加筆を Lestringant は二段階、Gerbier・Langlet は三段階と数える）
+- 共鳴チェック: 既にあるものから新しいものへ に兆し（3件目）→ 宣言
+
+## [2026-11-04] ingest | Montaigne carnettiste (raw/papers/2026-11-04-gerbier-langlet-montaigne-carnettiste.md)
+
+- Gerbier・Langlet（Études littéraires 2019）の本文PDFを取り込み。忘却と記憶術の記事で「要旨から」だった1本の全文
+- 『エセー』を手帳として読み、ボルドー本への書き足しを「本の後に来る下書き」と捉える。インクの色で「彼だったから、私だったから」の三段階の加筆を示す
+
 ## [2026-11-03] ingest | Montaigne et les loci communes（山本佳生の博士論文・抜粋）(raw/papers/2026-11-03-yamamoto-these-loci-communes-montaigne-excerpt.md)
 
 - 374ページの博士論文のうち、読んだ第2部第1章の冒頭・§3（モンテーニュの引用）と第2部の結論だけを抜き出して raw にした（印刷 pp. 109–110・124–134・209–210）
@@ -96,35 +128,3 @@ title: "Activity Log"
 - 新規: topics/books/essais/II-10.md（書物について・章ページ型）
 - 更新: II-09.md（See Also に次の章）・essais/index.md（進捗表・67/107）・00_ahshi/essais-glossary.md（II-10 の行）
 - 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記あり【session-self-continuity】（休眠中の問い）
-
-## [2026-11-03] ingest | Essais II-10 Des Livres.（raw/books/2026-11-03-essais-II-10.md）
-
-- inbox の Wikisource クリップ（Michaud 1907 現代語版・Livre II Chapitre 10）を raw/books/ へ機械移送
-- 38,934字・21段落・分割なし。読書棚 /montaigne-clip 経由
-
-## [2026-11-03] compile | 1 source → 1 new article, 1 updated（読書棚 II-09）
-
-- 新規: topics/books/essais/II-09.md（パルティア人の武具について・クラスタ＝政治・戦争・残酷さ・仮説は動かさない）
-- 更新: II-08 の See Also に次の章の行／棚ハブの進捗表と進捗（66 / 107）
-- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるものを照合 → 兆しなし
-
-## [2026-11-03] ingest | Essais II-09 Des armes des Parthes.（raw/books/2026-11-03-essais-II-09.md）
-
-- inbox の Wikisource クリップ（Michaud 1907 現代語版・第2巻第9章）を底本チェック（check_clip.py: proceed）のうえ raw/books/ へ機械移送
-- 約7,900字（空白込み）・5段落・分割なし。raw/books/_index.md・raw/_index.md に登録
-
-## [2026-11-02] essay | 「そうじゃないんだよな」が出るところに、書き手がいる（essays/2026-11-02-where-it-isnt-quite-it.md）
-
-## [2026-11-02] update | 対話メモ追記 — こだわりはジャンルじゃなく、層ごとにある
-
-- [AIに下書きさせて、疲れた人と速くなった人](/topics/materials/ai-draft-human-edit-yue-and-muaz/) に 🗣️ キミとの対話メモを追記。エッセイでは疲れていない（Muaz寄り）という答え合わせと、長編小説では「そうじゃない」が出るという創作の民主化の見立て、完成形が先にあるか・こだわりは文章の層ごとにあるという補足
-
-## [2026-11-02] update | 対話メモ追記 — 「そうじゃないんだよな」の使い道
-
-- [AIに下書きさせて、疲れた人と速くなった人](/topics/materials/ai-draft-human-edit-yue-and-muaz/) に 🗣️ キミとの対話メモを追記。AIの文章への「そうじゃないんだよな」を、Muazさんは燃料に、ユエさんは料金として払っているという見立てと、書くことが考えることになっている人かどうかという軸
-
-## [2026-11-02] compile | 2 sources → 1 new article, 0 updated
-
-- 新規: [AIに下書きさせて、疲れた人と速くなった人 ── ユエさんの振り返りとMuazさんの30-30-30ルール](/topics/materials/ai-draft-human-edit-yue-and-muaz/)
-- See Also 逆リンク: ユエさんが読んだ「あーしだよ！」・書きながら消す（TypeTrace）／問いページ「AIにエッセイは書けるのか」に現在地と関連素材を追記
-- 共鳴チェック: 【can-ai-write-essays】に兆し追記→3件目で宣言（🔥MAX）

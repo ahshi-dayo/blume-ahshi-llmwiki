@@ -2,7 +2,7 @@
 title: "完成稿の前を読む ── 草稿研究（critique génétique）の方法と、ボルドー本という作業原稿"
 tags: [genetic-criticism, manuscripts, drafts, revision, pierre-marc-de-biasi, montaigne, essais, bordeaux-copy, marie-de-gournay, writing-theory]
 date: 2026-10-19
-updated: 2026-10-19
+updated: 2026-11-04
 sources:
   - raw/articles/2026-10-19-universalis-critique-genetique.md
   - raw/articles/2026-10-19-montaigne-essais-bordeaux-copy-wikipedia.md
@@ -79,6 +79,7 @@ sidebar:
 
 ## See Also
 
+- [図書館の古い本の余白 ── Book Traces が集める、19世紀の読者の書き込み](/topics/materials/book-traces-library-marginalia/) — 作者が自分の本に書き込んだボルドー本に対して、こちらは読者が他人の本に書き込んだ跡。草稿研究が作者の紙を「生成の資料」にしたように、図書館の本の余白を残す値打ちのある資料として集めている
 - [書きながら消す ── TypeTraceが記録した舞城王太郎の推敲](/topics/writing-theory/typetrace-maijo-revision-process/) — 草稿が残らないコンピュータ執筆で、打鍵ログを新しい「痕跡」にした研究。この記事の方法論が使えなくなった先の話
 - [下書きを隠せる時間 ── 推敲の歴史と、それを拒んだ男の話](/topics/writing-theory/history-of-drafting-revision/) — Sommersは書き手へのインタビューと書き直しから推敲を調べた。草稿研究は同じ問いを、残された紙の側から解く
 - [モンテーニュの自己描写論──『存在』ではなく『移り変わり』を描く](/topics/writing-theory/montaigne-self-portraiture-solitude/) — ボルドー本の加筆を材料に、「自分に注を付け続ける人」としてモンテーニュを読むレストランガンの論。草稿研究を一人の作家に当てた実例

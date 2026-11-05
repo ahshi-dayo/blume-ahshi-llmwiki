@@ -2,7 +2,7 @@
 title: "モンテーニュとラ・ボエシー ── 『それは彼だったからだし、わたしだったから』という友情論"
 tags: [montaigne, etienne-de-la-boetie, friendship, andre-gide, maurice-merleau-ponty, essais, writing-theory]
 date: 2026-08-13
-updated: 2026-10-01
+updated: 2026-11-04
 sources: [raw/articles/2026-08-13-montaigne-essais-la-boetie-friendship.md, raw/papers/2026-10-01-takenaka-montaigne-amitie-fusion.md]
 confidence: high
 summary: "宮下志朗の連載第8回を基に、『エセー』1・27「友情について」からモンテーニュとエチエンヌ・ド・ラ・ボエシーの友愛を辿る。「それは彼だったからだし、わたしだったから」という一節への異議（アンドレ・ジッド）、「彼のまなざしのもとに存在する」というメルロー=ポンティの読解、ラ・ボエシー死後の『不在の心地よさ』までを扱い、竹中公二の論文（2021）から、キケロで比喩だった魂の融合をモンテーニュが『意志の融合』として実体にし、不在を『魂による享受』と呼んだ読みを加える。"
@@ -107,6 +107,7 @@ sidebar:
 - [モンテーニュと『人食い人種』── 野蛮を反転させる、確かな線を引かない書き方](/topics/writing-theory/montaigne-cannibals-barbarism-reversal/) ── 同じ連載の別の章。友情論が「固定しない態度」の例外点だとすれば、この章はむしろ本流の実演
 - [モンテーニュ『店の奥の部屋』── 自分を貸しても、自分を与えないという生き方](/topics/writing-theory/montaigne-self-lending-inner-room/) ── 「縫い目もわからない」ほど溶け合った関係との対比。誰に対しては境界を引き、誰に対しては引かないか
 - [モンテーニュと旅 ── 確かな線を引かない生き方と、本当に愛した都市](/topics/writing-theory/montaigne-travel-and-cities/) ── ラ・ボエシーが理想化したヴェネツィアへの憧れが、モンテーニュ自身の旅の動機のひとつになっていたこと
+- [忘れることを、書く力にする](/topics/writing-theory/montaigne-oubliance-forgetting-ars-memoriae/) ── 「それは彼だったから、それはわたしだったから」の加筆を、Gerbier・Langlet がインクの色で三段階に分け、考えは書いて読み返すことから出てくる、という論の証拠にしている
 
 ## Sources
 
