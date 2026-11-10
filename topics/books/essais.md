@@ -11,7 +11,7 @@ sidebar:
 
 ## 進捗
 
-- 読了 **67 / 107**（最終読了 2026-11-03・II-10）＋序文「読者へ」（I-00・107章の外・2026-09-14読了）
+- 読了 **68 / 107**（最終読了 2026-11-05・II-11）＋序文「読者へ」（I-00・107章の外・2026-09-14読了）
 - クラスタは[章題ベースの仮8クラスタ](/questions/montaigne-107-chapters/)（判断の相対性・懐疑／死への態度／身体・老い・病／慣習と文化相対主義／名誉・虚栄／友情・対話／自己を語ること／想像力・心理／政治・戦争・残酷さ）。読んでみて違ったら章ページ側で書き換える
 
 ### 読者へ
@@ -97,8 +97,8 @@ sidebar:
 | II-08 | II.8 | De l'affection des peres aux enfans | 父親の子への愛情について | 未分類（親子・家と相続） | 2026-11-01 | [II-08](/topics/books/essais/II-08/) |
 | II-09 | II.9 | Des armes des Parthes | パルティア人の武具について | 政治・戦争・残酷さ | 2026-11-03 | [II-09](/topics/books/essais/II-09/) |
 | II-10 | II.10 | Des livres | 書物について | 自己を語ること | 2026-11-03 | [II-10](/topics/books/essais/II-10/) |
-| II-11 | II.11 | De la cruauté |  |  |  |  |
-| II-12 | II.12 | Apologie de Raimond de Sebonde |  |  |  |  |
+| II-11 | II.11 | De la cruauté | 残酷さについて | 政治・戦争・残酷さ | 2026-11-05 | [II-11](/topics/books/essais/II-11/) |
+| II-12 | II.12 | Apologie de Raimond de Sebonde | レーモン・スボンの弁護 |  |  | [II-12](/topics/books/essais/II-12/)（目次・10 part） |
 | II-13 | II.13 | De juger de la mort d'autruy |  |  |  |  |
 | II-14 | II.14 | Comme nostre esprit s'empesche soy-mesmes |  |  |  |  |
 | II-15 | II.15 | Que nostre desir s'accroist par la malaisance |  |  |  |  |

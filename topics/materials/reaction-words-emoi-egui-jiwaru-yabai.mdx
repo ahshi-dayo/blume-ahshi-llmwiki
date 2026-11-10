@@ -2,7 +2,7 @@
 title: "エモい・えぐい・じわる・やばい ── 反応語は語彙の貧しさか、「あはれ」の子孫か"
 tags: [gal-slang, youth-slang, emoi, egui, jiwaru, yabai, aware, vocabulary, semantic-change, iima-hiroaki, saito-takashi]
 date: 2026-09-28
-updated: 2026-10-01
+updated: 2026-11-11
 sources: [raw/articles/2026-09-28-nlab-emoi-ahare-sanseido-shingo-2016.md, raw/articles/2026-09-28-shinmai-egui-homekotoba-wakamono-anketo.md, raw/articles/2026-09-28-toyokeizai-saito-takashi-yabai-egui-goiryoku.md, raw/articles/2026-09-28-nikkei-gyaru-go-mukashibanashi-koten-entame.md]
 confidence: medium
 summary: "若者・ギャル由来の反応語を4つの資料から見る。三省堂『今年の新語2016』の選考委員は『エモい』を古語『あはれ』とほぼ同じと評し、長野の街頭アンケートでは15〜21歳の約9割が『えぐい』を良い意味でも使っていた。齋藤孝は万能語を『3色のクレヨン』と批判する。1語で絞り込む語・まとめる語・意味が裏返った語を分けて並べる。"
@@ -75,6 +75,7 @@ sidebar:
 - [ギャル文化の現在地──平成ギャルから令和ギャルマインドへ](/topics/materials/gyaru-culture-current/) ── 反応語を生んだ文化の側の話
 - [言葉の意味は、使い方に尽きるのか ── 古田徹也が読む後期ウィトゲンシュタインと、AIの「理解」](/topics/materials/wittgenstein-meaning-as-use-and-experiencing-meaning/) — どの言い換えでも「ちょっと違う」方言「むつごい」を例に、ウィトゲンシュタインの「言葉の魂」を説く。「エモい」が「あはれ」でも言い尽くせないのと同じ形
 - [文脈は何層あるのか ── 状況の文脈と文化の文脈、書き言葉の「関与」、ハイコンテクスト論の限界](/topics/writing-theory/context-layers-situation-culture-spoken-written/) — 「エグい」の向きを決めていた場面は、ハリデーの言う状況の文脈（活動領域）にあたる。書き言葉がそれを文の中で作り直せるかのデータも
+- [「ね」は「或いは」より軟らかい ── 語の文体値と、語から測る文章の硬さ](/topics/materials/baba-word-style-value-text-style/) — 意味は場面に置いてくるが、硬さは場面から語に写って残る。語ごとの硬さを、使われた本の評定から数値にした研究
 
 ## Sources
 
