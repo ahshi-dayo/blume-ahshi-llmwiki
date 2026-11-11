@@ -97,6 +97,7 @@ Vercelは「エージェントがアクセスできる状態でも、Skillが56%
 - [WikiSkill ── エージェントの経験をwikiに貯めてからスキルを直す、そしてwikiだけは巻き戻さない](/topics/tec/wikiskill-agent-skill-evolution-persistent-wiki/) — こっちで1回の引き継ぎで消えた「誰が決めたか」を、あっちはハーネスが採否と差分を台帳に機械的に書くことで残している。書き手の几帳面さに頼らない残し方
 - [起動時に何を渡すか ── 記憶・ルール・タスクをナレッジグラフから注入する試みと、SessionStart hookの3つのハマりどころ](/topics/tec/session-start-injection-knowledge-graph-and-hook/) — この記事が「量が増えてから考えればいい」と後回しにした基盤（ナレッジグラフ）を先に選んで、起動時の注入が膨らんで困っている実践。フック注入を使うなら、`/compact` の後にも発火させないと消える、という条件も書いてある
 - [Claude Code安全運用 — CLAUDE.md 4原則とplugin/skills設計](/topics/tec/claude-code-safety/) — 同じCLAUDE.mdを「行動の制約」として書く話。この記事の3層で言えば意味記憶の層の書き方
+- [エージェントの記憶は「寝てる間」に整える ── Anthropicの記憶4層とdreaming実験、記憶は未来への予測だという見方](/topics/tec/anthropic-agent-memory-components-dreaming/) — 記憶を層に分けるのは同じだが、あっちは「変化の速さ」でなく「毎回読むか・探して読むか」で分け、層の間をdreamingで行き来させる。この記事で消えた「誰が決めたか」は、あっちの解説記事が言う「セッションが立ち会わなかった判断」と同じ穴
 
 ## Sources
 

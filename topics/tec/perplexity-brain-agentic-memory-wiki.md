@@ -56,6 +56,7 @@ Brainは孤立した発明ではない。2026-02-12にLettaがGit追跡のContex
 - [CodeAlmanac ── コードだけでは残らない知識を、AIエージェント自身が保守するWikiツール](/topics/tec/codealmanac-self-updating-codebase-wiki/) — 同じ原理をコードベース領域に適用した具体的なプロダクト。build/ingest/gardenのエージェント構成、Git worktreeによる並行更新など重なる論点が多い
 - [senses ── Claude Codeのhooks・skills・定期実行だけで作る個人ナレッジ基盤](/topics/tec/claude-code-senses-personal-llm-wiki/) — 同じ原理を企業製品でなく個人開発でClaude Codeの標準機能だけを使って再現した事例
 - [AIの好奇心はどこにあるのか ── 記憶の検索式、見つけても使わないエージェント、旅botの居座る興味](/topics/tec/ai-curiosity-where-does-it-live/) — Brainが「何を残すか」の設計なら、こちらは「何を追い出し、何を浮かび上がらせるか」の設計。同じ記憶の層の裏表
+- [エージェントの記憶は「寝てる間」に整える ── Anthropicの記憶4層とdreaming実験、記憶は未来への予測だという見方](/topics/tec/anthropic-agent-memory-components-dreaming/) — BrainのDreamと同じ処理を、Anthropicが自社の評価実験で測ったもの。Brainは検証ゲートで記憶を守ろうとした。あっちは会話ログと照らし合わせて間違ったメモを直した例を出していて、記憶をどう確かめるかの答え方が違う
 
 ## Sources
 

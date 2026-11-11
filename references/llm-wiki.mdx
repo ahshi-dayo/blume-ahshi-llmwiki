@@ -2,7 +2,7 @@
 title: "LLM Wiki パターン リファレンス"
 tags: [llm-wiki, knowledge-base, andrej-karpathy, wiki-pattern, ai-memory]
 date: 2026-05-31
-updated: 2026-10-12
+updated: 2026-11-11
 summary: "Andrej Karpathyが提唱したLLM Wikiパターンの解説。RAGとの違い、Raw/Wiki/Schemaの3層構造、ingest/query/lintの基本操作、index.md・log.mdの役割をまとめる。2026年にLetta MemFS・Perplexity Brain・CodeAlmanac等が同じ原理へ収斂した経緯も追記。"
 sidebar:
   order: 3
@@ -233,6 +233,7 @@ Web の実態よりもこの Wiki パターンに近い。
 | 2026-06 | OpenAI ChatGPTメモリ "Dreaming" V3 | 会話履歴からバックグラウンドでmemory stateを合成（保存形式は非公開） |
 | — | Claude Code auto memory | frontmatterに型付きtype、ただしセッション中・マシンローカルでGitベースではない |
 | 2026-08-19 | Perplexity Brain | `knowledge/`/`notes/`/`sessions/`＋wikilink/cite分離＋Dreamエージェント |
+| 2026-11 | Anthropic「The components of agent memory」 | 研究コラム。このgistに「wiki」の出典としてリンクし、dreamingで作るwikiの効果を評価実験で測った（検索＋wikiが検索だけより高く、ただし元資料より大きなwikiは何も抽象化しない） |
 
 同じものではない——Markdown＋Git＋オフライン統合を全部やっているのはBrainとLetta MemFSだけで、OpenAI Dreamingはバックグラウンド統合という点のみが共通、Claude Code auto memoryはGitベースではない。詳しい設計と、実装して初めて分かった落とし穴（意味的検証ゲートが誤情報と一緒に正当な更新も止めていた実測など）は[AIエージェントの記憶をWikiにする](/topics/tec/perplexity-brain-agentic-memory-wiki/)にまとめた。
 

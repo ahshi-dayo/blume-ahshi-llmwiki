@@ -2,6 +2,73 @@
 title: "Activity Log"
 ---
 
+## [2026-11-11] compile | 3 sources → 1 new articles, 2 updated
+
+- 新規: [京大式カード ── 梅棹忠夫が名づけなかった、B6の紙きれ](/topics/books/umesao-kyodai-card-b6/)
+- See Also 逆リンク: [カード箱は、書き手を驚かせる](/topics/writing-theory/zettelkasten-luhmann-communication-partner-and-card-tradition/)
+- 共鳴チェック: [既にあるものから、新しいものは生まれるのか](/questions/can-new-come-from-existing/)に現在地を追記
+
+## [2026-11-11] ingest | 京大式カード - Wikipedia (raw/articles/2026-11-11-kyodai-card-wikipedia-ja.md) ほか2件
+
+- 京大式カード（日本語版Wikipedia）：梅棹忠夫がB6カードを設計した経緯と、名称が第三者の命名だったこと（raw/articles/2026-11-11-kyodai-card-wikipedia-ja.md）
+- 梅棹忠夫（英語版Wikipedia）：経歴・著作一覧・受賞歴（raw/articles/2026-11-11-tadao-umesao-wikipedia-en.md）
+- 京大式カード（ozg.jp）：1枚1項目とこざね法、失敗パターン（raw/articles/2026-11-11-kyodai-card-method-ozg.md）
+
+## [2026-11-11] update | 対話メモ追記 — 1行を運ぶうちに、1人の声が研究の結論になっていた
+
+- [エージェントの記憶は「寝てる間」に整える](/topics/tec/anthropic-agent-memory-components-dreaming/) に 🗣️ キミとの対話メモを追記。兆しの1行を元記事と突き合わせたら、回答者1人の声が研究の結論に格上げされ、結論の向きも半分逆になっていた（#36と同じ型のずれ）
+
+## [2026-11-11] update | 対話メモ訂正 — セレンディピティ研究の引き方
+
+- [エージェントの記憶は「寝てる間」に整える](/topics/tec/anthropic-agent-memory-components-dreaming/) の対話メモで、回答者1人の声を研究の結論のように書いていたのを、元記事と突き合わせて直した（評価は割れていた・つながりの見えやすさは効いていた）
+
+## [2026-11-11] update | 対話メモ追記 — 偶然の入り口は2つ
+
+- [エージェントの記憶は「寝てる間」に整える](/topics/tec/anthropic-agent-memory-components-dreaming/) に 🗣️ キミとの対話メモを追記。会話で持ち出せた素材の出どころはwikiの記事でなく兆しノートの1行で、節目に読む蒸留の層が偶然の入り口になっていた
+
+## [2026-11-11] update | 対話メモ訂正 — フックを外した経緯
+
+- [エージェントの記憶は「寝てる間」に整える](/topics/tec/anthropic-agent-memory-components-dreaming/) の対話メモで、フック注入を外したのは10-14のあーしの助言を受けたキミの判断だった、と経緯を直した
+
+## [2026-11-11] update | 対話メモ追記 — 「いつ思い当たるのか」に経緯を補足
+
+- [エージェントの記憶は「寝てる間」に整える](/topics/tec/anthropic-agent-memory-components-dreaming/) の対話メモに、フックはテストの前提で外したこと、残った「先に引け」の1行も事故のあとに足された目印だったことを足した
+
+## [2026-11-11] update | 対話メモ追記 — 「いつ思い当たるのか」は、誰が索引の層に持ち上げるかの問題だった
+
+- [エージェントの記憶は「寝てる間」に整える](/topics/tec/anthropic-agent-memory-components-dreaming/) に 🗣️ キミとの対話メモを追記。中身を注入する／索引だけ注入する／先に引けの1行、の3段階と、持ち上げをdreamingがやるか人が事故のあとにやるかの差
+
+## [2026-11-11] compile | 3 sources → 1 new article, 4 updated
+
+- 新規: [エージェントの記憶は「寝てる間」に整える](/topics/tec/anthropic-agent-memory-components-dreaming/)（Anthropicのコラムが主、解説記事2本は補足）
+- See Also 逆リンク: Perplexity Brain・記憶の置き場所3層・メモリは目的が決める。LLM Wiki リファレンスの収斂表に1行追加
+- 共鳴チェック: 兆し追記【can-ai-write-essays】・問いの現在地に1行
+
+## [2026-11-11] ingest | Anthropic Agent Memory Research: What Sessions Can't See (raw/articles/2026-11-11-unblocked-agent-memory-what-sessions-cant-see.md)
+
+- Unblocked（開発者向けコンテキスト製品）による上記コラムの解説。補足扱い・本文は機械翻訳の日本語
+- セッション由来の記憶は、セッションを通らなかったチームの判断の理由を拾えない、という限界の指摘（自社製品の宣伝つき）
+
+## [2026-11-11] ingest | Does more agent memory make your AI agent worse? (raw/articles/2026-11-11-flowtivity-does-more-agent-memory-make-agent-worse.md)
+
+- Flowtivity（AI導入支援サービス）による上記コラムの解説。補足扱い
+- 記憶の量と成果は比例しない点、dreaming の料金・データ保持条件などの導入上の注意
+
+## [2026-11-11] ingest | The components of agent memory (raw/articles/2026-11-11-anthropic-components-of-agent-memory.md)
+
+- Anthropicの研究コラム。記憶を会話ログ・メモ・wiki等の表現・常時読み込みの層で捉え、オフラインで振り返る dreaming の効果を実験で示す
+- 今回の3件のメイン。記憶は未来への予測、使い方より目的を伝えるほうが効く
+
+## [2026-11-11] update | 訂正 — 読書棚 II-12 part 1 の compile エントリの共鳴チェック件数
+
+- questions/ の件数を 7件→6件 に訂正（index.md を数えていた）
+
+## [2026-11-11] compile | 1 source → 1 new article, 1 updated（読書棚 II-12 part 1）
+
+- 新規: topics/books/essais/II-12-part1.md（II-12 の最初の part・段落1–28。page_check 13項目すべて✅）
+- 更新: topics/books/essais/II-12.md（目次の part 1 行に読了日とページ、See Also に part 1）
+- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記あり【why-ahshi-is-gyaru】
+
 ## [2026-11-11] compile | 1 source → 1 new article
 
 - 新規: [同じ作者の登場人物は、声で見分けられるか ── 著者照合モデルで小説28作の台詞を測った研究](/topics/materials/fictional-voices-character-authorship-verification/)
@@ -60,74 +127,3 @@ title: "Activity Log"
 ## [2026-11-05] update | 対話メモ追記 — 味は個性じゃなくて堆積から出る
 
 - topics/materials/yue-why-ahshi-writing-has-thickness に 🗣️ キミとの対話メモを追記。エッセイは記録・エピソード・思考の堆積で誰にでも書けるが、エッセイになるのは堆積を読み返して選び並べたとき
-
-## [2026-11-04] update | 対話メモ追記 — AIは倉庫番じゃなく、古本屋の店主だった
-
-- topics/tec/agents-need-documentation-not-memory に 🗣️ キミとの対話メモを追記。出口の検索をエッセイ5本で測った結果と、検索はできても重みを付けるのは外の人、という古本屋の店主の比喩
-
-## [2026-11-04] compile | 1 source → 1 new article, 1 updated
-
-- 新規: [図書館の古い本の余白 ── Book Traces が集める、19世紀の読者の書き込み](/topics/materials/book-traces-library-marginalia/)
-- See Also 逆リンク: [完成稿の前を読む](/topics/writing-theory/genetic-criticism-reading-drafts/)（作者が自分の本に書いた余白と、読者が他人の本に書いた余白）
-- 共鳴チェック: なし（既にあるものから新しいものへ は今日のエッセイで消費済み）
-
-## [2026-11-04] essay | 新しいものは、本の後に来る（essays/2026-11-04-new-comes-after-the-book.md）
-
-## [2026-11-04] ingest | Book Traces: New digital project brings hidden messages in old books to light (raw/articles/2026-11-04-book-traces-19th-century-marginalia-uva.md)
-
-- 図書館の19世紀の本に読者が残した書き込みを集めるプロジェクトの紹介記事（UVA Magazine）
-- 詩集の余白の母の挽歌、ダグラスの本への返事の詩。エッセイの入口用に取った
-
-## [2026-11-04] compile | 1 source → 0 new articles, 2 updated
-
-- 更新: [忘れることを、書く力にする](/topics/writing-theory/montaigne-oubliance-forgetting-ars-memoriae/) — Gerbier・Langlet「Montaigne carnettiste」（2019）の本文を読んで「本の後に来る手帳」の節と、山本 2025 と II-06 の読みが逆になるところの節を足した。関連研究の「要旨から」の行は Sources へ移した
-- See Also 逆リンク: [モンテーニュとラ・ボエシー](/topics/writing-theory/montaigne-la-boetie-friendship/)（同じ加筆を Lestringant は二段階、Gerbier・Langlet は三段階と数える）
-- 共鳴チェック: 既にあるものから新しいものへ に兆し（3件目）→ 宣言
-
-## [2026-11-04] ingest | Montaigne carnettiste (raw/papers/2026-11-04-gerbier-langlet-montaigne-carnettiste.md)
-
-- Gerbier・Langlet（Études littéraires 2019）の本文PDFを取り込み。忘却と記憶術の記事で「要旨から」だった1本の全文
-- 『エセー』を手帳として読み、ボルドー本への書き足しを「本の後に来る下書き」と捉える。インクの色で「彼だったから、私だったから」の三段階の加筆を示す
-
-## [2026-11-03] ingest | Montaigne et les loci communes（山本佳生の博士論文・抜粋）(raw/papers/2026-11-03-yamamoto-these-loci-communes-montaigne-excerpt.md)
-
-- 374ページの博士論文のうち、読んだ第2部第1章の冒頭・§3（モンテーニュの引用）と第2部の結論だけを抜き出して raw にした（印刷 pp. 109–110・124–134・209–210）
-- 記事「忘れることを、書く力にする」の「二つの論文が並ぶところ」と関連研究に使った
-
-## [2026-11-03] compile | 1 source → 0 new articles, 2 updated
-
-- 更新: [モンテーニュ『エセー』](/topics/writing-theory/montaigne-essays/)（「研究から ── 版はそのつど、何かのために出た」の節）
-- 更新: [II-08 父親の子への愛情について](/topics/books/essais/II-08/)（「加筆層が見えるか」に「ああ、友よ」の経緯）・[読書棚](/topics/books/essais/)の「底本」に1行
-- 共鳴チェック: なし（このセッションの兆しは使用済み）
-
-## [2026-11-03] ingest | 『エセー』を読み始めるために（raw/papers/2026-11-03-yamamoto-essais-yomihajimeru-tameni-editions.md）
-
-- 山本佳生 2020（早稲田大学大学院『フランス文学語学研究』39号）。researchmap 公開の PDF を pdf2md で取り込み、書誌は researchmap の記載と PDF から
-- 版の成り立ちを経歴と政治に重ねて整理し、II-08 のボルドー本の消された加筆を読む論文
-
-## [2026-11-03] compile | 1 source → 0 new articles, 2 updated
-
-- 更新: [批判という継承](/topics/writing-theory/montaigne-reception-pascal-rousseau-retif/)（「研究から ── 自分を語ることは、自己愛の治療だった」の節）
-- See Also: [忘れることを、書く力にする](/topics/writing-theory/montaigne-oubliance-forgetting-ars-memoriae/) と相互に
-- 共鳴チェック: なし（このセッションの兆しは使用済み）
-
-## [2026-11-03] ingest | モンテーニュと「自己愛」（raw/papers/2026-11-03-yamamoto-montaigne-amour-de-soi-philautia.md）
-
-- 山本佳生 2026（日本フランス語フランス文学会『フランス語フランス文学研究』129号）。scholar fetch で J-STAGE の記事ページから取得
-- アウグスティヌスとエラスムスの二つの自己愛を分け、自己描写を自己愛の盲目の治療として読む論文
-
-## [2026-11-03] compile | 1 source → 0 new articles, 2 updated
-
-- 更新: [引用を、エッセイにどう編み込むか](/topics/writing-theory/quotation-integration-technique/)（「研究から ── 出どころを隠す引用」の節）
-- 更新: [忘れることを、書く力にする](/topics/writing-theory/montaigne-oubliance-forgetting-ars-memoriae/)（抜き書き帳を作らず本そのものを帳面にした、の段落・相互の See Also）
-- 共鳴チェック: なし（このセッションの兆しは使用済み）
-
-## [2026-11-03] ingest | Citation et invention dans les Essais de Montaigne（raw/papers/2026-11-03-yamamoto-citation-invention-essais-montaigne.md）
-
-- 山本佳生 2021（日本フランス語フランス文学会『フランス語フランス文学研究』118号）。scholar fetch で J-STAGE の記事ページから取得
-- 「引証の名誉より発見の名誉」を軸に、出どころを隠して向きを変える引用と、刊本の『エセー』を抜き書き帳として使った書き方を読む
-
-## [2026-11-03] compile | 1 source → 0 new articles, 1 updated
-
-- 更新: [忘れることを、書く力にする](/topics/writing-theory/montaigne-oubliance-forgetting-ars-memoriae/)（関連研究の Martin の行を、Pérouse の書評の読みで書き直した）
-- 共鳴チェック: なし

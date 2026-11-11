@@ -2,7 +2,7 @@
 title: "カード箱は、書き手を驚かせる ── ルーマンのツェッテルカステンと、その前の400年"
 tags: [zettelkasten, note-taking, niklas-luhmann, commonplace-book, konrad-gessner, creativity, writing-theory]
 date: 2026-10-28
-updated: 2026-11-03
+updated: 2026-11-11
 sources: [raw/books/2026-10-28-burkhardt-digitale-datenbanken-luhmann-zettelkasten-p186.md, raw/articles/2026-10-28-aldrich-two-definitions-of-zettelkasten.md, raw/articles/2026-10-28-chiang-luhmann-original-zettelkasten-two-slip-boxes.md]
 confidence: medium
 summary: "社会学者ルーマンは、9万枚のカード箱を「対話相手」と呼んだ。カード箱が書き手を驚かせるには、主題別の分類を捨てて固定番地と参照の網で育てる必要があり、網につながらないカードは忘れられる。いっぽう「ツェッテルカステン＝ルーマンの方法」という定義は2007年以降の新しいもので、その前には1548年のゲスナー以来、主題見出しで引くカード式抜き書き帳の長い伝統があった。メディア論の研究書1ページと解説2本を統合する。"
@@ -90,6 +90,7 @@ ITエンジニアのアーネスト・チアンは、ルーマンの原型を解
 - [モンテーニュの自己描写論──『存在』ではなく『移り変わり』を描く](/topics/writing-theory/montaigne-self-portraiture-solitude/) ── 『エセー』は読書の抜き書きを主題別に並べたところから始まった、という読み。オルドリッチの言う「古い定義」から、1冊の本がどう育ったかの実例
 - [公開されているのに、見つかっていない ── スワンソンの「未発見の公知」と、眠れる森の美女の論文](/topics/materials/undiscovered-public-knowledge-swanson-sleeping-beauties/) ── 箱の中で参照がつながらないカードは忘れられる。科学の文献でも、互いに引用し合わない2つの文献群のあいだに、誰も気づかない発見が埋まっていた。忘れられる仕組みを、箱の外の規模で測った話
 - [宝の山でも、偶然は起きない ── 情報探索のセレンディピティと、探すこと自体が目的の検索](/topics/materials/serendipity-information-seeking-consummatory-search/) ── デジタルコレクションの利用者30人の調査でも、偶然の発見の実感を左右したのは中身の豊かさではなく、つながりの見えやすさだった。箱が驚かせるのは量ではなく参照の決まりから、というルーマンの話を、利用者の側から測った形
+- [京大式カード ── 梅棹忠夫が名づけなかった、B6の紙きれ](/topics/books/umesao-kyodai-card-b6/) ── 日本のカード法。解説では「最初から主題で分けない」が注意点に挙がり、「京大式」という名前も本人ではなく本が出たあとの第三者がつけた。「ツェッテルカステン＝ルーマンの方法」という定義が後から他人の手で固まったのと似た形
 - [既にあるものから、新しいものは生まれるのか](/questions/can-new-come-from-existing/) ── 自分で書いたものを自分で引いて書く装置は、新しさを生むのか、平均に沈むのか。カード箱は、その装置の45年分の実例
 
 ## Sources
