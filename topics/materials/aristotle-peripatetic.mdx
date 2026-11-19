@@ -2,7 +2,7 @@
 title: "アリストテレス ── ペリパテティック（逍遥学派）の教育と「中間の徳」"
 created: 2026-06-01
 date: 2026-06-01
-updated: 2026-10-18
+updated: 2026-11-17
 tags: [aristotle, philosophy, ancient-greece, education, peripatetic, walking, golden-mean, metaphor]
 confidence: high
 summary: "アリストテレスのペリパテティック（逍遥学派）教育と「中庸」の概念。歩行教育の3原則と、物理的ルールから倫理的概念への昇華。"
@@ -75,6 +75,7 @@ sidebar:
 - [歩行の哲学（ハブ）](/topics/materials/walking-philosophy/) ── 歩行と哲学の全般的なハブ記事。
 - [規則と個別事例 ── 衡平とカズイストリー](/topics/writing-theory/equity-and-casuistry/) ── 正義を配分・矯正に分けたアリストテレスが、法の文言が一件でずれるときの直し方（衡平）まで考えていた
 - [ニーチェとカント ── 身体の情熱 vs 規律の散歩](/topics/materials/nietzsche-kant-walking/) ── 歩行スタイルの対比としての継承
+- [知性は足に宿る ── サンタヤーナ「旅の哲学」](/topics/materials/santayana-philosophy-of-travel/) ── 2千年あとの哲学者が、逍遥の哲学を「最良」と呼んだ理由。歩くと出来事がすぐ仮説の答え合わせをしてくれる
 - [モンテーニュの身体と老化──エッセイに刻まれた身体化された移行](/topics/writing-theory/montaigne-embodiment-aging/) ── 身体化された認知と歩行教育の接点
 
 ## Sources

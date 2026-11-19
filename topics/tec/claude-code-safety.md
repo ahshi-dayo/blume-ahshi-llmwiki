@@ -2,7 +2,7 @@
 title: "Claude Code安全運用 — CLAUDE.md 4原則とplugin/skills設計"
 created: 2026-05-29
 date: 2026-05-29
-updated: 2026-05-29
+updated: 2026-11-17
 tags: [claude-code, ai-coding, claude-md, safety, workflow, plugin, skills]
 confidence: high
 summary: "andrej-karpathy-skillsのCLAUDE.mdを参考にしたClaude Code安全運用。4原則（Think Before Coding, Simplicity First, Surgical Changes, Goal-Driven Execution）を解説。Qiita 4q_sano をコンパイル。"
@@ -100,6 +100,7 @@ project/
 - [Claude Code Hooksで会話ログを蒸留する — SessionEnd起点のナレッジ捕捉設計](/topics/tec/claude-code-hooks-conversation-capture/) — 同じClaude Code運用文脈だが、こちらは行動制約（CLAUDE.md）、あちらは情報捕捉（Hooks）という別の軸
 - [Claude 5.5系 ── 「毎回考えてから答える」が標準になったモデルと、タスク単価の読み方](/topics/tec/claude-5-5-thinking-by-default-and-task-cost/) — 5.5系に合わせたCLAUDE.mdの書き方（止まりどころの指定・「よく考えて」の削除・200行以内・古い指示の点検）
 - [Claude Codeはアカウントのメールアドレスを毎回モデルに渡している ── User-Agentに乗った実例と、「使うな」では消えない値を出口で止めるフック](/topics/tec/claude-code-account-email-injection-exit-guard/) — こっちはCLAUDE.mdで行動を縛る運用。あっちは、CLAUDE.mdやシステムプロンプトに「使うな」と書いても、値がコンテキストに「ある」限り漏れうると言う。CLAUDE.mdで止まらないものの実例
+- [スキルの書き方（Anthropic公式）── 「Claudeはもう賢い」から始めて、橋の幅で自由度を決める](/topics/tec/agent-skills-authoring-best-practices/) — こっちは毎回読み込まれるCLAUDE.mdに何を書くか。あっちは呼ばれたときだけ読まれるスキルに何を書くか。「相手がもう知っていることは書かない」はどちらにも効く
 
 ## Sources
 

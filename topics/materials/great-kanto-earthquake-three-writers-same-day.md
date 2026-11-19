@@ -2,7 +2,7 @@
 title: "同じ日の揺れを、三人は別々に見ていた ── 関東大震災の随筆を読み比べる"
 tags: [great-kanto-earthquake, terada-torahiko, akutagawa-ryunosuke, okamoto-kido, zuihitsu, aozora-bunko, point-of-view, observation]
 date: 2026-10-01
-updated: 2026-10-01
+updated: 2026-11-17
 sources: [raw/books/2026-10-01-terada-torahiko-shinsai-nikki-yori.md, raw/books/2026-10-01-akutagawa-ryunosuke-taishin-ni-saishite.md, raw/books/2026-10-01-okamoto-kido-hi-ni-owarete.md, raw/books/2026-10-01-terada-torahiko-densha-to-furo.md]
 confidence: high
 summary: "1923年9月1日の関東大震災を、寺田寅彦（上野）・芥川龍之介（田端）・岡本綺堂（麹町）がそれぞれ随筆に残している。同じ揺れ・同じ流言・同じ避難の光景を書いても、目に留めたものは三人で全く違い、しかも三人とも災害のさなかに自分の職業の癖が出るのを自分で書きとめている。寺田が3年前に書いた通勤の随筆「電車と風呂」と並べると、その目は劇的な日だけのものではないことも分かる。"
@@ -103,6 +103,7 @@ sidebar:
 - [椎名誠 ── 旅と家族と老いを、武勇伝にせず書き続けた作家](/topics/books/shiina-makoto-essayist-overview/) — 外のことばかり書いて、それでも椎名誠にしか書けない文章になる例
 - [異化（オストラニェーニエ）── シクロフスキーの「石を石らしく」](/topics/writing-theory/shklovsky-ostranenie-make-the-stone-stony/) — 見慣れたものを見慣れない目で見る技法。寺田の電車と風呂はその実例に近い
 - [受験日を1日まちがえた日 ── くどうれいん「一千万円分の不幸」](/topics/materials/kudo-rein-ten-million-yen-misfortune/) — 平凡な失敗で同じことが起きている例。授業中に言葉をメモする癖が受験日を見落とさせ、同じ癖がその随筆を書かせた
+- [歩道のバレエ ── ジェイコブズが見た「通りの目」](/topics/materials/jane-jacobs-sidewalk-ballet/) — 劇的な日ではなく、何も起きない普通の一日の通りを書いた観察。寺田の「電車と風呂」と同じ側の目
 
 ## Sources
 

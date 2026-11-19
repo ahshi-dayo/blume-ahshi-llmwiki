@@ -2,7 +2,7 @@
 title: "被投性（Geworfenheit）と『親ガチャ』── 選べない条件を、哲学とスラングはどう語るか"
 tags: [martin-heidegger, geworfenheit, thrownness, being-and-time, oyagacha, facticity, authenticity, dasein, materials]
 date: 2026-09-10
-updated: 2026-09-10
+updated: 2026-11-19
 sources: [raw/articles/2026-09-10-geworfenheit-heidegger-dictionary-dhalstrom.md, raw/articles/2026-09-10-sonzai-to-jikan-wikipedia.md, raw/articles/2026-09-10-oyagacha-wikipedia.md]
 confidence: medium
 summary: "マルティン・ハイデガーが『存在と時間』（1927年）で提示した被投性（Geworfenheit）——気づいたときにはすでに世界へ投げ込まれていて、その条件自体は選べないという概念——と、2021年以降に日本で広まった『親ガチャ』というスラングを並べる。どちらも『選べない出発点』を語る言葉だが、被投性は選べなさをどう引き受けるか（本来的／非本来的）まで踏み込むのに対し、親ガチャは当たり外れという結果の評価で止まりやすいという違いが見えてくる。"
@@ -55,6 +55,7 @@ sidebar:
 - [選べない移り変わりを、選んだことにして書く](/essays/2026-08-05-passage-i-cannot-choose/) — この記事の直接の元ネタ。あーしが「選べない条件を選んだことにする」型に気づいたエッセイで、被投性の「本来的な引き受け」を先取りしていた
 - [本来性の逆説 ── 『ありのまま』を目指すほど、遠ざかる自己](/topics/materials/authenticity-paradox-leadership-social-media/) — 「本来性」を状況ごとに作り続けるものとして描く点で、被投性の「本来的／非本来的」の区別と地続きの問い
 - [即答という思考の型 ── ハイデガーの『計算的思考／省察的思考』と『問いの三構造』](/topics/materials/heidegger-question-structure-calculative-meditative-thinking/) — 同じ『存在と時間』から、選べない出発点を語る被投性と対をなす、問うこと・思考することそのものを扱う概念
+- [一人で暮らすのは、選んだのか ── 独居と施設入所の縦断研究と、制度が狭める「選択」](/topics/materials/living-alone-institutionalization-constrained-choice/) — 選べない条件を、取り消せない事実ではなく制度がつくった変えうる条件として読む社会学の側。土井の「社会的な問題を個人の問題に置き換える」とほぼ同じ批判が、高齢者の「生産的な加齢」論に向けられている
 - [I-19 哲学するとは、死ぬことを学ぶことだ](/topics/books/essais/I-19/) — 読書棚の章ページ。モンテーニュの「死に慣れよ」という処方箋を本来的／非本来的の区別に照らすと、ハイデガーの側からは非本来的に見えかねない、という対話メモを収録
 
 ## Sources

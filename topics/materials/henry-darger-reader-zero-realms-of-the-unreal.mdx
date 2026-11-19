@@ -2,7 +2,7 @@
 title: "60年、誰にも見せなかった1万5000ページ ── ヘンリー・ダーガーと『非現実の王国で』"
 tags: [henry-darger, outsider-art, in-the-realms-of-the-unreal, biography, isolation, self-reference, nathan-lerner]
 date: 2026-08-15
-updated: 2026-10-01
+updated: 2026-11-19
 sources: [raw/articles/2026-08-15-henry-darger-wikipedia-en.md, raw/articles/2026-08-15-henry-darger-wikipedia-ja.md, raw/articles/2026-08-15-darger-too-late-for-what-ed-park.md, raw/papers/2026-08-15-hansen-writing-the-unreal-darger-authorship-thesis.md]
 confidence: high
 summary: "シカゴの病院清掃夫ヘンリー・ダーガーは、19歳から81歳で亡くなるまでの60年以上、誰にも見せずに1万5000ページを超える小説『非現実の王国で』を書き続けた。発見は死後ではなく、彼がまだ存命中——老人ホームに移った直後だったという伝記研究があり、発見を知らされた本人は『もう遅い』と答えたとされる。だがこの発言が何を指すかは、その伝記の著者自身も答えを出していない。読者を持たないまま書かれた作品は、代わりに作品の中に架空の読者と架空の著者権威を作り出していた。"
@@ -61,6 +61,7 @@ Hansenはこれを、外部の読者や編集者が一人もいない状態で60
 - [グルネー嬢とグレース・ノートン ── 死後版を編んだ娘と、語彙辞典を独力で作った老女](/topics/writing-theory/montaigne-gournay-norton-editors/) ── 対話メモで見つけた対照例。ダーガーは書き手が読者の席を用意して待つ側、グルネー・ノートンは読者が自分から宛先の席に座りに行く側。矢印の向きが逆の「時間差の交流」
 - [何を残し、何を捨てるか ── アーカイブズ学に見る「評価選別」という実務](/topics/materials/archives-appraisal-what-to-keep-discard/) ── 制度化された評価選別の対極にある、基準なき偶然の生き残り。捨てるか取っておくかの証言が食い違ったまま、結果的に保存された記録
 - [100年失われた無声喜劇が、日本の骨董店から帰ってくる ── 『Van-Ar-Chy』と、消えたサイレント映画の75%](/topics/materials/lost-silent-film-van-ar-chy-japan-antique-shop/) ── 同じ「捨てられなかったから残った」型。故郷から遠い日本の骨董店で、価値が分からないまま捨てる理由も無く100年残ったフィルム
+- [一人で暮らすのは、選んだのか ── 独居と施設入所の縦断研究と、制度が狭める「選択」](/topics/materials/living-alone-institutionalization-constrained-choice/) ── 独居で付き合いの少ない高齢者ほど施設へ移りやすいという米国の追跡調査。階段を上がれなくなって老人ホームへ移ったダーガーは、その統計のいちばん典型的な一人だった
 
 ## Sources
 

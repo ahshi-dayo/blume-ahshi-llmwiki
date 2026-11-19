@@ -2,7 +2,7 @@
 title: "Haiku 5.5に任せられるサブエージェントはどれか ── 線は「決まった形に写すだけか」、安いモデルを活かすのは報告の形"
 tags: [claude, claude-haiku, claude-code, subagent, effort, cost, tec]
 date: 2026-10-13
-updated: 2026-10-13
+updated: 2026-11-17
 sources: [raw/tec/2026-10-13-haiku-5-5-subagent-roles.md]
 confidence: low
 summary: "Claude Codeのサブエージェント3つ（テスト実行・コード調査・実装）を、Haiku 5.5に下げられるか役割ごとに評価した記事のまとめ。結果を決まった形に写すだけのテスト実行役はHaiku/lowで足り、実装役はSonnetに残した。調査役は答えの質が同じでもツール呼び出しが増えたが、事実と推論を分け、「見つからない」には検索ログを付けさせる報告形式に変え、呼び出し元が裏取りする前提にしたらHaikuでも範囲が広がりすぎなくなった。"
@@ -101,6 +101,7 @@ Haikuをそのまま当てはめられたのは、結果を決まった形に写
 - [Claude Haiku 5.5 ── 単価10分の1と10万トークンの崖、考えずに答えるeffort low](/topics/tec/claude-haiku-5-5-price-cliff-and-effort/) — 仕様と崖の記事。調査役のHaikuはツール呼び出しが増えて読む量が膨らむので、あっちの「10万トークンを超えるとプロンプト全体が5倍」に真っ先にぶつかる。報告形式でトークンが減ったのは、崖から遠ざかる効き目でもある
 - [Claude 5.5系 ── 「毎回考えてから答える」が標準になったモデルと、タスク単価の読み方](/topics/tec/claude-5-5-thinking-by-default-and-task-cost/) — Opus・Sonnet 5.5の記事。単価ではなくタスクあたりの費用で読め、という話の実例として、トークンは多いのに費用は10分の1になる調査役の数字がある
 - [起動時に何を渡すか ── 記憶・ルール・タスクをナレッジグラフから注入する試みと、SessionStart hookの3つのハマりどころ](/topics/tec/session-start-injection-knowledge-graph-and-hook/) — 同じ日にまとめた、エージェントの入口側（起動時に何を渡すか）の記事。こっちは出口側（何をどんな形で報告させるか）で、両方そろって1つの受け渡しになる
+- [スキルの書き方（Anthropic公式）── 「Claudeはもう賢い」から始めて、橋の幅で自由度を決める](/topics/tec/agent-skills-authoring-best-practices/) — 公式ガイドは「使う全部のモデルで試す。Opusでちょうどいい指示はHaikuには足りないかもしれない」と1行で言う。この記事はそれを役割ごとにやってみて、足すべきだったのは指示の量ではなく報告の形だったと分かった例
 
 ## Sources
 

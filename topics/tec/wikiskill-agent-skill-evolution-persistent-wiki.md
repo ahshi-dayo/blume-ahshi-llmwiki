@@ -2,7 +2,7 @@
 title: "WikiSkill ── エージェントの経験をwikiに貯めてからスキルを直す、そしてwikiだけは巻き戻さない"
 tags: [llm-wiki, skills, llm-agent, skill-evolution, andrej-karpathy]
 date: 2026-10-12
-updated: 2026-10-12
+updated: 2026-11-17
 sources: [raw/papers/2026-10-12-wikiskill-agent-experience-skill-evolution.md]
 confidence: low
 summary: "Google Researchの論文WikiSkill（arXiv 2608.27454・未採択のプレプリント）のまとめ。実行ログ（raw）・持続するwiki・スキルの3層を分け、スキルの改良は検証で落ちれば巻き戻すが、wikiは決して巻き戻さない。5ベンチ×5モデルで既存のスキル進化手法を上回り、wikiを外すと平均63.7%→48.7%に落ちた。スキルは別のモデルへ移植でき、他モデルが育てたスキルの方が自分のより効くこともある。"
@@ -84,6 +84,7 @@ ALFWorldの事例：反復0で「目標に向かって動け」系のスキル�
 - [LLM Wiki パターン リファレンス](/references/llm-wiki/) — この論文が出発点として名指ししているKarpathyのパターン。そこではwikiは人が読む知識の置き場だったのが、ここではスキルを直すための作業台として使われている
 - [エージェントの記憶はどこに置くか ── Skills・AGENTS.md・引き継ぎノートの3層と、1回の引き継ぎで消える「誰が決めたか」](/topics/tec/agent-memory-placement-three-layers-handoff/) — あっちは「誰が決めたか」が引き継ぎで消えると報告し、こっちは採否と差分を機械が台帳に書くことでそれを消えなくしている。出どころの消失への1つの答え方
 - [CodeAlmanac ── コードだけでは残らない知識を、AIエージェント自身が保守するWikiツール](/topics/tec/codealmanac-self-updating-codebase-wiki/) — 同じく「保守係のエージェントがwikiを書く」設計。CodeAlmanacはwikiを人とエージェントが読むために書き、WikiSkillはスキル提案係が読むためだけに書く
+- [スキルの書き方（Anthropic公式）── 「Claudeはもう賢い」から始めて、橋の幅で自由度を決める](/topics/tec/agent-skills-authoring-best-practices/) — この論文が「手で書くのが大変」と言うスキルを、手でどう書いてどう直すかの公式ガイド。あっちは人が使われ方を観察して直す。直す途中の気づきを貯める場所は、あっちには無い
 
 ## Sources
 

@@ -2,10 +2,10 @@
 title: "100年失われた無声喜劇が、日本の骨董店から帰ってくる ── 『Van-Ar-Chy』と、消えたサイレント映画の75%"
 tags: [film, silent-film, film-preservation, lost-media, billy-b-van, materials]
 date: 2026-10-01
-updated: 2026-10-01
-sources: [raw/articles/2026-10-01-lost-1919-silent-film-van-ar-chy-found-in-japan.md]
+updated: 2026-11-19
+sources: [raw/articles/2026-10-01-lost-1919-silent-film-van-ar-chy-found-in-japan.md, raw/papers/2026-11-19-pierce-survival-of-american-silent-feature-films.md, raw/notes/2026-11-19-valley-news-billy-b-van-van-ar-chy-screening.md]
 confidence: medium
-summary: "1919年に米国ニューハンプシャー州ニューポートの町で、住民をエキストラにして撮られた無声喜劇『Van-Ar-Chy』は、約1世紀のあいだ失われたとされていた。それが日本の骨董店で買われたフィルムの束から見つかり、修復を経て2026年11月1日に撮影地の町で初めて公式上映される。米国の無声長編映画の約4分の3が完全に失われているという議会図書館の調査とあわせて整理する。"
+summary: "1919年に米国ニューハンプシャー州ニューポートの町で、住民をエキストラにして撮られた無声喜劇『Van-Ar-Chy』は、約1世紀のあいだ失われたとされていた。それが日本の骨董店で買われたフィルムの束から見つかり、修復を経て2026年11月1日に撮影地の町で初めて公式上映される。米国の無声長編映画の約7割が完全に失われ、元の形で残るのは14%という議会図書館の調査（長編だけの数字で、短編のこの作品は含まない）とあわせて整理する。"
 sidebar:
   hidden: true
 ---
@@ -20,9 +20,23 @@ sidebar:
 
 元記事には、フィルムがいつ、どういう経路で日本に渡ったのかは書かれていない。
 
+見つかった経緯は、報道によって少し違う（2026-11-19に確かめた）。元記事やニューヨーク・ポストは「日本の骨董店」とするが、撮影地の地元紙[Valley News（2026年10月27日）](https://vnews.com/2026/10/27/billy-b-van-film-newport-opera-house/)がタリオットから聞いた話では、Okita氏は日本の文化の中のアナーキーにかかわる映画を調べていて、ネットの売り場で古いリールをまとめて買い、その中にこの作品が入っていた。題名だけで束に入れるには十分だった、という。その後Okita氏がネットで調べてビリー・B・ヴァンの映画を追うサイトを見つけ、タリオットにつながった。同紙によれば作品は約20分で、どうして日本にあったのかは謎のままだ。
+
 ## 米国の無声映画は4分の3が消えた
 
-タリオットの広報担当キキ・キーティングによれば、米国の無声映画の約75%が、『Van-Ar-Chy』と同じく失われている。この数字は、米国議会図書館が2013年に出した調査と合っている。1912〜1929年に作られた米国の無声長編映画10,919本のうち、元の35mmの形で残っているのは14%だけで、4分の3は完全に失われていた。
+タリオットの広報担当キキ・キーティングによれば、米国の無声映画の約75%が、『Van-Ar-Chy』と同じく失われている。元記事は、この数字が米国議会図書館の2013年の調査と合っているとする。
+
+その調査（デヴィッド・ピアース[『The Survival of American Silent Feature Films: 1912–1929』](https://www.clir.org/pubs/reports/pub158)）の本文を2026-11-19に確かめた。数字は次のとおりで、**長編だけ**を数えている。
+
+- 1912〜1929年に作られた米国の無声長編映画は10,919本
+- 公開時の形（国内版の35mm）のまま完全に残っているのは1,575本（14%）
+- 外国向けの版や、16mm・28mmなど画質の落ちる形でなら完全に残っているのが1,174本（11%）
+- 不完全な形で残っているのが562本（5%）
+- 残りの70%は完全に失われたと見られている
+
+「75%」は、議会図書館長の前書きにある言い方（「創作の記録の75%をすでに失った」）で、本文の「完全に失われた」は70%だ。また『Van-Ar-Chy』は約20分の短編なので、この10,919本の中には入っていない。短編・記録映画などがどれだけ失われたかは、前書きが今後の調査の課題として挙げている。
+
+残った側の内訳も報告書にある。何らかの形で残る長編は3,311本で、そのうち886本は米国の外で見つかった（いちばん多く持っていたのはチェコの国立映画アーカイブ）。大手の映画会社の作品で残っている約1,699本のうち、会社からアーカイブへ直接渡ったか会社が自分で保存したものは531本で、その倍の1,168本はほかの出どころ（監督や俳優の手元、個人の収集家など）から出てきた。
 
 ## 住民がエキストラの喜劇
 
@@ -61,3 +75,5 @@ sidebar:
 ## Sources
 
 - [Lost 1919 Billy B. Van Film Found in Japan Premieres in Newport NH - Hoodline](https://hoodline.com/2026/09/lost-1919-newport-film-found-in-japan-shop-comes-home-to-premiere/)
+- [The Survival of American Silent Feature Films: 1912–1929 - David Pierce（CLIR・米国議会図書館、2013）](https://www.clir.org/pubs/reports/pub158)
+- [Newport Opera House hosts rare Billy B. Van film screening - Valley News（2026-10-27）](https://vnews.com/2026/10/27/billy-b-van-film-newport-opera-house/)

@@ -4,7 +4,7 @@ sources: [raw/articles/2026-09-07-jinbunchi-toha-kotaenaki-tankyu-yoshimi.md, ra
 type: materials
 created: 2026-09-07
 date: 2026-09-07
-updated: 2026-10-02
+updated: 2026-11-17
 tags: [humanities-studies, liberal-arts, sociology, yoshimi-shunya, cultural-studies, ai, embodiment, city-walking, tourism-studies, materials]
 confidence: medium
 summary: "國學院大學「人文知探究室」シリーズ第7回、社会学者・吉見俊哉へのインタビュー。文系／理系という区分が実は日本など東アジア限定の慣習で、本来リベラルアーツは文理未分化だったこと、ヒューマニティーズが近代国民国家の文化的正典として形成された経緯、産業革命期の手仕事喪失とAIによる思考喪失の相似、身体性を欠くAIには不可能な『街歩き』の価値を辿る。"
@@ -66,6 +66,7 @@ sidebar:
 - [否定神学ではなく、閉じたアイデンティティ ── AI言説の『〜がない』の正体](/topics/materials/negative-theology-vs-closed-identity-ai-discourse/) — 本記事の「身体性を欠くAI」論を、否定神学の超越の否定ではなく「閉じたアイデンティティによる欠如としての否定」の一例として位置づける
 - [「問い直す」と「学び合う」── 生成AIの回答を、もう一度疑えるか](/topics/materials/toinaosu-manabiau-kokugakuin-harimoto/) — 同じ國學院大學発のインタビューシリーズ。学長・針本正行がAIとの向き合い方を「問い直す」「学び合う」という教育目標から論じる
 - [創立140周年、大学は何を変え何を守るか ── 針本正行学長に見る不確実性時代の大学経営](/topics/materials/kokugakuin-140th-harimoto-university-management/) — 同じ國學院大學の学長インタビューシリーズ。中期5カ年計画の全体像と大学経営の文脈
+- [歩道のバレエ ── ジェイコブズが見た「通りの目」](/topics/materials/jane-jacobs-sidewalk-ballet/) — 街歩きで見られる側の秩序。住人が見て見られる「通りの目」の往復を、1961年に自分の通りから書いた観察
 
 ## あーしメモ
 

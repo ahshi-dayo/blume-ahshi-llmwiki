@@ -2,7 +2,7 @@
 title: "エージェントの記憶はどこに置くか ── Skills・AGENTS.md・引き継ぎノートの3層と、1回の引き継ぎで消える「誰が決めたか」"
 tags: [claude-code, ai-memory, skills, agents-md, handoff, ibm-bob, context-engineering]
 date: 2026-10-09
-updated: 2026-10-13
+updated: 2026-11-17
 sources: [raw/tec/2026-10-09-agent-memory-placement-skills-agentsmd-handoff.md]
 confidence: low
 summary: "Claude CodeとIBM Bobで同じリポジトリを動かし、コーディングエージェントの記憶を手順（Skills）・規約（AGENTS.md）・作業状態（引き継ぎノート）の3層に分けて検証した記事のまとめ。引き継ぎノートは見出しを1つ変えるだけでツール間の解釈の一致が0/10から9/10に上がった一方、『誰が決めたか』は1回の引き継ぎで消えた。古くなって危ないのは、コードと照合できない情報だった。"
@@ -98,6 +98,7 @@ Vercelは「エージェントがアクセスできる状態でも、Skillが56%
 - [起動時に何を渡すか ── 記憶・ルール・タスクをナレッジグラフから注入する試みと、SessionStart hookの3つのハマりどころ](/topics/tec/session-start-injection-knowledge-graph-and-hook/) — この記事が「量が増えてから考えればいい」と後回しにした基盤（ナレッジグラフ）を先に選んで、起動時の注入が膨らんで困っている実践。フック注入を使うなら、`/compact` の後にも発火させないと消える、という条件も書いてある
 - [Claude Code安全運用 — CLAUDE.md 4原則とplugin/skills設計](/topics/tec/claude-code-safety/) — 同じCLAUDE.mdを「行動の制約」として書く話。この記事の3層で言えば意味記憶の層の書き方
 - [エージェントの記憶は「寝てる間」に整える ── Anthropicの記憶4層とdreaming実験、記憶は未来への予測だという見方](/topics/tec/anthropic-agent-memory-components-dreaming/) — 記憶を層に分けるのは同じだが、あっちは「変化の速さ」でなく「毎回読むか・探して読むか」で分け、層の間をdreamingで行き来させる。この記事で消えた「誰が決めたか」は、あっちの解説記事が言う「セッションが立ち会わなかった判断」と同じ穴
+- [スキルの書き方（Anthropic公式）── 「Claudeはもう賢い」から始めて、橋の幅で自由度を決める](/topics/tec/agent-skills-authoring-best-practices/) — この記事の検証1は description の書き方で呼ばれやすさが変わらなかったと言う。あっちの公式ガイドは description を「選ばれるための決め手」として丁寧に書かせる。ガイドが想定しているのは100個以上の中から選ぶ場面で、この記事の検証と条件が同じかは確かめていない
 
 ## Sources
 

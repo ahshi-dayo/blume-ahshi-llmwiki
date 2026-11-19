@@ -2,14 +2,16 @@
 title: "歩行の哲学 ── 思想家たちが「移動」に見出した自由と知性"
 created: 2026-06-01
 date: 2026-06-01
-updated: 2026-10-03
+updated: 2026-11-17
 tags: [walking, philosophy, history, creativity, intellect, embodiment, urbanism, self-discovery, hub-article]
 confidence: high
-summary: "歩行と思索のネットワークを概観するハブ記事。アリストテレス・ニーチェ・カント・ルソー・ソローの各記事へのリンクをまとめる。"
+summary: "歩行と思索のネットワークを概観するハブ記事。アリストテレス・ニーチェ・カント・ルソー・ソロー・サンタヤーナ・ジェイコブズの各記事へのリンクをまとめる。"
 sources:
   - raw/articles/2026-06-01-walking-thinkers.md
   - raw/articles/2020-02-five-philosophers-joys-walking.md
   - raw/articles/2026-06-01-kant-nietzsche-walking-philosophy.md
+  - raw/articles/2026-11-17-santayana-philosophy-of-travel.md
+  - raw/articles/2026-11-17-jacobs-sidewalk-ballet.md
 sidebar:
   hidden: true
 ---
@@ -31,11 +33,13 @@ sidebar:
 
 すなわち、歩く（移動する）ことは、単なる場所の変更ではなく、私たちの**想像力と知性の原点**なのである。
 
-## 都市と舗道のバレエ
+随筆の全文では、この話がさらに進む。座って考えると心は記憶のかすみに沈むが、歩きながら考えると、出来事がすぐに仮説の当否を決め、「どう見えるか」と「何であるか」の区別が身につく。後半は移民・探検家・商人・観光客という旅人の類型に移り、「人の心は土地に縛られた有限なもので、根を持っている」という結びに至る（全文の整理は[サンタヤーナ「旅の哲学」](/topics/materials/santayana-philosophy-of-travel/)）。
 
-歩行は自然の中だけの特権ではない。ジェーン・ジェイコブス（Jane Jacobs）は、ニューヨークの街角から**「歩ける都市（walkable city）」**の重要性を訴えた。
+## 都市と歩道のバレエ
 
-人々の絶え間ない歩行が生み出す「舗道のバレエ」こそが、都市に活力を与え、安全を守り、市民としての帰属意識を育む。彼女にとって、歩くことは都市という複雑なエコシステムを理解し、それに参加するための唯一無二な（そしてもっとも強力な）手段であった。
+歩行は自然の中だけの特権ではない。ジェイン・ジェイコブズ（Jane Jacobs）は『アメリカ大都市の死と生』（1961）で、自分の住むニューヨークのハドソン通りの朝から深夜までを**「歩道のバレエ（sidewalk ballet）」**と呼んだ。
+
+一人ひとりが別々の役を踊りながら、全体として秩序ができている。その秩序の核は、歩道の使われ方の入り組み方と、絶え間なく入れ替わる「通りの目」で、それが通りの安全と街の自由を守る、とジェイコブズは書いた。歩く思想家たちを紹介したマクラウクランの記事は、ジェイコブズにとって都市を歩くことは、都市を知り、形作り、そこに帰属する方法だった、とまとめている（都市は雑多で多様で、歩けるものであるべきだ、という主張として）。原文の一節と、それを「誰も設計していない秩序」と読む論説は[歩道のバレエ](/topics/materials/jane-jacobs-sidewalk-ballet/)にまとめた。
 
 ## 歩行と思索の系譜（ネットワーク）
 
@@ -45,6 +49,8 @@ sidebar:
 - **[ニーチェの情熱とカントの規律](/topics/materials/nietzsche-kant-walking/)**：筋肉を躍動させて傑作を構想したニーチェと、鼻呼吸を守るために正確な時計として歩いたカント。
 - **[ルソーの夢と自己喪失](/topics/materials/rousseau-reveries/)**：迫害から逃れ、事故による意識不明の瞬間にさえ「自然の状態」という至福を見出した孤独な歩行者。
 - **[ソローの野生への巡礼](/topics/materials/thoreau-walking/)**：社会という檻からの脱出。精神がそこにいなければ、その散歩は1マイルの無駄であると断じた。
+- **[サンタヤーナの旅の哲学](/topics/materials/santayana-philosophy-of-travel/)**：人は手ではなく足に知性を負う。歩きながら考える哲学を推し、最後は「心は土地に根を持つ」と帰る場所の側から旅を言い直した。
+- **[ジェイコブズの歩道のバレエ](/topics/materials/jane-jacobs-sidewalk-ballet/)**：自然の中ではなく街の歩道で、ゴミ出しや通学や立ち話が、誰も設計していない秩序を踊る。
 
 ## 現代へのメッセージ：良き遅さを取り戻す
 
@@ -88,3 +94,5 @@ sidebar:
 - Gros, F. *A Philosophy of Walking*.
 - Jacobs, J. (1961). *The Death and Life of Great American Cities*.
 - Thomas, E. (2020). *Five philosophers on the joys of walking*.
+- Santayana, G. "The Philosophy of Travel". 転載: Rolf Potts. https://rolfpotts.com/philosophy-of-travel-santayana/
+- Jacobs, J. "Sidewalk Ballet". *Plough*, 2020-02-04. https://www.plough.com/en/topics/culture/literature/sidewalk-ballet

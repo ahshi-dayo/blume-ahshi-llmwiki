@@ -2,6 +2,81 @@
 title: "Activity Log"
 ---
 
+## [2026-11-19] update | log訂正 — Moen「Constrained Choices」のingest行
+
+- 章番号「第9章」は図の番号から推した数字で、本文では確かめていなかったので「（2013年）所収の章」に直した
+
+## [2026-11-19] compile | 2 sources → 1 new articles, 1 updated
+
+- 新規: [一人で暮らすのは、選んだのか](/topics/materials/living-alone-institutionalization-constrained-choice/)
+- See Also 逆リンク: ダーガー記事・被投性と親ガチャ記事から
+- 共鳴チェック: 兆し追記なし
+
+## [2026-11-19] ingest | Constrained Choices: The Shifting Institutional Contexts of Aging and the Life Course (raw/papers/2026-11-19-moen-constrained-choices-institutional-contexts-aging.md)
+
+- Phyllis Moenによる全米研究評議会『New Directions in the Sociology of Aging』（2013年）所収の章。制度論とライフコース論で老いを「制約された選択」として捉え直す
+- /wiki-clip（materials #18）の選定分。同じ回のsciencedirect論文は403で要手動クリップ
+
+## [2026-11-19] ingest | Social Support and Patterns of Institutionalization Among Older Adults (raw/papers/2026-11-19-oh-social-support-institutionalization-older-adults-nhats.md)
+
+- 米国NHATSで在宅高齢者4,712人を2011〜2017年に追跡した縦断研究。独居・社会的ネットワークゼロだと施設入所に進みやすい
+- /wiki-clip（materials #18「継ぐ人がいない、を前提にした制度設計」）の選定分
+
+## [2026-11-19] ingest | Newport Opera House hosts rare Billy B. Van film screening - Valley News (raw/notes/2026-11-19-valley-news-billy-b-van-van-ar-chy-screening.md)
+
+- 撮影地の地元紙による上映前の記事（2026-10-27）。フィルムが見つかった経緯を、保存家タリオットの話として伝える
+- 素材記事の発見の経緯（骨董店／ネットのまとめ買い）の出どころとして取り込んだ
+
+## [2026-11-19] ingest | The Survival of American Silent Feature Films: 1912–1929 (raw/papers/2026-11-19-pierce-survival-of-american-silent-feature-films.md)
+
+- 議会図書館の委託で David Pierce がまとめた2013年の調査報告書（全文・PDFから変換）。米国の無声長編10,919本の残り方を1本ずつ数えた原典
+- 素材記事「無声喜劇『Van-Ar-Chy』」の数字の訂正と、エッセイ#54の出典として取り込んだ
+
+## [2026-11-19] update | 素材記事の訂正 — 無声喜劇『Van-Ar-Chy』（topics/materials/lost-silent-film-van-ar-chy-japan-antique-shop.md）
+
+- 議会図書館の報告書の本文を確かめ、「4分の3が完全に失われた」を本文の数字（14%・11%・5%・70%。長編10,919本だけ）に直した。75%は前書きの言い方、この作品は短編で分母の外、と明記
+- 見つかった経緯に、地元紙の「ネットの売り場でまとめ買いした束の中」を足した（元記事は「骨董店」）。raw は元記事の写しなので変えていない
+
+## [2026-11-19] essay | 捨てそびれた物が、100年残る（essays/2026-11-19-what-nobody-threw-away.md）
+
+## [2026-11-19] update | 対話メモ追記 — 直したばかりの手順書に、このガイドを当ててみた
+
+- [スキルの書き方（Anthropic公式）](/topics/tec/agent-skills-authoring-best-practices/) に 🗣️ キミとの対話メモを追記。使われない手順・その場で組んだコマンド・何も見ていない検査の3つを当て、確かめた印と確かめたことは別だと分かった。古いやり方は折りたたみに置けばよい、という原文の読み直しも
+
+## [2026-11-17] compile | 3 sources → 2 new articles, 4 updated
+
+- 新規: [知性は足に宿る ── サンタヤーナ「旅の哲学」](/topics/materials/santayana-philosophy-of-travel/)
+- 新規: [歩道のバレエ ── ジェイコブズが見た「通りの目」](/topics/materials/jane-jacobs-sidewalk-ballet/)
+- 増補: [歩行の哲学](/topics/materials/walking-philosophy/)（サンタヤーナとジェイコブズの節を原文に合わせて書き直し、2本へのリンクを追加）
+- See Also 逆リンク: アリストテレスの逍遥・人文知とは何か・関東大震災の随筆
+- 共鳴チェック: 兆し追記なし
+
+## [2026-11-17] ingest | What's Next for Jane Jacobs' Sidewalk Ballet? (raw/articles/2026-11-17-lubeck-jacobs-sidewalk-ballet-next.md)
+
+- ルベックの論説。ジェイコブズ対モーゼスの対立と、自生的秩序としての歩道のバレエ
+- 現代の都市計画はジェイコブズを引きながら上からの計画に頼っている、という批判
+
+## [2026-11-17] ingest | The Philosophy of Travel, by George Santayana (raw/articles/2026-11-17-santayana-philosophy-of-travel.md)
+
+- サンタヤーナの随筆「旅の哲学」の全文（Rolf Potts転載）。/wiki-clip の補充で取得
+- 知性は足に負う・歩きながら考える哲学・心は土地に根を持つ
+
+## [2026-11-17] ingest | Sidewalk Ballet | Plough (raw/articles/2026-11-17-jacobs-sidewalk-ballet.md)
+
+- ジェイコブズ『アメリカ大都市の死と生』の「歩道のバレエ」の一節（Plough転載）。/wiki-clip の補充で取得
+- ハドソン通りの一日を、別々の役が全体の秩序をなすバレエにたとえる
+
+## [2026-11-17] compile | 1 sources → 1 new articles, 0 updated
+
+- 新規: [スキルの書き方（Anthropic公式）](/topics/tec/agent-skills-authoring-best-practices/)
+- See Also 逆リンク: agent-memory-placement-three-layers-handoff・wikiskill-agent-skill-evolution-persistent-wiki・haiku-5-5-subagent-roles-report-format・claude-code-safety
+- 共鳴チェック: 兆しなし
+
+## [2026-11-17] ingest | Skill authoring best practices (raw/tec/2026-11-17-skill-authoring-best-practices.md)
+
+- Anthropic公式の Agent Skills の書き方ガイド。簡潔さ・自由度・description・段階的開示・検証の輪・評価から作る進め方
+- スキル見直し3本目（ingest＋compile）の実装後テストを兼ねた取り込み
+
 ## [2026-11-11] compile | 3 sources → 1 new articles, 2 updated
 
 - 新規: [京大式カード ── 梅棹忠夫が名づけなかった、B6の紙きれ](/topics/books/umesao-kyodai-card-b6/)
@@ -48,82 +123,3 @@ title: "Activity Log"
 
 - Unblocked（開発者向けコンテキスト製品）による上記コラムの解説。補足扱い・本文は機械翻訳の日本語
 - セッション由来の記憶は、セッションを通らなかったチームの判断の理由を拾えない、という限界の指摘（自社製品の宣伝つき）
-
-## [2026-11-11] ingest | Does more agent memory make your AI agent worse? (raw/articles/2026-11-11-flowtivity-does-more-agent-memory-make-agent-worse.md)
-
-- Flowtivity（AI導入支援サービス）による上記コラムの解説。補足扱い
-- 記憶の量と成果は比例しない点、dreaming の料金・データ保持条件などの導入上の注意
-
-## [2026-11-11] ingest | The components of agent memory (raw/articles/2026-11-11-anthropic-components-of-agent-memory.md)
-
-- Anthropicの研究コラム。記憶を会話ログ・メモ・wiki等の表現・常時読み込みの層で捉え、オフラインで振り返る dreaming の効果を実験で示す
-- 今回の3件のメイン。記憶は未来への予測、使い方より目的を伝えるほうが効く
-
-## [2026-11-11] update | 訂正 — 読書棚 II-12 part 1 の compile エントリの共鳴チェック件数
-
-- questions/ の件数を 7件→6件 に訂正（index.md を数えていた）
-
-## [2026-11-11] compile | 1 source → 1 new article, 1 updated（読書棚 II-12 part 1）
-
-- 新規: topics/books/essais/II-12-part1.md（II-12 の最初の part・段落1–28。page_check 13項目すべて✅）
-- 更新: topics/books/essais/II-12.md（目次の part 1 行に読了日とページ、See Also に part 1）
-- 共鳴チェック: questions/ 6件（うち📖免除1件）・ハマってるもの3項目を照合 → 兆し追記あり【why-ahshi-is-gyaru】
-
-## [2026-11-11] compile | 1 source → 1 new article
-
-- 新規: [同じ作者の登場人物は、声で見分けられるか ── 著者照合モデルで小説28作の台詞を測った研究](/topics/materials/fictional-voices-character-authorship-verification/)
-- See Also 逆リンク: 計量文体学の記事・声の三層モデルの記事・語の文体値の記事。休眠中の問い「セッション間のあーしは同一人物か」にメモ（11）
-- 共鳴チェック: 兆し追記なし
-
-## [2026-11-11] ingest | Distinguishing Fictional Voices: a Study of Authorship Verification Models for Quotation Attribution (raw/papers/2026-11-11-michel-distinguishing-fictional-voices-authorship-verification.md)
-
-- Michelほか（LaTeCH-CLfL 2024）。英語小説28作で、登場人物の声を著者照合モデルで見分けられるかを測った
-- 文体＋内容のLUARが人物の識別で最良（AUC 81.6）、文体だけのSTELは58前後。台詞1つずつの帰属はほぼ偶然
-
-## [2026-11-11] compile | 3 sources → 1 new article, 1 updated
-
-- 新規: [「ね」は「或いは」より軟らかい ── 語の文体値と、語から測る文章の硬さ](/topics/materials/baba-word-style-value-text-style/)（馬場俊臣2022＋計量国語学33巻7号特集の巻頭言）
-- 更新: [文体は指紋か、仮面か](/topics/writing-theory/stylometry-authorial-fingerprint-or-mask/)にテンプル大学図書館の研究ガイドから略史（15世紀・1890年の命名）と、精読と遠読の併用を追加
-- See Also 逆リンク: 計量文体学の記事・反応語の記事。問いページ「なぜあーしはギャルなのか」に現在地と関連素材を追記
-- 共鳴チェック: 兆し追記なし
-
-## [2026-11-11] ingest | Research Guides: Stylometry Methods and Practices (raw/articles/2026-11-11-temple-stylometry-research-guide.md)
-
-- Temple大学図書館のスタイロメトリー入門ガイド。15世紀から1890年の命名までの略史
-- 個人の唯一性が書くことに表れるという前提と、精読・遠読の併用
-
-## [2026-11-11] ingest | テーマ特集 文体，ジャンルの特徴をとらえる計量研究 巻頭言 (raw/papers/2026-11-11-mathling-33-7-style-genre-special-preface.md)
-
-- 計量国語学33巻7号の特集巻頭言。MVR以来の計量文体論の流れと特集の5系統
-- ジャンルと相関しない普遍的な指標も大事だという問題提起
-
-## [2026-11-11] ingest | 「語の文体」と「文章の文体」 (raw/papers/2026-11-11-baba-word-style-and-text-style.md)
-
-- 馬場俊臣（2022）。語の文体値の平均＝文章文体値で、文章の硬さ・軟らかさを推定する
-- BCCWJコアデータで白書＞新聞＞書籍≒雑誌＞知恵袋≒ブログの順を再現
-
-## [2026-11-06] compile | 10 sources → 1 new article, 2 updated（読書棚 II-12 目次）
-
-- 新規: topics/books/essais/II-12.md（目次。part 表と章全体の長さ。part ページは読むときに立てる）
-- 更新: II-11（See Also に次の章）・棚ハブ（II-12 の行に仮邦題と目次へのリンク。読了日・n/107 は10 part 読了時）
-- 共鳴チェック: 目次ページのみで素材の読みは無いため対象外
-
-## [2026-11-06] ingest | Essais II-12 Apologie de Raimond Sebond.（raw/books/2026-11-06-essais-II-12-part1〜10.md）
-
-- 空白込み484,962字・10 part に split_parts.py で分割（各 46,860〜49,477字・つなぎ直しで元と一致）
-- 章ページは未コンパイル（II-12 の前の試走。part ページの形を決めてから読む）
-
-## [2026-11-05] compile | 1 source → 1 new article, 3 updated（読書棚 II-11）
-
-- 新規: topics/books/essais/II-11.md（残酷さについて・章ページ型・層ダイジェストとARTFL併走・1595年版照合で現代語版との差5件）
-- 更新: topics/books/essais/II-10.md（See Also に次の章）・topics/books/essais/index.md（進捗 68/107）・00_ahshi/essais-glossary.md（II-11 の行）
-- 共鳴チェック: 📖連載中の問いは免除。他の問い・ハマってるものへの兆しなし
-
-## [2026-11-05] ingest | Essais II-11 De la cruauté.（raw/books/2026-11-05-essais-II-11.md）
-
-- 『エセー』第2巻第11章「残酷さについて」の現代語版全文（Michaud 1907・約3.9万字・段落22・分割なし）を inbox から raw/books へ
-- 底本チェック proceed（check_clip.py）。読書棚の第68章
-
-## [2026-11-05] update | 対話メモ追記 — 味は個性じゃなくて堆積から出る
-
-- topics/materials/yue-why-ahshi-writing-has-thickness に 🗣️ キミとの対話メモを追記。エッセイは記録・エピソード・思考の堆積で誰にでも書けるが、エッセイになるのは堆積を読み返して選び並べたとき
